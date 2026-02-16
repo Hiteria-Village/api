@@ -12,7 +12,7 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
-      "guitar": 4,
+      "lead": 4,
       "bass": 2,
       "drums": 2,
       "plastic-bass": -1,
@@ -25,10 +25,11 @@
     "spotify": "4uLU6hMCjMI75M1A2tKUQC",
     "videoUrl": "professionalgriefers.mp4",
     "videoPosition": 53.249,
+    "keys": "true",
     "loading_phrase": "this was made very early in the morning",
     "previewUrl": "/assets/audio/professionalgriefers.mp3",
-    "preview_time": "53249",
-    "preview_end_time": "83249",
+    "preview_time": "0",
+    "preview_end_time": "93249",
     "rotated": true,
     "modalShadowColors": {
       "default": {
@@ -61,7 +62,7 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
-      "guitar": 5,
+      "lead": 5,
       "bass": 3,
       "drums": 5,
       "plastic-bass": -1,
@@ -75,8 +76,9 @@
     "videoUrl": "cyberspace.mp4",
     "videoPosition": 17.833,
     "loading_phrase": "flowin' in time",
+    "keys": "true",
     "previewUrl": "/assets/audio/cyberspace.mp3",
-    "preview_time": "17833",
+    "preview_time": "0",
     "preview_end_time": "47833",
     "rotated": true,
     "modalShadowColors": {
@@ -110,7 +112,7 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 6,
-      "guitar": 4,
+      "lead": 4,
       "bass": 3,
       "drums": 5,
       "plastic-bass": -1,
@@ -123,9 +125,10 @@
     "spotify": "4j5vH33ipS1ulVxbwtYkpm",
     "videoUrl": "howitsdone.mp4",
     "videoPosition": 49.437,
+    "keys": "true",
     "loading_phrase": "dun dun dun",
     "previewUrl": "/assets/audio/howitsdone.mp3",
-    "preview_time": "49437",
+    "preview_time": "0",
     "preview_end_time": "79437",
     "rotated": true,
     "modalShadowColors": {
@@ -159,7 +162,7 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
-      "guitar": 5,
+      "lead": 5,
       "bass": 4,
       "drums": 5,
       "plastic-bass": -1,
@@ -174,8 +177,8 @@
     "videoPosition": 56.677,
     "loading_phrase": "running out of things to write here",
     "previewUrl": "/assets/audio/intothedream.mp3",
-    "preview_time": "56677",
-    "preview_end_time": "86677",
+    "preview_time": "0",
+    "preview_end_time": "96677",
     "rotated": true,
     "modalShadowColors": {
       "default": {
@@ -208,7 +211,7 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
-      "guitar": 6,
+      "lead": 6,
       "bass": 2,
       "drums": 5,
       "plastic-bass": -1,
@@ -223,8 +226,9 @@
     "videoPosition": 50,
     "loading_phrase": "Woah it's an encore in here!",
     "previewUrl": "/assets/audio/krush.mp3",
-    "preview_time": "80246",
-    "preview_end_time": "110246",
+    "keys": "true",
+    "preview_time": "0",
+    "preview_end_time": "120246",
     "rotated": true,
     "modalShadowColors": {
       "default": {
@@ -257,7 +261,7 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
-      "guitar": 6,
+      "lead": 6,
       "bass": 5,
       "drums": 6,
       "plastic-bass": -1,
@@ -272,8 +276,8 @@
     "videoPosition": 20,
     "loading_phrase": "Woah it's an encore in here!",
     "previewUrl": "/assets/audio/stayalive.mp3",
-    "preview_time": "63367",
-    "preview_end_time": "93367",
+    "preview_time": "0",
+    "preview_end_time": "103367",
     "rotated": true,
     "modalShadowColors": {
       "default": {

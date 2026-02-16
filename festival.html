@@ -53,8 +53,18 @@
                     <input type="range" id="columns-slider" min="1" max="4" value="2">
                     <label>Card Size: <span id="card-size-value">400px</span></label>
                     <input type="range" id="card-size-slider" min="300" max="600" value="400">
+                    <label>Content Scale: <span id="content-scale-value">100%</span></label>
+                    <input type="range" id="content-scale-slider" min="50" max="200" value="100">
+                    <label>Text Size: <span id="text-size-value">100%</span></label>
+                    <input type="range" id="text-size-slider" min="50" max="200" value="100">
+                    <label>Horizontal Spacing: <span id="grid-gap-horizontal-value">30px</span></label>
+                    <input type="range" id="grid-gap-horizontal-slider" min="-100" max="200" value="30">
+                    <label>Vertical Spacing: <span id="grid-gap-vertical-value">30px</span></label>
+                    <input type="range" id="grid-gap-vertical-slider" min="-100" max="200" value="30">
                     <label>Vertical Position: <span id="vertical-position-value">50%</span></label>
-                    <input type="range" id="vertical-position-slider" min="0" max="100" value="50">
+                    <input type="range" id="vertical-position-slider" min="-100" max="100" value="50">
+                    <label>Horizontal Scroll: <span id="horizontal-scroll-value">0px</span></label>
+                    <input type="range" id="horizontal-scroll-slider" min="-500" max="500" value="0">
                 </div>
             </div>
             
@@ -82,6 +92,7 @@
                         <button class="preset-btn" data-width="1080" data-height="1350">Instagram Story (4:5)</button>
                         <button class="preset-btn" data-width="1920" data-height="1080">YouTube (16:9)</button>
                         <button class="preset-btn" data-width="1200" data-height="630">Facebook (1.91:1)</button>
+                        <button class="preset-btn preset-custom" data-width="1560" data-height="960" data-hscroll="224" data-vpos="50" data-spacing="100" data-scale="150" data-cardsize="547" data-columns="2">Custom Preset</button>
                     </div>
                 </div>
             </div>

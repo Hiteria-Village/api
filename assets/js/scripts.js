@@ -1,6 +1,20 @@
 // Music track interface application built on top of fnfestival.co template.
 // All credit to fnfestival.co for the base code; extended with additional features.
 document.addEventListener('DOMContentLoaded', () => {
+  // Preload instrument images
+  const instrumentImages = [
+    '/assets/images/vocals.png',
+    '/assets/images/lead.png',
+    '/assets/images/keys.png',
+    '/assets/images/bass.png',
+    '/assets/images/drums.png'
+  ];
+  
+  instrumentImages.forEach(src => {
+    const img = new Image();
+    img.src = src;
+  });
+
   // DOM Elements
   const elements = {
     modal: document.getElementById('trackModal'),
@@ -662,7 +676,7 @@ document.addEventListener('DOMContentLoaded', () => {
           </div>
         `;
       }
-      if (modalDifficulties) trackModule.generateDifficultyBars(difficulties, modalDifficulties);
+      if (modalDifficulties) trackModule.generateDifficultyBars(difficulties, modalDifficulties, track);
 
       elements.modal.style.display = 'block';
       document.body.classList.add('modal-open');
@@ -903,9 +917,9 @@ document.addEventListener('DOMContentLoaded', () => {
           const li = document.createElement('li');
           li.setAttribute('data-instrument', instrument);
           li.className = instrument === selectedInstrument ? 'active' : '';
-          li.innerHTML = `<span class="instrument-icon ${instrument}"></span>${
-            instrument.charAt(0).toUpperCase() + instrument.slice(1)
-          }`;
+          const iconClass = (instrument === 'lead' && track.keys === 'true') ? 'keys' : instrument;
+          const displayName = (instrument === 'lead' && track.keys === 'true') ? 'Keys' : instrument.charAt(0).toUpperCase() + instrument.slice(1);
+          li.innerHTML = `<span class="instrument-icon ${iconClass}"></span>${displayName}`;
           li.addEventListener('click', () => {
             elements.instrumentList.querySelectorAll('li').forEach((item) => item.classList.remove('active'));
             li.classList.add('active');
@@ -1175,7 +1189,7 @@ document.addEventListener('DOMContentLoaded', () => {
       });
       intersectionObserver.observe(sentinel);
     },
-    generateDifficultyBars: (difficulties, container) => {
+    generateDifficultyBars: (difficulties, container, track) => {
       if (!container) return;
       container.innerHTML = '';
       const maxBars = 7;
@@ -1188,8 +1202,9 @@ document.addEventListener('DOMContentLoaded', () => {
           for (let i = 1; i <= maxBars; i++) {
             barsHTML += `<div class="difficulty-bar"><span class="${i <= level + 1 ? 'active' : ''}"></span></div>`;
           }
+          const iconClass = (instrument === 'lead' && track && track.keys === 'true') ? 'keys' : instrument;
           difficultyElement.innerHTML = `
-            <div class="instrument-icon ${instrument}"></div>
+            <div class="instrument-icon ${iconClass}"></div>
             <div class="difficulty-bars">${barsHTML}</div>
           `;
           container.appendChild(difficultyElement);

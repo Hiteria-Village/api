@@ -152,15 +152,17 @@ body {
 /* Track Grid */
 .track-grid {
     display: grid;
-    grid-template-columns: repeat(var(--grid-columns, 2), 1fr);
-    gap: 30px;
-    max-width: 1400px;
+    grid-template-columns: repeat(var(--grid-columns, 2), auto);
+    column-gap: var(--grid-gap-horizontal, 30px);
+    row-gap: var(--grid-gap-vertical, 30px);
+    max-width: none;
     margin: 0 auto;
     justify-content: center;
     place-items: center;
     position: relative;
     top: var(--vertical-position, 0px);
-    transition: top 0.3s ease;
+    left: var(--horizontal-scroll, 0px);
+    transition: top 0.3s ease, left 0.3s ease;
 }
 
 .track-grid .track-card {
@@ -183,6 +185,8 @@ body {
     display: flex;
     align-items: center;
     gap: 15px;
+    transform: scale(var(--content-scale, 1));
+    transform-origin: center;
 }
 
 .track-cover {
@@ -242,6 +246,7 @@ body {
     border: none;
     box-shadow: none;
     transition: all 0.3s ease;
+    font-size: calc(1rem * var(--text-size, 1));
 }
 
 .track-card:hover .track-info {
@@ -250,7 +255,7 @@ body {
 }
 
 .track-info h3 {
-    font-size: 1.3rem;
+    font-size: calc(1.3rem * var(--text-size, 1));
     font-weight: 700;
     margin-bottom: 5px;
     text-transform: none;
@@ -258,7 +263,7 @@ body {
 }
 
 .track-info p {
-    font-size: 0.9rem;
+    font-size: calc(0.9rem * var(--text-size, 1));
     opacity: 0.9;
     margin-bottom: 8px;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
@@ -267,7 +272,7 @@ body {
 .track-meta {
     display: flex;
     justify-content: flex-start;
-    font-size: 0.9rem;
+    font-size: calc(0.9rem * var(--text-size, 1));
     opacity: 0.7;
 }
 
@@ -434,14 +439,6 @@ body {
 }
 
 /* Dynamic Grid Sizing */
-.track-grid {
-    display: grid;
-    grid-template-columns: repeat(var(--grid-columns, 3), 1fr);
-    gap: 30px;
-    max-width: 1400px;
-    margin: 0 auto;
-}
-
 .track-card {
     width: var(--card-size, 300px);
     justify-self: center;
@@ -670,8 +667,19 @@ body {
     transition: all 0.2s ease;
 }
 
+.preset-btn.preset-custom {
+    grid-column: 1 / -1;
+    background: rgba(102, 126, 234, 0.2);
+    border-color: rgba(102, 126, 234, 0.4);
+}
+
 .preset-btn:hover {
     background: rgba(255, 255, 255, 0.2);
+    border-color: #667eea;
+}
+
+.preset-btn.preset-custom:hover {
+    background: rgba(102, 126, 234, 0.3);
     border-color: #667eea;
 }
 
@@ -683,7 +691,8 @@ body {
     
     .track-grid {
         grid-template-columns: 1fr;
-        gap: 20px;
+        column-gap: var(--grid-gap-horizontal, 30px);
+        row-gap: var(--grid-gap-vertical, 30px);
     }
     
     .settings-panel {

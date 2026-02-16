@@ -7,7 +7,13 @@ class FestivalPage {
         this.currentLayout = 'grid';
         this.gridColumns = 2;
         this.cardSize = 400;
+        this.contentScale = 100;
+        this.textSize = 100;
+        this.gridGap = 30;
+        this.gridGapHorizontal = 30;
+        this.gridGapVertical = 30;
         this.verticalPosition = 50;
+        this.horizontalScroll = 0;
         this.customText = '';
         this.showCustomText = true;
         this.exportWidth = 1280;
@@ -70,8 +76,28 @@ class FestivalPage {
             this.setCardSize(parseInt(e.target.value));
         });
 
+        document.getElementById('content-scale-slider').addEventListener('input', (e) => {
+            this.setContentScale(parseInt(e.target.value));
+        });
+
+        document.getElementById('text-size-slider').addEventListener('input', (e) => {
+            this.setTextSize(parseInt(e.target.value));
+        });
+
+        document.getElementById('grid-gap-horizontal-slider').addEventListener('input', (e) => {
+            this.setGridGapHorizontal(parseInt(e.target.value));
+        });
+
+        document.getElementById('grid-gap-vertical-slider').addEventListener('input', (e) => {
+            this.setGridGapVertical(parseInt(e.target.value));
+        });
+
         document.getElementById('vertical-position-slider').addEventListener('input', (e) => {
             this.setVerticalPosition(parseInt(e.target.value));
+        });
+
+        document.getElementById('horizontal-scroll-slider').addEventListener('input', (e) => {
+            this.setHorizontalScroll(parseInt(e.target.value));
         });
 
         // Custom text controls
@@ -98,6 +124,32 @@ class FestivalPage {
                 const width = parseInt(e.target.dataset.width);
                 const height = parseInt(e.target.dataset.height);
                 this.setExportResolution(width, height);
+                
+                // Check if this is the custom preset with additional parameters
+                if (e.target.classList.contains('preset-custom')) {
+                    const hscroll = parseInt(e.target.dataset.hscroll);
+                    const vpos = parseInt(e.target.dataset.vpos);
+                    const spacing = parseInt(e.target.dataset.spacing);
+                    const scale = parseInt(e.target.dataset.scale);
+                    const cardsize = parseInt(e.target.dataset.cardsize);
+                    const columns = parseInt(e.target.dataset.columns);
+                    
+                    // Apply all custom settings
+                    this.setHorizontalScroll(hscroll);
+                    this.setVerticalPosition(vpos);
+                    this.setGridGap(spacing);
+                    this.setContentScale(scale);
+                    this.setCardSize(cardsize);
+                    this.setGridColumns(columns);
+                    
+                    // Update UI sliders
+                    document.getElementById('horizontal-scroll-slider').value = hscroll;
+                    document.getElementById('vertical-position-slider').value = vpos;
+                    document.getElementById('grid-gap-slider').value = spacing;
+                    document.getElementById('content-scale-slider').value = scale;
+                    document.getElementById('card-size-slider').value = cardsize;
+                    document.getElementById('columns-slider').value = columns;
+                }
             });
         });
 
@@ -179,6 +231,9 @@ class FestivalPage {
         document.documentElement.style.setProperty('--grid-columns', this.gridColumns);
         document.documentElement.style.setProperty('--card-size', `${this.cardSize}px`);
         document.documentElement.style.setProperty('--vertical-position', `${(this.verticalPosition - 50) * 2}px`);
+        document.documentElement.style.setProperty('--horizontal-scroll', `${this.horizontalScroll}px`);
+        document.documentElement.style.setProperty('--grid-gap-horizontal', `${this.gridGapHorizontal}px`);
+        document.documentElement.style.setProperty('--grid-gap-vertical', `${this.gridGapVertical}px`);
 
         this.selectedTracks.forEach(trackId => {
             const track = this.tracks[trackId];
@@ -363,10 +418,64 @@ class FestivalPage {
         this.saveSettings();
     }
 
+    setContentScale(scale) {
+        this.contentScale = scale;
+        document.getElementById('content-scale-value').textContent = `${scale}%`;
+        document.documentElement.style.setProperty('--content-scale', scale / 100);
+        this.saveSettings();
+    }
+
+    setTextSize(size) {
+        this.textSize = size;
+        document.getElementById('text-size-value').textContent = `${size}%`;
+        document.documentElement.style.setProperty('--text-size', size / 100);
+        this.saveSettings();
+    }
+
+    setGridGap(gap) {
+        this.gridGap = gap;
+        this.gridGapHorizontal = gap;
+        this.gridGapVertical = gap;
+        const hSlider = document.getElementById('grid-gap-horizontal-slider');
+        const vSlider = document.getElementById('grid-gap-vertical-slider');
+        const hValue = document.getElementById('grid-gap-horizontal-value');
+        const vValue = document.getElementById('grid-gap-vertical-value');
+        
+        if (hSlider) hSlider.value = gap;
+        if (vSlider) vSlider.value = gap;
+        if (hValue) hValue.textContent = `${gap}px`;
+        if (vValue) vValue.textContent = `${gap}px`;
+        
+        document.documentElement.style.setProperty('--grid-gap-horizontal', `${gap}px`);
+        document.documentElement.style.setProperty('--grid-gap-vertical', `${gap}px`);
+        this.saveSettings();
+    }
+
+    setGridGapHorizontal(gap) {
+        this.gridGapHorizontal = gap;
+        document.getElementById('grid-gap-horizontal-value').textContent = `${gap}px`;
+        document.documentElement.style.setProperty('--grid-gap-horizontal', `${gap}px`);
+        this.saveSettings();
+    }
+
+    setGridGapVertical(gap) {
+        this.gridGapVertical = gap;
+        document.getElementById('grid-gap-vertical-value').textContent = `${gap}px`;
+        document.documentElement.style.setProperty('--grid-gap-vertical', `${gap}px`);
+        this.saveSettings();
+    }
+
     setVerticalPosition(position) {
         this.verticalPosition = position;
         document.getElementById('vertical-position-value').textContent = `${position}%`;
         document.documentElement.style.setProperty('--vertical-position', `${(position - 50) * 2}px`);
+        this.saveSettings();
+    }
+
+    setHorizontalScroll(scroll) {
+        this.horizontalScroll = scroll;
+        document.getElementById('horizontal-scroll-value').textContent = `${scroll}px`;
+        document.documentElement.style.setProperty('--horizontal-scroll', `${scroll}px`);
         this.saveSettings();
     }
 
@@ -562,19 +671,49 @@ class FestivalPage {
             await this.loadHtml2Canvas();
         }
 
-        // Use the simplest possible settings for maximum compatibility
-        return await html2canvas(document.body, {
+        // Temporarily remove transform-based scaling and apply it via actual size changes
+        const trackCards = document.querySelectorAll('.track-card');
+        const originalTransforms = [];
+        
+        trackCards.forEach((card, index) => {
+            originalTransforms[index] = card.style.transform;
+            card.style.transform = 'none';
+            
+            // Apply scale by changing actual dimensions
+            const currentScale = this.contentScale / 100;
+            card.style.width = `${parseFloat(getComputedStyle(card).width) * currentScale}px`;
+            card.style.height = `${parseFloat(getComputedStyle(card).height) * currentScale}px`;
+            
+            // Scale children too
+            const cover = card.querySelector('.track-cover');
+            const info = card.querySelector('.track-info');
+            if (cover) {
+                cover.style.width = `${120 * currentScale}px`;
+                cover.style.height = `${120 * currentScale}px`;
+            }
+            if (info) {
+                info.style.fontSize = `${currentScale}em`;
+            }
+        });
+
+        // Wait for layout to settle
+        await new Promise(resolve => setTimeout(resolve, 100));
+
+        // Calculate scale to achieve target resolution while maintaining aspect ratio
+        const scaleX = this.exportWidth / window.innerWidth;
+        const scaleY = this.exportHeight / window.innerHeight;
+        const scale = Math.max(scaleX, scaleY); // Use max to ensure it fills the canvas
+        
+        // Capture the page content at the calculated scale
+        const sourceCanvas = await html2canvas(document.body, {
             backgroundColor: '#000000',
-            scale: 0.5, // Lower scale for better performance
-            useCORS: false, // Disable CORS to avoid issues
-            allowTaint: true, // Allow tainted canvas
-            width: this.exportWidth,
-            height: this.exportHeight,
+            scale: scale,
+            useCORS: false,
+            allowTaint: true,
             logging: false,
             removeContainer: false,
-            foreignObjectRendering: false, // Disable for better compatibility
+            foreignObjectRendering: false,
             ignoreElements: (element) => {
-                // Ignore problematic elements
                 return element.classList.contains('settings-panel') || 
                        element.classList.contains('loading-overlay') ||
                        element.classList.contains('modal') ||
@@ -582,6 +721,55 @@ class FestivalPage {
                        element.tagName === 'STYLE';
             }
         });
+
+        // Restore original transforms and styles
+        trackCards.forEach((card, index) => {
+            card.style.transform = originalTransforms[index];
+            card.style.width = '';
+            card.style.height = '';
+            
+            const cover = card.querySelector('.track-cover');
+            const info = card.querySelector('.track-info');
+            if (cover) {
+                cover.style.width = '';
+                cover.style.height = '';
+            }
+            if (info) {
+                info.style.fontSize = '';
+            }
+        });
+
+        // Create output canvas with exact export dimensions
+        const outputCanvas = document.createElement('canvas');
+        outputCanvas.width = this.exportWidth;
+        outputCanvas.height = this.exportHeight;
+        const ctx = outputCanvas.getContext('2d');
+
+        // Calculate crop position to center the content
+        const cropX = (sourceCanvas.width - this.exportWidth) / 2;
+        const cropY = (sourceCanvas.height - this.exportHeight) / 2;
+
+        // Draw the cropped portion of the source canvas
+        ctx.drawImage(sourceCanvas, 
+                     cropX, cropY, this.exportWidth, this.exportHeight,
+                     0, 0, this.exportWidth, this.exportHeight);
+
+        // Add logo in the top-left corner
+        try {
+            const logo = document.querySelector('.header-logo');
+            if (logo && logo.complete) {
+                const logoSize = 60; // Size of logo in pixels
+                const logoPadding = 20; // Padding from corner
+                
+                ctx.drawImage(logo, 
+                             logoPadding, logoPadding, 
+                             logoSize, logoSize);
+            }
+        } catch (error) {
+            console.warn('Could not add logo to export:', error);
+        }
+
+        return outputCanvas;
     }
 
     async generateSimpleGIF() {
@@ -713,7 +901,13 @@ class FestivalPage {
             layout: this.currentLayout,
             gridColumns: this.gridColumns,
             cardSize: this.cardSize,
+            contentScale: this.contentScale,
+            textSize: this.textSize,
+            gridGap: this.gridGap,
+            gridGapHorizontal: this.gridGapHorizontal,
+            gridGapVertical: this.gridGapVertical,
             verticalPosition: this.verticalPosition,
+            horizontalScroll: this.horizontalScroll,
             customText: this.customText,
             showCustomText: this.showCustomText,
             exportWidth: this.exportWidth,
@@ -756,12 +950,58 @@ class FestivalPage {
                 document.getElementById('card-size-slider').value = settings.cardSize;
                 document.getElementById('card-size-value').textContent = `${settings.cardSize}px`;
             }
+
+            if (settings.contentScale !== undefined) {
+                this.contentScale = settings.contentScale;
+                document.getElementById('content-scale-slider').value = settings.contentScale;
+                document.getElementById('content-scale-value').textContent = `${settings.contentScale}%`;
+                document.documentElement.style.setProperty('--content-scale', settings.contentScale / 100);
+            }
+
+            if (settings.textSize !== undefined) {
+                this.textSize = settings.textSize;
+                document.getElementById('text-size-slider').value = settings.textSize;
+                document.getElementById('text-size-value').textContent = `${settings.textSize}%`;
+                document.documentElement.style.setProperty('--text-size', settings.textSize / 100);
+            }
+
+            if (settings.gridGap !== undefined) {
+                this.gridGap = settings.gridGap;
+                document.getElementById('grid-gap-slider').value = settings.gridGap;
+                document.getElementById('grid-gap-value').textContent = `${settings.gridGap}px`;
+                document.documentElement.style.setProperty('--grid-gap', `${settings.gridGap}px`);
+            }
+
+            if (settings.gridGapHorizontal !== undefined) {
+                this.gridGapHorizontal = settings.gridGapHorizontal;
+                const hSlider = document.getElementById('grid-gap-horizontal-slider');
+                const hValue = document.getElementById('grid-gap-horizontal-value');
+                if (hSlider) hSlider.value = settings.gridGapHorizontal;
+                if (hValue) hValue.textContent = `${settings.gridGapHorizontal}px`;
+                document.documentElement.style.setProperty('--grid-gap-horizontal', `${settings.gridGapHorizontal}px`);
+            }
+
+            if (settings.gridGapVertical !== undefined) {
+                this.gridGapVertical = settings.gridGapVertical;
+                const vSlider = document.getElementById('grid-gap-vertical-slider');
+                const vValue = document.getElementById('grid-gap-vertical-value');
+                if (vSlider) vSlider.value = settings.gridGapVertical;
+                if (vValue) vValue.textContent = `${settings.gridGapVertical}px`;
+                document.documentElement.style.setProperty('--grid-gap-vertical', `${settings.gridGapVertical}px`);
+            }
             
             if (settings.verticalPosition !== undefined) {
                 this.verticalPosition = settings.verticalPosition;
                 document.getElementById('vertical-position-slider').value = settings.verticalPosition;
                 document.getElementById('vertical-position-value').textContent = `${settings.verticalPosition}%`;
                 document.documentElement.style.setProperty('--vertical-position', `${(settings.verticalPosition - 50) * 2}px`);
+            }
+
+            if (settings.horizontalScroll !== undefined) {
+                this.horizontalScroll = settings.horizontalScroll;
+                document.getElementById('horizontal-scroll-slider').value = settings.horizontalScroll;
+                document.getElementById('horizontal-scroll-value').textContent = `${settings.horizontalScroll}px`;
+                document.documentElement.style.setProperty('--horizontal-scroll', `${settings.horizontalScroll}px`);
             }
             
             if (settings.customColors) {
