@@ -275,6 +275,14 @@
     text-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px #ffffff;
 }
 
+.rank-reward-text {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
 /* Mobile Responsive */
 @media (max-width: 1024px) {
     .modal-content {
@@ -328,11 +336,13 @@
         top: 0;
         left: 0;
         transform: none;
+        overflow-y: auto;
+        overflow-x: hidden;
     }
 
     /* Video as full background on mobile */
     .modal-right-section {
-        position: absolute;
+        position: fixed;
         top: 0;
         left: 0;
         width: 100%;
@@ -357,7 +367,7 @@
     /* Full-screen blur overlay */
     .modal-content::after {
         content: '';
-        position: absolute;
+        position: fixed;
         top: 0;
         left: 0;
         width: 100%;
@@ -378,12 +388,14 @@
     .modal-left-section {
         position: relative;
         z-index: 3;
-        padding: 15px;
-        gap: 15px;
+        padding: 40px 15px;
+        padding-bottom: 200px;
+        gap: 5px;
         background: transparent;
         backdrop-filter: none;
         flex: 0 0 auto;
         max-height: none;
+        min-height: 100vh;
         border-right: none;
     }
 
@@ -399,8 +411,10 @@
     }
 
     .modal-loading-phrase {
+        position: absolute;
         left: 15px;
-        bottom: 70px;
+        bottom: -30px;
+        margin-top: 80px;
         max-width: 250px;
         font-size: 12px;
         padding: 10px 15px;
@@ -429,14 +443,20 @@
     }
 
     .modal-bottom-section {
-        bottom: 15px;
+        position: absolute;
+        bottom: -25px;
         right: 15px;
+        margin-top: 80px;
         z-index: 4;
     }
 
     .modal-difficulties {
         gap: 8px;
         padding: 10px 12px;
+        min-height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
     }
 
     .difficulty {

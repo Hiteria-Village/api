@@ -169,6 +169,28 @@ document.addEventListener('DOMContentLoaded', () => {
       if (validDiffs.length === 0) return 0;
       return validDiffs.reduce((sum, d) => sum + d, 0) / validDiffs.length;
     },
+    preloadImages: (tracks) => {
+      const imageUrls = new Set();
+      
+      // Collect all unique cover images
+      tracks.forEach(track => {
+        if (track.cover) {
+          imageUrls.add(`/assets/covers/${track.cover}`);
+        }
+        // Also preload rank images if they exist
+        if (track.rank === true && track.loading_phrase) {
+          imageUrls.add(`/assets/images/${track.loading_phrase}`);
+        }
+      });
+      
+      // Preload each image
+      imageUrls.forEach(url => {
+        const img = new Image();
+        img.src = url;
+      });
+      
+      console.log(`Preloading ${imageUrls.size} images...`);
+    },
   };
 
   // YouTube Player
@@ -491,7 +513,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     renderModal: (track) => {
       if (!elements.modal) return;
-      const { title, artist, releaseYear, cover, duration, complete, difficulties, bpm, createdAt, lastFeatured, previewUrl, download, videoUrl, videoPosition, key, youtubeLinks, loading_phrase, videoZoom, glowTimes, modalShadowColors, spotify, preview_time, preview_end_time, genre } = track;
+      const { title, artist, releaseYear, cover, duration, complete, difficulties, bpm, createdAt, lastFeatured, previewUrl, download, videoUrl, videoPosition, key, youtubeLinks, loading_phrase, videoZoom, glowTimes, modalShadowColors, spotify, preview_time, preview_end_time, genre, rank } = track;
       const positionPercent = videoPosition ?? 50;
       const modalContent = elements.modal.querySelector('.modal-content');
       if (!modalContent) return;
@@ -558,7 +580,13 @@ document.addEventListener('DOMContentLoaded', () => {
       } else {
         loadingPhraseElement.classList.remove('glow');
       }
-      loadingPhraseElement.innerHTML = `<center><strong></strong> ${loading_phrase || 'Not available'}</p>`;
+      
+      // Check if rank is true to display image instead of text
+      if (rank === true && loading_phrase) {
+        loadingPhraseElement.innerHTML = `<center><img src="/assets/images/${loading_phrase}" alt="Rank" style="max-width: 100%; max-height: 120px; height: auto; object-fit: contain;" /><br><span class="rank-reward-text">Rank Reward</span></center>`;
+      } else {
+        loadingPhraseElement.innerHTML = `<center><strong></strong> ${loading_phrase || 'Not available'}</p>`;
+      }
 
       if (state.textGlowEnabled && glowTimes?.length && previewUrl) {
         const applyGlowEffect = () => {
@@ -1807,6 +1835,9 @@ document.addEventListener('DOMContentLoaded', () => {
           elements.sortSelect.value = 'latest';
         }
         trackModule.filterTracks();
+        
+        // Preload all cover images
+        utils.preloadImages(state.tracksData);
         
         const hash = window.location.hash.slice(1);
         const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent) || window.innerWidth <= 768;
