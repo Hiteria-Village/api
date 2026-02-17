@@ -308,14 +308,15 @@
     "album": "Minecraft Parodies",
     "genre": "Parody",
     "rating": "Everyone",
+    "keys": "true",
     "difficulties": {
       "vocals": 4,
+      "lead": 3,
       "bass": 0,
       "drums": 3,
       "plastic-bass": -1,
       "plastic-drums": -1,
-      "plastic-guitar": -1,
-      "lead": 3
+      "plastic-guitar": -1
     },
     "createdAt": "2025-02-14T00:00:00.000Z",
     "lastFeatured": "2025-02-14T00:00:00.000Z",
@@ -359,12 +360,12 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
+      "lead": 3,
       "bass": 3,
       "drums": 4,
       "plastic-bass": -1,
       "plastic-drums": -1,
-      "plastic-guitar": -1,
-      "lead": 3
+      "plastic-guitar": -1
     },
     "createdAt": "2025-02-21T00:00:00.000Z",
     "lastFeatured": "2025-02-21T00:00:00.000Z",
@@ -408,12 +409,12 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
+      "lead": 2,
       "bass": 0,
       "drums": 0,
       "plastic-bass": -1,
       "plastic-drums": -1,
-      "plastic-guitar": -1,
-      "lead": 2
+      "plastic-guitar": -1
     },
     "createdAt": "2025-02-21T00:00:00.000Z",
     "lastFeatured": "2025-02-21T00:00:00.000Z",
@@ -455,14 +456,15 @@
     "album": "CRAZY",
     "genre": "K-Pop",
     "rating": "Everyone",
+    "keys": "true",
     "difficulties": {
       "vocals": 5,
+      "lead": 4,
       "bass": 3,
       "drums": 4,
       "plastic-bass": -1,
       "plastic-drums": -1,
-      "plastic-guitar": -1,
-      "lead": 4
+      "plastic-guitar": -1
     },
     "createdAt": "2025-02-21T00:00:00.000Z",
     "lastFeatured": "2025-02-21T00:00:00.000Z",
@@ -506,12 +508,12 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
+      "lead": 2,
       "bass": 3,
       "drums": 3,
       "plastic-bass": -1,
       "plastic-drums": -1,
-      "plastic-guitar": -1,
-      "lead": 2
+      "plastic-guitar": -1
     },
     "createdAt": "2025-02-21T00:00:00.000Z",
     "lastFeatured": "2025-02-21T00:00:00.000Z",
