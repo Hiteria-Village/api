@@ -2853,3 +2853,99 @@ body.modal-open, body.video-popup-open {
     opacity: 0.6;
     white-space: nowrap;
 }
+
+/* Mobile Track List */
+.mobile-track-list {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .content {
+        display: none !important;
+    }
+    
+    .mobile-track-list {
+        display: block;
+        width: 100%;
+        padding: 0 0 100px 0;
+    }
+    
+    .mobile-category-header {
+        padding: 16px 16px 8px 16px;
+        font-size: 14px;
+        font-weight: 700;
+        color: rgba(255, 255, 255, 0.9);
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        background: rgba(255, 255, 255, 0.02);
+        border-top: 1px solid rgba(255, 255, 255, 0.1);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+    }
+    
+    .mobile-track-item {
+        display: flex;
+        align-items: center;
+        padding: 12px 16px;
+        background: rgba(255, 255, 255, 0.05);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        cursor: pointer;
+        transition: background 0.2s ease;
+        width: 100%;
+    }
+    
+    .mobile-track-item:hover,
+    .mobile-track-item:active {
+        background: rgba(255, 255, 255, 0.1);
+    }
+    
+    .mobile-track-cover {
+        width: 60px;
+        height: 60px;
+        border-radius: 8px;
+        object-fit: cover;
+        flex-shrink: 0;
+        margin-right: 12px;
+    }
+    
+    .mobile-track-info {
+        flex: 1;
+        min-width: 0;
+    }
+    
+    .mobile-track-title {
+        font-size: 16px;
+        font-weight: 600;
+        color: white;
+        margin: 0 0 4px 0;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    
+    .mobile-track-artist {
+        font-size: 14px;
+        color: rgba(255, 255, 255, 0.7);
+        margin: 0 0 4px 0;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    
+    .mobile-track-meta {
+        font-size: 12px;
+        color: rgba(255, 255, 255, 0.5);
+        display: flex;
+        gap: 8px;
+    }
+    
+    .mobile-track-chevron {
+        color: rgba(255, 255, 255, 0.3);
+        font-size: 20px;
+        flex-shrink: 0;
+    }
+}

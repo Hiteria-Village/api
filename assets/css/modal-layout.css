@@ -235,8 +235,8 @@
     cursor: pointer;
     line-height: 1;
     padding: 5px 10px;
-    z-index: 10;
-    background: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.7);
     border-radius: 50%;
     width: 50px;
     height: 50px;
@@ -244,10 +244,13 @@
     align-items: center;
     justify-content: center;
     transition: background 0.2s;
+    pointer-events: auto;
+    touch-action: manipulation;
 }
 
-.modal-close:hover {
-    background: rgba(0, 0, 0, 0.8);
+.modal-close:hover,
+.modal-close:active {
+    background: rgba(0, 0, 0, 0.9);
 }
 
 /* Loading Phrase - Left side of video area */
@@ -321,15 +324,78 @@
         height: 100vh;
         border-radius: 0;
         max-height: none;
+        flex-direction: column;
+        top: 0;
+        left: 0;
+        transform: none;
     }
 
+    /* Video as full background on mobile */
+    .modal-right-section {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+    }
+
+    .modal-video {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+    }
+
+    /* Allow video zoom on mobile */
+    .modal-video.zoomed {
+        transform: scale(1.5);
+        cursor: zoom-out;
+    }
+
+    /* Full-screen blur overlay */
+    .modal-content::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.4);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+        z-index: 2;
+        pointer-events: none;
+    }
+    
+    /* Ensure close button is above blur overlay */
+    .modal-close {
+        z-index: 1001 !important;
+    }
+
+    /* Left section overlays the blur */
     .modal-left-section {
+        position: relative;
+        z-index: 3;
         padding: 15px;
         gap: 15px;
+        background: transparent;
+        backdrop-filter: none;
+        flex: 0 0 auto;
+        max-height: none;
+        border-right: none;
+    }
+
+    .modal-header .album-art-wrapper {
+        width: 80%;
     }
 
     .modal-header img {
-        max-width: 150px;
+        max-width: none;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
 
     .modal-loading-phrase {
@@ -338,6 +404,7 @@
         max-width: 250px;
         font-size: 12px;
         padding: 10px 15px;
+        z-index: 4;
     }
 
     .track-info h2 {
@@ -354,11 +421,17 @@
         font-size: 30px;
         width: 40px;
         height: 40px;
+        z-index: 1000;
+        pointer-events: auto;
+        touch-action: manipulation;
+        background: rgba(0, 0, 0, 0.8);
+        display: none;
     }
 
     .modal-bottom-section {
         bottom: 15px;
         right: 15px;
+        z-index: 4;
     }
 
     .modal-difficulties {

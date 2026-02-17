@@ -47,7 +47,10 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!elements[key]) console.warn(`DOM element ${key} not found`);
   });
 
-  // State
+  if (elements.modal) {
+    elements.modal.style.display = 'none';
+  }
+
   let state = {
     fadeInAudioEnabled: localStorage.getItem('fadeInAudioEnabled') !== 'false',
     gridSize: localStorage.getItem('gridSize') || '4',
@@ -632,13 +635,32 @@ document.addEventListener('DOMContentLoaded', () => {
         const modalRightSection = modalContent.querySelector('.modal-right-section');
         const videoElement = document.createElement('video');
         videoElement.classList.add('modal-video');
+        
+        // Detect if mobile device
+        const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent) || window.innerWidth <= 768;
+        
+        // Autoplay video in background on all devices
         videoElement.autoplay = true;
         videoElement.muted = true;
         videoElement.loop = true;
+        videoElement.playsInline = true; // Important for iOS - prevents fullscreen
+        videoElement.setAttribute('webkit-playsinline', 'true'); // Extra iOS compatibility
+        videoElement.setAttribute('playsinline', 'true'); // Ensure inline playback
         videoElement.innerHTML = `<source src="/assets/preview/${videoUrl}" type="video/mp4">`;
         videoElement.style.objectFit = 'cover';
         videoElement.style.objectPosition = `center ${positionPercent}%`;
         videoElement.style.transform = `scale(${videoZoom || 1})`;
+        
+        // Add zoom functionality for mobile
+        if (isMobile) {
+          let isZoomed = false;
+          videoElement.addEventListener('click', (e) => {
+            e.stopPropagation();
+            isZoomed = !isZoomed;
+            videoElement.classList.toggle('zoomed', isZoomed);
+          });
+        }
+        
         if (modalRightSection) {
           modalRightSection.appendChild(videoElement);
         }
@@ -714,6 +736,11 @@ document.addEventListener('DOMContentLoaded', () => {
       audio.src = '';
       state.currentPreviewUrl = '';
       state.isFadingOut = false;
+      
+      // Clear the URL hash when closing modal
+      if (window.location.hash) {
+        history.replaceState(null, null, ' ');
+      }
       
       // Clear replay timeout
       if (state.replayTimeoutId) {
@@ -1008,7 +1035,17 @@ document.addEventListener('DOMContentLoaded', () => {
           grouped[label].push(track);
         });
         
-        Object.keys(grouped).forEach(label => {
+        let sortedLabels = Object.keys(grouped);
+        
+        if (sortValue === 'newest' || sortValue === 'oldest') {
+          sortedLabels.sort((a, b) => {
+            const yearA = parseInt(a) || 0;
+            const yearB = parseInt(b) || 0;
+            return sortValue === 'newest' ? yearB - yearA : yearA - yearB;
+          });
+        }
+        
+        sortedLabels.forEach(label => {
           const separator = document.createElement('div');
           separator.className = 'sort-separator';
           separator.innerHTML = `<span>------------------------- ${label} -------------------------</span>`;
@@ -1083,6 +1120,127 @@ document.addEventListener('DOMContentLoaded', () => {
 
       elements.content.appendChild(trackElement);
     },
+    renderMobileList: (tracks) => {
+      const mobileList = document.getElementById('mobileTrackList');
+      if (!mobileList) {
+        console.warn('Mobile track list element not found');
+        return;
+      }
+      
+      mobileList.innerHTML = '';
+      
+      if (!tracks || tracks.length === 0) {
+        console.warn('No tracks to render in mobile list');
+        return;
+      }
+      
+      // Check if we need to group by categories
+      const sortValue = elements.sortSelect?.value;
+      const shouldGroup = sortValue && sortValue !== 'latest' && sortValue !== 'earliest';
+      
+      if (shouldGroup) {
+        // Group tracks by category
+        const sortLabels = {
+          'genre_az': (track) => track.genre || 'Unknown',
+          'genre_za': (track) => track.genre || 'Unknown',
+          'charter': (track) => track.charter || 'Unknown',
+          'charter_za': (track) => track.charter || 'Unknown',
+          'oldest': (track) => track.releaseYear?.toString() || 'Unknown',
+          'newest': (track) => track.releaseYear?.toString() || 'Unknown',
+          'fastest': (track) => track.bpm ? `${Math.floor(track.bpm / 20) * 20}-${Math.floor(track.bpm / 20) * 20 + 19} BPM` : 'Unknown',
+          'slowest': (track) => track.bpm ? `${Math.floor(track.bpm / 20) * 20}-${Math.floor(track.bpm / 20) * 20 + 19} BPM` : 'Unknown',
+          'longest': (track) => {
+            const seconds = utils.parseDurationToSeconds(track.duration);
+            return `${Math.floor(seconds / 60)}-${Math.floor(seconds / 60) + 1} min`;
+          },
+          'shortest': (track) => {
+            const seconds = utils.parseDurationToSeconds(track.duration);
+            return `${Math.floor(seconds / 60)}-${Math.floor(seconds / 60) + 1} min`;
+          },
+          'hardest': (track) => {
+            const avg = utils.calculateAverageDifficulty(track);
+            return `${Math.floor(avg)}-${Math.floor(avg) + 1} Stars`;
+          },
+          'easiest': (track) => {
+            const avg = utils.calculateAverageDifficulty(track);
+            return `${Math.floor(avg)}-${Math.floor(avg) + 1} Stars`;
+          }
+        };
+        
+        const getLabelFunc = sortLabels[sortValue];
+        const grouped = {};
+        
+        tracks.forEach(track => {
+          const label = getLabelFunc ? getLabelFunc(track) : 'Unknown';
+          if (!grouped[label]) {
+            grouped[label] = [];
+          }
+          grouped[label].push(track);
+        });
+        
+        // Render grouped tracks with headers
+        Object.keys(grouped).forEach(label => {
+          // Add category header
+          const header = document.createElement('div');
+          header.className = 'mobile-category-header';
+          header.textContent = label;
+          mobileList.appendChild(header);
+          
+          // Add tracks in this category
+          grouped[label].forEach(track => {
+            mobileList.appendChild(trackModule.createMobileTrackItem(track));
+          });
+        });
+      } else {
+        // No grouping, just render all tracks
+        tracks.forEach((track) => {
+          mobileList.appendChild(trackModule.createMobileTrackItem(track));
+        });
+      }
+      
+      console.log(`Mobile list rendered with ${tracks.length} tracks`);
+    },
+    
+    createMobileTrackItem: (track) => {
+      const listItem = document.createElement('div');
+      listItem.className = 'mobile-track-item';
+      listItem.setAttribute('role', 'button');
+      listItem.setAttribute('aria-label', `Open ${track.title} by ${track.artist}`);
+      
+      listItem.innerHTML = `
+        <img src="/assets/covers/${track.cover}" alt="${track.title}" class="mobile-track-cover" onerror="this.src='/assets/covers/fallback.jpg'">
+        <div class="mobile-track-info">
+          <div class="mobile-track-title">${track.title}</div>
+          <div class="mobile-track-artist">${track.artist}</div>
+          <div class="mobile-track-meta">
+            <span>${track.duration}</span>
+            <span>•</span>
+            <span>${track.genre}</span>
+          </div>
+        </div>
+        <div class="mobile-track-chevron">›</div>
+      `;
+      
+      listItem.addEventListener('click', (e) => {
+        e.preventDefault();
+        modalModule.openModal(track);
+        if (track.previewUrl) {
+          let localAudioUrl = track.previewUrl;
+          
+          if (track.previewUrl.includes('208.92.234.17:8000/stream/')) {
+            const fileName = track.previewUrl.split('/').pop();
+            localAudioUrl = `/assets/audio/${fileName}`;
+          } else if (track.previewUrl.endsWith('.mp3')) {
+            const fileName = track.previewUrl.split('/').pop();
+            localAudioUrl = `/assets/audio/${fileName}`;
+          }
+          
+          audioModule.playPreview(localAudioUrl, track.preview_time, track.preview_end_time);
+        }
+      });
+      
+      return listItem;
+    },
     filterTracks: () => {
       if (!elements.searchInput || !elements.sortSelect || !elements.trackCount) return;
       const query = elements.searchInput.value.toLowerCase().trim();
@@ -1095,14 +1253,36 @@ document.addEventListener('DOMContentLoaded', () => {
 
       if (sortValue && sortValue !== 'default') {
         const sortMap = {
-          'latest': (a, b) => new Date(b.createdAt || 0) - new Date(a.createdAt || 0),
-          'earliest': (a, b) => new Date(a.createdAt || 0) - new Date(b.createdAt || 0),
+          'latest': (a, b) => (b.creationIndex || 0) - (a.creationIndex || 0),
+          'earliest': (a, b) => (a.creationIndex || 0) - (b.creationIndex || 0),
           'longest': (a, b) => utils.parseDurationToSeconds(b.duration) - utils.parseDurationToSeconds(a.duration),
           'shortest': (a, b) => utils.parseDurationToSeconds(a.duration) - utils.parseDurationToSeconds(b.duration),
           'fastest': (a, b) => (b.bpm || 0) - (a.bpm || 0),
           'slowest': (a, b) => (a.bpm || 0) - (b.bpm || 0),
-          'newest': (a, b) => (b.releaseYear || 0) - (a.releaseYear || 0),
-          'oldest': (a, b) => (a.releaseYear || 0) - (b.releaseYear || 0),
+          'newest': (a, b) => {
+            let yearA = a.releaseYear;
+            let yearB = b.releaseYear;
+            
+            if (typeof yearA === 'string') yearA = parseInt(yearA) || 0;
+            if (typeof yearB === 'string') yearB = parseInt(yearB) || 0;
+            
+            yearA = Number(yearA) || 0;
+            yearB = Number(yearB) || 0;
+            
+            return yearB - yearA;
+          },
+          'oldest': (a, b) => {
+            let yearA = a.releaseYear;
+            let yearB = b.releaseYear;
+            
+            if (typeof yearA === 'string') yearA = parseInt(yearA) || 0;
+            if (typeof yearB === 'string') yearB = parseInt(yearB) || 0;
+            
+            yearA = Number(yearA) || 0;
+            yearB = Number(yearB) || 0;
+            
+            return yearA - yearB;
+          },
           'charter': (a, b) => (a.charter || '').toLowerCase().localeCompare((b.charter || '').toLowerCase()),
           'charter_za': (a, b) => (b.charter || '').toLowerCase().localeCompare((a.charter || '').toLowerCase()),
           'hardest': (a, b) => utils.calculateAverageDifficulty(b) - utils.calculateAverageDifficulty(a),
@@ -1144,8 +1324,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
       if (query || sortValue !== 'latest') {
         trackModule.renderTracks(filteredTracks, true, sortValue);
+        trackModule.renderMobileList(filteredTracks);
       } else {
         trackModule.renderTracks(filteredTracks.slice(0, state.initialLoad), true, sortValue);
+        trackModule.renderMobileList(filteredTracks);
         if (filteredTracks.length > state.initialLoad) {
           state.loadedTracks = state.initialLoad;
           trackModule.setupInfiniteScroll(filteredTracks);
@@ -1310,17 +1492,20 @@ document.addEventListener('DOMContentLoaded', () => {
       // Handle hash changes (for direct URL access and browser navigation)
       window.addEventListener('hashchange', () => {
         const hash = window.location.hash.slice(1); // Remove the # symbol
+        const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent) || window.innerWidth <= 768;
         
-        if (hash && state.tracksData.length > 0) {
+        if (hash && hash.trim() !== '' && state.tracksData.length > 0) {
           const track = state.tracksData.find(t => 
             t.identifier && t.identifier.toLowerCase() === hash.toLowerCase()
           );
           if (track) {
-            // Unmute audio for direct links
-            state.isMuted = false;
-            audio.muted = false;
-            localStorage.setItem('isMuted', 'false');
-            uiModule.updateMuteIcon();
+            // Unmute audio for direct links (but not on mobile)
+            if (!isMobile) {
+              state.isMuted = false;
+              audio.muted = false;
+              localStorage.setItem('isMuted', 'false');
+              uiModule.updateMuteIcon();
+            }
             
             // Update the filtered tracks index
             state.currentTrackIndex = state.currentFilteredTracks.findIndex(
@@ -1332,7 +1517,7 @@ document.addEventListener('DOMContentLoaded', () => {
             modalModule.renderModal(track);
           }
         } else {
-          // No hash, close modal if open
+          // No hash or empty hash, close modal if open
           if (elements.modal.style.display === 'block') {
             elements.modal.style.display = 'none';
             document.body.classList.remove('modal-open');
@@ -1478,14 +1663,121 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       });
 
+      // Enhanced swipe navigation for mobile with swipe-down to exit
+      let touchStartX = 0;
+      let touchStartY = 0;
+      let touchCurrentX = 0;
+      let touchCurrentY = 0;
+      let isDragging = false;
+      let swipeDirection = null; // 'horizontal' or 'vertical'
+      const modalContent = elements.modal.querySelector('.modal-content');
+      
       elements.modal.addEventListener('touchstart', (e) => {
-        state.touchStartX = e.touches[0].clientX;
-      });
+        // Don't interfere with video zoom
+        if (e.target.classList.contains('modal-video')) {
+          return;
+        }
+        
+        touchStartX = e.touches[0].clientX;
+        touchStartY = e.touches[0].clientY;
+        touchCurrentX = touchStartX;
+        touchCurrentY = touchStartY;
+        isDragging = false;
+        swipeDirection = null;
+      }, { passive: true });
+      
+      elements.modal.addEventListener('touchmove', (e) => {
+        if (!touchStartX) return;
+        
+        touchCurrentX = e.touches[0].clientX;
+        touchCurrentY = e.touches[0].clientY;
+        const deltaX = touchCurrentX - touchStartX;
+        const deltaY = touchCurrentY - touchStartY;
+        
+        // Determine swipe direction on first significant movement
+        if (!swipeDirection && (Math.abs(deltaX) > 10 || Math.abs(deltaY) > 10)) {
+          if (Math.abs(deltaX) > Math.abs(deltaY)) {
+            swipeDirection = 'horizontal';
+          } else {
+            swipeDirection = 'vertical';
+          }
+        }
+        
+        if (swipeDirection === 'horizontal' && Math.abs(deltaX) > 10) {
+          isDragging = true;
+          
+          // Apply smooth transform during horizontal drag
+          if (modalContent) {
+            const opacity = 1 - Math.abs(deltaX) / 400;
+            modalContent.style.transform = `translateX(${deltaX}px)`;
+            modalContent.style.opacity = Math.max(0.5, opacity);
+            modalContent.style.transition = 'none';
+            modalContent.style.zIndex = '10000'; // Bring to front during swipe
+          }
+        } else if (swipeDirection === 'vertical' && deltaY > 10) {
+          isDragging = true;
+          
+          // Apply smooth transform during vertical drag (only downward)
+          if (modalContent) {
+            const opacity = 1 - deltaY / 300;
+            const scale = 1 - deltaY / 1000;
+            modalContent.style.transform = `translateY(${deltaY}px) scale(${Math.max(0.8, scale)})`;
+            modalContent.style.opacity = Math.max(0.3, opacity);
+            modalContent.style.transition = 'none';
+            modalContent.style.zIndex = '10000'; // Bring to front during swipe
+          }
+        }
+      }, { passive: true });
+      
       elements.modal.addEventListener('touchend', (e) => {
+        if (!touchStartX) return;
+        
         const touchEndX = e.changedTouches[0].clientX;
-        if (state.touchStartX - touchEndX > 50) modalModule.navigateModal(1);
-        if (touchEndX - state.touchStartX > 50) modalModule.navigateModal(-1);
-      });
+        const touchEndY = e.changedTouches[0].clientY;
+        const deltaX = touchEndX - touchStartX;
+        const deltaY = touchEndY - touchStartY;
+        
+        // Reset transform
+        if (modalContent) {
+          modalContent.style.transition = 'transform 0.3s ease, opacity 0.3s ease, z-index 0s';
+          modalContent.style.transform = '';
+          modalContent.style.opacity = '';
+          
+          // Reset z-index after transition
+          setTimeout(() => {
+            if (modalContent) {
+              modalContent.style.zIndex = '';
+            }
+          }, 300);
+        }
+        
+        if (isDragging) {
+          if (swipeDirection === 'horizontal' && Math.abs(deltaX) > 80) {
+            // Horizontal swipe - navigate tracks
+            setTimeout(() => {
+              if (deltaX < 0) {
+                // Swipe left - next track
+                modalModule.navigateModal(1);
+              } else {
+                // Swipe right - previous track
+                modalModule.navigateModal(-1);
+              }
+            }, 100);
+          } else if (swipeDirection === 'vertical' && deltaY > 100) {
+            // Vertical swipe down - close modal
+            setTimeout(() => {
+              modalModule.closeModal();
+            }, 100);
+          }
+        }
+        
+        touchStartX = 0;
+        touchStartY = 0;
+        touchCurrentX = 0;
+        touchCurrentY = 0;
+        isDragging = false;
+        swipeDirection = null;
+      }, { passive: true });
     },
   };
 
@@ -1501,40 +1793,39 @@ document.addEventListener('DOMContentLoaded', () => {
     
     utils.fetchWithRetry(`data/tracks.json?_=${Date.now()}`)
       .then((data) => {
-        // Store tracks with their identifiers (JSON keys)
-        state.tracksData = Object.entries(data).map(([identifier, track]) => ({
+        state.tracksData = Object.entries(data).map(([identifier, track], index) => ({
           ...track,
-          identifier: identifier
+          identifier: identifier,
+          creationIndex: index
         }));
         
         const urlParams = new URLSearchParams(window.location.search);
         if (urlParams.get('q')) elements.searchInput.value = urlParams.get('q');
-        if (urlParams.get('sort')) elements.sortSelect.value = urlParams.get('sort');
+        if (urlParams.get('sort')) {
+          elements.sortSelect.value = urlParams.get('sort');
+        } else {
+          elements.sortSelect.value = 'latest';
+        }
         trackModule.filterTracks();
         
-        // Check if there's a song in the URL hash (e.g., #crazy or #oneofyourgirls)
-        const hash = window.location.hash.slice(1); // Remove the # symbol
+        const hash = window.location.hash.slice(1);
+        const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent) || window.innerWidth <= 768;
         
-        if (hash) {
-          // Find track by identifier (case-insensitive)
+        if (hash && (!isMobile || hash.trim() !== '')) {
           const track = state.tracksData.find(t => 
             t.identifier && t.identifier.toLowerCase() === hash.toLowerCase()
           );
           
           if (track) {
-            // For direct links, unmute audio to enable autoplay
             state.isMuted = false;
             audio.muted = false;
             localStorage.setItem('isMuted', 'false');
             uiModule.updateMuteIcon();
             
-            // Small delay to ensure DOM is ready
             setTimeout(() => {
               modalModule.openModal(track);
               
-              // Only attempt to play if not muted
               if (!state.isMuted) {
-                // Simulate user interaction to bypass autoplay restrictions
                 setTimeout(() => {
                   const clickEvent = new MouseEvent('click', {
                     view: window,
@@ -1543,7 +1834,6 @@ document.addEventListener('DOMContentLoaded', () => {
                   });
                   document.body.dispatchEvent(clickEvent);
                   
-                  // Force audio play attempt after simulated interaction
                   if (!audio.paused) {
                     console.log('Audio already playing');
                   } else {

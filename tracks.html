@@ -81,6 +81,7 @@
             <div class="filter-wrapper">
                 <select id="sortSelect" class="custom-select">
                     <option value="latest">Sort: Latest (Recent Creation Date)</option>
+                    <option value="earliest">Sort: Earliest (Oldest Creation Date)</option>
                     <option value="shortest">Sort: Shortest (Shortest Length)</option>
                     <option value="longest">Sort: Longest (Longest Length)</option>
                     <option value="slowest">Sort: Slowest (Lowest BPM)</option>
@@ -93,11 +94,13 @@
                     <option value="hardest">Sort: Hardest (Avg. Difficulty)</option>
                     <option value="genre_az">Sort: Genre (A-Z)</option>
                     <option value="genre_za">Sort: Genre (Z-A)</option>
-                    <option value="earliest">Sort: Earliest (Oldest Creation Date)</option>
                 </select>
             </div>
             <div class="content">
                 <!-- Tracks will be added dynamically here -->
+            </div>
+            <div class="mobile-track-list" id="mobileTrackList">
+                <!-- Mobile list view will be added dynamically here -->
             </div>
         </div>
     </main>

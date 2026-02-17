@@ -8,7 +8,7 @@
     "key": "F# Minor",
     "duration": "4m 05s",
     "album": "> album title goes here <",
-    "genre": "House",
+    "genre": "Electro House",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -296,5 +296,250 @@
       "drums": ""
     },
     "charter": "Eezku"
+ },
+   "revenge": {
+    "title": "Revenge",
+    "artist": "Captainsparklez, Tryhardninja",
+    "releaseYear": 2011,
+    "cover": "captainsparkleztryhardninjarevenge.png",
+    "bpm": 120,
+    "key": "G Minor",
+    "duration": "3m 47s",
+    "album": "Minecraft Parodies",
+    "genre": "Parody",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "bass": 0,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1,
+      "lead": 3
+    },
+    "createdAt": "2025-02-14T00:00:00.000Z",
+    "lastFeatured": "2025-02-14T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "revenge.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/revenge.mp3",
+    "preview_time": "0",
+    "preview_end_time": "226000",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+ },
+  "dancedance": {
+    "title": "Dance, Dance",
+    "artist": "Fall Out Boy",
+    "releaseYear": 2005,
+    "cover": "falloutboydancedance.png",
+    "bpm": 114,
+    "key": "B Minor",
+    "duration": "3m 05s",
+    "album": "From Under the Cork Tree",
+    "genre": "Pop Punk",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1,
+      "lead": 3
+    },
+    "createdAt": "2025-02-21T00:00:00.000Z",
+    "lastFeatured": "2025-02-21T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "dancedance.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/dancedance.mp3",
+    "preview_time": "0",
+    "preview_end_time": "180000",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "heyoldfriend": {
+    "title": "Hey Old Friend",
+    "artist": "Dearly Somber",
+    "releaseYear": 2018,
+    "cover": "dearlysomberheyoldfriend.png",
+    "bpm": 100,
+    "key": "E♭ Major",
+    "duration": "3m 50s",
+    "album": "Hourglass",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "bass": 0,
+      "drums": 0,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1,
+      "lead": 2
+    },
+    "createdAt": "2025-02-21T00:00:00.000Z",
+    "lastFeatured": "2025-02-21T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "heyoldfriend.mp4",
+    "videoPosition": 45.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/heyoldfriend.mp3",
+    "preview_time": "0",
+    "preview_end_time": "145000",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "crazy": {
+    "title": "CRAZY",
+    "artist": "LE SSERAFIM",
+    "releaseYear": 2024,
+    "cover": "crazy.png",
+    "bpm": 130,
+    "key": "E♭ Minor",
+    "duration": "2m 47s",
+    "album": "CRAZY",
+    "genre": "K-Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 5,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1,
+      "lead": 4
+    },
+    "createdAt": "2025-02-21T00:00:00.000Z",
+    "lastFeatured": "2025-02-21T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "crazy.mp4",
+    "videoPosition": 40,
+    "loading_phrase": "why yes this one goes hard",
+    "previewUrl": "/assets/audio/crazy.mp3",
+    "preview_time": "0",
+    "preview_end_time": "108308",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+},
+  "dieinafire": {
+    "title": "Die In a Fire",
+    "artist": "The Living Tombstone, EileMonty, Orko",
+    "releaseYear": 2015,
+    "cover": "thelivingtombstoneeilemontyorkodieinafire.png",
+    "bpm": 109,
+    "key": "G Minor",
+    "duration": "3m 06s",
+    "album": "Internet Childhood",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1,
+      "lead": 2
+    },
+    "createdAt": "2025-02-21T00:00:00.000Z",
+    "lastFeatured": "2025-02-21T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "dieinafire.mp4",
+    "videoPosition": 36.0,
+    "loading_phrase": "This song is about William Afton, wanting the animatronics to “Die In a Fire” after learning that they are possesed by his own murdered victims.",
+    "previewUrl": "/assets/audio/dieinafire.mp3",
+    "preview_time": "0",
+    "preview_end_time": "76000",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }
