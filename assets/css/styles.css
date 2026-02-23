@@ -253,6 +253,7 @@ main {
     overflow: hidden;
     background-color: rgba(236, 237, 238, .1);
     display: flex;
+    flex-direction: column;
     align-items: center;
     color: white;
     font-size: 14px;
@@ -265,13 +266,16 @@ main {
 .jam-track h2 {
     font-size: 16px;
     line-height: 1.2em;
+    text-align: center;
+    margin: 0;
 }
 
 .jam-track img {
-    max-width: 80px;
-    max-height: 80px;
+    max-width: 200px;
+    max-height: 200px;
     border-radius: 10px;
-    margin-right: 10px;
+    margin-right: 0;
+    margin-bottom: 20px;
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
 }
@@ -288,6 +292,13 @@ main {
 .jam-track p {
     font-size: 12.5px;
     color: #888;
+    text-align: center;
+    margin: 5px 0 0 0;
+}
+
+.jam-track > div {
+    text-align: center;
+    width: 100%;
 }
 
 /* Label Container */
