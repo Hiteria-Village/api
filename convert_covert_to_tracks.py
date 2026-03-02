@@ -63,8 +63,6 @@ def convert_covert_to_tracks():
             "videoPosition": song_data.get('preview_start_time', 0) / 1000,  # Convert ms to seconds
             "loading_phrase": song_data.get('loading_phrase', ''),
             "previewUrl": f"/assets/audio/{track_id}.mp3",
-            "preview_time": str(song_data.get('preview_start_time', 0)),
-            "preview_end_time": str(song_data.get('preview_start_time', 0) + 30000),  # 30 seconds preview
             "rotated": True,
             "modalShadowColors": {
                 "default": {

@@ -8,7 +8,7 @@
     "key": "F# Minor",
     "duration": "4m 05s",
     "album": "> album title goes here <",
-    "genre": "Electro House",
+    "genre": "Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -60,7 +60,7 @@
     "key": "E Minor",
     "duration": "2m 11s",
     "album": "Sonic Racing: CrossWorlds Original Soundtrack - Echoes of Dimensions",
-    "genre": "Soundtrack",
+    "genre": "Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
@@ -212,7 +212,7 @@
     "key": "A Minor",
     "duration": "2m 10s",
     "album": "DJMAX - V Liberty 2",
-    "genre": "Psy Hardcore",
+    "genre": "Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -309,12 +309,12 @@
     "title": "Revenge",
     "artist": "Captainsparklez, Tryhardninja",
     "releaseYear": 2011,
-    "cover": "captainsparkleztryhardninjarevenge.png",
+    "cover": "revenge.png",
     "bpm": 120,
     "key": "G Minor",
     "duration": "3m 47s",
     "album": "Minecraft Parodies",
-    "genre": "Parody",
+    "genre": "Pop",
     "rating": "Everyone",
     "keys": "true",
     "difficulties": {
@@ -361,12 +361,12 @@
     "title": "Dance, Dance",
     "artist": "Fall Out Boy",
     "releaseYear": 2005,
-    "cover": "falloutboydancedance.png",
+    "cover": "dancedance.png",
     "bpm": 114,
     "key": "B Minor",
     "duration": "3m 05s",
     "album": "From Under the Cork Tree",
-    "genre": "Pop Punk",
+    "genre": "Rock",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -411,12 +411,12 @@
     "title": "Hey Old Friend",
     "artist": "Dearly Somber",
     "releaseYear": 2018,
-    "cover": "dearlysomberheyoldfriend.png",
+    "cover": "heyoldfriend.png",
     "bpm": 100,
     "key": "E♭ Major",
     "duration": "3m 50s",
     "album": "Hourglass",
-    "genre": "Electronic",
+    "genre": "Indie",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
@@ -513,7 +513,7 @@
     "title": "Die In a Fire",
     "artist": "The Living Tombstone, EileMonty, Orko",
     "releaseYear": 2015,
-    "cover": "thelivingtombstoneeilemontyorkodieinafire.png",
+    "cover": "dieinafire.png",
     "bpm": 109,
     "key": "G Minor",
     "duration": "3m 06s",
@@ -564,12 +564,12 @@
     "title": "365",
     "artist": "c4lendar",
     "releaseYear": 2024,
-    "cover": "365.png",
+    "cover": "threesixtyfive.png",
     "bpm": 192,
     "key": "C Major",
     "duration": "2m 35s",
     "album": "Superstar Racers OST",
-    "genre": "Soundtrack",
+    "genre": "Electronic",
     "rating": "Everyone",
     "keys": "true",
     "difficulties": {
@@ -617,7 +617,7 @@
     "key": "Eb Major",
     "duration": "3m 09s",
     "album": "Rokstarr",
-    "genre": "Dance Pop",
+    "genre": "Pop",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
@@ -655,8 +655,8 @@
       "drums": ""
     },
     "charter": "WorseAverage"
- }, 
-"allineed": {
+  },
+  "allineed": {
     "title": "All I Need",
     "artist": "Slushii",
     "releaseYear": 2020,
@@ -665,7 +665,7 @@
     "key": "E Major",
     "duration": "3m 53s",
     "album": "All I Need (Single)",
-    "genre": "EDM",
+    "genre": "Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -703,7 +703,7 @@
       "drums": ""
     },
     "charter": "Equinox"
- },
+  },
   "undefeatable": {
     "title": "Undefeatable",
     "artist": "SEGA SOUND TEAM, Tomaya Ohtani, Kellin Quinn",
@@ -751,5 +751,196 @@
       "drums": ""
     },
     "charter": "Equinox, Eezku"
+  },
+  "lovexposer": {
+    "title": "LoveXPoser",
+    "artist": "Dazbee",
+    "releaseYear": 2025,
+    "cover": "lovexposer.png",
+    "bpm": 167,
+    "key": "D♭ Major",
+    "duration": "2m 31s",
+    "album": "Nostalzia",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 5,
+      "lead": 6,
+      "bass": 6,
+      "drums": 6,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-07T00:00:00.000Z",
+    "lastFeatured": "2026-03-07T00:00:00.000Z",
+    "complete": "100%",
+    "keys": "true",
+    "spotify": "",
+    "videoUrl": "lovexposer.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_LoveXPoser.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/lovexposer.mp3",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "WorseAverage"
+  },
+  "outofmyleague": {
+    "title": "Out of My League",
+    "artist": "Fitz & The Tantrums",
+    "releaseYear": 2013,
+    "cover": "outofmyleague.png",
+    "bpm": 170,
+    "key": "A Minor",
+    "duration": "3m 37s",
+    "album": "More Than Just A Dream",
+    "genre": "Indie",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 3,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-07T00:00:00.000Z",
+    "lastFeatured": "2026-03-07T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "outofmyleague.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_Out_Of_My_League.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/outofmyleague.mp3",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "shewillbeloved": {
+    "title": "She Will Be Loved",
+    "artist": "Maroon 5",
+    "releaseYear": 2002,
+    "cover": "shewillbeloved.png",
+    "bpm": 102,
+    "key": "C Minor",
+    "duration": "4m 24s",
+    "album": "Unknown Album",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 2,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-07T00:00:00.000Z",
+    "lastFeatured": "2026-03-07T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "shewillbeloved.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/shewillbeloved.mp3",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },                                                    
+  "safeandsound": {
+    "title": "Safe and Sound",
+    "artist": "Capital Cities",
+    "releaseYear": 2013,
+    "cover": "safeandsound.png",
+    "bpm": 118,
+    "key": "C Major",
+    "duration": "3m 18s",
+    "album": "Unknown Album",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 3,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-07T00:00:00.000Z",
+    "lastFeatured": "2026-03-07T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "safeandsound.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/safeandsound.mp3",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }
