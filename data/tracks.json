@@ -875,9 +875,11 @@
     "spotify": "",
     "videoUrl": "shewillbeloved.mp4",
     "videoPosition": 50,
-    "loading_phrase": "",
+    "videoZoom": 1.57,
+    "loading_phrase": "oct_She_Will_Be_Loved.png",
     "previewUrl": "/assets/audio/shewillbeloved.mp3",
     "rotated": true,
+    "rank": true,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -921,10 +923,11 @@
     "complete": "100%",
     "spotify": "",
     "videoUrl": "safeandsound.mp4",
-    "videoPosition": 50,
-    "loading_phrase": "",
+    "videoPosition": 30,
+    "loading_phrase": "oct_Safe_And_Sound.png",
     "previewUrl": "/assets/audio/safeandsound.mp3",
     "rotated": true,
+    "rank": true,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
