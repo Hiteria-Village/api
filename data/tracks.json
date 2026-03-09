@@ -945,5 +945,195 @@
       "drums": ""
     },
     "charter": "Equinox"
+ },
+  "enmore": {
+    "title": "Enmore",
+    "artist": "Trophy Eyes",
+    "releaseYear": 2013,
+    "cover": "enmore.png",
+    "bpm": 197,
+    "key": "C Major",
+    "duration": "2m 44s",
+    "album": "Unknown Album",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 4,
+      "bass": 4,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-14T00:00:00.000Z",
+    "lastFeatured": "2026-03-14T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "enmore.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/enmore.mp3",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "stockholmsyndrome": {
+    "title": "Stockholm Syndrome",
+    "artist": "Muse",
+    "releaseYear": 2003,
+    "cover": "stockholmsyndrome.png",
+    "bpm": 128,
+    "key": "D Major",
+    "duration": "5m 07s",
+    "album": "Unknown Album",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 6,
+      "bass": 5,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-14T00:00:00.000Z",
+    "lastFeatured": "2026-03-14T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "stockholmsyndrome.mp4",
+    "videoPosition": 20,
+    "loading_phrase": "oct_Stockholm_Syndrome.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/stockholmsyndrome.mp3",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "mantra": {
+    "title": "MANTRA",
+    "artist": "Bring Me The Horizon",
+    "releaseYear": 2019,
+    "cover": "mantra.png",
+    "bpm": 90,
+    "key": "C Major",
+    "duration": "3m 56s",
+    "album": "amo",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 4,
+      "bass": 4,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-14T00:00:00.000Z",
+    "lastFeatured": "2026-03-14T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "mantra.mp4",
+    "videoPosition": 63.047,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/mantra.mp3",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+  "deviltrigger": {
+    "title": "Devil Trigger",
+    "artist": "Casey Edwards, Ali Edwards, Cliff Llorett",
+    "releaseYear": 2019,
+    "cover": "deviltrigger.png",
+    "bpm": 160,
+    "key": "D♭ Major",
+    "duration": "6m 48s",
+    "album": "DEVIL MAY CRY 5 ORIGINAL SOUNDTRACK",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 4,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-14T00:00:00.000Z",
+    "lastFeatured": "2026-03-14T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "deviltrigger.mp4",
+    "videoPosition": 40,
+    "loading_phrase": "oct_Devil_Trigger.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/deviltrigger.mp3",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku, Jaydenz"
   }
 }
