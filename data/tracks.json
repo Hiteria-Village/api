@@ -972,7 +972,8 @@
     "spotify": "",
     "videoUrl": "enmore.mp4",
     "videoPosition": 50.0,
-    "loading_phrase": "",
+    "loading_phrase": "oct_Enmore.png",
+    "rank": true,
     "previewUrl": "/assets/audio/enmore.mp3",
     "rotated": true,
     "modalShadowColors": {
@@ -1067,7 +1068,8 @@
     "spotify": "",
     "videoUrl": "mantra.mp4",
     "videoPosition": 63.047,
-    "loading_phrase": "",
+    "loading_phrase": "oct_MANTRA.png",
+    "rank": true,
     "previewUrl": "/assets/audio/mantra.mp3",
     "rotated": true,
     "modalShadowColors": {
