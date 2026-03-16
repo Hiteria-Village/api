@@ -614,7 +614,7 @@
     "releaseYear": 2010,
     "cover": "breakyourheart.png",
     "bpm": 122,
-    "key": "Eb Major",
+    "key": "E♭ Major",
     "duration": "3m 09s",
     "album": "Rokstarr",
     "genre": "Pop",
@@ -1111,11 +1111,11 @@
       "plastic-guitar": -1
     },
     "createdAt": "2026-03-14T00:00:00.000Z",
-    "lastFeatured": "2026-03-14T00:00:00.000Z",
+    "lastFeatured": "2026-03-21T00:00:00.000Z",
     "complete": "100%",
     "spotify": "",
     "videoUrl": "deviltrigger.mp4",
-    "videoPosition": 40,
+    "videoPosition": 20,
     "loading_phrase": "oct_Devil_Trigger.png",
     "rank": true,
     "previewUrl": "/assets/audio/deviltrigger.mp3",
@@ -1137,5 +1137,199 @@
       "drums": ""
     },
     "charter": "Eezku, Jaydenz"
+  },
+  "imafraid": {
+    "title": "I'm Afraid",
+    "artist": "Sik World",
+    "releaseYear": 2022,
+    "cover": "imafraid.png",
+    "bpm": 140,
+    "key": "F Minor",
+    "duration": "3m 27s",
+    "keys": "true",
+    "album": "Disconnected",
+    "genre": "Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 5,
+      "lead": 3,
+      "bass": 1,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-21T00:00:00.000Z",
+    "lastFeatured": "2026-03-21T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "imafraid.mp4",
+    "videoPosition": 40,
+    "loading_phrase": "",
+    "rank": true,
+    "previewUrl": "/assets/audio/imafraid.mp3",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "notafraid": {
+    "title": "Not Afraid",
+    "artist": "Eminem",
+    "releaseYear": 2010,
+    "cover": "notafraid.png",
+    "bpm": 115,
+    "key": "C Minor",
+    "duration": "4m 17s",
+    "keys": "true",
+    "album": "Recovery",
+    "genre": "Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 2,
+      "bass": 0,
+      "drums": 1,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-21T00:00:00.000Z",
+    "lastFeatured": "2026-03-21T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "notafraid.mp4",
+    "videoPosition": 60,
+    "loading_phrase": "",
+    "rank": true,
+    "previewUrl": "/assets/audio/notafraid.mp3",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+ },
+  "turnthemusicup": {
+    "title": "Turn The Music Up",
+    "artist": "NF",
+    "releaseYear": 2015,
+    "cover": "turnthemusicup.png",
+    "bpm": 120,
+    "key": "E♭ Major",
+    "duration": "3m 22s",
+    "album": "Mansion",
+    "genre": "Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 5,
+      "bass": 0,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-21T00:00:00.000Z",
+    "lastFeatured": "2026-03-21T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "turnthemusicup.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "oct_Turn_The_Music_Up.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/turnthemusicup.mp3",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+ },
+  "internationallove": {
+    "title": "International Love",
+    "artist": "Pitbull, Chris Brown",
+    "releaseYear": 2011,
+    "cover": "internationallove.png",
+    "album": "Planet Pit",
+    "bpm": 120,
+    "key": "C Major",
+    "duration": "3m 51s",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 5,
+      "lead": 3,
+      "bass": 1,
+      "drums": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-21T00:00:00.000Z",
+    "lastFeatured": "2026-03-21T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "internationallove.mp4",
+    "videoPosition": 20.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/internationallove.mp3",
+    "rotated": true,
+    "keys": "true",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }
