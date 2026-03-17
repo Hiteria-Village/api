@@ -33,6 +33,7 @@
     "preview_time": "0",
     "preview_end_time": "40000",
     "rotated": true,
+    "sid": "sid_01",
     "modalShadowColors": {
       "default": {
         "color1": "#000080",
@@ -84,6 +85,7 @@
     "preview_time": "0",
     "preview_end_time": "47833",
     "rotated": true,
+    "sid": "sid_03",
     "modalShadowColors": {
       "default": {
         "color1": "#00ffff",
@@ -135,6 +137,7 @@
     "preview_time": "0",
     "preview_end_time": "79437",
     "rotated": true,
+    "sid": "sid_05",
     "modalShadowColors": {
       "default": {
         "color1": "#ff69b4",
@@ -185,6 +188,7 @@
     "preview_time": "0",
     "preview_end_time": "40000",
     "rotated": true,
+    "sid": "sid_06",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -237,6 +241,7 @@
     "preview_time": "0",
     "preview_end_time": "40000",
     "rotated": true,
+    "sid": "sid_07",
     "modalShadowColors": {
       "default": {
         "color1": "#00ff00",
@@ -287,6 +292,7 @@
     "preview_time": "0",
     "preview_end_time": "40000",
     "rotated": true,
+    "sid": "sid_09",
     "modalShadowColors": {
       "default": {
         "color1": "#ff69b4",
@@ -339,6 +345,7 @@
     "preview_time": "0",
     "preview_end_time": "226000",
     "rotated": true,
+    "sid": "sid_04",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -390,6 +397,7 @@
     "preview_end_time": "180000",
     "rotated": true,
     "currentVersion": 1,
+    "sid": "sid_02",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -419,6 +427,7 @@
     "album": "Hourglass",
     "genre": "Indie",
     "rating": "Everyone",
+    "sid": "sid_11",
     "difficulties": {
       "vocals": 1,
       "lead": 2,
@@ -492,6 +501,7 @@
     "preview_time": "0",
     "preview_end_time": "40000",
     "rotated": true,
+    "sid": "sid_16",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -543,6 +553,7 @@
     "preview_time": "0",
     "preview_end_time": "76000",
     "rotated": true,
+    "sid": "sid_18",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -591,6 +602,7 @@
     "rank": true,
     "previewUrl": "/assets/audio/threesixtyfive.mp3",
     "rotated": true,
+    "sid": "sid_12",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -639,6 +651,7 @@
     "previewUrl": "/assets/audio/breakyourheart.mp3",
     "rotated": true,
     "rank": true,
+    "sid": "sid_13",
     "modalShadowColors": {
       "default": {
         "color1": "#ff69b4",
@@ -687,6 +700,7 @@
     "previewUrl": "/assets/audio/allineed.mp3",
     "rotated": true,
     "rank": true,
+    "sid": "sid_19",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -735,6 +749,7 @@
     "rank": true,
     "previewUrl": "/assets/audio/undefeatable.mp3",
     "rotated": true,
+    "sid": "sid_08",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -784,6 +799,7 @@
     "rank": true,
     "previewUrl": "/assets/audio/lovexposer.mp3",
     "rotated": true,
+    "sid": "sid_15",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -813,6 +829,7 @@
     "album": "More Than Just A Dream",
     "genre": "Indie",
     "rating": "Everyone",
+    "sid": "sid_20",
     "difficulties": {
       "vocals": 2,
       "lead": 3,
@@ -881,6 +898,7 @@
     "previewUrl": "/assets/audio/shewillbeloved.mp3",
     "rotated": true,
     "rank": true,
+    "sid": "sid_29",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -929,6 +947,7 @@
     "previewUrl": "/assets/audio/safeandsound.mp3",
     "rotated": true,
     "rank": true,
+    "sid": "sid_24",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -977,6 +996,7 @@
     "rank": true,
     "previewUrl": "/assets/audio/enmore.mp3",
     "rotated": true,
+    "sid": "sid_25",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -1006,6 +1026,7 @@
     "album": "Unknown Album",
     "genre": "Rock",
     "rating": "Everyone",
+    "sid": "sid_21",
     "difficulties": {
       "vocals": 2,
       "lead": 6,
@@ -1073,6 +1094,7 @@
     "rank": true,
     "previewUrl": "/assets/audio/mantra.mp3",
     "rotated": true,
+    "sid": "sid_22",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -1121,6 +1143,7 @@
     "rank": true,
     "previewUrl": "/assets/audio/deviltrigger.mp3",
     "rotated": true,
+    "sid": "sid_14",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -1170,6 +1193,7 @@
     "rank": true,
     "previewUrl": "/assets/audio/imafraid.mp3",
     "rotated": true,
+    "sid": "sid_27",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -1219,6 +1243,7 @@
     "rank": true,
     "previewUrl": "/assets/audio/notafraid.mp3",
     "rotated": true,
+    "sid": "sid_26",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -1267,6 +1292,7 @@
     "rank": true,
     "previewUrl": "/assets/audio/turnthemusicup.mp3",
     "rotated": true,
+    "sid": "sid_10",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -1315,6 +1341,7 @@
     "previewUrl": "/assets/audio/internationallove.mp3",
     "rotated": true,
     "keys": "true",
+    "sid": "sid_28",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
