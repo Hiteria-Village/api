@@ -389,6 +389,7 @@
     "preview_time": "0",
     "preview_end_time": "180000",
     "rotated": true,
+    "currentVersion": 1,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
