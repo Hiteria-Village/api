@@ -32,9 +32,8 @@
     "previewUrl": "/assets/audio/professionalgriefers.mp3",
     "preview_time": "0",
     "preview_end_time": "40000",
-    "rotated": true,
+    "shop": true,
     "sid": "sid_01",
-    "test": "Just Testin Shi rn",
     "modalShadowColors": {
       "default": {
         "color1": "#000080",
@@ -85,7 +84,7 @@
     "previewUrl": "/assets/audio/cyberspace.mp3",
     "preview_time": "0",
     "preview_end_time": "47833",
-    "rotated": true,
+    "shop": true,
     "sid": "sid_03",
     "modalShadowColors": {
       "default": {
@@ -137,7 +136,7 @@
     "previewUrl": "/assets/audio/howitsdone.mp3",
     "preview_time": "0",
     "preview_end_time": "79437",
-    "rotated": true,
+    "shop": true,
     "sid": "sid_05",
     "modalShadowColors": {
       "default": {
@@ -188,7 +187,7 @@
     "previewUrl": "/assets/audio/intothedream.mp3",
     "preview_time": "0",
     "preview_end_time": "40000",
-    "rotated": true,
+    "shop": true,
     "sid": "sid_06",
     "modalShadowColors": {
       "default": {
@@ -241,7 +240,7 @@
     "keys": "true",
     "preview_time": "0",
     "preview_end_time": "40000",
-    "rotated": true,
+    "shop": true,
     "sid": "sid_07",
     "modalShadowColors": {
       "default": {
@@ -292,7 +291,7 @@
     "previewUrl": "/assets/audio/stayalive.mp3",
     "preview_time": "0",
     "preview_end_time": "40000",
-    "rotated": true,
+    "shop": true,
     "sid": "sid_09",
     "modalShadowColors": {
       "default": {
@@ -345,7 +344,7 @@
     "previewUrl": "/assets/audio/revenge.mp3",
     "preview_time": "0",
     "preview_end_time": "226000",
-    "rotated": false,
+    "shop": true,
     "sid": "sid_04",
     "modalShadowColors": {
       "default": {
@@ -396,7 +395,7 @@
     "previewUrl": "/assets/audio/dancedance.mp3",
     "preview_time": "0",
     "preview_end_time": "180000",
-    "rotated": true,
+    "shop": true,
     "currentVersion": 1,
     "sid": "sid_02",
     "modalShadowColors": {
@@ -450,7 +449,7 @@
     "previewUrl": "/assets/audio/heyoldfriend.mp3",
     "preview_time": "0",
     "preview_end_time": "145000",
-    "rotated": true,
+    "shop": true,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -501,7 +500,7 @@
     "previewUrl": "/assets/audio/crazy.mp3",
     "preview_time": "0",
     "preview_end_time": "40000",
-    "rotated": true,
+    "shop": true,
     "sid": "sid_16",
     "modalShadowColors": {
       "default": {
@@ -553,7 +552,7 @@
     "previewUrl": "/assets/audio/dieinafire.mp3",
     "preview_time": "0",
     "preview_end_time": "76000",
-    "rotated": true,
+    "shop": true,
     "sid": "sid_18",
     "modalShadowColors": {
       "default": {
@@ -602,7 +601,7 @@
     "loading_phrase": "oct_365.png",
     "rank": true,
     "previewUrl": "/assets/audio/threesixtyfive.mp3",
-    "rotated": true,
+    "shop": true,
     "sid": "sid_12",
     "modalShadowColors": {
       "default": {
@@ -651,7 +650,7 @@
     "videoPosition": 51.862,
     "loading_phrase": "oct_Break_Your_Heart.png",
     "previewUrl": "/assets/audio/breakyourheart.mp3",
-    "rotated": true,
+    "shop": true,
     "rank": true,
     "sid": "sid_13",
     "modalShadowColors": {
@@ -700,7 +699,7 @@
     "videoPosition": 0,
     "loading_phrase": "oct_All_I_Need.png",
     "previewUrl": "/assets/audio/allineed.mp3",
-    "rotated": true,
+    "shop": true,
     "rank": true,
     "sid": "sid_19",
     "modalShadowColors": {
@@ -750,7 +749,7 @@
     "loading_phrase": "oct_Undefeatable.png",
     "rank": true,
     "previewUrl": "/assets/audio/undefeatable.mp3",
-    "rotated": true,
+    "shop": true,
     "sid": "sid_08",
     "modalShadowColors": {
       "default": {
@@ -800,7 +799,7 @@
     "loading_phrase": "oct_LoveXPoser.png",
     "rank": true,
     "previewUrl": "/assets/audio/lovexposer.mp3",
-    "rotated": true,
+    "shop": true,
     "sid": "sid_15",
     "modalShadowColors": {
       "default": {
@@ -850,7 +849,7 @@
     "loading_phrase": "oct_Out_Of_My_League.png",
     "rank": true,
     "previewUrl": "/assets/audio/outofmyleague.mp3",
-    "rotated": true,
+    "shop": true,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -898,7 +897,7 @@
     "videoZoom": 1.57,
     "loading_phrase": "oct_She_Will_Be_Loved.png",
     "previewUrl": "/assets/audio/shewillbeloved.mp3",
-    "rotated": true,
+    "shop": true,
     "rank": true,
     "sid": "sid_29",
     "modalShadowColors": {
@@ -947,7 +946,7 @@
     "videoPosition": 30,
     "loading_phrase": "oct_Safe_And_Sound.png",
     "previewUrl": "/assets/audio/safeandsound.mp3",
-    "rotated": true,
+    "shop": true,
     "rank": true,
     "sid": "sid_24",
     "modalShadowColors": {
@@ -997,7 +996,7 @@
     "loading_phrase": "oct_Enmore.png",
     "rank": true,
     "previewUrl": "/assets/audio/enmore.mp3",
-    "rotated": true,
+    "shop": true,
     "sid": "sid_25",
     "modalShadowColors": {
       "default": {
@@ -1047,7 +1046,7 @@
     "loading_phrase": "oct_Stockholm_Syndrome.png",
     "rank": true,
     "previewUrl": "/assets/audio/stockholmsyndrome.mp3",
-    "rotated": true,
+    "shop": true,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -1095,7 +1094,7 @@
     "loading_phrase": "oct_MANTRA.png",
     "rank": true,
     "previewUrl": "/assets/audio/mantra.mp3",
-    "rotated": true,
+    "shop": true,
     "sid": "sid_22",
     "modalShadowColors": {
       "default": {
@@ -1144,7 +1143,8 @@
     "loading_phrase": "oct_Devil_Trigger.png",
     "rank": true,
     "previewUrl": "/assets/audio/deviltrigger.mp3",
-    "rotated": true,
+    "shop": true,
+    "keys": true,
     "sid": "sid_14",
     "modalShadowColors": {
       "default": {
@@ -1194,7 +1194,7 @@
     "loading_phrase": "",
     "rank": true,
     "previewUrl": "/assets/audio/imafraid.mp3",
-    "rotated": false,
+    "shop": false,
     "sid": "sid_27",
     "modalShadowColors": {
       "default": {
@@ -1244,7 +1244,7 @@
     "loading_phrase": "",
     "rank": true,
     "previewUrl": "/assets/audio/notafraid.mp3",
-    "rotated": false,
+    "shop": false,
     "sid": "sid_26",
     "modalShadowColors": {
       "default": {
@@ -1293,7 +1293,7 @@
     "loading_phrase": "oct_Turn_The_Music_Up.png",
     "rank": true,
     "previewUrl": "/assets/audio/turnthemusicup.mp3",
-    "rotated": false,
+    "shop": false,
     "sid": "sid_10",
     "modalShadowColors": {
       "default": {
@@ -1341,7 +1341,7 @@
     "videoPosition": 20.0,
     "loading_phrase": "",
     "previewUrl": "/assets/audio/internationallove.mp3",
-    "rotated": false,
+    "shop": false,
     "keys": "true",
     "sid": "sid_28",
     "modalShadowColors": {
