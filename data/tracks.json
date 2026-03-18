@@ -344,7 +344,7 @@
     "previewUrl": "/assets/audio/revenge.mp3",
     "preview_time": "0",
     "preview_end_time": "226000",
-    "shop": true,
+    "shop": false,
     "sid": "sid_04",
     "modalShadowColors": {
       "default": {
