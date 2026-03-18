@@ -1146,7 +1146,7 @@
     "shop": true,
     "keys": true,
     "sid": "sid_14",
-    "currentVersion": 2,
+    "currentVersion": 3,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
