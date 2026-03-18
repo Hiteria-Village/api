@@ -1193,7 +1193,7 @@
     "loading_phrase": "",
     "rank": true,
     "previewUrl": "/assets/audio/imafraid.mp3",
-    "rotated": true,
+    "rotated": false,
     "sid": "sid_27",
     "modalShadowColors": {
       "default": {
@@ -1243,7 +1243,7 @@
     "loading_phrase": "",
     "rank": true,
     "previewUrl": "/assets/audio/notafraid.mp3",
-    "rotated": true,
+    "rotated": false,
     "sid": "sid_26",
     "modalShadowColors": {
       "default": {
@@ -1292,7 +1292,7 @@
     "loading_phrase": "oct_Turn_The_Music_Up.png",
     "rank": true,
     "previewUrl": "/assets/audio/turnthemusicup.mp3",
-    "rotated": true,
+    "rotated": false,
     "sid": "sid_10",
     "modalShadowColors": {
       "default": {
@@ -1340,7 +1340,7 @@
     "videoPosition": 20.0,
     "loading_phrase": "",
     "previewUrl": "/assets/audio/internationallove.mp3",
-    "rotated": true,
+    "rotated": false,
     "keys": "true",
     "sid": "sid_28",
     "modalShadowColors": {
