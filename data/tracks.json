@@ -1362,5 +1362,199 @@
       "drums": ""
     },
     "charter": "Equinox"
+ },
+  "psycho": {
+    "title": "PSYCHO",
+    "artist": "Rxseboy",
+    "releaseYear": 2024,
+    "cover": "psycho.png",
+    "album": "LOVE IS A DRUG",
+    "bpm": 135,
+    "key": "E Major",
+    "duration": "2m 47s",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 2,
+      "bass": 1,
+      "drums": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "lastFeatured": "2026-03-28T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "1TjdW5mMQiV6FwU6k7B0jT",
+    "videoUrl": "psycho.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/psycho.mp3",
+    "shop": false,
+    "keys": "true",
+    "sid": "sid_41",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+ },
+  "stayaway": {
+    "title": "Stay Away",
+    "artist": "Nirvana",
+    "releaseYear": 1991,
+    "cover": "stayaway.png",
+    "album": "Nevermind",
+    "bpm": 165,
+    "key": "B Minor",
+    "duration": "3m 21s",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "lead": 3,
+      "bass": 3,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "lastFeatured": "2026-03-28T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0w7k0ZhHzkfEBsDmwp49xA",
+    "videoUrl": "stayaway.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/stayaway.mp3",
+    "shop": false,
+    "sid": "sid_44",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox, Eezku"
+ },
+  "redo": {
+    "title": "Re-Do",
+    "artist": "Modern Baseball",
+    "releaseYear": 2012,
+    "cover": "redo.png",
+    "album": "Sports",
+    "bpm": "93",
+    "key": "C Major",
+    "duration": "2m 17s",
+    "genre": "Indie",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 3,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "lastFeatured": "2026-03-28T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "1fddQyaDzAQGhnSZh7UQIJ",
+    "videoUrl": "redo.mp4",
+    "videoPosition": 20.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/redo.mp3",
+    "shop": false,
+    "sid": "sid_34",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+ },
+  "whencaniseeyouagain": {
+    "title": "When Can I See You Again",
+    "artist": "Owl City",
+    "releaseYear": 2012,
+    "cover": "whencaniseeyouagain.png",
+    "album": "",
+    "bpm": 128,
+    "key": "B Major",
+    "duration": "3m 41s",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 3,
+      "bass": 0,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "lastFeatured": "2026-03-28T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5ZkAx8zjLiSs1nMmBwJoZS",
+    "videoUrl": "whencaniseeyouagain.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/whencaniseeyouagain.mp3",
+    "shop": false,
+    "keys": "true",
+    "sid": "sid_33",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "WorseAverage"
   }
 }
