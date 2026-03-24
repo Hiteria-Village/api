@@ -1439,6 +1439,7 @@
     "videoUrl": "stayaway.mp4",
     "videoPosition": 50.0,
     "loading_phrase": "",
+    "currentVersion": 2,
     "previewUrl": "/assets/audio/stayaway.mp3",
     "shop": false,
     "sid": "sid_44",
