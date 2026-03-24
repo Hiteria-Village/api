@@ -1490,6 +1490,7 @@
     "loading_phrase": "",
     "previewUrl": "/assets/audio/redo.mp3",
     "shop": false,
+    "currentVersion": 2,
     "sid": "sid_34",
     "modalShadowColors": {
       "default": {
