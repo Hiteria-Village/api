@@ -751,6 +751,7 @@
     "previewUrl": "/assets/audio/undefeatable.mp3",
     "shop": true,
     "sid": "sid_08",
+    "currentVersion": 2,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
