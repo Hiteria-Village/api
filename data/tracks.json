@@ -1394,7 +1394,7 @@
     "videoPosition": 50.0,
     "loading_phrase": "",
     "previewUrl": "/assets/audio/psycho.mp3",
-    "shop": false,
+    "shop": true,
     "keys": "true",
     "sid": "sid_41",
     "modalShadowColors": {
@@ -1444,7 +1444,7 @@
     "loading_phrase": "",
     "currentVersion": 2,
     "previewUrl": "/assets/audio/stayaway.mp3",
-    "shop": false,
+    "shop": true,
     "sid": "sid_44",
     "modalShadowColors": {
       "default": {
@@ -1492,7 +1492,7 @@
     "videoPosition": 20.0,
     "loading_phrase": "",
     "previewUrl": "/assets/audio/redo.mp3",
-    "shop": false,
+    "shop": true,
     "currentVersion": 2,
     "sid": "sid_34",
     "modalShadowColors": {
@@ -1541,7 +1541,7 @@
     "videoPosition": 50.0,
     "loading_phrase": "",
     "previewUrl": "/assets/audio/whencaniseeyouagain.mp3",
-    "shop": false,
+    "shop": true,
     "keys": "true",
     "sid": "sid_33",
     "modalShadowColors": {
