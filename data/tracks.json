@@ -1561,5 +1561,197 @@
       "drums": ""
     },
     "charter": "WorseAverage"
+ },
+  "elevatorjam": {
+    "title": "Elevator Jam",
+    "artist": "LSPLASH",
+    "releaseYear": 2022,
+    "cover": "elevatorjam.png",
+    "album": "Doors (Original Game Soundtrack), Vol. 1",
+    "bpm": 146,
+    "key": "D Minor",
+    "duration": "0m 37s",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "lead": 2,
+      "bass": 1,
+      "drums": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "lastFeatured": "2026-03-28T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5ZkAx8zjLiSs1nMmBwJoZS",
+    "videoUrl": "elevatorjam.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/elevatorjam.mp3",
+    "shop": true,
+    "keys": "true",
+    "sid": "sid_17",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+ },
+  "funnysong": {
+    "title": "Funny Song",
+    "artist": "Bensound",
+    "releaseYear": 2010,
+    "cover": "funnysong.png",
+    "bpm": 90,
+    "key": "D Major",
+    "duration": "3m 09s",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 3,
+      "bass": 1,
+      "drums": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "lastFeatured": "2026-03-28T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5ZkAx8zjLiSs1nMmBwJoZS",
+    "videoUrl": "funnysong.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/funnysong.mp3",
+    "shop": true,
+    "keys": "true",
+    "sid": "sid_36",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+ },
+  "crabrave": {
+    "title": "Crab Rave",
+    "artist": "Noisestorm",
+    "releaseYear": 2018,
+    "cover": "crabrave.png",
+    "bpm": 125,
+    "key": "D Minor",
+    "duration": "2m 41s",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 4,
+      "bass": 3,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "lastFeatured": "2026-03-28T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5ZkAx8zjLiSs1nMmBwJoZS",
+    "videoUrl": "crabrave.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/crabrave.mp3",
+    "shop": true,
+    "keys": "true",
+    "sid": "sid_48",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+ },
+  "badpiggiestheme": {
+	  "title": "Bad Piggies Theme",    
+	  "artist": "Ilmari Hakkola",    
+    "releaseYear": 2012,
+    "cover": "badpiggiestheme.png",
+    "bpm": 156,
+    "key": "C Minor",
+    "duration": "3m 15s",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 0,
+      "lead": 6,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "lastFeatured": "2026-03-28T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5ZkAx8zjLiSs1nMmBwJoZS",
+    "videoUrl": "badpiggiestheme.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/badpiggiestheme.mp3",
+    "shop": false,
+    "keys": "true",
+    "sid": "sid_38",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }
