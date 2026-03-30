@@ -1590,7 +1590,7 @@
     "videoPosition": 50.0,
     "loading_phrase": "",
     "previewUrl": "/assets/audio/elevatorjam.mp3",
-    "shop": true,
+    "shop": false,
     "keys": "true",
     "sid": "sid_17",
     "modalShadowColors": {
@@ -1638,7 +1638,7 @@
     "videoPosition": 50.0,
     "loading_phrase": "",
     "previewUrl": "/assets/audio/funnysong.mp3",
-    "shop": true,
+    "shop": false,
     "keys": "true",
     "sid": "sid_36",
     "modalShadowColors": {
@@ -1685,7 +1685,7 @@
     "videoPosition": 50.0,
     "loading_phrase": "",
     "previewUrl": "/assets/audio/crabrave.mp3",
-    "shop": true,
+    "shop": false,
     "keys": "true",
     "sid": "sid_48",
     "modalShadowColors": {
