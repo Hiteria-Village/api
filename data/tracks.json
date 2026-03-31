@@ -1637,6 +1637,7 @@
     "videoUrl": "funnysong.mp4",
     "videoPosition": 50.0,
     "loading_phrase": "",
+    "currentVersion": 2,
     "previewUrl": "/assets/audio/funnysong.mp3",
     "shop": false,
     "keys": "true",
