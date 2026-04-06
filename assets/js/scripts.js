@@ -275,6 +275,9 @@ document.addEventListener('DOMContentLoaded', () => {
     playPreview: (previewUrl, startTime, endTime) => {
       audio.ontimeupdate = null;
       
+      const startMs = startTime ? Number(startTime) : 0;
+      const endMs = endTime ? Number(endTime) : 0;
+
       // Clear any existing replay timeout
       if (state.replayTimeoutId) {
         clearTimeout(state.replayTimeoutId);
@@ -283,88 +286,46 @@ document.addEventListener('DOMContentLoaded', () => {
 
       const playSegment = () => {
         if (!state.isMuted && elements.videoPopup.style.display !== 'block') {
-          // Set start time before playing
-          if (startTime && audio.currentTime !== startTime / 1000) {
-            audio.currentTime = startTime / 1000;
-          }
-          
+          // Play muted first (always allowed), then unmute — works around autoplay policy
+          const wasMuted = audio.muted;
+          audio.muted = true;
           audio.play()
             .then(() => {
-              console.log(`Audio playing: ${previewUrl} from ${startTime || 0}ms`);
+              audio.muted = wasMuted;
+              console.log(`Audio playing: ${previewUrl} from ${startMs}ms`);
               if (state.fadeInAudioEnabled) {
                 const targetVolume = audioModule.getStoredVolume() / 100;
                 audioModule.fadeInAudio(audio, targetVolume, 3000);
+              } else {
+                audio.volume = audioModule.getStoredVolume() / 100;
               }
-              // Remove any autoplay notice if audio plays successfully
               document.querySelector('.autoplay-notice')?.remove();
-              
-              // Clear any pending auto-retry
-              if (state.autoRetryTimeoutId) {
-                clearTimeout(state.autoRetryTimeoutId);
-                state.autoRetryTimeoutId = null;
-              }
             })
             .catch((error) => {
-              console.error('Audio playback failed:', error);
-              
-              // Auto-retry after 1 second by toggling mute state
-              if (!state.autoRetryTimeoutId) {
-                state.autoRetryTimeoutId = setTimeout(() => {
-                  state.autoRetryTimeoutId = null;
-                  
-                  // Save original mute state
-                  const originalMuteState = state.isMuted;
-                  
-                  // Toggle mute to opposite state (both state and audio element)
-                  state.isMuted = !originalMuteState;
-                  audio.muted = !originalMuteState;
-                  console.log('Toggled isMuted to:', state.isMuted);
-                  
-                  setTimeout(() => {
-                    // Toggle back to original state (both state and audio element)
-                    state.isMuted = originalMuteState;
-                    audio.muted = originalMuteState;
-                    console.log('Toggled isMuted back to:', state.isMuted);
-                    
-                    audio.play()
-                      .then(() => {
-                        console.log('Audio started after auto-retry');
-                        if (state.fadeInAudioEnabled) {
-                          const targetVolume = audioModule.getStoredVolume() / 100;
-                          audioModule.fadeInAudio(audio, targetVolume, 3000);
-                        }
-                      })
-                      .catch(err => {
-                        console.error('Auto-retry failed, audio blocked by browser:', err);
-                      });
-                  }, 10);
-                }, 1000);
-              }
+              console.error('Audio playback failed (likely browser autoplay policy):', error);
             });
         }
         
         // Set up end time listener with fade out and replay
-        if (endTime) {
-          const fadeOutDuration = 2000; // 2 seconds fade out
-          const fadeOutStartTime = (endTime / 1000) - (fadeOutDuration / 1000);
+        if (endMs > 0) {
+          const fadeOutDuration = 2000;
+          const fadeOutStartTime = (endMs / 1000) - (fadeOutDuration / 1000);
           
           audio.ontimeupdate = () => {
             const currentTime = audio.currentTime;
             
-            // Start fade out 2 seconds before the end
-            if (currentTime >= fadeOutStartTime && currentTime < endTime / 1000 && !state.isFadingOut) {
+            if (currentTime >= fadeOutStartTime && currentTime < endMs / 1000 && !state.isFadingOut) {
               state.isFadingOut = true;
               console.log('Starting fade out at', currentTime);
               audioModule.fadeOutAudio(audio, fadeOutDuration).then(() => {
                 audio.pause();
                 state.isFadingOut = false;
                 
-                // Wait 5 seconds then replay
                 console.log('Waiting 5 seconds before replay...');
                 state.replayTimeoutId = setTimeout(() => {
                   if (!state.isMuted && elements.videoPopup.style.display !== 'block') {
                     console.log('Replaying audio...');
-                    audio.currentTime = startTime ? startTime / 1000 : 0;
+                    audio.currentTime = startMs / 1000;
                     audio.play()
                       .then(() => {
                         if (state.fadeInAudioEnabled) {
@@ -378,8 +339,7 @@ document.addEventListener('DOMContentLoaded', () => {
               });
             }
             
-            // Fallback: pause if we somehow reach the end time
-            if (currentTime >= endTime / 1000) {
+            if (currentTime >= endMs / 1000) {
               audio.pause();
               audio.ontimeupdate = null;
             }
@@ -390,11 +350,16 @@ document.addEventListener('DOMContentLoaded', () => {
       if (audio.src !== previewUrl) {
         audio.src = previewUrl;
         state.currentPreviewUrl = previewUrl;
-        audio.load();
-        // Wait for the audio to be ready to play before setting currentTime
-        audio.addEventListener('canplay', playSegment, { once: true });
+        playSegment();
+        if (startMs > 0) {
+          audio.addEventListener('canplay', () => {
+            audio.currentTime = startMs / 1000;
+          }, { once: true });
+        }
       } else {
-        // If it's the same src, just play it from the new start time
+        if (startMs > 0) {
+          audio.currentTime = startMs / 1000;
+        }
         playSegment();
       }
     },
@@ -504,12 +469,11 @@ document.addEventListener('DOMContentLoaded', () => {
         return;
       }
       
-      // Update URL with track identifier using hash
-      if (track.identifier) {
-        window.location.hash = track.identifier;
-      }
-      
       modalModule.renderModal(track);
+      
+      if (track.identifier) {
+        setTimeout(() => { window.location.hash = track.identifier; }, 0);
+      }
     },
     renderModal: (track) => {
       if (!elements.modal) return;

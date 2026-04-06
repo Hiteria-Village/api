@@ -1462,7 +1462,7 @@
       "bass": "",
       "drums": ""
     },
-    "charter": "Equinox, Eezku "
+    "charter": "Equinox, Eezku"
  },
   "redo": {
     "title": "Re-Do",
@@ -1737,6 +1737,200 @@
     "shop": false,
     "keys": "true",
     "sid": "sid_38",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+},
+"lonedigger": {
+    "title": "Lone Digger",
+    "artist": "Caravan Palace",
+    "releaseYear": 2015,
+    "cover": "lonedigger.png",
+    "bpm": 124,
+    "key": "F Minor",
+    "duration": "2m 47s",
+    "album": "<I°_°I>",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 5,
+      "lead": 5,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-11T00:00:00.000Z",
+    "lastFeatured": "2026-04-11T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "1TAC5SANfK7l6wGHtUQ7MX",
+    "keys": "true",
+    "videoUrl": "lonedigger.mp4",
+    "videoPosition": 30,
+    "sid": "sid_31",
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/lonedigger.mp3",
+    "rotated": true,
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+},
+  "binary": {
+	  "title": "binary",    
+	  "artist": "asc",    
+    "releaseYear": 2021,
+    "cover": "binary.png",
+    "bpm": 124,
+    "key": "C Minor",
+    "duration": "3m 44s",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "lead": 3,
+      "bass": 3,
+      "drums": 6,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-11T00:00:00.000Z",
+    "lastFeatured": "2026-04-11T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7m0x6PMfBcVZJqAl4hrFzc",
+    "videoUrl": "binary.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/binary.mp3",
+    "shop": false,
+    "keys": "true",
+    "sid": "sid_52",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+},
+  "hotelcalifornia": {
+	  "title": "Hotel California",    
+	  "artist": "The Eagles",    
+    "releaseYear": 1976,
+    "cover": "hotelcalifornia.png",
+    "bpm": 147,
+    "key": "D Major",
+    "duration": "6m 41s",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 4,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-11T00:00:00.000Z",
+    "lastFeatured": "2026-04-11T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7m0x6PMfBcVZJqAl4hrFzc",
+    "videoUrl": "hotelcalifornia.mp4",
+    "videoPosition": 10,
+    "videoZoom": 1.2,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/hotelcalifornia.mp3",
+    "shop": false,
+    "keys": "false",
+    "sid": "sid_45",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+},
+  "oopsididitagain": {
+	  "title": "Oops!...I Did It Again",    
+	  "artist": "Britney Spears",    
+    "releaseYear": 2000,
+    "cover": "oopsididitagain.png",
+    "bpm": 95,
+    "key": "C Minor",
+    "duration": "3m 31s",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 3,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-11T00:00:00.000Z",
+    "lastFeatured": "2026-04-11T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7m0x6PMfBcVZJqAl4hrFzc",
+    "videoUrl": "oopsididitagain.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/oopsididitagain.mp3",
+    "shop": false,
+    "keys": "false",
+    "sid": "sid_49",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
