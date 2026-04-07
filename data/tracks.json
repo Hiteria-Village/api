@@ -1766,6 +1766,7 @@
     "album": "<I°_°I>",
     "genre": "Electronic",
     "rating": "Everyone",
+    "currentVersion": 2,
     "difficulties": {
       "vocals": 5,
       "lead": 5,
