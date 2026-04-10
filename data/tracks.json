@@ -1787,6 +1787,7 @@
     "loading_phrase": "",
     "previewUrl": "/assets/audio/lonedigger.mp3",
     "rotated": true,
+    "shop": true,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -1832,7 +1833,7 @@
     "videoPosition": 50.0,
     "loading_phrase": "",
     "previewUrl": "/assets/audio/binary.mp3",
-    "shop": false,
+    "shop": true,
     "keys": "true",
     "sid": "sid_52",
     "modalShadowColors": {
@@ -1881,7 +1882,7 @@
     "videoZoom": 1.2,
     "loading_phrase": "",
     "previewUrl": "/assets/audio/hotelcalifornia.mp3",
-    "shop": false,
+    "shop": true,
     "keys": "false",
     "sid": "sid_45",
     "modalShadowColors": {
@@ -1929,7 +1930,7 @@
     "videoPosition": 50.0,
     "loading_phrase": "",
     "previewUrl": "/assets/audio/oopsididitagain.mp3",
-    "shop": false,
+    "shop": true,
     "keys": "false",
     "sid": "sid_49",
     "modalShadowColors": {
