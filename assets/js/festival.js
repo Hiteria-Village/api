@@ -304,6 +304,9 @@ class FestivalPage {
                             <strong>BPM:</strong> ${track.bpm}
                         </div>
                         <div class="meta-item">
+                            <strong>Charter:</strong> ${track.charter}
+                        </div>
+                        <div class="meta-item">
                             <strong>Key:</strong> ${track.key}
                         </div>
                         <div class="meta-item">

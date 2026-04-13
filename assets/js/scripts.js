@@ -674,7 +674,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (modalTitle) modalTitle.textContent = title;
       if (modalArtist) modalArtist.textContent = artist;
       if (modalDuration) {
-        modalDuration.innerHTML = `<span class="year-duration">${releaseYear} | ${duration}</span><br><span class="key-bpm-genre"><strong>Key:</strong> ${key || 'N/A'}<br><strong>BPM:</strong> ${bpm || 'N/A'}<br><strong>Genre:</strong> ${track.genre || 'N/A'}</span>`;
+        modalDuration.innerHTML = `<span class="year-duration">${releaseYear} | ${duration}</span><br><span class="key-bpm-genre"><strong>Key:</strong> ${key || 'N/A'}<br><strong>BPM:</strong> ${bpm || 'N/A'}<br><strong>Genre:</strong> ${track.genre || 'N/A'}</span><br><strong>Charter:</strong> ${track.charter || 'N/A'}`;
       }
       if (modalDetails) {
         const lastUpdatedDate = lastFeatured && lastFeatured !== 'TBA' && lastFeatured !== 'Not available' 

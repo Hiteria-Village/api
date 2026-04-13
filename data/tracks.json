@@ -1950,5 +1950,292 @@
       "drums": ""
     },
     "charter": "Equinox"
+},
+  "teardrinker": {
+	  "title": "Teardrinker",    
+	  "artist": "Mastodon",    
+    "releaseYear": 2024,
+    "cover": "teardrinker.png",
+    "bpm": 127,
+    "key": "C Minor",
+    "duration": "5m 25s",
+    "genre": "Metal",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 5,
+      "bass": 4,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-18T00:00:00.000Z",
+    "lastFeatured": "2026-04-18T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7z7A9g6N2prBVa0baThmGq",
+    "videoUrl": "teardrinker.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/teardrinker.mp3",
+    "shop": false,
+    "keys": "false",
+    "sid": "sid_47",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+},
+  "gigantium": {
+	  "title": "Gigantium",    
+	  "artist": "Mastodon",    
+    "releaseYear": 2024,
+    "cover": "gigantium.png",
+    "bpm": 127,
+    "key": "C Minor",
+    "duration": "7m 02s",
+    "genre": "Metal",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "lead": 6,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-18T00:00:00.000Z",
+    "lastFeatured": "2026-04-18T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "3arkkOUA4fUZxtiErMRCiF",
+    "videoUrl": "teardrinker.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/gigantium.mp3",
+    "shop": false,
+    "keys": "false",
+    "sid": "sid_23",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+},
+  "ninelie": {
+	  "title": "Ninelie (REDSHiFT X Vesuvia Remix)",    
+	  "artist": "Aimer with chelly (EGOIST)",    
+    "releaseYear": 2016,
+    "cover": "ninelie.png",
+    "bpm": 178,
+    "key": "C Minor",
+    "duration": "3m 57s",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 5,
+      "bass": 4,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-18T00:00:00.000Z",
+    "lastFeatured": "2026-04-18T00:00:00.000Z",
+    "complete": "100%",
+    "videoUrl": "ninelie.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/ninelie.mp3",
+    "shop": false,
+    "keys": "true",
+    "sid": "sid_56",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+},
+  "standingnexttoyou": {
+	  "title": "Standing Next To You",    
+	  "artist": "Jung Kook",    
+    "releaseYear": 2023,
+    "cover": "standingnexttoyou.png",
+    "bpm": 106,
+    "key": "D Minor",
+    "duration": "3m 27s",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 4,
+      "bass": 3,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-18T00:00:00.000Z",
+    "lastFeatured": "2026-04-18T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "2KslE17cAJNHTsI2MI0jb2",
+    "videoUrl": "standingnexttoyou.mp4",
+    "videoPosition": 20.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/standingnexttoyou.mp3",
+    "shop": false,
+    "keys": "true",
+    "sid": "sid_39",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+},
+  "coldcall": {
+	  "title": "Cold Call",    
+	  "artist": "UpGoofed",    
+    "releaseYear": 2025,
+    "cover": "coldcall.png",
+    "bpm": 173,
+    "key": "G Minor",
+    "duration": "1m 39s",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "lead": 4,
+      "bass": 4,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-18T00:00:00.000Z",
+    "lastFeatured": "2026-04-18T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7m0x6PMfBcVZJqAl4hrFzc",
+    "videoUrl": "coldcall.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/coldcall.mp3",
+    "shop": false,
+    "keys": "true",
+    "sid": "sid_58",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox, Eezku"
+},
+  "shesalliwannabe": {
+	  "title": "she's all i wanna be",    
+	  "artist": "Tate McRae",    
+    "releaseYear": 2022,
+    "cover": "shesalliwannabe.png",
+    "bpm": 160,
+    "key": "D Minor",
+    "duration": "3m 37s",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 3,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-18T00:00:00.000Z",
+    "lastFeatured": "2026-04-18T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7l9IqDtVWJurTvkQHq1BGh",
+    "videoUrl": "shesalliwannabe.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "previewUrl": "/assets/audio/shesalliwannabe.mp3",
+    "shop": false,
+    "keys": "false",
+    "sid": "sid_57",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
   }
 }
