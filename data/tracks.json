@@ -1096,6 +1096,7 @@
     "videoPosition": 80,
     "loading_phrase": "oct_MANTRA.png",
     "rank": true,
+    "currentVersion": 2,
     "previewUrl": "/assets/audio/mantra.mp3",
     "shop": true,
     "sid": "sid_22",
@@ -1954,6 +1955,7 @@
   "teardrinker": {
 	  "title": "Teardrinker",    
 	  "artist": "Mastodon",    
+    "album": "Hushed and Grim",
     "releaseYear": 2024,
     "cover": "teardrinker.png",
     "bpm": 127,
@@ -2002,6 +2004,7 @@
   "gigantium": {
 	  "title": "Gigantium",    
 	  "artist": "Mastodon",    
+    "album": "Hushed and Grim",
     "releaseYear": 2024,
     "cover": "gigantium.png",
     "bpm": 127,
@@ -2097,6 +2100,7 @@
   "standingnexttoyou": {
 	  "title": "Standing Next To You",    
 	  "artist": "Jung Kook",    
+    "album": "GOLDEN",
     "releaseYear": 2023,
     "cover": "standingnexttoyou.png",
     "bpm": 106,
@@ -2140,7 +2144,7 @@
       "bass": "",
       "drums": ""
     },
-    "charter": "Equinox"
+    "charter": "Eezku"
 },
   "coldcall": {
 	  "title": "Cold Call",    
@@ -2193,6 +2197,7 @@
   "shesalliwannabe": {
 	  "title": "she's all i wanna be",    
 	  "artist": "Tate McRae",    
+    "album": "i used to think i could fly",
     "releaseYear": 2022,
     "cover": "shesalliwannabe.png",
     "bpm": 160,
