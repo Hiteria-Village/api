@@ -1552,7 +1552,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       if (elements.logo) elements.logo.addEventListener('click', (e) => {
         e.preventDefault();
-        window.location.href = '/';
+        window.location.href = '/api/';
       });
       if (elements.searchInput) elements.searchInput.addEventListener('input', utils.debounce(trackModule.filterTracks, 300));
       if (elements.sortSelect) elements.sortSelect.addEventListener('change', trackModule.filterTracks);
