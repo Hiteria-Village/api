@@ -2342,7 +2342,7 @@
     "rank": true,
     "previewUrl": "/assets/audio/areyoulistening.mp3",
     "shop": false,
-    "keys": "false",
+    "keys": "true",
     "sid": "sid_63",
     "modalShadowColors": {
       "default": {
