@@ -2261,5 +2261,105 @@
       "drums": ""
     },
     "charter": "Luna"
+  },
+	"iwalkthisearth": {
+	  "title": "i walk this earth all by myself",    
+	  "artist": "EKKSTACY",    
+    "album": "NEGATIVE",
+    "releaseYear": 2021,
+    "cover": "iwalkthisearth.png",
+    "bpm": 166,
+    "key": "B♭ major",
+    "duration": "2m 29s",
+    "genre": "Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "lead": 1,
+      "bass": 2,
+      "drums": 1,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-20T00:00:00.000Z",
+    "lastFeatured": "2026-04-20T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7D0IY61gt3NAYBBRbq0BID",
+    "videoUrl": "iwalkthisearth.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "",
+    "rank": false,
+    "previewUrl": "/assets/audio/iwalkthisearth.mp3",
+    "shop": false,
+    "keys": "false",
+    "sid": "sid_68",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+	"areyoulistening": {
+	  "title": "areyoulistening",    
+	  "artist": "Gunnr",    
+    "album": "silk in shadows",
+    "releaseYear": 2025,
+    "cover": "areyoulistening.png",
+    "bpm": 140,
+    "key": "C♯ minor",
+    "duration": "1m 55s",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 5,
+      "lead": 1,
+      "bass": 0,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-19T22:30:00.000Z",
+    "lastFeatured": "2026-04-19T22:30:00.000Z",
+    "complete": "100%",
+    "spotify": "7D0IY61gt3NAYBBRbq0BID",
+    "videoUrl": "areyoulistening.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "oct_sid_63.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/areyoulistening.mp3",
+    "shop": false,
+    "keys": "false",
+    "sid": "sid_63",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
   }
 }
