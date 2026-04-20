@@ -2269,7 +2269,7 @@
     "releaseYear": 2021,
     "cover": "iwalkthisearth.png",
     "bpm": 166,
-    "key": "B♭ major",
+    "key": "B♭ Major",
     "duration": "2m 29s",
     "genre": "Hip-Hop",
     "rating": "Everyone",
@@ -2319,7 +2319,7 @@
     "releaseYear": 2025,
     "cover": "areyoulistening.png",
     "bpm": 140,
-    "key": "C♯ minor",
+    "key": "C♯ Minor",
     "duration": "1m 55s",
     "genre": "Electronic",
     "rating": "Everyone",
@@ -2361,5 +2361,203 @@
       "drums": ""
     },
     "charter": "Luna"
+  },
+	"highanddry": {
+	  "title": "High and Dry",    
+	  "artist": "Radiohead",  
+    "album": "The Bends",
+    "releaseYear": 1995,
+    "cover": "highanddry.png",
+    "bpm": 88,
+    "key": "F Major",
+    "duration": "4m 20s",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 3,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-24T22:30:00.000Z",
+    "lastFeatured": "2026-04-24T22:30:00.000Z",
+    "complete": "100%",
+    "spotify": "2a1iMaoWQ5MnvLFBDv4qkf",
+    "videoUrl": "highanddry.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "oct_sid_46.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/highanddry.mp3",
+    "shop": false,
+    "keys": "false",
+    "sid": "sid_46",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox, Eezku"
+  },
+	"wewontbealone": {
+	  "title": "We Won't Be Alone",    
+	  "artist": "Feint, Laura Brehm",    
+    "releaseYear": 2025,
+    "cover": "wewontbealone.png",
+    "bpm": 175,
+    "key": "B Minor",
+    "duration": "3m 56s",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 3,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-24T22:30:00.000Z",
+    "lastFeatured": "2026-04-24T22:30:00.000Z",
+    "complete": "100%",
+    "spotify": "3AayefDdUFxivRs79bX7kV",
+    "videoUrl": "wewontbealone.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "oct_sid_30.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/wewontbealone.mp3",
+    "shop": false,
+    "keys": "true",
+    "sid": "sid_30",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+	"ainov": {
+    "title": "Ai Nov",
+    "artist": "Feryquitous",   
+    "album": "ONGEKI Sound Collection 01",
+    "releaseYear": 2019,
+    "cover": "ainov.png",
+    "bpm": 195,
+    "key": "E Major",
+    "duration": "2m 10s",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 6,
+      "bass": 4,
+      "drums": 6,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-24T22:30:00.000Z",
+    "lastFeatured": "2026-04-24T22:30:00.000Z",
+    "complete": "100%",
+    "videoUrl": "ainov.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "oct_sid_53.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/ainov.mp3",
+    "shop": false,
+    "keys": "true",
+    "sid": "sid_53",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+	"livinginabox": {
+	  "title": "Living In A Box",    
+	  "artist": "Living in a Box",    
+    "album": "Living In A Box",
+    "releaseYear": 1987,
+    "cover": "livinginabox.png",
+    "bpm": 111,
+    "key": "C Major",
+    "duration": "3m 08s",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 4,
+      "bass": 4,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-24T22:30:00.000Z",
+    "lastFeatured": "2026-04-24T22:30:00.000Z",
+    "complete": "100%",
+    "spotify": "4j2non7vSAI1dZwsBIdGLz",
+    "videoUrl": "livinginabox.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "oct_sid_32.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/livinginabox.mp3",
+    "shop": false,
+    "keys": "true",
+    "sid": "sid_32",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
   }
 }
