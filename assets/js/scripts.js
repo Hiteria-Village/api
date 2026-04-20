@@ -3,11 +3,11 @@
 document.addEventListener('DOMContentLoaded', () => {
   // Preload instrument images
   const instrumentImages = [
-    '/assets/images/vocals.png',
-    '/assets/images/lead.png',
-    '/assets/images/keys.png',
-    '/assets/images/bass.png',
-    '/assets/images/drums.png'
+    '/api/assets/images/vocals.png',
+    '/api/assets/images/lead.png',
+    '/api/assets/images/keys.png',
+    '/api/assets/images/bass.png',
+    '/api/assets/images/drums.png'
   ];
   
   instrumentImages.forEach(src => {
@@ -175,11 +175,11 @@ document.addEventListener('DOMContentLoaded', () => {
       // Collect all unique cover images
       tracks.forEach(track => {
         if (track.cover) {
-          imageUrls.add(`/assets/covers/${track.cover}`);
+          imageUrls.add(`/api/assets/covers/${track.cover}`);
         }
         // Also preload rank images if they exist
         if (track.rank === true && track.loading_phrase) {
-          imageUrls.add(`/assets/images/${track.loading_phrase}`);
+          imageUrls.add(`/api/assets/images/${track.loading_phrase}`);
         }
       });
       
@@ -484,12 +484,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
       // Set blurred album art background
       if (cover) {
-        modalContent.style.setProperty('--modal-bg-image', `url('/assets/covers/${cover}')`);
+        modalContent.style.setProperty('--modal-bg-image', `url('/api/assets/covers/${cover}')`);
         const beforeStyle = document.createElement('style');
         beforeStyle.id = 'modal-bg-style';
         const existingStyle = document.getElementById('modal-bg-style');
         if (existingStyle) existingStyle.remove();
-        beforeStyle.textContent = `.modal-content::before { background-image: url('/assets/covers/${cover}'); }`;
+        beforeStyle.textContent = `.modal-content::before { background-image: url('/api/assets/covers/${cover}'); }`;
         document.head.appendChild(beforeStyle);
       }
 
@@ -547,7 +547,7 @@ document.addEventListener('DOMContentLoaded', () => {
       
       // Check if rank is true to display image instead of text
       if (rank === true && loading_phrase) {
-        loadingPhraseElement.innerHTML = `<center><img src="/assets/images/${loading_phrase}" alt="Rank" style="max-width: 100%; max-height: 120px; height: auto; object-fit: contain;" /><br><span class="rank-reward-text">Rank Reward</span></center>`;
+        loadingPhraseElement.innerHTML = `<center><img src="/api/assets/images/${loading_phrase}" alt="Rank" style="max-width: 100%; max-height: 120px; height: auto; object-fit: contain;" /><br><span class="rank-reward-text">Rank Reward</span></center>`;
       } else {
         loadingPhraseElement.innerHTML = `<center><strong></strong> ${loading_phrase || 'Not available'}</p>`;
       }
@@ -613,11 +613,11 @@ document.addEventListener('DOMContentLoaded', () => {
         if (previewUrl.includes('208.92.234.17:8000/stream/')) {
           // Extract filename from streaming URL and use local audio file
           const fileName = previewUrl.split('/').pop();
-          localAudioUrl = `/assets/audio/${fileName}`;
+          localAudioUrl = `/api/assets/audio/${fileName}`;
         } else if (previewUrl.endsWith('.mp3')) {
           // If it's already a .mp3 file, construct local path from filename
           const fileName = previewUrl.split('/').pop();
-          localAudioUrl = `/assets/audio/${fileName}`;
+          localAudioUrl = `/api/assets/audio/${fileName}`;
         }
         
         audioModule.playPreview(localAudioUrl, preview_time, preview_end_time);
@@ -638,7 +638,7 @@ document.addEventListener('DOMContentLoaded', () => {
         videoElement.playsInline = true; // Important for iOS - prevents fullscreen
         videoElement.setAttribute('webkit-playsinline', 'true'); // Extra iOS compatibility
         videoElement.setAttribute('playsinline', 'true'); // Ensure inline playback
-        videoElement.innerHTML = `<source src="/assets/preview/${videoUrl}" type="video/mp4">`;
+        videoElement.innerHTML = `<source src="/api/assets/preview/${videoUrl}" type="video/mp4">`;
         videoElement.style.objectFit = 'cover';
         videoElement.style.objectPosition = `center ${positionPercent}%`;
         videoElement.style.transform = `scale(${videoZoom || 1})`;
@@ -670,7 +670,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const modalDetails = elements.modal.querySelector('#modalDetails');
       const modalDifficulties = elements.modal.querySelector('#modalDifficulties');
 
-      if (modalCover) modalCover.src = `/assets/covers/${cover}`;
+      if (modalCover) modalCover.src = `/api/assets/covers/${cover}`;
       if (modalTitle) modalTitle.textContent = title;
       if (modalArtist) modalArtist.textContent = artist;
       if (modalDuration) {
@@ -877,7 +877,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       }
 
-      if (elements.videoTrackCover) elements.videoTrackCover.src = `/assets/covers/${track.cover}`;
+      if (elements.videoTrackCover) elements.videoTrackCover.src = `/api/assets/covers/${track.cover}`;
       if (elements.videoTrackTitle) elements.videoTrackTitle.textContent = track.title;
       if (elements.videoTrackArtist) elements.videoTrackArtist.textContent = track.artist;
       if (elements.videoTrackDuration) elements.videoTrackDuration.textContent = `${track.releaseYear} | ${track.duration}`;
@@ -1067,7 +1067,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const loadingSpinner = document.createElement('div');
       loadingSpinner.className = 'loading-spinner';
       const img = new Image();
-      img.src = `/assets/covers/${track.cover}`;
+      img.src = `/api/assets/covers/${track.cover}`;
       img.alt = `${track.title} Cover`;
       img.style.display = 'none';
       img.onload = () => {
@@ -1076,8 +1076,8 @@ document.addEventListener('DOMContentLoaded', () => {
         img.classList.add('loaded');
       };
       img.onerror = () => {
-        console.error(`Failed to load cover: /assets/covers/${track.cover}`);
-        img.src = '/assets/covers/fallback.jpg';
+        console.error(`Failed to load cover: /api/assets/covers/${track.cover}`);
+        img.src = '/api/assets/covers/fallback.jpg';
         loadingSpinner.remove();
         img.style.display = '';
         img.classList.add('loaded');
@@ -1097,11 +1097,11 @@ document.addEventListener('DOMContentLoaded', () => {
           if (track.previewUrl.includes('208.92.234.17:8000/stream/')) {
             // Extract filename from streaming URL and use local audio file
             const fileName = track.previewUrl.split('/').pop();
-            localAudioUrl = `/assets/audio/${fileName}`;
+            localAudioUrl = `/api/assets/audio/${fileName}`;
           } else if (track.previewUrl.endsWith('.mp3')) {
             // If it's already a .mp3 file, construct local path from filename
             const fileName = track.previewUrl.split('/').pop();
-            localAudioUrl = `/assets/audio/${fileName}`;
+            localAudioUrl = `/api/assets/audio/${fileName}`;
           }
           
           audioModule.playPreview(localAudioUrl, track.preview_time, track.preview_end_time);
@@ -1200,7 +1200,7 @@ document.addEventListener('DOMContentLoaded', () => {
       listItem.setAttribute('aria-label', `Open ${track.title} by ${track.artist}`);
       
       listItem.innerHTML = `
-        <img src="/assets/covers/${track.cover}" alt="${track.title}" class="mobile-track-cover" onerror="this.src='/assets/covers/fallback.jpg'">
+        <img src="/api/assets/covers/${track.cover}" alt="${track.title}" class="mobile-track-cover" onerror="this.src='/api/assets/covers/fallback.jpg'">
         <div class="mobile-track-info">
           <div class="mobile-track-title">${track.title}</div>
           <div class="mobile-track-artist">${track.artist}</div>
@@ -1221,10 +1221,10 @@ document.addEventListener('DOMContentLoaded', () => {
           
           if (track.previewUrl.includes('208.92.234.17:8000/stream/')) {
             const fileName = track.previewUrl.split('/').pop();
-            localAudioUrl = `/assets/audio/${fileName}`;
+            localAudioUrl = `/api/assets/audio/${fileName}`;
           } else if (track.previewUrl.endsWith('.mp3')) {
             const fileName = track.previewUrl.split('/').pop();
-            localAudioUrl = `/assets/audio/${fileName}`;
+            localAudioUrl = `/api/assets/audio/${fileName}`;
           }
           
           audioModule.playPreview(localAudioUrl, track.preview_time, track.preview_end_time);
