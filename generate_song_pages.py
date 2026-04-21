@@ -25,7 +25,7 @@ def generate_song_pages():
     <meta property="og:description" content="{description}">
     <meta property="og:type" content="music.song">
     <meta property="og:image" content="{image_url}">
-    <meta property="og:url" content="https://hiteriavillage.github.io/songs/{identifier}.html">
+    <meta property="og:url" content="https://hiteriavillage.com/songs/{identifier}.html">
     <meta property="og:site_name" content="Hiteria Village">
     <meta property="music:musician" content="{artist}">
     <meta property="music:release_date" content="{release_year}">
