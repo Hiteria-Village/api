@@ -472,7 +472,7 @@ document.addEventListener('DOMContentLoaded', () => {
       modalModule.renderModal(track);
       
       if (track.identifier) {
-        setTimeout(() => { window.location.hash = track.identifier; }, 0);
+        setTimeout(() => { history.pushState({ track: track.identifier }, '', `/songs/${track.identifier}`); }, 0);
       }
     },
     renderModal: (track) => {
@@ -729,9 +729,8 @@ document.addEventListener('DOMContentLoaded', () => {
       state.currentPreviewUrl = '';
       state.isFadingOut = false;
       
-      // Clear the URL hash when closing modal
-      if (window.location.hash) {
-        history.replaceState(null, null, ' ');
+      if (window.location.pathname.startsWith('/songs/')) {
+        history.replaceState(null, null, '/songs');
       }
       
       // Clear replay timeout
@@ -761,8 +760,9 @@ document.addEventListener('DOMContentLoaded', () => {
       
       modalModule.stopGlowInterval();
       
-      // Clear hash from URL
-      history.replaceState(null, null, ' ');
+      if (window.location.pathname.startsWith('/songs/')) {
+        history.replaceState(null, null, '/songs');
+      }
       
       const modalContent = elements.modal.querySelector('.modal-content');
       if (modalContent) {
@@ -780,9 +780,8 @@ document.addEventListener('DOMContentLoaded', () => {
         if (newTrack) {
           modalModule.stopGlowInterval();
           
-          // Update URL hash with new track identifier
           if (newTrack.identifier) {
-            window.location.hash = newTrack.identifier;
+            history.pushState({ track: newTrack.identifier }, '', `/songs/${newTrack.identifier}`);
           }
           
           modalModule.renderModal(newTrack);
@@ -1481,14 +1480,15 @@ document.addEventListener('DOMContentLoaded', () => {
       const modalNext = elements.modal.querySelector('.modal-next');
       if (modalNext) modalNext.addEventListener('click', () => modalModule.navigateModal(1));
       
-      // Handle hash changes (for direct URL access and browser navigation)
-      window.addEventListener('hashchange', () => {
-        const hash = window.location.hash.slice(1); // Remove the # symbol
+      window.addEventListener('popstate', () => {
+        const identifier = window.location.pathname.startsWith('/songs/')
+          ? window.location.pathname.split('/songs/')[1]
+          : null;
         const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent) || window.innerWidth <= 768;
         
-        if (hash && hash.trim() !== '' && state.tracksData.length > 0) {
+        if (identifier && identifier.trim() !== '' && state.tracksData.length > 0) {
           const track = state.tracksData.find(t => 
-            t.identifier && t.identifier.toLowerCase() === hash.toLowerCase()
+            t.identifier && t.identifier.toLowerCase() === identifier.toLowerCase()
           );
           if (track) {
             // Unmute audio for direct links (but not on mobile)
@@ -1552,7 +1552,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       if (elements.logo) elements.logo.addEventListener('click', (e) => {
         e.preventDefault();
-        window.location.href = '/api/';
+        window.location.href = 'https://hiteriavillage.com';
       });
       if (elements.searchInput) elements.searchInput.addEventListener('input', utils.debounce(trackModule.filterTracks, 300));
       if (elements.sortSelect) elements.sortSelect.addEventListener('change', trackModule.filterTracks);
@@ -1568,9 +1568,11 @@ document.addEventListener('DOMContentLoaded', () => {
       }
       if (elements.shareButton) {
         elements.shareButton.addEventListener('click', () => {
-          const hash = window.location.hash.slice(1);
-          if (hash) {
-            const shareUrl = `http://hiteria-village.github.io/hiteriavillage.github.io/songs/${hash}`;
+          const identifier = window.location.pathname.startsWith('/songs/')
+            ? window.location.pathname.split('/songs/')[1]
+            : null;
+          if (identifier) {
+            const shareUrl = `https://hiteriavillage.com/songs/${identifier}`;
             navigator.clipboard.writeText(shareUrl).then(() => {
               // Show feedback - change SVG to checkmark
               const svg = elements.shareButton.querySelector('svg');
@@ -1783,7 +1785,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Initialize volume from localStorage
     audioModule.initializeVolume();
     
-    utils.fetchWithRetry(`data/tracks.json?_=${Date.now()}`)
+    utils.fetchWithRetry(`/data/tracks.json?_=${Date.now()}`)
       .then((data) => {
         state.tracksData = Object.entries(data).map(([identifier, track], index) => ({
           ...track,
@@ -1803,12 +1805,14 @@ document.addEventListener('DOMContentLoaded', () => {
         // Preload all cover images
         utils.preloadImages(state.tracksData);
         
-        const hash = window.location.hash.slice(1);
+        const identifier = window.location.pathname.startsWith('/songs/')
+          ? window.location.pathname.split('/songs/')[1]
+          : window.location.hash.slice(1); 
         const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent) || window.innerWidth <= 768;
         
-        if (hash && (!isMobile || hash.trim() !== '')) {
+        if (identifier && (!isMobile || identifier.trim() !== '')) {
           const track = state.tracksData.find(t => 
-            t.identifier && t.identifier.toLowerCase() === hash.toLowerCase()
+            t.identifier && t.identifier.toLowerCase() === identifier.toLowerCase()
           );
           
           if (track) {

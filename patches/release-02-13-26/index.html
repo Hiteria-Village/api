@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="theme-color" content="#000000">
+    <meta name="description" content="Release 02/13/26 - Hiteria Village Patch Notes">
+    <meta property="og:title" content="Release 02/13/26 - Hiteria Village">
+    <meta property="og:description" content="Hiteria Village Chapter 2 is Here!">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://hiteriavillage.github.io/assets/images/logo.png">
+    <meta property="og:url" content="https://hiteriavillage.github.io/patches/release-02-13-26.html">
+    <meta property="og:site_name" content="Hiteria Village">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Release 02/13/26 - Hiteria Village">
+    <meta name="twitter:description" content="Hiteria Village Chapter 2 is Here">
+    <meta name="twitter:image" content="https://hiteriavillage.github.io/assets/images/logo.png">
+    <title>Release 02/13/26 - Hiteria Village</title>
+    <link rel="icon" type="image/x-icon" href="../../favicon.ico">
+    <link rel="icon" type="image/png" href="../../assets/images/logo.png">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #4a5568 0%, #2d3748 25%, #1a202c 50%, #2b6cb0 75%, #3182ce 100%);
+            background-size: 400% 400%;
+            animation: waveGradient 8s ease-in-out infinite;
+            min-height: 100vh;
+            color: white;
+            padding: 20px;
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        body::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(circle at 20% 80%, rgba(59, 130, 246, 0.3) 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, rgba(107, 114, 128, 0.3) 0%, transparent 50%),
+                radial-gradient(circle at 40% 40%, rgba(75, 85, 99, 0.2) 0%, transparent 50%);
+            z-index: -1;
+        }
+
+        @keyframes waveGradient {
+            0%, 100% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            animation: fadeIn 0.8s ease-in;
+        }
+
+        .header img {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 20px;
+            filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.3));
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            font-weight: 700;
+            text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .back-button {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border: 2px solid rgba(255, 255, 255, 0.2);
+            border-radius: 50px;
+            padding: 12px 20px;
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .back-button:hover {
+            background: rgba(255, 255, 255, 0.15);
+            border-color: rgba(255, 255, 255, 0.4);
+            transform: translateY(-2px);
+        }
+
+        .content-container {
+            max-width: 900px;
+            margin: 0 auto;
+            animation: fadeInUp 1s ease-in;
+        }
+
+        .patch-container {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 30px;
+            border: 2px solid rgba(255, 255, 255, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .patch-container:hover {
+            background: rgba(255, 255, 255, 0.15);
+            border-color: rgba(255, 255, 255, 0.4);
+        }
+
+        .patch-date {
+            font-size: 0.9em;
+            opacity: 0.7;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .patch-section {
+            margin-bottom: 50px;
+        }
+
+        .patch-section h3 {
+            font-size: 2.2em;
+            font-weight: 700;
+            margin-bottom: 25px;
+            color: #fff;
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+            border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+            padding-bottom: 10px;
+        }
+
+        .patch-subsection {
+            margin-bottom: 30px;
+        }
+
+        .patch-subsection h4 {
+            font-size: 1.4em;
+            font-weight: 600;
+            margin-bottom: 15px;
+            color: #e0e0e0;
+            text-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        .patch-section ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .patch-section li {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 6px;
+            padding: 12px 16px;
+            margin-bottom: 8px;
+            border-left: 3px solid rgba(255, 255, 255, 0.3);
+            transition: all 0.2s ease;
+            font-size: 0.95em;
+            line-height: 1.6;
+        }
+
+        .patch-section li:hover {
+            background: rgba(255, 255, 255, 0.08);
+            border-left-color: rgba(255, 255, 255, 0.5);
+        }
+
+        .patch-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 12px;
+            margin: 25px 0;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+            border: 2px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .patch-image-caption {
+            text-align: center;
+            font-size: 0.9em;
+            opacity: 0.7;
+            margin-top: -15px;
+            margin-bottom: 25px;
+            font-style: italic;
+        }
+
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+            margin: 25px 0;
+            border-radius: 12px;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+            border: 2px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 12px;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2em;
+            }
+
+            .header img {
+                width: 60px;
+                height: 60px;
+            }
+
+            .patch-container {
+                padding: 25px;
+            }
+
+            .patch-section h3 {
+                font-size: 1.8em;
+            }
+
+            .patch-subsection h4 {
+                font-size: 1.2em;
+            }
+
+            .back-button {
+                position: relative;
+                top: 0;
+                left: 0;
+                margin-bottom: 20px;
+                align-self: flex-start;
+            }
+        }
+    </style>
+</head>
+<body>
+    <a href="/patch-notes" class="back-button">
+        <span>←</span>
+        Back to Patch Notes
+    </a>
+
+    <div class="header">
+        <img src="../../assets/images/logo.png" alt="Hiteria Village Logo">
+        <h1>Release | 02/13/26</h1>
+        <p>Patch Notes</p>
+    </div>
+
+    <div class="content-container">
+        <div class="patch-container">
+            <div class="patch-date">Hiteria Village Chapter 2 is Here</div>
+                        <div class="patch-section">
+                <h3>Hiteria Village | Chapter 2</h3>
+                
+                <div class="patch-subsection">
+                    <h4>Chapter 2 Spawn</h4>
+                                        <ul>
+                        <li>Spawn Area
+                    </li>
+                    When you load into the game this is where you will start. There is 4 building in each corner. First is a Pokemon Center, Second is a Music Shop, Third is a Poke Mart, Fourth is a Normal Shop. 
+                    <ul>
+                 <img src="../../assets/images/patch1_14.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">New Spawn</div>
+                                        <li>Octave Stage
+                    </li>
+                    This is where you can play Octave songs at spawn. It will sometimes bug out when there are other people playing and you approach at the moment. But it's free for anyone if they don't have a stage yet.
+                    <ul>
+                 <img src="../../assets/images/patch1_9.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Stage Area</div>
+                                        <li>Arena Island
+                    </li>
+                    This is a place people can battle other trainers. It looks kinda ass cuz John made it.
+                    <ul>
+                 <img src="../../assets/images/patch1_11.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Arena Area</div>
+                                        <li>Lava Dome
+                    </li>
+                    Returning from the previous Chapter is the Staff Lava Dome. This will be important to the lore later on trust.
+                    <ul>
+                 <img src="../../assets/images/patch1_12.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Dome</div>
+                                                        <li>Leaderboard Island
+                    </li>
+            This island will eventually show leaderboards and the top players. But for the moment it's not finished. I had to make too many mods in a short amount of time and this didn't make the cut.
+                    <ul>
+                 <img src="../../assets/images/patch1_10.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Leaderboard House</div>
+                                                    
+            <div class="patch-section">
+                <h3>General</h3>
+                
+                <div class="patch-subsection">
+                    <h4>Exclusive To Hiteria Village | Chapter 2</h4>
+                                        <ul>
+                        <li>New Inventory Buttons
+                    </li>
+                    New to Hiteria Village is this side panel that I totally didn't take forever to code. This sidebar will make it so you can access the new menus exclusive to Hiteria Village.
+                        </li>
+                    <ul>
+                        
+                <img src="../../assets/images/patch1_1.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">New Inventory Sidebar</div>
+
+                        <li>Item Shop</li>
+                    </li>
+                    To Access The Shop. You click this button in your inventory.
+
+                <img src="../../assets/images/patch1_2.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">How to Access New Shop System</div>
+
+                        <li>Shop Menu</li>
+                    </li>
+                    Featured in the New Chapter is a Item Shop. You will be able to buy songs for Octave here and exclusive items. There will also later on be normal items like pokeballs and food items gradually added to buy with gold. 
+                        </li>
+                <img src="../../assets/images/patch1_3.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Showcase Of New Shop Menu</div>
+
+                        <li>Limited Time Shop Items</li>
+                    </li>
+                    For a Limited Time. You can pick up the Revenge Music Track for Free for the next month. After this it will come back at a later date for 500 Gems
+                        </li>
+                <img src="../../assets/images/patch1_4.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Free For A Limited Time</div>
+
+                        <li>Music Track Pack</li>
+                                            </li>
+                    To celebrate the launch of Octave. We will have a starter pack with the first week drop of songs avaiable in the shop for a limited time.
+                <img src="../../assets/images/patch1_5.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Release Drop | Starter Pack</div>
+
+                        <li>New Quest System</li>
+                                            </li>
+                    You might of seen I mentioned "Gems" a lot. This is actually the main currency for Music Packs and Exclusive Items. Gems will be obtained by doing quests in the quests section of the Inventory.  <br>
+                    <br>
+                    To Access The Quests Click This Button 
+                <img src="../../assets/images/patch1_7.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">How To Access New Quest System</div>
+                                                            </li>
+                    For the quests you will get daily and weekly quests every day and week for normal Minecraft related stuff and Octave. There will also be Milestones and Story Quests and later on and Cobblemon Quests when I figure out Cobblemon code. There is also Song Rewards but I'll get to that later on in the patch notes.<br>
+                    <br>
+                <img src="../../assets/images/patch1_6.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Quest Menu</div>
+
+                <h3>Octave</h3>
+                
+                <div class="patch-subsection">
+        <div class="patch-subsection">
+                    <h4>Launching Exclusively On Hiteria Village</h4>
+                    Octave is a Music Mode. Very similar to Fortnite Festival. It will launch first on Hiteria Village with 6 Tracks. I plan on eventually making it singleplayer and uploading it to Modrinth. But for now it will be exclusive to Hiteria. We plan on releasing at least 4 music tracks a week, These tracks will be exclusive to Hiteria. We don't plan on uploading any songs outside of Hiteria Village at the moment. We actively look through the music suggestions chat on Discord so if there is any songs you want added post it in Discord.
+                        </li>
+ <br> 
+
+                    </li>
+                <img src="../../assets/images/week1.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Week 1 Song Drops</div>
+
+                                                <li>Octave Song List Menu
+                    </li>
+                    After obtaining a Stage Block from the Item Shop and placing it in a flat 8x5 area you can right click it and this is the menu you will see. I recommend buying Revenge so you actually have a song to try.
+ <br> 
+                <img src="../../assets/images/patch1_15.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Song List Menu</div>
+                    </li>
+                    Also make sure to click Settings and tweak your settings to what you prefer. It's important before playing.
+ <br> 
+                <img src="../../assets/images/patch1_16.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Octave Settings Menu</div>
+                                    </li>
+                    More details will be shared in this video.
+ <br> 
+                <div class="video-container">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Jwld4AlfYFw?si=nVbIlIv8AuzBWg11&vq=hd1080" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+ <br> 
+ <h3>Profile Menu</h3>
+                     </li>
+                    Once in development for the previous Chapter. I finally got it done. Here's the profile menu.
+ <br> 
+  <br> 
+ Anyone who talks in chat you can click their name to access their profile. Through this profile you can add them or check out their stats and cosmetics. This profile menu is early and partially doesn't work but once I flesh it out in a future update it will be useful. Also you can change your bio with /bio
+            <div class="patch-section">
+                <img src="../../assets/images/patch1_8.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Song List Menu</div>
+
+            <div class="patch-section">
+                <h3>Technical Updates</h3>
+                
+                <div class="patch-subsection">
+                    <h4>Performance</h4>
+                    <ul>
+                        <li>Faster Modpack Download Times</li>
+                        <li>Faster Bootup</li>
+                        <li>Several Mods Have Been Unadded For Better Performance</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+                                <br> 
+ Thanks for reading. There will be more info added probably in a later patch note.
+    </div>
+</body>
+</html>

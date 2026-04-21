@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="theme-color" content="#000000">
+    <meta name="description" content="Browse and discover Octave tracks">
+    <meta property="og:title" content="Hiteria Village">
+    <meta property="og:description" content="Browse and discover Octave tracks">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="http://hiteria-village.github.io/hiteriavillage.github.io/assets/images/logo.png">
+    <meta property="og:url" content="http://hiteria-village.github.io/hiteriavillage.github.io/tracks.html">
+    <meta property="og:site_name" content="Hiteria Village">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Hiteria Village">
+    <meta name="twitter:description" content="Browse and discover Octave tracks">
+    <meta name="twitter:image" content="http://hiteria-village.github.io/hiteriavillage.github.io/assets/images/logo.png">
+    <title>Hiteria Village | Octave Tracks</title>
+    <link rel="icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="icon" type="image/png" href="../assets/images/logo.png">
+    <link rel="stylesheet" href="../assets/css/styles.css?v10">
+    <link rel="stylesheet" href="../assets/css/modal-layout.css?v1">
+    <link rel="stylesheet" href="../assets/css/volume-controls.css?v1">
+    <link rel="stylesheet" href="../assets/css/volume-controls.css?v1">
+    <script type="module" src="../assets/js/scripts.js?v10"></script>
+    <!-- Spotify Player Integration -->
+    <script src="../assets/js/spotify-player.js"></script>
+    <script src="../assets/js/tracks-integration.js"></script>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-left">
+                <a href="/" id="logo">
+                    <img src="../assets/images/logo.png" alt="Logo" width="40" height="40">
+                </a>
+            </div>
+            <div class="search-wrapper">
+                <input type="search" id="searchInput" placeholder="Search tracks..." aria-label="Search Tracks">
+            </div>
+            <div class="header-right">
+                <div class="settings-menu-container">
+                    <button id="settingsButton" title="Settings" aria-label="Open settings menu">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M19.14 12.94c.04-.3.06-.61.06-.94 0-.33-.02-.64-.06-.94l2.03-1.58c.18-.14.23-.41.12-.61l-1.92-3.32c-.12-.22-.37-.29-.59-.22l-2.39.96c-.5-.38-1.03-.7-1.62-.94l-.36-2.54c-.04-.24-.24-.43-.48-.43h-3.84c-.24 0-.44.19-.48.43l-.36 2.54c-.59.24-1.12.56-1.62.94l-2.39-.96c-.22-.07-.47 0-.59.22L2.74 8.87c-.12.21-.07.47.12.61l2.03 1.58c-.04.3-.06.61-.06.94 0 .33.02.64.06.94l-2.03 1.58c-.18.14-.23.41-.12.61l1.92 3.32c.12.22.37.29.59.22l2.39-.96c.5.38 1.03.7 1.62.94l.36 2.54c.04.24.24.43.48.43h3.84c.24 0 .44-.19.48-.43l.36-2.54c.59-.24 1.12-.56 1.62-.94l2.39.96c.22.07.47 0 .59-.22l1.92-3.32c.12-.22.07-.47-.12-.61l-2.03-1.58zM12 15.6c-1.98 0-3.6-1.62-3.6-3.6s1.62-3.6 3.6-3.6 3.6 1.62 3.6 3.6-1.62 3.6-3.6 3.6z"/>
+                        </svg>
+                    </button>
+                    <ul id="settingsMenu" class="settings-menu" style="display: none;">
+                        <li data-setting="audio-fade">Fade In Audio: On</li>
+                        <li data-setting="modal-glow">Modal Glow: On</li>
+                        <li data-setting="text-glow">Text Glow: On</li>
+                        <li data-setting="grid-size">Grid Size: 
+                            <span data-grid-size="1">1</span> | 
+                            <span data-grid-size="2">2</span> | 
+                            <span data-grid-size="3">3</span> | 
+                            <span data-grid-size="4">4</span></li>
+                        </li>
+                        <li data-setting="modal-info">Modal Info: Hide</li>
+                        <li>Modal Info Position:
+                        <select data-setting="modal-info-position">
+                        <option value="left-side">Left Side</option>
+                        <option value="right-side">Right Side</option>
+                        <option value="bottom-left">Bottom Left</option>
+                        <option value="bottom-center">Bottom Center</option>
+                        <option value="bottom-right">Bottom Right</option>
+                        </select>
+                        </li>
+                        <li data-setting="reset">Reset Settings</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="header-info">
+        <div class="container">
+            <span id="trackCount" class="track-count"></span>
+        </div>
+    </div>
+    <main>
+        <div class="container">
+            <div class="filter-wrapper">
+                <select id="sortSelect" class="custom-select">
+                    <option value="latest">Sort: Latest (Recent Creation Date)</option>
+                    <option value="earliest">Sort: Earliest (Oldest Creation Date)</option>
+                    <option value="shortest">Sort: Shortest (Shortest Length)</option>
+                    <option value="longest">Sort: Longest (Longest Length)</option>
+                    <option value="slowest">Sort: Slowest (Lowest BPM)</option>
+                    <option value="fastest">Sort: Fastest (Highest BPM)</option>
+                    <option value="oldest">Sort: Oldest (Oldest Release Year)</option>
+                    <option value="newest">Sort: Newest (Recent Release Year)</option>
+                    <option value="charter">Sort: Charter (A-Z)</option>
+                    <option value="charter_za">Sort: Charter (Z-A)</option>
+                    <option value="easiest">Sort: Easiest (Avg. Difficulty)</option>
+                    <option value="hardest">Sort: Hardest (Avg. Difficulty)</option>
+                    <option value="genre_az">Sort: Genre (A-Z)</option>
+                    <option value="genre_za">Sort: Genre (Z-A)</option>
+                </select>
+            </div>
+            <div class="content">
+                <!-- Tracks will be added dynamically here -->
+            </div>
+            <div class="mobile-track-list" id="mobileTrackList">
+                <!-- Mobile list view will be added dynamically here -->
+            </div>
+        </div>
+    </main>
+    <div id="trackModal" class="modal">
+        <button class="modal-nav modal-prev">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
+                <path d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"/>
+            </svg>
+        </button>
+        <button class="modal-nav modal-next">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
+                <path d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/>
+            </svg>
+        </button>
+        <div class="modal-content">
+            <span class="modal-close">×</span>
+            <!-- Left Section: Track Info -->
+            <div class="modal-left-section">
+                <div class="modal-header">
+                    <div class="album-art-wrapper">
+                        <img id="modalCover" src="" alt="Track Cover" draggable="false">
+                    </div>
+                    <div class="track-info">
+                        <h2 id="modalTitle" translate="no"></h2>
+                        <p id="modalArtist" translate="no"></p>
+                        <p id="modalDuration" translate="no"></p>
+                    </div>
+                    <div class="button-container">
+                        <div class="volume-container">
+                            <button id="muteButton" aria-label="Toggle mute" aria-pressed="false">
+                                <span class="mute-icon" style="display: none;">🔇</span>
+                                <span class="unmute-icon">🔊</span>
+                            </button>
+                            <div class="volume-slider-container" id="volumeSliderContainer">
+                                <input type="range" id="volumeSlider" min="0" max="100" value="50" class="volume-slider">
+                                <div class="volume-percentage" id="volumePercentage">50%</div>
+                            </div>
+                        </div>
+                        <div class="video-menu-container">
+                            <button id="videoMenuButton" title="Videos" aria-label="Open video menu">
+                                <span class="video-icon">🎥</span>
+                            </button>
+                            <ul id="videoMenu" class="video-menu" style="display: none;">
+                                <li data-instrument="vocals"><span class="instrument-icon vocals"></span>Vocals</li>
+                                <li data-instrument="lead"><span class="instrument-icon lead"></span>Lead</li>
+                                <li data-instrument="bass"><span class="instrument-icon bass"></span>Bass</li>
+                                <li data-instrument="drums"><span class="instrument-icon drums"></span>Drums</li>
+                            </ul>
+                        </div>
+                        <button id="shareButton" title="Share Link" aria-label="Copy share link">
+                            <svg width="25" height="25" viewBox="0 0 24 24" fill="white">
+                                <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+                <div class="modal-body">
+                    <div id="modalDetails" class="modal-details"></div>
+                </div>
+            </div>
+            <!-- Right Section: Background Video -->
+            <div class="modal-right-section">
+                <!-- Video will be inserted here -->
+            </div>
+            <!-- Bottom Section: Difficulties -->
+            <div class="modal-bottom-section">
+                <div id="modalDifficulties" class="modal-difficulties"></div>
+            </div>
+        </div>
+    </div>
+    <div id="videoPopup" class="video-popup" style="display: none;">
+        <span class="video-popup-close">×</span>
+        <div class="video-popup-content">
+            <iframe id="youtubeIframe" width="560" height="315" src="" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+        </div>
+        <div class="video-sidebar">
+            <div class="track-info">
+                <img id="videoTrackCover" src="" alt="Jam Track Cover" class="track-cover" draggable="false">
+                <div class="track-info">
+                    <h2 id="videoTrackTitle" translate="no"></h2>
+                    <p id="videoTrackArtist" translate="no"></p>
+                    <p id="videoTrackDuration" translate="no"></p>
+                </div>
+            </div>
+            <h3>Instruments</h3>
+            <ul id="instrumentList" class="instrument-list">
+                <!-- Instrument options populated dynamically -->
+            </ul>
+        </div>
+            <div class="disclaimer">
+        Disclaimer: All tracks are free by progressing in game. No tracks are paid with real money.
+    </div>
+    </div>
+</body>
+</html>
