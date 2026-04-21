@@ -55,9 +55,9 @@ def generate_song_pages():
         description = f"{genre} • {duration} • {release_year}"
         
         if cover:
-            image_url = f"https://hiteriavillage.github.io/assets/covers/{cover}"
+            image_url = f"https://hiteriavillage.com/assets/covers/{cover}"
         else:
-            image_url = "https://hiteriavillage.github.io/assets/images/logo.png"
+            image_url = "https://hiteriavillage.com/assets/images/logo.png"
         
         html = template.format(
             identifier=identifier,
@@ -76,7 +76,7 @@ def generate_song_pages():
     
     print(f"\nTotal songs generated: {len(tracks)}")
     print("\nNow you can share links like:")
-    print("https://hiteriavillage.github.io/songs/crazy.html")
+    print("https://hiteriavillage.com/songs/crazy.html")
     print("\nThese will show proper embeds on Discord and redirect users to the main page.")
 
 if __name__ == '__main__':

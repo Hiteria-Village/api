@@ -2540,7 +2540,7 @@
     "rank": true,
     "previewUrl": "/assets/audio/livinginabox.mp3",
     "shop": false,
-    "keys": "true",
+    "keys": "false",
     "sid": "sid_32",
     "modalShadowColors": {
       "default": {
