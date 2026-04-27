@@ -1,0 +1,12 @@
+[
+  {
+	"itemRef": "stage",
+    "cost": 0,
+    "layout": "WIDE_RECTANGLE"
+  },
+  {
+	"itemRef": "hiteriaphone",
+    "cost": 0,
+    "layout": "WIDE_RECTANGLE"
+  }
+]
