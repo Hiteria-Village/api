@@ -2563,7 +2563,6 @@
 	"octavetutorial": {
 	  "title": "Octave Tutorial",    
 	  "artist": "Hiteria Village (ft. Jaydenz, lumiiess & RynTLDR)",    
-    "album": "",
     "releaseYear": 2026,
     "cover": "octavetutorial.png",
     "bpm": 120,
@@ -2609,5 +2608,201 @@
       "drums": ""
     },
     "charter": "Luna"
+  },
+  "musicsoundsbetterwithyou": {
+    "title": "Music Sounds Better With You",
+    "artist": "Stardust",
+    "releaseYear": 1998,
+    "cover": "musicsoundsbetterwithyou.png",
+    "bpm": 124,
+    "key": "C♯ Major",
+    "duration": "5m 47s",
+    "album": "Music Sounds Better With You",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "lead": 2,
+      "bass": 1,
+      "drums": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-27T00:00:00.000Z",
+    "lastFeatured": "2026-04-27T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "303ccTay2FiDTZ9fZ2AdBt",
+    "videoUrl": "musicsoundsbetterwithyou.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_59.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/musicsoundsbetterwithyou.mp3",
+    "shop": true,
+    "sid": "sid_59",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+  "apunk": {
+    "title": "A-Punk",
+    "artist": "Vampire Weekend",
+    "releaseYear": 2008,
+    "cover": "apunk.png",
+    "bpm": 175,
+    "key": "D Major",
+    "duration": "2m 23s",
+    "album": "Vampire Weekend",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 3,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-27T00:00:00.000Z",
+    "lastFeatured": "2026-04-27T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "apunk.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_62.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/apunk.mp3",
+    "shop": true,
+    "sid": "sid_62",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "ihateeverythingaboutyou": {
+    "title": "I Hate Everything About You",
+    "artist": "Three Days Grace",
+    "releaseYear": 2003,
+    "cover": "ihateeverythingaboutyou.png",
+    "bpm": 89,
+    "key": "F# Minor",
+    "duration": "3m 54s",
+    "album": "Three Days Grace",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "lead": 2,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-27T00:00:00.000Z",
+    "lastFeatured": "2026-04-27T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "ihateeverythingaboutyou.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_60.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/ihateeverythingaboutyou.mp3",
+    "shop": true,
+    "sid": "sid_60",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "thesweetescape": {
+    "title": "The Sweet Escape",
+    "artist": "Gwen Stafani (feat. Akon)",
+    "releaseYear": 2006,
+    "cover": "thesweetescape.png",
+    "bpm": 120,
+    "key": "C♯ Major",
+    "duration": "4m 13s",
+    "album": "The Sweet Escape",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 4,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-27T00:00:00.000Z",
+    "lastFeatured": "2026-04-27T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5BHtT1xpC44pGy1J7RKY4T",
+    "videoUrl": "thesweetescape.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_51.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/thesweetescape.mp3",
+    "shop": true,
+    "sid": "sid_51",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Jaydenz"
   }
 }

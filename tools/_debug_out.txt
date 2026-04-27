@@ -1,0 +1,18 @@
+Stems:
+  drums: drums.ogg exists=True
+  bass: bass.ogg exists=True
+  lead: lead.ogg exists=True
+  vocals: vocals.ogg exists=True
+  backing: Backing.ogg exists=True
+
+Count: 5
+  drums.ogg: Duration: 00:04:05.66, start: 0.000000, bitrate: 442 kb/s
+  drums.ogg: Stream #0:0: Audio: vorbis, 44100 Hz, stereo, fltp, 499 kb/s
+  bass.ogg: Duration: 00:04:05.66, start: 0.000000, bitrate: 376 kb/s
+  bass.ogg: Stream #0:0: Audio: vorbis, 44100 Hz, stereo, fltp, 499 kb/s
+  lead.ogg: Duration: 00:04:05.64, start: 0.000000, bitrate: 440 kb/s
+  lead.ogg: Stream #0:0: Audio: vorbis, 44100 Hz, stereo, fltp, 499 kb/s
+  vocals.ogg: Duration: 00:04:05.66, start: 0.000000, bitrate: 364 kb/s
+  vocals.ogg: Stream #0:0: Audio: vorbis, 44100 Hz, stereo, fltp, 499 kb/s
+  Backing.ogg: Duration: 00:04:06.06, start: 0.000000, bitrate: 1 kb/s
+  Backing.ogg: Stream #0:0: Audio: vorbis, 44100 Hz, stereo, fltp, 160 kb/s

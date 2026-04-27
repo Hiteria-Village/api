@@ -1,0 +1,37 @@
+{
+  "title": "areyoulistening",
+  "artist": "Gunnr",
+  "preview_start_time": 17142,
+  "release_year": "2025",
+  "source": "Hiteria",
+  "album": "silk in shadows",
+  "loading_phrase": "",
+  "song_id": "sid_63",
+  "genre": [
+	"Electronic"
+  ],
+  "charter": [
+    "Luna"
+  ],
+  "length": 115,
+  "icon_drums": "Drum",
+  "icon_bass": "Bass",
+  "icon_guitar": "Keytar",
+  "icon_vocals": "Vocals",
+  "diff": {
+    "vocals": 5,
+    "drums": 3,
+    "bass": 0,
+    "guitar": 1
+  },
+  "midi": "notes.mid",
+  "lyrics": "lyrics.txt",
+  "art": "cover.png",
+  "stems": {
+    "drums": "drums.ogg",
+    "bass": "bass.ogg",
+    "lead": "lead.ogg",
+    "backing": "backing.ogg"
+  }
+}
+

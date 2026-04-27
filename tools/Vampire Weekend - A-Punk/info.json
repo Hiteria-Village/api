@@ -1,0 +1,37 @@
+{
+  "title": "A-Punk",
+  "artist": "Vampire Weekend",
+  "preview_start_time": 33071,
+  "release_year": "2008",
+  "source": "Hiteria",
+  "album": "Vampire Weekend",
+  "loading_phrase": "",
+  "song_id": "sid_62",
+  "genre": [
+    "Indie"
+  ],
+  "charter": [
+    "Luna"
+  ],
+  "length": 143,
+  "icon_drums": "Drum",
+  "icon_bass": "Bass",
+  "icon_guitar": "Guitar",
+  "icon_vocals": "Vocals",
+  "diff": {
+    "vocals": 2,
+    "drums": 3,
+    "bass": 2,
+    "guitar": 3
+  },
+  "midi": "notes.mid",
+  "lyrics": "lyrics.txt",
+  "art": "album.png",
+  "stems": {
+    "vocals": "vocals.ogg",
+    "drums": "drums.ogg",
+    "bass": "bass.ogg",
+    "lead": "lead.ogg",
+    "backing": "backing.ogg"
+  }
+}

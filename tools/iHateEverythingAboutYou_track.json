@@ -1,0 +1,53 @@
+{
+  "iHateEverythingAboutYou": {
+    "title": "I Hate Everything About You",
+    "artist": "Three Days Grace",
+    "releaseYear": 2003,
+    "cover": "cover.png",
+    "bpm": 0,
+    "key": "",
+    "duration": "3m 54s",
+    "album": "Three Days Grace",
+    "genre": "Unknown",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "lead": 2,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-27T00:00:00.000Z",
+    "lastFeatured": "2026-04-27T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "iHateEverythingAboutYou.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "",
+    "rank": true,
+    "previewUrl": "/assets/audio/iHateEverythingAboutYou.mp3",
+    "preview_time": "0",
+    "preview_end_time": "69720",
+    "shop": true,
+    "sid": "sid_60",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Unknown"
+  }
+}

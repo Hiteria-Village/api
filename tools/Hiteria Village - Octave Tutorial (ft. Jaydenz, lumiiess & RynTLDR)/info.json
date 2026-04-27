@@ -1,0 +1,37 @@
+{
+  "title": "Octave Tutorial",
+  "artist": "Hiteria Village (ft. Jaydenz, lumiiess & RynTLDR)",
+  "preview_start_time": 24000,
+  "release_year": "2026",
+  "source": "Hiteria",
+  "album": "",
+  "loading_phrase": "",
+  "song_id": "sid_70",
+  "genre": [
+    "Hip-Hop"
+  ],
+  "charter": [
+    "Luna"
+  ],
+  "length": 120,
+  "icon_drums": "Drum",
+  "icon_bass": "Bass",
+  "icon_guitar": "Guitar",
+  "icon_vocals": "Vocals",
+  "diff": {
+    "vocals": 6,
+    "drums": 3,
+    "bass": 1,
+    "guitar": 1
+  },
+  "midi": "notes.mid",
+  "lyrics": "lyrics.txt",
+  "art": "cover.png",
+  "stems": {
+    "vocals": "vocals.ogg",
+    "drums": "drums.ogg",
+    "bass": "bass.ogg",
+    "lead": "lead.ogg",
+    "backing": "backing.ogg"
+  }
+}

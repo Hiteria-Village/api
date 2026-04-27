@@ -1,0 +1,35 @@
+{
+  "title": "i walk this earth all by myself",
+  "artist": "EKKSTACY",
+  "preview_start_time": 17435,
+  "release_year": "2021",
+  "source": "Hiteria",
+  "album": "NEGATIVE",
+  "loading_phrase": "",
+  "song_id": "sid_68",
+  "genre": [
+    "Hip-Hop"
+  ],
+  "charter": [
+    "Luna"
+  ],
+  "length": 148,
+  "icon_drums": "Drum",
+  "icon_bass": "Bass",
+  "icon_guitar": "Keytar",
+  "icon_vocals": "Vocals",
+  "diff": {
+    "vocals": 1,
+    "drums": 1,
+    "bass": 2,
+    "guitar": 1
+  },
+  "midi": "notes.mid",
+  "lyrics": "lyrics.txt",
+  "art": "album.png",
+  "stems": {
+    "drums": "drums.ogg",
+    "lead": "lead.ogg",
+    "backing": "backing.ogg"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "octaveTutorial": {
+    "title": "Octave Tutorial",
+    "artist": "Hiteria Village (ft. Jaydenz, lumiiess & RynTLDR)",
+    "releaseYear": 2026,
+    "cover": "cover.png",
+    "bpm": 0,
+    "key": "",
+    "duration": "2m 00s",
+    "album": "",
+    "genre": "Unknown",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 6,
+      "lead": 1,
+      "bass": 1,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-04-27T00:00:00.000Z",
+    "lastFeatured": "2026-04-27T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "octaveTutorial.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "",
+    "rank": true,
+    "previewUrl": "/assets/audio/octaveTutorial.mp3",
+    "preview_time": "0",
+    "preview_end_time": "24000",
+    "shop": true,
+    "sid": "sid_70",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Unknown"
+  }
+}
