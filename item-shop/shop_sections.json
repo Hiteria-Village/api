@@ -21,7 +21,7 @@
       "itemsFile": "permanent_shop.json"
     },
     {
-      "id": "seasonal",
+      "id": "musicbundles",
       "name": "Music Bundles",
       "enabled": true,
       "resetType": "CUSTOM",
@@ -29,7 +29,7 @@
       "endDate": "2099-03-31",
       "showTimer": false,
       "order": 7,
-      "itemsFile": "seasonal_shop.json"
+      "itemsFile": "music_bundles_shop.json"
     },
     {
       "id": "daily",
