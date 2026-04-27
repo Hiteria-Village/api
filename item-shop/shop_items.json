@@ -1,0 +1,653 @@
+{
+  "items": {
+    "stage": {
+      "name": "Stage Block",
+      "description": "Make your own stage!",
+      "itemId": "octave:stage_block",
+      "visualOverride": null
+    },
+    "hiteriaphone": {
+      "name": "Hiteria Phone",
+      "description": "Practice your performaces",
+      "itemId": "octave:hiteriaphone",
+      "visualOverride": null
+    },
+    "hiteriaphoneblue": {
+      "name": "Hiteria Phone | Blue",
+      "description": "Practice your performaces",
+      "itemId": "octave:hiteriaphone_blue",
+      "visualOverride": null
+    },
+    "hiteriaphonegreen": {
+      "name": "Hiteria Phone | Green",
+      "description": "Practice your performaces",
+      "itemId": "octave:hiteriaphone_green",
+      "visualOverride": null
+    },
+    "hiteriaphonepink": {
+      "name": "Hiteria Phone | Pink",
+      "description": "Practice your performaces",
+      "itemId": "octave:hiteriaphone_pink",
+      "visualOverride": null
+    },
+    "hiteriaphonewhite": {
+      "name": "Hiteria Phone | White",
+      "description": "Practice your performaces",
+      "itemId": "octave:hiteriaphone_white",
+      "visualOverride": null
+    }
+  },
+ "music_tracks": {
+    "sid_01": {
+      "name": "Professional Griefers | 2012",
+      "description": "deadmau5, Gerard Way",
+      "songId": "sid_01",
+      "coverArt": "7R05EGJQUM3A7CL7FG7LT8B7SWH2S2T5_ART.png",
+      "visualOverride": "minecraft:music_disc_13"
+    },
+    "sid_02": {
+      "name": "Dance, Dance | 2005",
+      "description": "Fall Out Boy",
+      "songId": "sid_02",
+      "coverArt": "VTFRDLXX050PH0ODPP85LDJCA4319TBD_ART.png"
+    },
+    "sid_03": {
+      "name": "Cyber Space (CrossWorlds Remix) | 2025",
+      "description": "Tomoya Ohtani",
+      "songId": "sid_03",
+      "coverArt": "J00QFPNH7BMHZX0XYDJVHX8CNDXVBD5U_ART.png",
+      "visualOverride": "minecraft:music_disc_blocks"
+    },
+    "sid_04": {
+      "name": "Revenge | 2011",
+      "description": "Captainsparklez, Tryhardninja",
+      "songId": "sid_04",
+      "coverArt": "7LOZ3TZXBBYZGA2XRFUELOXMSL2VKJX4_ART.png",
+      "visualOverride": "minecraft:music_disc_far"
+    },
+    "sid_05": {
+      "name": "How It's Done | 2025",
+      "description": "HUNTR/X",
+      "songId": "sid_05",
+      "coverArt": "1MBTERUIFBYNKTVP4TUK0P8Y5K5LUTBS_ART.png",
+      "visualOverride": "minecraft:music_disc_far"
+    },
+    "sid_06": {
+      "name": "Into The Dream | 2021",
+      "description": "Jaroslav Beck, Jakub Tirco",
+      "songId": "sid_06",
+      "coverArt": "PINJSH8EKZRO5V7DK8AHOU9O4MTGCK2N_ART.png",
+      "visualOverride": "minecraft:music_disc_mall"
+    },
+    "sid_07": {
+      "name": "Krush | 2024",
+      "description": "Pierre Blanche",
+      "songId": "sid_07",
+      "coverArt": "0XGBGPCG8ASL4R7KUPF7ENQPM1O08BNU_ART.png",
+      "visualOverride": "minecraft:music_disc_mellohi"
+    },
+    "sid_08": {
+      "name": "Undefeatable | 2022",
+      "description": "SEGA SOUND TEAM, Tomaya Ohtani, Kellin Quinn",
+      "songId": "sid_08",
+      "coverArt": "H12TTNVW474HSTU78F92HBJUGSXKZWT7_ART.png"
+    },
+    "sid_09": {
+      "name": "Stay Alive | 2023",
+      "description": "NieN",
+      "songId": "sid_09",
+      "coverArt": "TLKF3JHJWUDHSFE5117K9IVVLFIR1A49_ART.png",
+      "visualOverride": "minecraft:music_disc_strad"
+    },
+    "sid_10": {
+      "name": "Turn The Music Up | 2015",
+      "description": "NF",
+      "songId": "sid_10",
+      "coverArt": "GCWLRKH46BQNO6OVPSPW9S3L1ZG4G7YQ_ART.png"
+    },
+    "sid_11": {
+      "name": "Hey Old Friend | 2018",
+      "description": "Dearly Somber",
+      "songId": "sid_11",
+      "coverArt": "X5J8DH36LD7FUUBPR40LX1PKLKJLLEND_ART.png"
+    },
+    "sid_12": {
+      "name": "365 | 2024",
+      "description": "c4lendar",
+      "songId": "sid_12",
+      "coverArt": "VT51R3VXED1BL7ZRI3VRR5OGCU7SPQCK_ART.png",
+      "visualOverride": "minecraft:music_disc_wait"
+    },
+    "sid_13": {
+      "name": "Break Your Heart | 2010",
+      "description": "Taio Cruz, Ludacris",
+      "songId": "sid_13",
+      "coverArt": "TM0T22TDNL25D0URJ5YKX997Z9I2XHX1_ART.png",
+      "visualOverride": "minecraft:music_disc_pigstep"
+    },
+    "sid_14": {
+      "name": "Devil Trigger | 2019",
+      "description": "Casey Edwards, Ali Edwards, Cliff Llorett",
+      "songId": "sid_14",
+      "coverArt": "D7YQ4I739W6AGOB6SCAWFV8PWE9LSB0G_ART.png",
+      "visualOverride": "minecraft:music_disc_otherside"
+    },
+    "sid_15": {
+      "name": "LoveXPoser | 2025",
+      "description": "Dazbee",
+      "songId": "sid_15",
+      "coverArt": "2LWF9YBWC0RW4JJO4CRCTBJ76VKE87RP_ART.png",
+      "visualOverride": "minecraft:music_disc_5"
+    },
+    "sid_16": {
+      "name": "CRAZY | 2024",
+      "description": "LE SSERAFIM",
+      "songId": "sid_16",
+      "coverArt": "7QHA170WAHA5ZFHE3O8G768KKZ5KTF8T_ART.png"
+    },
+    "sid_17": {
+      "name": "Elevator Jam | 2022",
+      "description": "LSPLASH",
+      "songId": "sid_17",
+      "coverArt": "UNV3PCL443JSTMOOU6LZHPUANIQVP9CG_ART.png"
+    },
+    "sid_18": {
+      "name": "Die In a Fire | 2015",
+      "description": "The Living Tombstone, EileMonty, Orko",
+      "songId": "sid_18",
+      "coverArt": "UZSTAV6V8NKR1O2DK2MZHMT5KJCHNMAB_ART.png"
+    },
+    "sid_19": {
+      "name": "All I Need | 2020",
+      "description": "Slushii",
+      "songId": "sid_19",
+      "coverArt": "E3D2LF6IV8WULUCR45IQCWAUOT27HEIB_ART.png"
+       },
+    "sid_20": {
+      "name": "Out of My League | 2013",
+      "description": "Fitz & The Tantrums",
+      "songId": "sid_20",
+      "coverArt": "5XN3NFKSWVPB5AFJABFU7LD71RARVS9I_ART.png"
+    },
+    "sid_21": {
+      "name": "Stockholm Syndrome | 2003",
+      "description": "Muse",
+      "songId": "sid_21",
+      "coverArt": "I39Z3VZ1H1MRPK32QX7GT77QTHJZ3YWX_ART.png"
+    },
+    "sid_22": {
+      "name": "MANTRA | 2019",
+      "description": "Bring Me The Horizon",
+      "songId": "sid_22",
+      "coverArt": "3E9M8TP8611BEMBQ1C7VNI9S7TLL95IP_ART.png"
+    },
+    "sid_23": {
+      "name": "Gigantium | 2024",
+      "description": "Mastodon",
+      "songId": "sid_23",
+      "coverArt": "I42AKMU8LW5ES6QS15J5ESOAGQ9X3QOC_ART.png"
+    },
+    "sid_24": {
+      "name": "Safe and Sound | 2013",
+      "description": "Capital Cities",
+      "songId": "sid_24",
+      "coverArt": "VDI6NBZ93NRHHH3JTYNBZS80EIEZF3T2_ART.png"
+    },
+    "sid_25": {
+      "name": "Enmore | 2013",
+      "description": "Trophy Eyes",
+      "songId": "sid_25",
+      "coverArt": "LRYB35X0NBSBEG9HARR1TLNWPJAG1LLX_ART.png"
+    },
+    "sid_26": {
+      "name": "Not Afraid | 2010",
+      "description": "Eminem",
+      "songId": "sid_26",
+      "coverArt": "JRU85PZYOB8BCOQ6G5MKWJS6QWKG4ZJW_ART.png"
+    },
+    "sid_27": {
+      "name": "I'm Afraid | 2022",
+      "description": "Sik World",
+      "songId": "sid_27",
+      "coverArt": "2IXO02S366T5RV4VW31FSJA2CVASP6DZ_ART.png"
+    },
+    "sid_28": {
+      "name": "International Love | 2012",
+      "description": "Pitbull, Chris Brown",
+      "songId": "sid_28",
+      "coverArt": "5GTJIG2KPJYKBC5FBN462241TK8U21BX_ART.png"
+    },
+    "sid_29": {
+      "name": "She Will Be Loved | 2002",
+      "description": "Maroon 5",
+      "songId": "sid_29",
+      "coverArt": "FH7KD097N1Y3U3JB74437K6MQN7ALAPZ_ART.png"
+    },
+    "sid_30": {
+      "name": "We Won't Be Alone | 2015",
+      "description": "Feint, Laura Brehm",
+      "songId": "sid_30",
+      "coverArt": "OI005C0VOIT38TPXTLRI3OTUNKW9OERY_ART.png"
+    },
+    "sid_31": {
+      "name": "Lone Digger | 2015",
+      "description": "Caravan Palace",
+      "songId": "sid_31",
+      "coverArt": "0RVSA3K613IM0XRXG0J08E81LG36G1L1_ART.png"
+    },
+    "sid_32": {
+      "name": "Living in a Box | 1987",
+      "description": "Living In A Box",
+      "songId": "sid_32",
+      "coverArt": "D911U0L2WSLD0HCYRMCI70PITHM02VWY_ART.png"
+    },
+    "sid_33": {
+      "name": "When Can I See You Again | 2012",
+      "description": "Owl City",
+      "songId": "sid_33",
+      "coverArt": "T3DKPBI3GJVBNN6H6OHCCU1K9ZBYDMQU_ART.png"
+    },
+    "sid_34": {
+      "name": "Modern Baseball | 2012",
+      "description": "Re-Do",
+      "songId": "sid_34",
+      "coverArt": "ZLROES97LVRFCFRH8A9UJT61DGP0XDDR_ART.png"
+    },
+    "sid_35": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_35",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_36": {
+      "name": "Funny Song | 2010",
+      "description": "Bensound",
+      "songId": "sid_36",
+      "coverArt": "5XPRB8JAKYJJTGS5YP8H2HDJEYW0087C_ART.png"
+    },
+    "sid_37": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_37",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_38": {
+      "name": "Bad Piggies Theme | 2012",
+      "description": "Ilmari Hakkola",
+      "songId": "sid_38",
+      "coverArt": "960CYDBAFYW66QBZLZSE5CBDASRABKPQ_ART.png"
+    },
+    "sid_39": {
+      "name": "Standing Next To You | 2023",
+      "description": "Jung Kook",
+      "songId": "sid_39",
+      "coverArt": "0WO9KDFB15D6GIWK5GP37R45FK1FPHSV_ART.png"
+    },
+    "sid_40": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_40",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_41": {
+      "name": "PSYCHO | 2024",
+      "description": "Rxseboy",
+      "songId": "sid_41",
+      "coverArt": "H771EI5Y7BNS56NP7NZJIF0SGY0IFI5L_ART.png"
+    },
+    "sid_42": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_42",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_43": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_43",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_44": {
+      "name": "Stay Away | 1991",
+      "description": "Nirvana",
+      "songId": "sid_44",
+      "coverArt": "5FESADW3VWLKUSWLI8MHCS43CRHPF2XS_ART.png"
+    },
+    "sid_45": {
+      "name": "Hotel California | 1976",
+      "description": "The Eagles",
+      "songId": "sid_45",
+      "coverArt": "NIXXUIY8SVHUEH5A3PT5EC3FB4F1AB70_ART.png"
+    },
+    "sid_46": {
+      "name": "High and Dry",
+      "description": "Radiohead",
+      "songId": "sid_46",
+      "coverArt": "IUSJPOBTWLFXD0XR072I1WEIY0KZN9LK_ART.png"
+    },
+    "sid_47": {
+      "name": "Teardrinker | 2024",
+      "description": "Mastodon",
+      "songId": "sid_47",
+      "coverArt": "6SMHCNXBZ7BM939JJA137BT6WACK1HPE_ART.png"
+    },
+    "sid_48": {
+      "name": "Crab Rave | 2018",
+      "description": "Noisestorm",
+      "songId": "sid_48",
+      "coverArt": "QL93EAF0TNVDEN47Y55JFYCV90VSUQZM_ART.png"
+    },
+    "sid_49": {
+      "name": "Oops!...I Did It Again | 2000",
+      "description": "Britney Spears",
+      "songId": "sid_49",
+      "coverArt": "IQAN1F5HBZFV7XUGUNSGJ7VA2K2WHMZM_ART.png"
+    },
+    "sid_50": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_50",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_51": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_51",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_52": {
+      "name": "binary | 2021",
+      "description": "asc",
+      "songId": "sid_52",
+      "coverArt": "YDIEJ11OBTHCMDU6KJ2MIAJ0QR3QVW5B_ART.png"
+   },
+    "sid_53": {
+      "name": "Ai Nov | 2019",
+      "description": "Feryquitous",
+      "songId": "sid_53",
+      "coverArt": "483R9EY1O0NNWM8MK25QB42QCB08JHLZ_ART.png"
+    },
+    "sid_54": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_54",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_55": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_55",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_56": {
+      "name": "Ninelie (REDSHiFT X Vesuvia Remix) | 2016",
+      "description": "Aimer with chelly (EGOIST)",
+      "songId": "sid_56",
+      "coverArt": "0UTC64IT43FEU3TBN56UUHZOLFRF9PER_ART.png"
+    },
+    "sid_57": {
+      "name": "she's all i wanna be | 2022",
+      "description": "Tate McRae",
+      "songId": "sid_57",
+      "coverArt": "GPJ5JEQCGZDOQ5TF9NTDZW8T1HXGIW20_ART.png"
+    },
+    "sid_58": {
+      "name": "Cold Call | 2025",
+      "description": "UpGoofed",
+      "songId": "sid_58",
+      "coverArt": "7S86R2ZKBK97VU29J9D8B3D6E1BOZT2H_ART.png"
+    },
+    "sid_59": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_59",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_60": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_60",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_61": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_61",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_62": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_62",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_63": {
+      "name": "areyoulistening | 2025",
+      "description": "Gunnr",
+      "songId": "sid_63",
+      "coverArt": "9EN9BZRZ320EZ0TL062BAVBBY804REOQ_ART.png"
+    },
+    "sid_64": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_64",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_65": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_65",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_66": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_66",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_67": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_67",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_68": {
+      "name": "i walk this earth all by myself | 2021",
+      "description": "EKKSTACY",
+      "songId": "sid_68",
+      "coverArt": "5JJKZB9WFH5HMEQJB3H58RE8RW1Z9DNQ_ART.png"
+    },
+    "sid_69": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_69",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_70": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_70",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_71": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_71",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_72": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_72",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_73": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_73",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_74": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_74",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_75": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_75",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_76": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_76",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_77": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_77",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_78": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_78",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_79": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_79",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_80": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_80",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_81": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_81",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_82": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_82",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_83": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_83",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_84": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_84",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_85": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_85",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_86": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_86",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_87": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_87",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_88": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_88",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_89": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_89",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_90": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_90",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_91": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_91",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_92": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_92",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_93": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_93",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_94": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_94",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_95": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_95",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_96": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_96",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_97": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_97",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_98": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_98",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_99": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_99",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_100": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_100",
+      "coverArt": "PLACEHOLDER_ART.png"
+    }
+  }
+}
