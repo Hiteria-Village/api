@@ -2689,6 +2689,7 @@
     "previewUrl": "/assets/audio/apunk.mp3",
     "shop": true,
     "sid": "sid_62",
+	"currentVersion": 2,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -2787,6 +2788,7 @@
     "previewUrl": "/assets/audio/thesweetescape.mp3",
     "shop": true,
     "sid": "sid_51",
+	"currentVersion": 2,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
