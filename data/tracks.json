@@ -2806,5 +2806,198 @@
       "drums": ""
     },
     "charter": "Jaydenz"
+  },
+  "nineteenninetynine": {
+    "title": "1999",
+    "artist": "Charli xcx ft. Troye Sivan",
+    "releaseYear": 2019,
+    "cover": "nineteenninetynine.png",
+    "bpm": 124,
+    "key": "B Minor",
+    "duration": "3m 13s",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 2,
+      "bass": 2,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-05-09T00:00:00.000Z",
+    "lastFeatured": "2026-05-09T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "3WGJSY8JaGliVIJyMig5aS",
+    "videoUrl": "nineteenninetynine.mp4",
+    "videoPosition": 20,
+    "loading_phrase": "oct_sid_43.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/nineteenninetynine.mp3",
+    "shop": false,
+    "sid": "sid_43",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "goodolddays": {
+    "title": "Good Old Days - Classixx Remix",
+    "artist": "JR JR",
+    "releaseYear": 2021,
+    "cover": "goodolddays.png",
+    "bpm": 95,
+    "key": "G Major",
+    "duration": "4m 28s",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 3,
+      "bass": 4,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-05-09T00:00:00.000Z",
+    "lastFeatured": "2026-05-09T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0LhSFpDA4CQ1rj2QLebLcz",
+    "videoUrl": "goodolddays.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_35.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/goodolddays.mp3",
+    "shop": false,
+    "sid": "sid_35",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+  "wasted": {
+    "title": "Wasted",
+    "artist": "Juice WRLD ft. Lil Uzi Vert",
+    "releaseYear": 2018,
+    "cover": "wasted.png",
+    "bpm": 145,
+    "key": "C Major",
+    "duration": "4m 22s",
+    "album": "Goodbye & Good Riddance",
+    "genre": "Hip-Hop",
+    "rating": "18+",
+    "difficulties": {
+      "vocals": 6,
+      "lead": 1,
+      "bass": 0,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-05-09T00:00:00.000Z",
+    "lastFeatured": "2026-05-09T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "1a7WZZZH7LzyvorhpOJFTe",
+    "videoUrl": "wasted.mp4",
+    "videoPosition": 25,
+    "loading_phrase": "oct_sid_64.png",
+    "rank": true,
+    "previewUrl": "/assets/audio/wasted.mp3",
+    "shop": false,
+    "sid": "sid_64",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "savetheworld": {
+    "title": "SAVE The World",
+    "artist": "Toby Fox",
+    "releaseYear": 2015,
+    "cover": "savetheworld.png",
+    "bpm": 180,
+    "key": "C♯ Minor",
+    "duration": "1m 57s",
+    "album": "UNDERTALE Soundtrack",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 4,
+      "bass": 3,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-05-09T00:00:00.000Z",
+    "lastFeatured": "2026-05-09T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0w5CRIokPrQAAq7OdIKesr",
+    "videoUrl": "savetheworld.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "",
+    "rank": false,
+    "previewUrl": "/assets/audio/savetheworld.mp3",
+    "shop": false,
+    "sid": "sid_69",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
   }
 }
