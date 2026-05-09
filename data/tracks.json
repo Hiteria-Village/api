@@ -2999,5 +2999,54 @@
       "drums": ""
     },
     "charter": "Luna"
+  },
+	"winternights": {
+    "title": "winter nights (ft. SugarDuckey)",
+    "artist": "Urum",
+    "releaseYear": 2024,
+    "cover": "winternights.png",
+    "bpm": 78,
+    "key": "B Major",
+    "duration": "4m 24s",
+    "album": "Noticable Changes",
+    "genre": "Indie",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 1,
+      "bass": 0,
+      "drums": 1,
+      "vocals": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-05-08T00:00:00.000Z",
+    "lastFeatured": "2026-05-08T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6EBR1GuONNbQtPX4wq6H0q",
+    "videoUrl": "winternights.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "",
+    "rank": false,
+    "previewUrl": "/assets/audio/winternights.mp3",
+    "shop": false,
+    "sid": "sid_71",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
   }
 }
