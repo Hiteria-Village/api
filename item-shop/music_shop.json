@@ -1,5 +1,11 @@
 [
   {
+   "itemRef": "sid_71",
+    "cost": 500,
+    "layout": "TALL",
+    "isNew": true
+  },
+  {
    "itemRef": "sid_69",
     "cost": 500,
     "layout": "TALL",
