@@ -3031,6 +3031,7 @@
     "previewUrl": "/assets/audio/winternights.mp3",
     "shop": false,
     "sid": "sid_71",
+	"currentVersion": 2,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
