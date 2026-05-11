@@ -2640,6 +2640,7 @@
     "previewUrl": "/assets/audio/musicsoundsbetterwithyou.mp3",
     "shop": true,
     "sid": "sid_59",
+	"currentVersion": 2,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
