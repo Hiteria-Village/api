@@ -3049,5 +3049,201 @@
       "drums": ""
     },
     "charter": "Luna"
+  },
+  "virtualinsanity": {
+    "title": "Virtual Insanity",
+    "artist": "Jamiroquai",
+    "releaseYear": 2005,
+    "cover": "virtualinsanity.png",
+    "bpm": 92,
+    "key": "F♯ major",
+    "duration": "5m 41s",
+    "album": "Driving Songs",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 3,
+      "bass": 3,
+      "drums": 4,
+      "vocals": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-05-15T00:00:00.000Z",
+    "lastFeatured": "2026-05-15T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6EBR1GuONNbQtPX4wq6H0q",
+    "videoUrl": "virtualinsanity.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "",
+    "rank": false,
+    "previewUrl": "/assets/audio/virtualinsanity.mp3",
+    "shop": false,
+    "sid": "sid_61",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "beneaththemask": {
+    "title": "Beneath The Mask",
+    "artist": "Lyn",
+    "releaseYear": 2017,
+    "cover": "beneaththemask.png",
+    "bpm": 148,
+    "key": "F major",
+    "duration": "4m 38s",
+    "album": "PERSONA 5 ORIGINAL SOUNDTRACK",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 0,
+      "bass": 0,
+      "drums": 3,
+      "vocals": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-05-15T00:00:00.000Z",
+    "lastFeatured": "2026-05-15T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6EBR1GuONNbQtPX4wq6H0q",
+    "videoUrl": "beneaththemask.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "",
+    "rank": false,
+    "previewUrl": "/assets/audio/beneaththemask.mp3",
+    "shop": false,
+    "sid": "sid_54",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "upsidedownandinsideout": {
+    "title": "Upside Down & Inside Out",
+    "artist": "OK GO",
+    "releaseYear": 2014,
+    "cover": "upsidedownandinsideout.png",
+    "bpm": 93,
+    "key": "C major",
+    "duration": "3m 08s",
+    "album": "Hungry Ghosts",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 3,
+      "bass": 2,
+      "drums": 3,
+      "vocals": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-05-15T00:00:00.000Z",
+    "lastFeatured": "2026-05-15T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6EBR1GuONNbQtPX4wq6H0q",
+    "videoUrl": "upsidedownandinsideout.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "",
+    "rank": false,
+    "previewUrl": "/assets/audio/upsidedownandinsideout.mp3",
+    "shop": false,
+    "sid": "sid_73",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "skydrive": {
+    "title": "Sky Drive",
+    "artist": "Powerless",
+    "releaseYear": 2017,
+    "cover": "skydrive.png",
+    "bpm": 175,
+    "key": "C major",
+    "duration": "3m 08s",
+    "album": "Grand Turismo 7 OST",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 3,
+      "bass": 2,
+      "drums": 3,
+      "vocals": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-05-15T00:00:00.000Z",
+    "lastFeatured": "2026-05-15T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6EBR1GuONNbQtPX4wq6H0q",
+    "videoUrl": "skydrive.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "",
+    "rank": false,
+    "previewUrl": "/assets/audio/skydrive.mp3",
+    "shop": false,
+    "sid": "sid_72",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
   }
 }
