@@ -3030,7 +3030,7 @@
     "loading_phrase": "",
     "rank": false,
     "previewUrl": "/assets/audio/winternights.mp3",
-    "shop": false,
+    "shop": true,
     "sid": "sid_71",
 	"currentVersion": 2,
     "modalShadowColors": {
