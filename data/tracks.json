@@ -3079,6 +3079,7 @@
     "videoPosition": 50,
     "loading_phrase": "",
     "rank": false,
+	"New": true,
     "previewUrl": "/assets/audio/virtualinsanity.mp3",
     "shop": false,
     "sid": "sid_61",
@@ -3130,6 +3131,7 @@
     "rank": false,
     "previewUrl": "/assets/audio/beneaththemask.mp3",
     "shop": false,
+	"New": true,
     "sid": "sid_54",
     "modalShadowColors": {
       "default": {
@@ -3179,6 +3181,7 @@
     "rank": false,
     "previewUrl": "/assets/audio/upsidedownandinsideout.mp3",
     "shop": false,
+	"New": true,
     "sid": "sid_73",
     "modalShadowColors": {
       "default": {
@@ -3229,6 +3232,7 @@
     "previewUrl": "/assets/audio/skydrive.mp3",
     "shop": false,
     "sid": "sid_72",
+	"New": true,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
