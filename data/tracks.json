@@ -973,7 +973,7 @@
   "enmore": {
     "title": "Enmore",
     "artist": "Trophy Eyes",
-    "releaseYear": 2013,
+    "releaseYear": 2024,
     "cover": "enmore.png",
     "bpm": 197,
     "key": "C Major",
@@ -1969,7 +1969,7 @@
 	  "title": "Teardrinker",    
 	  "artist": "Mastodon",    
     "album": "Hushed and Grim",
-    "releaseYear": 2024,
+    "releaseYear": 2021,
     "cover": "teardrinker.png",
     "bpm": 127,
     "key": "C Minor",
@@ -2019,7 +2019,7 @@
 	  "title": "Gigantium",    
 	  "artist": "Mastodon",    
     "album": "Hushed and Grim",
-    "releaseYear": 2024,
+    "releaseYear": 2021,
     "cover": "gigantium.png",
     "bpm": 127,
     "key": "C Minor",
@@ -2415,7 +2415,7 @@
 	"wewontbealone": {
 	  "title": "We Won't Be Alone",    
 	  "artist": "Feint, Laura Brehm",    
-    "releaseYear": 2025,
+    "releaseYear": 2015,
     "cover": "wewontbealone.png",
     "bpm": 175,
     "key": "B Minor",
@@ -3052,9 +3052,9 @@
     "charter": "Luna"
   },
   "virtualinsanity": {
-    "title": "Virtual Insanity",
+    "title": "Virtual Insanity - Remastered 2006",
     "artist": "Jamiroquai",
-    "releaseYear": 2005,
+    "releaseYear": 2006,
     "cover": "virtualinsanity.png",
     "bpm": 92,
     "key": "F♯ major",
