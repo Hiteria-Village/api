@@ -607,20 +607,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
 
       if (previewUrl) {
-        // Convert external streaming URLs to local assets/audio files
-        let localAudioUrl = previewUrl;
-        
-        if (previewUrl.includes('208.92.234.17:8000/stream/')) {
-          // Extract filename from streaming URL and use local audio file
-          const fileName = previewUrl.split('/').pop();
-          localAudioUrl = `/api/assets/audio/${fileName}`;
-        } else if (previewUrl.endsWith('.mp3')) {
-          // If it's already a .mp3 file, construct local path from filename
-          const fileName = previewUrl.split('/').pop();
-          localAudioUrl = `/api/assets/audio/${fileName}`;
-        }
-        
-        audioModule.playPreview(localAudioUrl, preview_time, preview_end_time);
+        audioModule.playPreview(previewUrl, preview_time, preview_end_time);
       }
 
       if (videoUrl) {
@@ -1090,20 +1077,7 @@ document.addEventListener('DOMContentLoaded', () => {
         e.preventDefault();
         modalModule.openModal(track);
         if (utils.isMobile() && track.previewUrl) {
-          // Convert external streaming URLs to local assets/audio files
-          let localAudioUrl = track.previewUrl;
-          
-          if (track.previewUrl.includes('208.92.234.17:8000/stream/')) {
-            // Extract filename from streaming URL and use local audio file
-            const fileName = track.previewUrl.split('/').pop();
-            localAudioUrl = `/api/assets/audio/${fileName}`;
-          } else if (track.previewUrl.endsWith('.mp3')) {
-            // If it's already a .mp3 file, construct local path from filename
-            const fileName = track.previewUrl.split('/').pop();
-            localAudioUrl = `/api/assets/audio/${fileName}`;
-          }
-          
-          audioModule.playPreview(localAudioUrl, track.preview_time, track.preview_end_time);
+          audioModule.playPreview(track.previewUrl, track.preview_time, track.preview_end_time);
           trackElement.classList.add('mobile-highlight');
           setTimeout(() => trackElement.classList.remove('mobile-highlight'), 300);
         }
@@ -1216,17 +1190,7 @@ document.addEventListener('DOMContentLoaded', () => {
         e.preventDefault();
         modalModule.openModal(track);
         if (track.previewUrl) {
-          let localAudioUrl = track.previewUrl;
-          
-          if (track.previewUrl.includes('208.92.234.17:8000/stream/')) {
-            const fileName = track.previewUrl.split('/').pop();
-            localAudioUrl = `/api/assets/audio/${fileName}`;
-          } else if (track.previewUrl.endsWith('.mp3')) {
-            const fileName = track.previewUrl.split('/').pop();
-            localAudioUrl = `/api/assets/audio/${fileName}`;
-          }
-          
-          audioModule.playPreview(localAudioUrl, track.preview_time, track.preview_end_time);
+          audioModule.playPreview(track.previewUrl, track.preview_time, track.preview_end_time);
         }
       });
       

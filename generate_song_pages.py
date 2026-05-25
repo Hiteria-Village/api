@@ -55,7 +55,7 @@ def generate_song_pages():
         description = f"{genre} • {duration} • {release_year}"
         
         if cover:
-            image_url = f"https://hiteriavillage.com/assets/covers/{cover}"
+            image_url = f"https://hiteriavillage.com/api/assets/covers/{cover}"
         else:
             image_url = "https://hiteriavillage.com/assets/images/logo.png"
         

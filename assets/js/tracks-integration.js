@@ -129,7 +129,7 @@ function playTrackFallback(trackIndex) {
             .replace(/\s+/g, '') // Remove spaces
             .replace(/-+/g, ''); // Remove hyphens
         
-        const streamUrl = `/assets/audio/${fileName}.mp3`;
+        const streamUrl = `/api/assets/audio/${fileName}.mp3`;
         
         // Play using the spotify player
         window.spotifyPlayer.playFromUrl(streamUrl, title, artist);
