@@ -3614,7 +3614,7 @@
     "rating": "Everyone",
     "difficulties": {
       "lead": 2,
-      "bass": 2,
+      "bass": 1,
       "drums": 3,
       "vocals": 0,
       "plastic-bass": -1,
@@ -3632,7 +3632,7 @@
     "previewUrl": "/api/assets/audio/hate.mp3",
     "shop": false,
 	"New": true,
-    "sid": "sid_65",
+    "sid": "sid_83",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
