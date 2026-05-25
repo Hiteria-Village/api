@@ -3614,9 +3614,9 @@
     "rating": "Everyone",
     "difficulties": {
       "lead": 2,
-      "bass": 0,
+      "bass": 2,
       "drums": 3,
-      "vocals": 5,
+      "vocals": 0,
       "plastic-bass": -1,
       "plastic-drums": -1,
       "plastic-guitar": -1
