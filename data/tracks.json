@@ -3646,5 +3646,205 @@
       "drums": ""
     },
     "charter": "Equinox"
+  },
+  "Paralyzer": {
+    "title": "Paralyzer",
+    "artist": "Finger Eleven",
+    "releaseYear": 2007,
+    "cover": "paralyzer.png",
+    "bpm": 106,
+    "key": "B Minor",
+    "duration": "3m 28s",
+    "album": "Single",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 4,
+      "bass": 1,
+      "drums": 3,
+      "vocals": 1,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-05T00:00:00.000Z",
+    "lastFeatured": "2026-06-05T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6EBR1GuONNbQtPX4wq6H0q",
+    "videoUrl": "paralyzer.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_78.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/paralyzer.mp3",
+    "shop": false,
+	  "New": true,
+    "sid": "sid_78",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "shepherdoffire": {
+    "title": "Shepherd of Fire",
+    "artist": "Avenged Sevenfold",
+    "releaseYear": 2013,
+    "cover": "shepherdoffire.png",
+    "bpm": 128,
+    "key": "D Major",
+    "duration": "5m 01s",
+    "album": "Single",
+    "genre": "Metal",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 6,
+      "bass": 3,
+      "drums": 5,
+      "vocals": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-05T00:00:00.000Z",
+    "lastFeatured": "2026-06-05T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6EBR1GuONNbQtPX4wq6H0q",
+    "videoUrl": "shepherdoffire.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_82.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/shepherdoffire.mp3",
+    "shop": false,
+	  "New": true,
+    "sid": "sid_82",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "seeyouagain": {
+    "title": "See You Again",
+    "artist": "The Chainsmokers, Illenium & Carlie Hanson",
+    "releaseYear": 2023,
+    "cover": "seeyouagain.png",
+    "bpm": 144,
+    "key": "E Major",
+    "duration": "2m 43s",
+    "album": "Single",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 1,
+      "bass": 1,
+      "drums": 4,
+      "vocals": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-05T00:00:00.000Z",
+    "lastFeatured": "2026-06-05T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6EBR1GuONNbQtPX4wq6H0q",
+    "videoUrl": "seeyouagain.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_86.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/seeyouagain.mp3",
+    "shop": false,
+	  "New": true,
+    "sid": "sid_86",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "iamallofme": {
+    "title": "I Am... All of Me",
+    "artist": "Crush 40",
+    "releaseYear": 2006,
+    "cover": "iamallofme.jpg",
+    "bpm": 95,
+    "key": "C# Major",
+    "duration": "3m 51s",
+    "album": "Single",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 3,
+      "bass": 3,
+      "drums": 4,
+      "vocals": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-05T00:00:00.000Z",
+    "lastFeatured": "2026-06-05T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6EBR1GuONNbQtPX4wq6H0q",
+    "videoUrl": "iamallofme.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_89.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/iamallofme.mp3",
+    "shop": false,
+	  "New": true,
+    "sid": "sid_89",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }
