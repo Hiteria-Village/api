@@ -3677,7 +3677,6 @@
     "rank": true,
     "previewUrl": "/api/assets/audio/paralyzer.mp3",
     "shop": false,
-	  "New": true,
     "sid": "sid_78",
     "modalShadowColors": {
       "default": {
@@ -3727,7 +3726,6 @@
     "rank": true,
     "previewUrl": "/api/assets/audio/shepherdoffire.mp3",
     "shop": false,
-	  "New": true,
     "sid": "sid_82",
     "modalShadowColors": {
       "default": {
@@ -3777,7 +3775,6 @@
     "rank": true,
     "previewUrl": "/api/assets/audio/seeyouagain.mp3",
     "shop": false,
-	  "New": true,
     "sid": "sid_86",
     "modalShadowColors": {
       "default": {
@@ -3827,7 +3824,6 @@
     "rank": true,
     "previewUrl": "/api/assets/audio/iamallofme.mp3",
     "shop": false,
-	  "New": true,
     "sid": "sid_89",
     "modalShadowColors": {
       "default": {
