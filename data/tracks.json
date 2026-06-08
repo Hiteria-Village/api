@@ -3842,5 +3842,103 @@
       "drums": ""
     },
     "charter": "Equinox"
+  },
+  "cheerleader": {
+    "title": "Cheerleader",
+    "artist": "Porter Robinson",
+    "releaseYear": 2024,
+    "cover": "cheerleader.jpg",
+    "bpm": 148,
+    "key": "C Minor",
+    "duration": "3m 58s",
+    "album": "Knock Yourself Out XD",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 3,
+      "bass": 2,
+      "drums": 5,
+      "vocals": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-12T00:00:00.000Z",
+    "lastFeatured": "2026-06-12T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6EBR1GuONNbQtPX4wq6H0q",
+    "videoUrl": "cheerleader.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_88.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/cheerleader.mp3",
+    "shop": false,
+    "sid": "sid_88",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "lightspeed": {
+    "title": "Light Speed",
+    "artist": "Grieves",
+    "releaseYear": 2011,
+    "cover": "lightspeed.jpg",
+    "bpm": 99,
+    "key": "C Major",
+    "duration": "3m 55s",
+    "album": "Together/Apart",
+    "genre": "Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 2,
+      "bass": 2,
+      "drums": 2,
+      "vocals": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-12T00:00:00.000Z",
+    "lastFeatured": "2026-06-12T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6EBR1GuONNbQtPX4wq6H0q",
+    "videoUrl": "lightspeed.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_90.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/lightspeed.mp3",
+    "shop": false,
+    "sid": "sid_90",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }
