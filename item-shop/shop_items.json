@@ -648,6 +648,36 @@
       "description": "PLACEHOLDER",
       "songId": "sid_100",
       "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_101": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_101",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_102": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_102",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_103": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_103",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_104": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_104",
+      "coverArt": "PLACEHOLDER_ART.png"
+    },
+    "sid_105": {
+      "name": "PLACEHOLDER",
+      "description": "PLACEHOLDER",
+      "songId": "sid_105",
+      "coverArt": "PLACEHOLDER_ART.png"
     }
   }
 }
