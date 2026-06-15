@@ -3847,17 +3847,17 @@
     "title": "Cheerleader",
     "artist": "Porter Robinson",
     "releaseYear": 2024,
-    "cover": "cheerleader.jpg",
+    "cover": "cheerleader.png",
     "bpm": 148,
     "key": "C Minor",
     "duration": "3m 58s",
-    "album": "Knock Yourself Out XD",
+    "album": "SMILE :D",
     "genre": "Electronic",
     "rating": "Everyone",
     "difficulties": {
       "lead": 3,
       "bass": 2,
-      "drums": 4,
+      "drums": 5,
       "vocals": 3,
       "plastic-bass": -1,
       "plastic-drums": -1,
@@ -3896,7 +3896,7 @@
     "title": "Light Speed",
     "artist": "Grieves",
     "releaseYear": 2011,
-    "cover": "lightspeed.jpg",
+    "cover": "lightspeed.png",
     "bpm": 99,
     "key": "C Major",
     "duration": "3m 55s",
@@ -3923,6 +3923,104 @@
     "previewUrl": "/api/assets/audio/lightspeed.mp3",
     "shop": false,
     "sid": "sid_90",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "360": {
+    "title": "360",
+    "artist": "Charli xcx",
+    "releaseYear": 2024,
+    "cover": "360.png",
+    "bpm": 120,
+    "key": "C Major",
+    "duration": "2m 20s",
+    "album": "brat",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 2,
+      "bass": 2,
+      "drums": 0,
+      "vocals": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-19T00:00:00.000Z",
+    "lastFeatured": "2026-06-19T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6EBR1GuONNbQtPX4wq6H0q",
+    "videoUrl": "360.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_95.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/360.mp3",
+    "shop": false,
+    "sid": "sid_95",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "alien": {
+    "title": "Alien",
+    "artist": "Your Favorite Martian",
+    "releaseYear": 2012,
+    "cover": "alien.jpg",
+    "bpm": 92,
+    "key": "E Minor",
+    "duration": "3m 35s",
+    "album": "Alien (Single)",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 5,
+      "bass": 2,
+      "drums": 4,
+      "vocals": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-19T00:00:00.000Z",
+    "lastFeatured": "2026-06-19T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6EBR1GuONNbQtPX4wq6H0q",
+    "videoUrl": "alien.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_91.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/alien.mp3",
+    "shop": false,
+    "sid": "sid_91",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
