@@ -4030,5 +4030,299 @@
       "drums": ""
     },
     "charter": "Equinox"
+  },
+  "sinceubeengone": {
+    "title": "Since U Been Gone",
+    "artist": "Kelly Clarkson",
+    "releaseYear": 2004,
+    "cover": "sinceubeengone.png",
+    "bpm": 131,
+    "key": "C Major",
+    "duration": "3m 13s",
+    "album": "Breakaway",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 3,
+      "bass": 2,
+      "drums": 3,
+      "vocals": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-26T00:00:00.000Z",
+    "lastFeatured": "2026-06-26T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "3xrn9i8zhNZsTtcoWgQEAd",
+    "videoUrl": "sinceubeengone.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_85.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/sinceubeengone.mp3",
+    "shop": false,
+    "sid": "sid_85",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "supertrouper": {
+    "title": "Super Trouper",
+    "artist": "ABBA",
+    "releaseYear": 1980,
+    "cover": "supertrouper.png",
+    "bpm": 118,
+    "key": "C Major",
+    "duration": "4m 07s",
+    "album": "Super Trouper",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 2,
+      "bass": 2,
+      "drums": 2,
+      "vocals": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-26T00:00:00.000Z",
+    "lastFeatured": "2026-06-26T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0J2p4KYdr6Mg4ET6JPlbe1",
+    "videoUrl": "supertrouper.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_92.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/supertrouper.mp3",
+    "shop": false,
+    "sid": "sid_92",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "90210": {
+    "title": "90210",
+    "artist": "Travis Scott ft. Kacy Hill",
+    "releaseYear": 2015,
+    "cover": "90210.png",
+    "bpm": 82,
+    "key": "A Minor",
+    "duration": "5m 46s",
+    "album": "RODEO",
+    "genre": "Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 1,
+      "bass": 1,
+      "drums": 2,
+      "vocals": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-26T00:00:00.000Z",
+    "lastFeatured": "2026-06-26T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0J2p4KYdr6Mg4ET6JPlbe1",
+    "videoUrl": "90210.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_93.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/90210.mp3",
+    "shop": false,
+    "sid": "sid_93",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "metaldream": {
+    "title": "metal dream",
+    "artist": "Deftones",
+    "releaseYear": 2025,
+    "cover": "metaldream.png",
+    "bpm": 158,
+    "key": "A Minor",
+    "duration": "3m 03s",
+    "album": "private music",
+    "genre": "Metal",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 3,
+      "bass": 1,
+      "drums": 3,
+      "vocals": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-26T00:00:00.000Z",
+    "lastFeatured": "2026-06-26T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0J2p4KYdr6Mg4ET6JPlbe1",
+    "videoUrl": "metaldream.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_94.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/metaldream.mp3",
+    "shop": false,
+    "sid": "sid_94",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "yomax": {
+    "title": "Yo! Max!",
+    "artist": "ND Lee",
+    "releaseYear": 2004,
+    "cover": "yomax.png",
+    "bpm": 90,
+    "key": "D Major",
+    "duration": "3m 15s",
+    "album": "Djmax Best, Vol. 1 (Original Soundtrack)",
+    "genre": "K-Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 3,
+      "bass": 3,
+      "drums": 4,
+      "vocals": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-26T00:00:00.000Z",
+    "lastFeatured": "2026-06-26T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5Sm3iZWcdyzRBwLw1F0sZi",
+    "videoUrl": "yomax.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_97.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/yomax.mp3",
+    "shop": false,
+    "sid": "sid_97",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+  "shootingstars": {
+    "title": "Shooting Stars",
+    "artist": "Bag Raiders",
+    "releaseYear": 2009,
+    "cover": "shootingstars.png",
+    "bpm": 125,
+    "key": "B Major",
+    "duration": "3m 52s",
+    "album": "Djmax Best, Vol. 1 (Original Soundtrack)",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 2,
+      "bass": 1,
+      "drums": 4,
+      "vocals": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-26T00:00:00.000Z",
+    "lastFeatured": "2026-06-26T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5Sm3iZWcdyzRBwLw1F0sZi",
+    "videoUrl": "shootingstars.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_98.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/shootingstars.mp3",
+    "shop": false,
+    "sid": "sid_98",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
   }
 }
