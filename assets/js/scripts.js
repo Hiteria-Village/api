@@ -179,7 +179,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         // Also preload rank images if they exist
         if (track.rank === true && track.loading_phrase) {
-          imageUrls.add(`/api/assets/images/${track.loading_phrase}`);
+          imageUrls.add(`/api/ranks/rank_previews/${track.loading_phrase}`);
         }
       });
       
@@ -547,7 +547,7 @@ document.addEventListener('DOMContentLoaded', () => {
       
       // Check if rank is true to display image instead of text
       if (rank === true && loading_phrase) {
-        loadingPhraseElement.innerHTML = `<center><img src="/api/assets/images/${loading_phrase}" alt="Rank" style="max-width: 100%; max-height: 120px; height: auto; object-fit: contain;" /><br><span class="rank-reward-text">Rank Reward</span></center>`;
+        loadingPhraseElement.innerHTML = `<center><img src="/api/ranks/rank_previews/${loading_phrase}" alt="Rank" style="max-width: 100%; max-height: 120px; height: auto; object-fit: contain;" /><br><span class="rank-reward-text">Rank Reward</span></center>`;
       } else {
         loadingPhraseElement.innerHTML = `<center><strong></strong> ${loading_phrase || 'Not available'}</p>`;
       }

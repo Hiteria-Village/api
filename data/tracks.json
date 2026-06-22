@@ -3933,7 +3933,7 @@
     },
     "charter": "Equinox"
   },
-  "360": {
+  "threesixty": {
     "title": "360",
     "artist": "Charli xcx",
     "releaseYear": 2024,
@@ -4129,7 +4129,7 @@
     },
     "charter": "Luna"
   },
-  "90210": {
+  "ninezerotwoonezero": {
     "title": "90210",
     "artist": "Travis Scott ft. Kacy Hill",
     "releaseYear": 2015,
@@ -4157,7 +4157,7 @@
     "videoPosition": 50,
     "loading_phrase": "oct_sid_93.png",
     "rank": true,
-    "previewUrl": "/api/assets/audio/90210.mp3",
+    "previewUrl": "/api/assets/audio/ninezerotwoonezero.mp3",
     "shop": false,
     "sid": "sid_93",
     "modalShadowColors": {

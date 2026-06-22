@@ -1,0 +1,104 @@
+[00:28.08]{agent:v1}I hold on so nervously to me and my drink
+<I:28.079:28.358|hold:28.358:28.73|on:28.73:29.056|so:29.056:29.38|nervously:29.38:31.289|to:31.289:31.566|me:31.566:31.847|and:31.847:32.032|my:32.032:32.45|drink:32.45:33.326>
+[00:34.11]{agent:v1}I wish it was coolin' me
+<I:34.114:34.345|wish:34.345:34.576|it:34.576:34.762|was:34.762:35.085|coolin':35.085:35.871|me:35.871:36.425>
+[00:36.98]{agent:v1}But so far has not been good
+<But:36.982:37.261|so:37.261:37.677|far:37.677:38.095|has:38.095:38.374|not:38.374:38.745|been:38.745:39.208|good:39.208:39.719>
+[00:40.27]{agent:v1}It's been ...,
+<It's:40.274:40.6|been:40.6:41.062|...,:41.062:41.668>
+[00:42.36]{agent:v1}And I feel awkward as I should
+<And:42.364:42.595|I:42.595:42.875|feel:42.875:43.106|awkward:43.106:43.989|as:43.989:44.451|I:44.451:44.866|should:44.866:45.708>
+[00:46.22]{agent:v1}This club has got to be
+<This:46.215:46.683|club:46.683:47.103|has:47.103:47.381|got:47.381:47.798|to:47.798:48.17|be:48.17:48.771>
+[00:49.14]{agent:v1}The most pretentious thing
+<The:49.141:49.28|most:49.28:49.603|pretentious:49.603:50.804|thing:50.804:51.358>
+[00:52.24]{agent:v1}Since I thought you and me
+<Since:52.238:52.423|I:52.423:52.7|thought:52.7:53.074|you:53.074:53.447|and:53.447:53.868|me:53.868:54.516>
+[00:55.07]{agent:v1}Well, I am imagining a dark lit place
+<Well,:55.071:55.349|I:55.349:55.72|am:55.72:56.137|imagining:56.137:58.405|a:58.405:58.728|dark:58.728:59.101|lit:59.101:59.52|place:59.52:60.126>
+[01:00.45]{agent:v1}Or your place or my place
+<Or:60.453:60.685|your:60.685:60.961|place:60.961:61.374|or:61.374:61.746|my:61.746:62.073|place:62.073:62.442>
+[01:02.68]{agent:v1}Well, I'm not paralyzed, but
+<Well,:62.675:62.954|I'm:62.954:63.603|not:63.603:63.883|paralyzed,:63.883:64.864|but:64.864:65.187>
+[01:05.42]{agent:v1}I seem to be struck by you
+<I:65.416:65.788|seem:65.788:66.115|to:66.115:66.349|be:66.349:66.671|struck:66.671:67.133|by:67.133:67.504|you:67.504:68.014>
+[01:08.25]{agent:v1}I wanna make you move
+<I:68.246:68.48|wanna:68.48:68.946|make:68.946:69.318|you:69.318:69.784|move:69.784:70.156>
+[01:10.44]{agent:v1}Because you're standin' still
+<Because:70.435:70.619|you're:70.619:71.08|standin':71.08:71.64|still:71.64:72.755>
+[01:12.99]{agent:v1}If your body matches what your eyes can do
+<If:72.986:73.216|your:73.216:73.493|body:73.493:74.324|matches:74.324:75.064|what:75.064:75.299|your:75.299:75.623|eyes:75.623:76.222|can:76.222:76.549|do:76.549:76.873>
+[01:17.15]{agent:v1}You'll probably move right through
+<You'll:77.153:77.431|probably:77.431:77.894|move:77.894:78.314|right:78.314:78.775|through:78.775:79.38>
+[01:19.38]{agent:v1}Me on my way to you
+<Me:79.38:79.662|on:79.662:79.94|my:79.94:80.312|way:80.312:80.728|to:80.728:81.193|you:81.193:81.377>
+[01:22.16]{agent:v1}I hold out for one more drink
+<I:82.164:82.486|hold:82.486:82.994|out:82.994:83.364|for:83.364:83.687|one:83.687:84.105|more:84.105:84.569|drink:84.569:85.591>
+[01:25.59]{agent:v1}Before I think
+<Before:85.591:85.916|I:85.916:86.658|think:86.658:87.59>
+[01:28.42]{agent:v1}I'm lookin' too desperately
+<I'm:88.425:88.613|lookin':88.613:89.028|too:89.028:89.354|desperately:89.354:90.511>
+[01:31.25]{agent:v1}But so far has not been fun
+<But:91.254:91.531|so:91.531:91.994|far:91.994:92.412|has:92.412:92.74|not:92.74:93.112|been:93.112:93.619|fun:93.619:94.173>
+[01:34.50]{agent:v1}I should just stay home
+<I:94.499:94.731|should:94.731:95.012|just:95.012:95.385|stay:95.385:95.85|home:95.85:96.597>
+[01:37.48]{agent:v1}If one thing really means one
+<If:97.477:97.71|one:97.71:97.989|thing:97.989:98.312|really:98.312:98.684|means:98.684:99.096|one:99.096:99.796>
+[01:40.49]{agent:v1}This club will hopefully
+<This:100.491:100.958|club:100.958:101.374|will:101.374:101.746|hopefully:101.746:103.001>
+[01:43.51]{agent:v1}Be closed in three weeks
+<Be:103.513:103.928|closed:103.928:104.393|in:104.393:104.766|three:104.766:105.093|weeks:105.093:105.841>
+[01:46.73]{agent:v1}That would be cool with me
+<That:106.728:106.911|would:106.911:107.144|be:107.144:107.469|cool:107.469:107.889|with:107.889:108.306|me:108.306:108.814>
+[01:49.33]{agent:v1}Well, I'm still imagining a dark lit place
+<Well,:109.328:109.649|I'm:109.649:109.836|still:109.836:110.442|imagining:110.442:112.901|a:112.901:113.179|dark:113.179:113.551|lit:113.551:113.972|place:113.972:114.436>
+[01:54.85]{agent:v1}Or your place or my place
+<Or:114.854:115.086|your:115.086:115.365|place:115.365:115.782|or:115.782:116.201|my:116.201:116.479|place:116.479:116.849>
+[01:57.08]{agent:v1}Well, I'm not paralyzed, but
+<Well,:117.08:117.543|I'm:117.543:117.959|not:117.959:118.236|paralyzed,:118.236:119.167|but:119.167:119.49>
+[01:59.77]{agent:v1}I seem to be struck by you
+<I:119.77:120.09|seem:120.09:120.37|to:120.37:120.647|be:120.647:121.015|struck:121.015:121.479|by:121.479:121.94|you:121.94:122.31>
+[02:02.54]{agent:v1}I wanna make you move
+<I:122.544:122.774|wanna:122.774:123.284|make:123.284:123.656|you:123.656:124.073|move:124.073:124.536>
+[02:04.72]{agent:v1}Because you're standin' still
+<Because:124.722:125.142|you're:125.142:125.513|standin':125.513:126.352|still:126.352:126.957>
+[02:07.33]{agent:v1}If your body matches what your eyes can do
+<If:127.329:127.514|your:127.514:127.789|body:127.789:128.627|matches:128.627:129.414|what:129.414:129.693|your:129.693:130.063|eyes:130.063:130.618|can:130.618:130.942|do:130.942:131.266>
+[02:11.54]{agent:v1}You'll probably move right through me on my way to you
+<You'll:131.545:131.778|probably:131.778:132.244|move:132.244:132.711|right:132.711:133.131|through:133.131:133.778|me:133.778:134.058|on:134.058:134.337|my:134.337:134.618|way:134.618:135.037|to:135.037:135.454|you:135.454:136.014>
+[02:33.40]{agent:v1}Well, I'm not paralyzed, but
+<Well,:153.397:153.72|I'm:153.72:154.229|not:154.229:154.459|paralyzed,:154.459:155.483|but:155.483:155.807>
+[02:36.04]{agent:v1}I seem to be struck by you
+<I:156.039:156.457|seem:156.457:156.734|to:156.734:156.919|be:156.919:157.245|struck:157.245:157.71|by:157.71:158.128|you:158.128:158.547>
+[02:38.78]{agent:v1}I wanna make you move
+<I:158.777:159.102|wanna:159.102:159.517|make:159.517:159.935|you:159.935:160.397|move:160.397:160.769>
+[02:40.95]{agent:v1}Because you're standin' still
+<Because:160.954:161.467|you're:161.467:161.792|standin':161.792:162.584|still:162.584:163.137>
+[02:43.42]{agent:v1}If your body matches what your eyes can do
+<If:163.416:163.697|your:163.697:163.972|body:163.972:164.845|matches:164.845:165.632|what:165.632:166.005|your:166.005:166.287|eyes:166.287:166.798|can:166.798:167.169|do:167.169:167.494>
+[02:47.72]{agent:v1}You'll probably move right through
+<You'll:167.725:167.957|probably:167.957:168.466|move:168.466:168.928|right:168.928:169.441|through:169.441:169.957>
+[02:49.96]{agent:v1}Me on my way to you
+<Me:169.957:170.238|on:170.238:170.514|my:170.514:170.835|way:170.835:171.299|to:171.299:171.671|you:171.671:172.285>
+[02:52.56]{agent:v1}Not paralyzed, but
+<Not:172.564:172.749|paralyzed,:172.749:173.543|but:173.543:173.865>
+[02:54.05]{agent:v1}I seem to be struck by you
+<I:174.05:174.467|seem:174.467:174.747|to:174.747:175.025|be:175.025:175.351|struck:175.351:175.813|by:175.813:176.28|you:176.28:176.648>
+[02:56.83]{agent:v1}I wanna make you move
+<I:176.834:177.064|wanna:177.064:177.577|make:177.577:177.998|you:177.998:178.415|move:178.415:178.879>
+[02:59.06]{agent:v1}Because you're standin' still
+<Because:179.064:179.481|you're:179.481:179.851|standin':179.851:180.681|still:180.681:181.241>
+[03:01.52]{agent:v1}If your body matches what your eyes can do
+<If:181.518:181.795|your:181.795:182.122|body:182.122:182.957|matches:182.957:183.836|what:183.836:184.068|your:184.068:184.394|eyes:184.394:184.902|can:184.902:185.277|do:185.277:185.833>
+[03:05.83]{agent:v1}You'll probably move right through
+<You'll:185.833:186.111|probably:186.111:186.622|move:186.622:187.086|right:187.086:187.508|through:187.508:188.11>
+[03:08.11]{agent:v1}Me on my way to you
+<Me:188.11:188.342|on:188.342:188.62|my:188.62:188.9|way:188.9:189.367|to:189.367:189.781|you:189.781:190.473>
+[03:14.87]{agent:v1}You'll probably move right through
+<You'll:194.867:195.145|probably:195.145:195.653|move:195.653:196.162|right:196.162:196.575|through:196.575:197.18>
+[03:17.18]{agent:v1}Me on my way to you
+<Me:197.18:197.415|on:197.415:197.647|my:197.647:197.974|way:197.974:198.48|to:198.48:198.851|you:198.851:199.546>
+[03:23.97]{agent:v1}You'll probably move right through
+<You'll:203.967:204.2|probably:204.2:204.666|move:204.666:205.129|right:205.129:205.546|through:205.546:206.15>
+[03:26.15]{agent:v1}Me on my way to you
+<Me:206.15:206.431|on:206.431:206.709|my:206.709:206.94|way:206.94:207.451|to:207.451:207.867|you:207.867:208.787>

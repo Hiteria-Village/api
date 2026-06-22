@@ -1,0 +1,82 @@
+[00:15.97]{agent:v1}There's no doubt
+<There's:15.974:16.3|no:16.3:16.623|doubt:16.623:17.088>
+[00:17.41]{agent:v1}I can tell you're acting your heart out
+<I:17.41:17.921|can:17.921:18.11|tell:18.11:18.344|you're:18.344:18.624|acting:18.624:19.087|your:19.087:19.363|heart:19.363:19.783|out:19.783:20.247>
+[00:21.73]{agent:v1}And she's addicted
+<And:21.727:22.092|she's:22.092:22.464|addicted:22.464:23.346>
+[00:23.81]{agent:v1}Obsessed like, "I know I can fix him"
+<Obsessed:23.808:24.18|like,:24.18:24.787|"I:24.787:25.072|know:25.072:25.35|I:25.35:25.628|can:25.628:25.907|fix:25.907:27.111|him":27.111:27.807>
+[00:28.36]{agent:v1}She's got hearts in her eyes
+<She's:28.364:28.594|got:28.594:29.056|hearts:29.056:30.123|in:30.123:30.357|her:30.357:30.539|eyes:30.539:31.192>
+[00:31.65]{agent:v1}And she draws me kissing other guys
+<And:31.654:31.84|she:31.84:32.163|draws:32.163:32.532|me:32.532:32.812|kissing:32.812:33.137|other:33.137:33.738|guys:33.738:34.531>
+[00:34.95]{agent:v1}Her love, the type
+<Her:34.949:35.322|love,:35.322:36.525|the:36.525:36.989|type:36.989:37.779>
+[00:38.15]{agent:v1}Where she don't know where to draw the line
+<Where:38.152:38.386|she:38.386:38.572|don't:38.572:38.986|know:38.986:39.218|where:39.218:39.45|to:39.45:39.682|draw:39.682:40.009|the:40.009:40.196|line:40.196:40.708>
+[00:42.06]{agent:v1}Cheerleader
+<Cheerleader:42.057:45.766>
+[00:46.56]{agent:v1}Thought she needed me, but I need her
+<Thought:46.558:47.073|she:47.073:47.49|needed:47.49:48.005|me,:48.005:48.239|but:48.239:48.657|I:48.657:49.865|need:49.865:51.162|her:51.162:52.409>
+[00:54.40]{agent:v1}It's not fair
+<It's:54.401:54.588|not:54.588:55.006|fair:55.006:58.72>
+[00:59.24]{agent:v1}'Cause I knew you like the back of my hands
+<'Cause:59.236:59.421|I:59.421:59.653|knew:59.653:60.118|you:60.118:60.35|like:60.35:60.536|the:60.536:60.722|back:60.722:60.907|of:60.907:61.141|my:61.141:61.885|hands:61.885:62.678>
+[01:07.18]{agent:v1}Well, don't you care? I gave you everything
+<Well,:67.179:67.318|don't:67.318:67.458|you:67.458:67.645|care?:67.645:70.25|I:70.25:70.436|gave:70.436:70.852|you:70.852:71.131|everything:71.131:72.199>
+[01:12.20]{agent:v1}Now I feel you even when you're not there
+<Now:72.199:72.383|I:72.383:72.568|feel:72.568:73.031|you:73.031:73.262|even:73.262:73.4|when:73.4:73.631|you're:73.631:74.002|not:74.002:74.838|there:74.838:75.438>
+[01:20.40]{agent:v1}It's kinda sad how
+<It's:80.399:80.54|kinda:80.54:80.911|sad:80.911:81.33|how:81.33:81.746>
+[01:22.26]{agent:v1}It's not your fault you're living in a madhouse
+<It's:82.259:82.443|not:82.443:82.768|your:82.768:82.955|fault:82.955:83.142|you're:83.142:83.423|living:83.423:83.795|in:83.795:83.983|a:83.983:84.214|madhouse:84.214:85.237>
+[01:26.96]{agent:v1}I can't back down
+<I:86.957:87.095|can't:87.095:87.467|back:87.467:87.884|down:87.884:88.582>
+[01:28.58]{agent:v1}Aren't you tired of blending into the background?
+<Aren't:88.582:88.769|you:88.769:88.954|tired:88.954:89.283|of:89.283:89.47|blending:89.47:89.843|into:89.843:90.262|the:90.262:90.682|background?:90.682:91.973>
+[01:33.27]{agent:v1}She's got hearts in her eyes
+<She's:93.27:93.453|got:93.453:93.873|hearts:93.873:94.94|in:94.94:95.127|her:95.127:95.359|eyes:95.359:96.471>
+[01:36.47]{agent:v1}Saying, "Boy, you better watch the time
+<Saying,:96.471:96.889|"Boy,:96.889:97.355|you:97.355:97.586|better:97.586:97.774|watch:97.774:98.334|the:98.334:98.702|time:98.702:99.721>
+[01:39.72]{agent:v1}'Cause if you're not mine
+<'Cause:99.721:99.999|if:99.999:100.187|you're:100.187:101.394|not:101.394:101.811|mine:101.811:103.057>
+[01:43.06]{agent:v1}I'd rather see you burned alive," oh
+<I'd:103.057:103.431|rather:103.431:103.941|see:103.941:104.223|you:104.223:104.458|burned:104.458:104.919|alive,":104.919:105.801|oh:105.801:106.403>
+[01:46.91]{agent:v1}Cheerleader
+<Cheerleader:106.913:110.672>
+[01:51.70]{agent:v1}Says she hates me 'cause I'm not hers
+<Says:111.698:112.023|she:112.023:112.443|hates:112.443:112.817|me:112.817:113.185|'cause:113.185:113.419|I'm:113.419:114.712|not:114.712:116.338|hers:116.338:117.545>
+[01:59.30]{agent:v1}It's not fair
+<It's:119.305:119.491|not:119.491:119.863|fair:119.863:124.132>
+[02:04.13]{agent:v1}'Cause I knew you like the back of my hands
+<'Cause:124.132:124.27|I:124.27:124.454|knew:124.454:124.872|you:124.872:125.103|like:125.103:125.287|the:125.287:125.47|back:125.47:125.701|of:125.701:125.933|my:125.933:126.774|hands:126.774:127.378>
+[02:12.12]{agent:v1}Well, don't you care? I gave you everything, ah
+<Well,:132.122:132.307|don't:132.307:132.632|you:132.632:132.772|care?:132.772:135.235|I:135.235:135.42|gave:135.42:135.698|you:135.698:135.978|everything,:135.978:136.86|ah:136.86:137.233>
+[02:17.23]{agent:v1}Now I feel you even when you're not there
+<Now:137.233:137.465|I:137.465:137.606|feel:137.606:137.929|you:137.929:138.117|even:138.117:138.258|when:138.258:138.539|you're:138.539:138.864|not:138.864:139.607|there:139.607:140.485>
+[02:25.90]{agent:v1}Somehow, I don't even know what she does now
+<Somehow,:145.9:147.302|I:147.302:147.72|don't:147.72:147.954|even:147.954:148.325|know:148.325:148.649|what:148.649:148.927|she:148.927:149.202|does:149.202:149.669|now:149.669:150.273>
+[02:31.68]{agent:v1}Well, do I wish her the best or do I actually miss her?
+<Well,:151.676:151.907|do:151.907:152.092|I:152.092:152.281|wish:152.281:152.747|her:152.747:153.393|the:153.393:153.717|best:153.717:153.902|or:153.902:154.273|do:154.273:154.461|I:154.461:154.74|actually:154.74:155.715|miss:155.715:156.973|her?:156.973:157.718>
+[02:38.09]{agent:v1}She had hearts in her eyes
+<She:158.093:158.328|had:158.328:158.513|hearts:158.513:158.886|in:158.886:159.908|her:159.908:160.094|eyes:160.094:161.394>
+[02:41.39]{agent:v1}She was rooting for me all the time
+<She:161.394:161.579|was:161.579:161.859|rooting:161.859:162.374|for:162.374:162.698|me:162.698:162.929|all:162.929:163.253|the:163.253:163.489|time:163.489:164.093>
+[02:44.69]{agent:v1}Her love, the type
+<Her:164.694:165.015|love,:165.015:166.217|the:166.217:166.68|type:166.68:167.934>
+[02:47.93]{agent:v1}That makes you dedicate your life
+<That:167.934:168.258|makes:168.258:168.72|you:168.72:168.998|dedicate:168.998:169.735|your:169.735:170.015|life:170.015:170.712>
+[02:50.71]{agent:v1}Oh, my cheerleader
+<Oh,:170.712:171.317|my:171.317:171.783|cheerleader:171.783:175.695>
+[02:56.34]{agent:v1}Thought she needed me, but I need her
+<Thought:176.341:176.711|she:176.711:177.225|needed:177.225:177.641|me,:177.641:178.013|but:178.013:178.293|I:178.293:179.636|need:179.636:180.983|her:180.983:182.609>
+[03:03.95]{agent:v1}It's not fair
+<It's:183.949:184.322|not:184.322:184.79|fair:184.79:188.97>
+[03:08.97]{agent:v1}'Cause I knew you like the back of my hands
+<'Cause:188.97:189.153|I:189.153:189.385|knew:189.385:189.614|you:189.614:189.985|like:189.985:190.272|the:190.272:190.46|back:190.46:190.691|of:190.691:190.875|my:190.875:191.613|hands:191.613:192.542>
+[03:16.72]{agent:v1}Well, don't you care? I gave you everything, ah
+<Well,:196.719:196.903|don't:196.903:197.088|you:197.088:197.785|care?:197.785:199.833|I:199.833:199.971|gave:199.971:200.391|you:200.391:200.808|everything,:200.808:201.592|ah:201.592:202.008>
+[03:22.01]{agent:v1}Now I feel you even when you're not there
+<Now:202.008:202.196|I:202.196:202.381|feel:202.381:202.796|you:202.796:202.936|even:202.936:203.168|when:203.168:203.352|you're:203.352:203.771|not:203.771:203.909|there:203.909:205.395>
+[03:28.45]{agent:v1}Yeah, I feel you even when you're not there
+<Yeah,:208.45:208.636|I:208.636:208.866|feel:208.866:209.285|you:209.285:209.47|even:209.47:209.703|when:209.703:209.933|you're:209.933:210.306|not:210.306:210.68|there:210.68:211.238>

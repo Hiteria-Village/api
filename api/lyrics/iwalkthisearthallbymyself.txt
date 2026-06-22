@@ -1,0 +1,40 @@
+[00:18.06]{agent:v1}I walk this earth all by myself
+<I:18.057:18.338|walk:18.338:18.663|this:18.663:18.989|earth:18.989:19.314|all:19.314:19.688|by:19.688:20.016|myself:20.016:21.035>
+[00:23.86]{agent:v1}I'm doing drugs, but they don't help
+<I'm:23.863:24.145|doing:24.145:24.565|drugs,:24.565:25.118|but:25.118:25.304|they:25.304:25.628|don't:25.628:26.137|help:26.137:26.796>
+[00:29.54]{agent:v1}My voice is nothing when I'm screaming out for help
+<My:29.538:29.813|voice:29.813:30.138|is:30.138:30.415|nothing:30.415:31.252|when:31.252:31.576|I'm:31.576:31.943|screaming:31.943:32.458|out:32.458:32.836|for:32.836:33.347|help:33.347:33.858>
+[00:35.41]{agent:v1}I stretch my hand, but my grip just gives out
+<I:35.406:35.638|stretch:35.638:35.964|my:35.964:36.334|hand,:36.334:36.938|but:36.938:37.31|my:37.31:37.728|grip:37.728:38.471|just:38.471:38.701|gives:38.701:39.074|out:39.074:39.589>
+[00:40.67]{agent:v1}Oh-oh, oh-oh
+<Oh-oh,:40.667:43.404|oh-oh:43.404:44.99>
+[00:46.43]{agent:v1}Oh-oh, oh-oh
+<Oh-oh,:46.433:49.033|oh-oh:49.033:50.887>
+[00:52.20]{agent:v1}Oh-oh, oh-oh
+<Oh-oh,:52.195:54.897|oh-oh:54.897:56.521>
+[00:57.78]{agent:v1}Oh-oh, oh-oh
+<Oh-oh,:57.783:60.519|oh-oh:60.519:62.656>
+[01:04.28]{agent:v1}Nobody gives a ... about me
+<Nobody:64.276:64.786|gives:64.786:65.297|a:65.297:65.667|...:65.667:66.085|about:66.085:66.546|me:66.546:67.062>
+[01:10.08]{agent:v1}That's what I think to myself when I'm alone in the city
+<That's:70.08:70.313|what:70.313:70.589|I:70.589:70.911|think:70.911:71.19|to:71.19:71.375|myself:71.375:71.931|when:71.931:72.209|I'm:72.209:72.862|alone:72.862:73.049|in:73.049:73.465|the:73.465:73.885|city:73.885:74.579>
+[01:15.80]{agent:v1}I walk around the mall, but there's nobody with me
+<I:75.797:76.032|walk:76.032:76.354|around:76.354:77.007|the:77.007:77.285|mall,:77.285:77.703|but:77.703:77.885|there's:77.885:78.07|nobody:78.07:79.407|with:79.407:79.967|me:79.967:80.38>
+[01:21.59]{agent:v1}What do I say when there's nobody listening?
+<What:81.592:81.825|do:81.825:82.058|I:82.058:82.381|say:82.381:83.168|when:83.168:83.542|there's:83.542:83.958|nobody:83.958:85.21|listening?:85.21:86.085>
+[01:27.30]{agent:v1}I walk this earth all by myself
+<I:87.3:87.624|walk:87.624:87.948|this:87.948:88.273|earth:88.273:88.645|all:88.645:89.018|by:89.018:89.345|myself:89.345:90.323>
+[01:32.38]{agent:v1}I'm doing drugs, but they don't help
+<I'm:92.381:93.084|doing:93.084:93.872|drugs,:93.872:94.478|but:94.478:94.709|they:94.709:95.082|don't:95.082:95.548|help:95.548:96.105>
+[01:38.90]{agent:v1}My voice is nothing when I'm screaming out for help
+<My:98.897:99.172|voice:99.172:99.5|is:99.5:99.868|nothing:99.868:100.658|when:100.658:100.978|I'm:100.978:101.345|screaming:101.345:101.852|out:101.852:102.272|for:102.272:102.737|help:102.737:103.299>
+[01:44.69]{agent:v1}I stretch my hand, but my grip just gives out
+<I:104.689:105.013|stretch:105.013:105.335|my:105.335:105.706|hand,:105.706:106.358|but:106.358:106.688|my:106.688:107.053|grip:107.053:107.8|just:107.8:108.034|gives:108.034:108.45|out:108.45:108.914>
+[02:00.58]{agent:v1}I walk this earth all by myself
+<I:120.583:120.859|walk:120.859:121.197|this:121.197:121.657|earth:121.657:122.075|all:122.075:122.493|by:122.493:122.724|myself:122.724:124.211>
+[02:07.17]{agent:v1}I'm doing drugs, but they don't help
+<I'm:127.17:127.775|doing:127.775:128.476|drugs,:128.476:129.262|but:129.262:129.493|they:129.493:129.774|don't:129.774:130.519|help:130.519:131.122>
+[02:14.66]{agent:v1}My voice is nothing when I'm screaming out for help
+<My:134.659:134.935|voice:134.935:135.31|is:135.31:135.726|nothing:135.726:136.654|when:136.654:137.072|I'm:137.072:137.49|screaming:137.49:138.196|out:138.196:138.658|for:138.658:139.167|help:139.167:139.96>
+[02:21.77]{agent:v1}I stretch my hand, but my grip just gives out
+<I:141.766:142.088|stretch:142.088:142.454|my:142.454:143.006|hand,:143.006:143.836|but:143.836:144.204|my:144.204:144.668|grip:144.668:145.598|just:145.598:145.876|gives:145.876:146.336|out:146.336:146.846>
