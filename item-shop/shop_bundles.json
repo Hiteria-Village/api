@@ -109,6 +109,16 @@
       "ifOwned1": 40,
       "ifOwned2": 60,
       "visualOverride": null
+    },
+    "test_bundle_1": {
+      "name": "Jayden likes candyfloss! | Test Pack",
+      "description": "",
+      "basePrice": 4500,
+      "items": ["mid_13", "mid_14", "mid_15", "mid_16", "mid_17"],
+      "discount": 20,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "visualOverride": null
     }
   }
 }
