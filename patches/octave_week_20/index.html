@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="theme-color" content="#000000">
+    <meta name="description" content="Octave | 06/26/26  Patch Notes">
+    <meta property="og:title" content="Octave | 06/26/26 - Hiteria Village">
+    <meta property="og:description" content="Octave Season 1 Update">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://hiteriavillage.github.io/assets/images/logo.png">
+    <meta property="og:url" content="https://hiteriavillage.github.io/patches/octave_week_20.html">
+    <meta property="og:site_name" content="Hiteria Village">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Octave | 06/26/26 - Hiteria Village">
+    <meta name="twitter:description" content="Octave Season 1 Update">
+    <meta name="twitter:image" content="https://hiteriavillage.github.io/assets/images/logo.png">
+    <title>Release 02/13/26 - Hiteria Village</title>
+    <link rel="icon" type="image/x-icon" href="../../favicon.ico">
+    <link rel="icon" type="image/png" href="../../assets/images/logo.png">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #4a5568 0%, #2d3748 25%, #1a202c 50%, #2b6cb0 75%, #3182ce 100%);
+            background-size: 400% 400%;
+            animation: waveGradient 8s ease-in-out infinite;
+            min-height: 100vh;
+            color: white;
+            padding: 20px;
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        body::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(circle at 20% 80%, rgba(59, 130, 246, 0.3) 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, rgba(107, 114, 128, 0.3) 0%, transparent 50%),
+                radial-gradient(circle at 40% 40%, rgba(75, 85, 99, 0.2) 0%, transparent 50%);
+            z-index: -1;
+        }
+
+        @keyframes waveGradient {
+            0%, 100% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            animation: fadeIn 0.8s ease-in;
+        }
+
+        .header img {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 20px;
+            filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.3));
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            font-weight: 700;
+            text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .back-button {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border: 2px solid rgba(255, 255, 255, 0.2);
+            border-radius: 50px;
+            padding: 12px 20px;
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .back-button:hover {
+            background: rgba(255, 255, 255, 0.15);
+            border-color: rgba(255, 255, 255, 0.4);
+            transform: translateY(-2px);
+        }
+
+        .content-container {
+            max-width: 900px;
+            margin: 0 auto;
+            animation: fadeInUp 1s ease-in;
+        }
+
+        .patch-container {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 30px;
+            border: 2px solid rgba(255, 255, 255, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .patch-container:hover {
+            background: rgba(255, 255, 255, 0.15);
+            border-color: rgba(255, 255, 255, 0.4);
+        }
+
+        .patch-date {
+            font-size: 0.9em;
+            opacity: 0.7;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .patch-section {
+            margin-bottom: 50px;
+        }
+
+        .patch-section h3 {
+            font-size: 2.2em;
+            font-weight: 700;
+            margin-bottom: 25px;
+            color: #fff;
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+            border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+            padding-bottom: 10px;
+        }
+
+        .patch-subsection {
+            margin-bottom: 30px;
+        }
+
+        .patch-subsection h4 {
+            font-size: 1.4em;
+            font-weight: 600;
+            margin-bottom: 15px;
+            color: #e0e0e0;
+            text-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        .patch-section ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .patch-section li {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 6px;
+            padding: 12px 16px;
+            margin-bottom: 8px;
+            border-left: 3px solid rgba(255, 255, 255, 0.3);
+            transition: all 0.2s ease;
+            font-size: 0.95em;
+            line-height: 1.6;
+        }
+
+        .patch-section li:hover {
+            background: rgba(255, 255, 255, 0.08);
+            border-left-color: rgba(255, 255, 255, 0.5);
+        }
+
+        .patch-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 12px;
+            margin: 25px 0;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+            border: 2px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .patch-image-caption {
+            text-align: center;
+            font-size: 0.9em;
+            opacity: 0.7;
+            margin-top: -15px;
+            margin-bottom: 25px;
+            font-style: italic;
+        }
+
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+            margin: 25px 0;
+            border-radius: 12px;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+            border: 2px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 12px;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2em;
+            }
+
+            .header img {
+                width: 60px;
+                height: 60px;
+            }
+
+            .patch-container {
+                padding: 25px;
+            }
+
+            .patch-section h3 {
+                font-size: 1.8em;
+            }
+
+            .patch-subsection h4 {
+                font-size: 1.2em;
+            }
+
+            .back-button {
+                position: relative;
+                top: 0;
+                left: 0;
+                margin-bottom: 20px;
+                align-self: flex-start;
+            }
+        }
+    </style>
+</head>
+<body>
+    <a href="/patch-notes" class="back-button">
+        <span>←</span>
+        Back to Patch Notes
+    </a>
+
+    <div class="header">
+        <img src="../../assets/images/logo.png" alt="Hiteria Village Logo">
+        <h1>Octave Season 1 | 06/26/26</h1>
+        <p>Patch Notes</p>
+    </div>
+
+    <div class="content-container">
+        <div class="patch-container">
+            <div class="patch-date">The First Major Season of Octave is Here!</div>
+                        <div class="patch-section">
+                <h3>Octave | Season 1</h3>
+                
+                <div class="patch-subsection">
+                    <h4>New Systems</h4>
+                                        <ul>
+                        <li>Tutorial
+                    </li>
+                    For any new players joining this season, when interacting with a stage block a tutorial will be displayed to help you find your footing with Octave. This will be improved upon with time but the current tutorial is super helpful.
+                    <ul>
+                 <img src="../../assets/images/tutorial.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">A look at the tutorial system in use</div>
+                                        <li>Progression
+                    </li>
+                    From now on, playing music tracks will grant you xp, more depending on difficulty and length. There are two forms of progression, Account and Seasonal. Any account levels made when playing are permanent and will grant you cool new rewards. Seasonal progression resets every new season. Any rewards claimed from these seasonal "passes" will be kept and once a new seasonal "pass" is released, any items will instantly transfer into the shop so don't worry about not making it to a certain level! As a bonus, the newly released songs each week will grant double xp towards both progression systems for the weekend! You can access your progression menu from the pause menu.
+                 <img src="../../assets/images/progression_seasonal_teaser.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">A look at the Progression Screen</div>
+                                        <li>Modifiers
+                    </li>
+                    New in the settings menu is the "Modifiers" menu, allowing you to enable things such as No Lifts, Strumming, Lift Colors + more. This will be expanded upon in the future and will allow for more game changing modifiers to be set.
+                    <ul>
+                 <img src="../../assets/images/settings_modifiers.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Modifiers menu</div>
+                                        <li>Gamepad + Instrument Support
+                    </li>
+                    Not too long ago, Octave released support for gamepad and in tandem plastic instruments. In the modifiers menu, you will now find an option to enable "Strumming" as well as binding for strumming. This alongside no lifts allows for simple guitar gameplay. The gamepad system has also been fleshed out much more allowing for easier navigation of the menu overall.
+                    <ul>
+                 <div class="patch-image-caption"></div>
+                                                        <li>Instrument Skins
+                    </li>
+            New to the Item Shop are instrument skins. Just like the Octave music tracks, you can purchase these with gems in either bundles or separately.  As time goes on, more instruments will be available in the shop for players to purchase and use. Some will also be available to earn through the new Progression menu but don't worry, any skins in the seasonal "pass" will rotate into the shop after the season ends! 
+                 <img src="../../assets/images/instrument_cosmetics.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Instrument Skins</div>
+                                                                         <li>Profiles
+                    </li>
+            In the settings menu, you will now find a "Profiles" button that allows you to save your settings and load them at a later date too in case you ever switch them. This is especially usefull when switching between keyboard, gamepad and guitar. You can have up to 10 profiles currently and each can be shaped to your liking. Every setting will be saved and loaded including modifiers, calibration, everything.
+                 <img src="../../assets/images/settings_profiles.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Profiles Menu</div>                                   
+            <div class="patch-section">
+                <h3>General</h3>
+                
+                <div class="patch-subsection">
+                                        <ul>
+                        <li>New Settings
+                    </li>
+                    Some new settings have been added to provide further customisation to your gameplay. This includes "Overdrive Glow" which adds a golden outline to the highway when overdriving, "Stretch to Bottom" which will make your highway reach to the bottom of the screen, "Button Prompts" which will show your keybinds at the bottom of the highway when stretched to bottom and judgements can now be moved from the left to the center. These can all be found in the Highway Settings tab. You can also now enable "Hit Tracking" under "Gameplay" in settings to display your perfects, goods, misses and overhits on the left side of the screen during gameplay.
+                    <ul>
+                        
+                <img src="../../assets/images/settings_highway.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Updated settings</div>
+
+                        <li>Gameplay Adjustments</li>
+                    </li>
+                    You will now be able to play multiplayer using your own stage block without performance markers. However, if you would like to change the players positions you can shift + right click the stage block to open up a new menu that allows you to set the "Stage Area." Once the area is set, right clicking on any green tile will allow you to place performance markers, right clicking again will remove them. If you would like to change which player stands on which marker, right clicking the performance marker will open a menu that lets you pick which player will stand on that one. 
+
+                <img src="../../assets/images/stage_block_rework.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Adjustments</div>
+
+                <h3>UI Changes</h3>
+                
+                    A new loading screen and new results screen have been added, alongside an animation for both the intro and outro of a song and an animation that displays your seasonal level + account level in the results screen.
+
+                <img src="../../assets/images/results_screen_rework.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">New loading screen</div>
+
+                 <h3>New Songs</h3>
+                
+                    As per usual, we have a line up of songs for this week + some extra songs tied to the progression system. The songs tied to the progression system will rotate into the shop once the season ends. 
+
+                <img src="../../assets/images/week20.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Shop Songs</div>
+                <img src="../../assets/images/seasonpass1.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Progession System Songs</div>
+
+            <div class="patch-section">
+                <h3>Technical Updates</h3>
+                
+                <div class="patch-subsection">
+                    <h4>Bug Fixes</h4>
+                    <ul>
+                        <li>Fixed Shop Menu Crashing At 100 Items</li>
+                    </ul>
+                                        <h4>Technical</h4>
+                    <ul>
+                        <li>Rewrote the entire performer code</li>
+                        <li>Song Preview Audio is Streamed Now</li>
+                        <li>Fixed Song Select Screen to scale perfectly for your screen size</li>
+                        <li>Practice Mode fully works with Controller now</li>
+                    </ul>
+                                        <h4>Performance</h4>
+                    <ul>
+                        <li>Faster Bootup</li>
+                        <li>Greatly increased framerate in singleplayer and multiplayer.</li>
+                        <li>Fixed a lot of lag in certain menus.</li>
+                    </ul>
+                                        <h4>Graphics / Visual</h4>
+                    <ul>
+                        <li>Improved the scroll bar for the song select.</li>
+                        <li>Better Lead and Guitar Hand Animations</li>
+                        <li>Mini and Normal Band Highways are now called Legacy and Modern</li>
+                        <li>Stage Block Model Was Fixed</li>
+                        <li>Modern highways in band mode are properly scaled for how many players are playing.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
