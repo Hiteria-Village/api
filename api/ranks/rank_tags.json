@@ -363,6 +363,13 @@
     "color": "#FFFFFF",
     "preview": "oct_Perfectionist.png"
   },
+    {
+    "id": "rank_109",
+    "name": "Season 1 Mastery",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_S1Mastery.png"
+  },
   {
     "id": "rank_1001",
     "name": "Professional Griefers - Vocal Mix",
@@ -922,6 +929,76 @@
     "displayName": "",
     "color": "#FFFFFF",
     "preview": "oct_sid_91.png"
+  },
+  {
+    "id": "rank_1092",
+    "name": "Super Trouper",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_92.png"
+  },
+  {
+    "id": "rank_1097",
+    "name": "Yo Max",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_97.png"
+  },
+  {
+    "id": "rank_1085",
+    "name": "Since You Been Gone",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_85.png"
+  },
+  {
+    "id": "rank_1093",
+    "name": "90210",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_93.png"
+  },
+  {
+    "id": "rank_1094",
+    "name": "metal dream",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_94.png"
+  },
+  {
+    "id": "rank_1098",
+    "name": "Shooting Stars",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_98.png"
+  },
+  {
+    "id": "rank_1079",
+    "name": "IGuessThisIsGoodbye",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_79.png"
+  },
+  {
+    "id": "rank_1084",
+    "name": "Power Of The Saber Blade",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_84.png"
+  },
+  {
+    "id": "rank_1096",
+    "name": "Elevator Jam Remix",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_96.png"
+  },
+  {
+    "id": "rank_1099",
+    "name": "Nerd Vs Geek",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_99.png"
   },
   {
     "id": "rank_1095",

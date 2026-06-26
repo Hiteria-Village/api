@@ -4324,5 +4324,197 @@
       "drums": ""
     },
     "charter": "Skye"
+  },
+  "iguessthisisgoodbye": {
+  "title": "IGuessThisIsGoodbye",
+  "artist": "BONES",
+    "releaseYear": 2026,
+    "cover": "iguessthisisgoodbye.png",
+    "bpm": 106,
+    "key": "G Major",
+    "duration": "2m 25s",
+    "album": "SongsToSleepTo",
+    "genre": "Indie",
+    "rating": "Everyone",
+    "difficulties": {
+    "vocals": 2,
+    "bass": 0,
+    "lead": 2
+    },
+    "createdAt": "2026-06-26T00:00:00.000Z",
+    "lastFeatured": "2026-06-26T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "4v5zz6yjmRB9TxJ3UGUb5P",
+    "videoUrl": "iguessthisisgoodbye.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_79.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/iguessthisisgoodbye.mp3",
+    "shop": false,
+    "sid": "sid_79",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Skye"
+ },
+  "elevatorjamremix": {
+    "title": "Elevator Jam - Remix",
+    "artist": "LSPLASH",
+    "releaseYear": 2023,
+    "cover": "elevatorjamremix.png",
+    "album": "Doors (Original Game Soundtrack), Vol. 2",
+    "bpm": 146,
+    "key": "D Minor",
+    "duration": "1m 27s",
+    "genre": "Electronic",
+    "rating": "Everyone",
+	"difficulties": {
+    "vocals": 2,
+		"drums": 2,
+		"bass": 1,
+		"lead": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-26T00:00:00.000Z",
+    "lastFeatured": "2026-06-26T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6GtQDQlja1nhSTkfbKIWUh",
+    "videoUrl": "elevatorjam.mp4",
+    "videoPosition": 50.0,
+    "loading_phrase": "oct_sid_96.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/elevatorjamremix.mp3",
+    "shop": false,
+    "keys": "true",
+    "sid": "sid_96",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+ },
+  "nerdvsgeek": {
+    "title": "Epic Rap Battle: Nerd vs. Geek",
+    "artist": "Rhett and Link",
+    "releaseYear": 2013,
+    "cover": "nerdvsgeek.png",
+    "bpm": 91,
+    "key": "B Minor",
+    "duration": "2m 57s",
+    "genre": "Hip-Hop",
+    "rating": "Everyone",
+	"difficulties": {
+    "vocals": 4,
+		"drums": 5,
+		"bass": 2,
+		"lead": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-26T00:00:00.000Z",
+    "lastFeatured": "2026-06-26T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "1WUlVu8SxLRVYj15sFctC3",
+    "videoUrl": "nerdvsgeek.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_99.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/nerdvsgeek.mp3",
+    "shop": false,
+    "sid": "sid_99",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "powerofthesaberblade": {
+	"title": "Power of the Saber Blade",    
+	"artist": "DragonForce",    
+    "releaseYear": 2023,
+    "cover": "powerofthesaberblade.png",
+    "bpm": 125,
+    "key": "B Major",
+    "duration": "4m 03s",
+    "album": "Beat Saber OST Vol. VI",
+    "genre": "Metal",
+    "rating": "Everyone",
+    "difficulties": {
+    "vocals": 3,
+		"drums": 6,
+		"bass": 6,
+		"lead": 6,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-06-26T00:00:00.000Z",
+    "lastFeatured": "2026-06-26T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7l8tiNkDzPbs9DUz5lLyxE",
+    "videoUrl": "powerofthesaberblade.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_84.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/powerofthesaberblade.mp3",
+    "shop": false,
+    "sid": "sid_84",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }
