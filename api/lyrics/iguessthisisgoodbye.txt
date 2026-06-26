@@ -1,0 +1,33 @@
+[00:13.95]{agent:v1}Everyone knows who he is, but, say hi to everyone
+<Everyone:13.951:14.135|knows:14.135:14.275|who:14.275:14.413|he:14.413:14.551|is,:14.551:14.876|but,:14.876:15.295|say:15.295:15.435|hi:15.435:15.574|to:15.574:15.711|everyone:15.711:15.898>
+[00:16.41]{agent:v1}My name is Daniel Johnston, this is the name of my tape
+<My:16.413:16.782|name:16.782:16.969|is:16.969:17.157|Daniel:17.157:17.436|Johnston,:17.436:17.761|this:17.761:17.948|is:17.948:18.089|the:18.089:18.182|name:18.182:18.32|of:18.32:18.46|my:18.46:18.599|tape:18.599:18.739>
+[00:18.97]{agent:v1}And it's 'Hi, How Are You?'
+<And:18.968:19.154|it's:19.154:19.294|'Hi,:19.294:19.433|How:19.433:19.573|Are:19.573:19.759|You?':19.759:20.084>
+[00:20.08]{agent:v1}And I was having a nervous breakdown when I recorded it
+<And:20.084:20.271|I:20.271:20.921|was:20.921:21.107|having:21.107:21.246|a:21.246:21.432|nervous:21.432:21.618|breakdown:21.618:21.803|when:21.803:21.988|I:21.988:22.169|recorded:22.169:22.31|it:22.31:22.682>
+[00:23.10]{agent:v1}
+[00:40.68]{agent:v1}So long, so long
+<So:40.677:41.467|long,:41.467:42.999|so:42.999:43.783|long:43.783:44.708>
+[00:45.00]{agent:v1}
+[00:59.00]{agent:v1}So long, so long my dear friend
+<So:58.999:59.6|long,:59.6:61.039|so:61.039:61.867|long:61.867:62.1|my:62.1:62.89|dear:62.89:63.541|friend:63.541:64.327>
+[01:05.00]{agent:v1}
+[01:07.90]{agent:v1}So long, so long
+<So:67.904:68.742|long,:68.742:70.088|so:70.088:71.016|long:71.016:71.762>
+[01:12.00]{agent:v1}
+[01:17.07]{agent:v1}Dave, here I am on MTV holding up my tape 'Hi, How Are You?'
+<Dave,:77.07:77.393|here:77.393:77.578|I:77.578:77.718|am:77.718:77.904|on:77.904:78.044|MTV:78.044:78.37|holding:78.37:78.553|up:78.553:78.695|my:78.695:78.835|tape:78.835:79.021|'Hi,:79.021:79.345|How:79.345:79.531|Are:79.531:79.67|You?':79.67:79.907>
+[01:20.46]{agent:v1}And they're recording me tonight, I'm on MTV.
+<And:80.462:80.879|they're:80.879:81.064|recording:81.064:81.674|me:81.674:81.906|tonight,:81.906:82.091|I'm:82.091:82.465|on:82.465:82.601|MTV.:82.601:82.787>
+[01:23.25]{agent:v1}Remember when we used to watch MTV back home?
+<Remember:83.251:83.435|when:83.435:83.575|we:83.575:83.762|used:83.762:83.901|to:83.901:84.041|watch:84.041:84.228|MTV:84.228:84.419|back:84.419:84.606|home?:84.606:85.024>
+[01:25.63]{agent:v1}Look, I'm on MTV, David
+<Look,:85.627:85.862|I'm:85.862:86.05|on:86.05:86.188|MTV,:86.188:86.609|David:86.609:86.889>
+[01:27.00]{agent:v1}
+[01:53.22]{agent:v1}So long, so long
+<So:113.219:114.007|long,:114.007:115.449|so:115.449:116.239|long:116.239:116.932>
+[01:57.30]{agent:v1}
+[02:11.26]{agent:v1}So long, so long my dear friend
+<So:131.255:132.003|long,:132.003:133.311|so:133.311:134.19|long:134.19:134.842|my:134.842:135.352|dear:135.352:135.903|friend:135.903:136.403>
+[02:17.10]{agent:v1}

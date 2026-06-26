@@ -1,4 +1,26 @@
 [
+    {
+    "type": "cosmetic",
+    "id": "pt_01"
+  },
+    {
+    "type": "cosmetic",
+    "id": "pt_02"
+  },
+    {
+    "type": "cosmetic",
+    "id": "pt_04"
+  },
+    {
+    "type": "cosmetic",
+    "id": "pt_05"
+    
+  },
+    {
+    "type": "cosmetic",
+    "id": "pt_07"
+    
+  },
   {
     "type": "music_track",
     "id": "sid_70"
