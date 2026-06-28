@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hiteria Octave - Track Showcase</title>
-    <link rel="stylesheet" href="assets/css/festival.css">
+    <link rel="stylesheet" href="assets/css/weekimage.css">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 <body>
@@ -23,6 +23,10 @@
         <div class="settings-content">
             <div class="setting-group">
                 <h3>Select Tracks</h3>
+                <div class="track-selection-controls">
+                    <button id="select-all-tracks" class="track-control-btn">Select All</button>
+                    <button id="unselect-all-tracks" class="track-control-btn">Unselect All</button>
+                </div>
                 <div id="track-selector" class="track-selector">
                     <!-- Track checkboxes will be populated here -->
                 </div>
@@ -31,10 +35,9 @@
             <div class="setting-group">
                 <h3>Background Style</h3>
                 <div class="background-options">
-                    <button class="bg-option active" data-bg="festival">Festival</button>
+                    <button class="bg-option active" data-bg="gradient">Gradient</button>
                     <button class="bg-option" data-bg="neon">Neon</button>
                     <button class="bg-option" data-bg="space">Space</button>
-                    <button class="bg-option" data-bg="gradient">Gradient</button>
                     <button class="bg-option" data-bg="custom">Custom</button>
                 </div>
                 
@@ -69,6 +72,16 @@
             </div>
             
             <div class="setting-group">
+                <h3>Display Options</h3>
+                <div class="display-options">
+                    <label>
+                        <input type="checkbox" id="show-track-meta" checked>
+                        Show duration and year
+                    </label>
+                </div>
+            </div>
+            
+            <div class="setting-group">
                 <h3>Custom Text</h3>
                 <div class="custom-text-controls">
                     <label>Bottom Right Text:</label>
@@ -88,11 +101,8 @@
                     <label>Height: <span id="export-height-value">1280px</span></label>
                     <input type="range" id="export-height-slider" min="800" max="2000" value="1280" step="40">
                     <div class="preset-buttons">
-                        <button class="preset-btn" data-width="1080" data-height="1080">Instagram (1:1)</button>
-                        <button class="preset-btn" data-width="1080" data-height="1350">Instagram Story (4:5)</button>
-                        <button class="preset-btn" data-width="1920" data-height="1080">YouTube (16:9)</button>
-                        <button class="preset-btn" data-width="1200" data-height="630">Facebook (1.91:1)</button>
-                        <button class="preset-btn preset-custom" data-width="1560" data-height="960" data-hscroll="224" data-vpos="50" data-spacing="100" data-scale="150" data-cardsize="547" data-columns="2">Custom Preset</button>
+                        <button class="preset-btn" data-width="1560" data-height="960" data-hscroll="201" data-vpos="43" data-hspacing="145" data-vspacing="150" data-scale="173" data-textsize="186" data-cardsize="447" data-columns="2">4 Tracks | Text Big</button>
+                        <button class="preset-btn" data-width="1560" data-height="960" data-hscroll="79" data-vpos="29" data-hspacing="164" data-vspacing="90" data-scale="127" data-textsize="158" data-cardsize="494" data-columns="2">6 Tracks | Text idfk</button>
                     </div>
                 </div>
             </div>
@@ -110,10 +120,10 @@
     <!-- Main Content -->
     <div class="main-container">
         <!-- Header -->
-        <header class="festival-header">
+        <header class="weekimage-header">
             <div class="logo-section">
                 <img src="assets/images/logo.png" alt="Hiteria Logo" class="header-logo">
-                <h1 class="festival-title">HITERIA OCTAVE</h1>
+                <h1 class="weekimage-title">HITERIA OCTAVE</h1>
             </div>
             <button id="settings-btn" class="settings-btn">⚙️</button>
         </header>
@@ -139,6 +149,6 @@
         </div>
     </div>
 
-    <script src="assets/js/festival.js"></script>
+    <script src="assets/js/weekimage.js"></script>
 </body>
 </html>

@@ -1,4 +1,4 @@
-/* Festival Page Styles */
+/* WeekImage Page Styles */
 * {
     margin: 0;
     padding: 0;
@@ -29,10 +29,6 @@ body {
     animation: backgroundShift 10s ease-in-out infinite;
 }
 
-#animated-background.festival {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 25%, #f093fb 50%, #f5576c 75%, #4facfe 100%);
-    animation: festivalPulse 8s ease-in-out infinite;
-}
 
 #animated-background.neon {
     background: linear-gradient(45deg, #ff006e 0%, #8338ec 25%, #3a86ff 50%, #06ffa5 75%, #ffbe0b 100%);
@@ -66,13 +62,6 @@ body {
 }
 
 /* Animations */
-@keyframes festivalPulse {
-    0%, 100% { filter: hue-rotate(0deg) brightness(1); }
-    25% { filter: hue-rotate(90deg) brightness(1.2); }
-    50% { filter: hue-rotate(180deg) brightness(0.9); }
-    75% { filter: hue-rotate(270deg) brightness(1.1); }
-}
-
 @keyframes neonGlow {
     0%, 100% { filter: brightness(1) saturate(1); }
     50% { filter: brightness(1.3) saturate(1.5); }
@@ -97,7 +86,7 @@ body {
 }
 
 /* Header */
-.festival-header {
+.weekimage-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -118,7 +107,7 @@ body {
     filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.3));
 }
 
-.festival-title {
+.weekimage-title {
     font-size: 2rem;
     font-weight: 900;
     text-transform: uppercase;
@@ -179,7 +168,7 @@ body {
     backdrop-filter: none;
     border: none;
     transition: all 0.3s ease;
-    cursor: pointer;
+    cursor: default;
     position: relative;
     overflow: hidden;
     display: flex;
@@ -519,7 +508,7 @@ body {
 }
 
 /* Hide elements during capture */
-.capture-mode .festival-title,
+.capture-mode .weekimage-title,
 .capture-mode .settings-btn,
 .capture-mode .settings-panel {
     visibility: hidden !important;
@@ -530,7 +519,7 @@ body {
 }
 
 /* Fix gradient text rendering in capture mode */
-.capture-mode .festival-title {
+.capture-mode .weekimage-title {
     color: white !important;
     background: none !important;
     -webkit-background-clip: initial !important;
@@ -650,8 +639,8 @@ body {
 }
 
 .preset-buttons {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    display: flex;
+    flex-direction: column;
     gap: 8px;
     margin-top: 15px;
 }
@@ -667,25 +656,14 @@ body {
     transition: all 0.2s ease;
 }
 
-.preset-btn.preset-custom {
-    grid-column: 1 / -1;
-    background: rgba(102, 126, 234, 0.2);
-    border-color: rgba(102, 126, 234, 0.4);
-}
-
 .preset-btn:hover {
     background: rgba(255, 255, 255, 0.2);
     border-color: #667eea;
 }
 
-.preset-btn.preset-custom:hover {
-    background: rgba(102, 126, 234, 0.3);
-    border-color: #667eea;
-}
-
 /* Responsive Design */
 @media (max-width: 768px) {
-    .festival-title {
+    .weekimage-title {
         font-size: 2rem;
     }
     
