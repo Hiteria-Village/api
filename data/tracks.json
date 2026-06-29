@@ -4516,5 +4516,201 @@
       "drums": ""
     },
     "charter": "Equinox"
+  },
+  "beautifulgirls": {
+	"title": "Beautiful Girls",    
+	"artist": "Sean Kingston",    
+    "releaseYear": 2007,
+    "cover": "beautifulgirls.png",
+    "bpm": 130,
+    "key": "C# Minor",
+    "duration": "3m 45s",
+    "album": "Beautiful Girls (Single)",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+    "vocals": 3,
+		"drums": 2,
+		"bass": 1,
+		"lead": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-07-03T00:00:00.000Z",
+    "lastFeatured": "2026-07-03T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7l8tiNkDzPbs9DUz5lLyxE",
+    "videoUrl": "beautifulgirls.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_102.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/beautifulgirls.mp3",
+    "shop": false,
+    "sid": "sid_102",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "ride": {
+    "title": "Ride",
+    "artist": "Twenty One Pilots",
+    "releaseYear": 2016,
+    "cover": "ride.png",
+    "bpm": 75,
+    "key": "F# major",
+    "duration": "3m 35s",
+    "album": "Blurryface",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 1,
+      "bass": 0,
+      "drums": 3,
+      "vocals": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-07-03T00:00:00.000Z",
+    "lastFeatured": "2026-07-03T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0J2p4KYdr6Mg4ET6JPlbe1",
+    "videoUrl": "ride.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_100.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/ride.mp3",
+    "shop": false,
+    "sid": "sid_100",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "believeinme": {
+    "title": "believeinme",
+    "artist": "Gunnr",
+    "releaseYear": 2026,
+    "cover": "believeinme.png",
+    "bpm": 75,
+    "key": "A Minor",
+    "duration": "1m 55s",
+    "album": "believeinme (Single)",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 0,
+      "bass": 0,
+      "drums": 3,
+      "vocals": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-07-03T00:00:00.000Z",
+    "lastFeatured": "2026-07-03T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0J2p4KYdr6Mg4ET6JPlbe1",
+    "videoUrl": "believeinme.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_101.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/believeinme.mp3",
+    "shop": false,
+    "sid": "sid_101",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "hello": {
+    "title": "Hello",
+    "artist": "Martin Solveig, Dragonette",
+    "releaseYear": 2011,
+    "cover": "hello.png",
+    "bpm": 128,
+    "key": "E♭ Major",
+    "duration": "3m 11s",
+    "album": "Smash (Deluxe)",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 4,
+      "bass": 1,
+      "drums": 2,
+      "vocals": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-07-03T00:00:00.000Z",
+    "lastFeatured": "2026-07-03T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0J2p4KYdr6Mg4ET6JPlbe1",
+    "videoUrl": "hello.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_103.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/hello.mp3",
+    "shop": false,
+    "sid": "sid_103",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
   }
 }
