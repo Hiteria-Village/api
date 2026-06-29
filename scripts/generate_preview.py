@@ -30,6 +30,21 @@ from pathlib import Path
 from pydub import AudioSegment
 
 
+def pause(message="Press any key to continue . . . "):
+    """
+    Mimic the Windows batch 'pause' command so a console window opened by
+    double-clicking the script doesn't close before an error can be read.
+    """
+    try:
+        import msvcrt  # Windows-only
+        print(message, end="", flush=True)
+        msvcrt.getch()
+        print()
+    except ImportError:
+        # Not on Windows - fall back to waiting for Enter
+        input(message)
+
+
 def load_song_info(folder_path):
     """Load and parse info.json from the song folder."""
     info_path = folder_path / "info.json"
@@ -221,6 +236,7 @@ def main():
         generate_preview(args.folder, args.output, args.duration, args.fade)
     except Exception as e:
         print(f"\n✗ Error: {e}", file=sys.stderr)
+        pause()
         sys.exit(1)
 
 
