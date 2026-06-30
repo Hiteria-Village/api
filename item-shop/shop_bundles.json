@@ -119,6 +119,84 @@
       "ifOwned1": 40,
       "ifOwned2": 60,
       "visualOverride": null
+    },
+    "music_bundle_13": {
+      "name": "Week 13 | Music Pack",
+      "description": "",
+      "basePrice": 2000,
+      "items": ["sid_36", "sid_43", "sid_64", "sid_69"],
+      "discount": 20,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "visualOverride": null
+    },
+    "music_bundle_14": {
+      "name": "Week 14 | Music Pack",
+      "description": "",
+      "basePrice": 2000,
+      "items": ["sid_54", "sid_61", "sid_72", "sid_73"],
+      "discount": 20,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "visualOverride": null  
+    },
+    "music_bundle_15": {
+      "name": "Week 15 | Music Pack",
+      "description": "",
+      "basePrice": 2000,
+      "items": ["sid_65", "sid_74", "sid_75", "sid_76"],
+      "discount": 20,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "visualOverride": null  
+    },
+    "music_bundle_16": {
+      "name": "Week 16 | Music Pack",
+      "description": "",
+      "basePrice": 2000,
+      "items": ["sid_77", "sid_80", "sid_81", "sid_83"],
+      "discount": 20,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "visualOverride": null
+    },
+    "music_bundle_17": {
+      "name": "Week 17 | Music Pack",
+      "description": "",
+      "basePrice": 2000,
+      "items": ["sid_78", "sid_82", "sid_86", "sid_89"],
+      "discount": 20,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "visualOverride": null  
+    },
+    "music_bundle_18": {
+      "name": "Week 18 | Music Pack",
+      "description": "",
+      "basePrice": 1000,
+      "items": ["sid_88", "sid_90"],
+      "discount": 20,
+      "ifOwned1": 50,
+      "visualOverride": null  
+    },
+    "music_bundle_19": {
+      "name": "Week 19 | Music Pack",
+      "description": "",
+      "basePrice": 1000,
+      "items": ["sid_91", "sid_95"],
+      "discount": 20,
+      "ifOwned1": 50,
+      "visualOverride": null
+    },
+    "music_bundle_20": {
+      "name": "Week 20 | Music Pack",
+      "description": "",
+      "basePrice": 3000,
+      "items": ["sid_85", "sid_92", "sid_93", "sid_94", "sid_97", "sid_98"],
+      "discount": 20,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "visualOverride": null
     }
   }
 }
