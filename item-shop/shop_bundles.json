@@ -134,7 +134,7 @@
       "name": "Week 13 | Music Pack",
       "description": "",
       "basePrice": 2000,
-      "items": ["sid_36", "sid_43", "sid_64", "sid_69"],
+      "items": ["sid_35", "sid_43", "sid_64", "sid_69"],
       "discount": 20,
       "ifOwned1": 40,
       "ifOwned2": 60,
