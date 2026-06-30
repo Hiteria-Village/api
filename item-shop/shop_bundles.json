@@ -70,12 +70,22 @@
       "ifOwned2": 60,
       "visualOverride": null
     },
+    "music_bundle_8": {
+      "name": "Week 8 | Music Pack",
+      "description": "",
+      "basePrice": 2000,
+      "items": ["sid_17", "sid_36", "sid_38", "sid_48"],
+      "discount": 20,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "visualOverride": null      
+    },
     "music_bundle_9": {
       "name": "Week 9 | Music Pack",
       "description": "",
       "basePrice": 2000,
       "items": ["sid_45", "sid_49", "sid_52", "sid_31"],
-      "discount": 30,
+      "discount": 20,
       "ifOwned1": 40,
       "ifOwned2": 60,
       "visualOverride": null

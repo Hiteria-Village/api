@@ -61,6 +61,11 @@
   },
   {
     "type": "BUNDLE",
+    "bundleId": "music_bundle_8",
+    "layout": "TALL_RECTANGLE"
+  },
+  {
+    "type": "BUNDLE",
     "bundleId": "music_bundle_7",
     "layout": "TALL_RECTANGLE"
   },
