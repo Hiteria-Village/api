@@ -3210,10 +3210,10 @@
     "genre": "Electronic",
     "rating": "Everyone",
     "difficulties": {
-      "lead": 3,
-      "bass": 2,
-      "drums": 3,
-      "vocals": 4,
+      "lead": 4,
+      "bass": 4,
+      "drums": 5,
+      "vocals": 1,
       "plastic-bass": -1,
       "plastic-drums": -1,
       "plastic-guitar": -1
