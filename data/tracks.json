@@ -4712,5 +4712,199 @@
       "drums": ""
     },
     "charter": "Luna"
+  },
+  "sunshower": {
+    "title": "SUNSHOWER (Edit)",
+    "artist": "Turnstile",
+    "releaseYear": 2025,
+    "cover": "sunshower.png",
+    "bpm": 172,
+    "key": "A♭ Major",
+    "duration": "1m 47s",
+    "album": "NEVER ENOUGH",
+    "genre": "Rock",
+    "rating": "Teen",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 3,
+      "bass": 3,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-07-11T00:00:00.000Z",
+    "lastFeatured": "2026-07-11T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "2QmmdEYfM6kEk5iz6E1Rs7",
+    "videoUrl": "sunshower.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_104.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/sunshower.mp3",
+    "shop": false,
+    "sid": "sid_104",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "loonboon": {
+    "title": "Loonboon",
+    "artist": "Laura Shigihara",
+    "releaseYear": 2010,
+    "cover": "loonboon.png",
+    "bpm": 160,
+    "key": "B Major",
+    "duration": "1m 53s",
+    "album": "Plants Vs. Zombies (Original Video Game Soundtrack)",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 4,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-07-11T00:00:00.000Z",
+    "lastFeatured": "2026-07-11T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5ExE1x7WIIsb159d2cZ0Z2",
+    "videoUrl": "loonboon.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_111.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/loonboon.mp3",
+    "shop": false,
+    "sid": "sid_111",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "zombiesonyourlawn": {
+    "title": "Zombies On Your Lawn",
+    "artist": "Laura Shigihara",
+    "releaseYear": 2011,
+    "cover": "zombiesonyourlawn.png",
+    "bpm": 105,
+    "key": "G Major",
+    "duration": "2m 39s",
+    "album": "Plants Vs. Zombies (Original Video Game Soundtrack)",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "lead": 4,
+      "bass": 1,
+      "drums": 2,
+      "vocals": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-07-11T00:00:00.000Z",
+    "lastFeatured": "2026-07-11T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "4xAoWpiEREH6iMffSDTqTh",
+    "videoUrl": "zombiesonyourlawn.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_110.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/zombiesonyourlawn.mp3",
+    "shop": false,
+    "sid": "sid_110",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "wabbywabbo": {
+    "title": "Wabby Wabbo (Plants vs Zombies)",
+    "artist": "Crazy Dave",
+    "releaseYear": 2011,
+    "cover": "wabbywabbo.png",
+    "bpm": 190,
+    "key": "C♯ Minor",
+    "duration": "3m 21s",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 2,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-07-11T00:00:00.000Z",
+    "lastFeatured": "2026-07-11T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6QOU0QCxzTrBGeR3LFNvrg",
+    "videoUrl": "wabbywabbo.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_112.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/wabbywabbo.mp3",
+    "shop": false,
+    "sid": "sid_112",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }

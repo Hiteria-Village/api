@@ -68,10 +68,12 @@ def main():
     # Gather used IDs and codepoints to prevent collisions when assigning new ones
     used_rank_nums = set()
     used_codepoints = set()
-    for mapping in existing_mappings.values():
-        used_codepoints.add(mapping["codepoint"])
+    for entry in existing_tags:
+        display_name = entry.get("displayName", "")
+        if display_name:
+            used_codepoints.add(ord(display_name[0]))
         # Parse rank ID suffix e.g., rank_1001 -> 1001
-        m_id = re.match(r"^rank_(\d+)$", mapping["rank_id"])
+        m_id = re.match(r"^rank_(\d+)$", entry.get("id", ""))
         if m_id:
             used_rank_nums.add(int(m_id.group(1)))
 
