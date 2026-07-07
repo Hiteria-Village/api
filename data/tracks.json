@@ -4823,10 +4823,10 @@
     "genre": "Electronic",
     "rating": "Everyone",
     "difficulties": {
-      "lead": 4,
-      "bass": 1,
+      "lead": 3,
+      "bass": 2,
       "drums": 2,
-      "vocals": 3,
+      "vocals": 2,
       "plastic-bass": -1,
       "plastic-drums": -1,
       "plastic-guitar": -1
