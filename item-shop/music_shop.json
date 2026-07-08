@@ -447,5 +447,10 @@
     "itemRef": "sid_09",
     "cost": 500,
     "layout": "SMALL"
+  },
+  {
+    "itemRef": "sid_04",
+    "cost": 500,
+    "layout": "SMALL"
   }
 ]
