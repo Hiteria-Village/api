@@ -221,7 +221,7 @@
     "music_bundle_22": {
       "name": "Week 22 | Music Pack",
       "description": "",
-      "basePrice": 3000,
+      "basePrice": 2000,
       "items": ["sid_104", "sid_110", "sid_111", "sid_112"],
       "discount": 20,
       "ifOwned1": 40,
