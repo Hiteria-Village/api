@@ -138,7 +138,6 @@
     "preview_end_time": "79437",
     "shop": true,
     "sid": "sid_05",
-    "currentVersion": 2,
     "lyrics line 20": "(Hey) Huntrix don't miss",
     "modalShadowColors": {
       "default": {
@@ -398,7 +397,6 @@
     "preview_time": "0",
     "preview_end_time": "180000",
     "shop": true,
-    "currentVersion": 1,
     "sid": "sid_02",
     "modalShadowColors": {
       "default": {
@@ -753,7 +751,6 @@
     "previewUrl": "/api/assets/audio/undefeatable.mp3",
     "shop": true,
     "sid": "sid_08",
-    "currentVersion": 3,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -1096,7 +1093,6 @@
     "videoPosition": 80,
     "loading_phrase": "oct_sid_22.png",
     "rank": true,
-    "currentVersion": 2,
     "previewUrl": "/api/assets/audio/mantra.mp3",
     "shop": true,
     "sid": "sid_22",
@@ -1150,7 +1146,6 @@
     "shop": true,
     "keys": true,
     "sid": "sid_14",
-    "currentVersion": 4,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -1446,7 +1441,7 @@
     "videoPosition": 50.0,
     "loading_phrase": "oct_sid_44.png",
     "rank": true,
-    "currentVersion": 2,
+
     "previewUrl": "/api/assets/audio/stayaway.mp3",
     "shop": true,
     "sid": "sid_44",
@@ -1498,7 +1493,6 @@
     "rank": true,
     "previewUrl": "/api/assets/audio/redo.mp3",
     "shop": true,
-    "currentVersion": 2,
     "sid": "sid_34",
     "modalShadowColors": {
       "default": {
@@ -1645,7 +1639,6 @@
     "videoPosition": 50.0,
     "loading_phrase": "oct_sid_36.png",
     "rank": true,
-    "currentVersion": 3,
     "previewUrl": "/api/assets/audio/funnysong.mp3",
     "shop": false,
     "keys": "true",
@@ -1776,7 +1769,6 @@
     "album": "<I°_°I>",
     "genre": "Electronic",
     "rating": "Everyone",
-    "currentVersion": 2,
     "difficulties": {
       "vocals": 5,
       "lead": 5,
@@ -2640,7 +2632,6 @@
     "previewUrl": "/api/assets/audio/musicsoundsbetterwithyou.mp3",
     "shop": true,
     "sid": "sid_59",
-	"currentVersion": 2,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -2690,7 +2681,6 @@
     "previewUrl": "/api/assets/audio/apunk.mp3",
     "shop": true,
     "sid": "sid_62",
-	"currentVersion": 2,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -2789,7 +2779,6 @@
     "previewUrl": "/api/assets/audio/thesweetescape.mp3",
     "shop": true,
     "sid": "sid_51",
-	  "currentVersion": 3,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -3032,7 +3021,6 @@
     "previewUrl": "/api/assets/audio/winternights.mp3",
     "shop": true,
     "sid": "sid_71",
-	"currentVersion": 2,
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
