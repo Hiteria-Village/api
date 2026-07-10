@@ -197,12 +197,32 @@
       "discount": 20,
       "ifOwned1": 50,
       "visualOverride": null
-    },
+    }, 
     "music_bundle_20": {
       "name": "Week 20 | Music Pack",
       "description": "",
       "basePrice": 3000,
       "items": ["sid_85", "sid_92", "sid_93", "sid_94", "sid_97", "sid_98"],
+      "discount": 20,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "visualOverride": null
+    }, 
+    "music_bundle_21": {
+      "name": "Week 21 | Music Pack",
+      "description": "",
+      "basePrice": 2000,
+      "items": ["sid_100", "sid_101", "sid_102", "sid_103"],
+      "discount": 20,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "visualOverride": null
+    }, 
+    "music_bundle_22": {
+      "name": "Week 22 | Music Pack",
+      "description": "",
+      "basePrice": 3000,
+      "items": ["sid_104", "sid_110", "sid_111", "sid_112"],
       "discount": 20,
       "ifOwned1": 40,
       "ifOwned2": 60,

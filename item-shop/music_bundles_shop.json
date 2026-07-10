@@ -1,5 +1,15 @@
 [
-  {
+  {    
+    "type": "BUNDLE",
+    "bundleId": "music_bundle_22",
+    "layout": "TALL_RECTANGLE"  
+  },
+  {     
+    "type": "BUNDLE",
+    "bundleId": "music_bundle_21",
+    "layout": "TALL_RECTANGLE"  
+  },
+  { 
     "type": "BUNDLE",
     "bundleId": "music_bundle_20",
     "layout": "TALL_RECTANGLE"  
