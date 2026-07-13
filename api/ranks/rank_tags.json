@@ -371,6 +371,27 @@
     "preview": "oct_S1Mastery.png"
   },
   {
+    "id": "rank_110",
+    "name": "Owner4",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "owner4.png"
+  },
+  {
+    "id": "rank_111",
+    "name": "Owner4alt",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "owner4alt.png"
+  },
+  {
+    "id": "rank_112",
+    "name": "Modeller",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "Modeller.png"            
+  },
+  {
     "id": "rank_1001",
     "name": "Professional Griefers",
     "displayName": "",
