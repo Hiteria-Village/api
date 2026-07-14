@@ -4894,5 +4894,197 @@
       "drums": ""
     },
     "charter": "Equinox"
+  },
+  "welcometotheblackparade": {
+    "title": "Welcome to the Black Parade",
+    "artist": "My Chemical Romance",
+    "releaseYear": 2006,
+    "cover": "welcometotheblackparade.png",
+    "bpm": 97,
+    "key": "D Major",
+    "duration": "5m 15s",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 4,
+      "bass": 3,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-07-18T00:00:00.000Z",
+    "lastFeatured": "2026-07-18T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5wQnmLuC1W7ATsArWACrgW",
+    "videoUrl": "welcometotheblackparade.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_37.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/welcometotheblackparade.mp3",
+    "shop": false,
+    "sid": "sid_37",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "heavensent": {
+    "title": "Heaven Sent",
+    "artist": "Trophy Eyes",
+    "releaseYear": 2016,
+    "cover": "heavensent.png",
+    "bpm": 115,
+    "key": "F♯ Major",
+    "duration": "3m 42s",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 2,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-07-18T00:00:00.000Z",
+    "lastFeatured": "2026-07-18T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7epEb4JHieug0GQUXMP1d9",
+    "videoUrl": "heavensent.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_40.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/heavensent.mp3",
+    "shop": false,
+    "sid": "sid_40",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "surfacetension": {
+    "title": "SURFACE TENSION",
+    "artist": "Lights",
+    "releaseYear": 2025,
+    "cover": "surfacetension.png",
+    "bpm": 160,
+    "key": "F♯ Minor",
+    "duration": "3m 31s",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 3,
+      "bass": 3,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-07-18T00:00:00.000Z",
+    "lastFeatured": "2026-07-18T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "2PNeVfPLOg18d3jSYdfWqa",
+    "videoUrl": "surfacetension.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_108.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/surfacetension.mp3",
+    "shop": false,
+    "sid": "sid_108",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "shadowsofourpast": {
+    "title": "Shadows of Our Past",
+    "artist": "daiki kasho",
+    "releaseYear": 2023,
+    "cover": "shadowsofourpast.png",
+    "bpm": 90,
+    "key": "E Minor",
+    "duration": "4m 52s",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 4,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-07-18T00:00:00.000Z",
+    "lastFeatured": "2026-07-18T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "271F4ytYcBCH9gx64gFSAw",
+    "videoUrl": "shadowsofourpast.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_118.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/shadowsofourpast.mp3",
+    "shop": false,
+    "sid": "sid_118",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
   }
-}
+}             

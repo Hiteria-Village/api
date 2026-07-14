@@ -1083,5 +1083,33 @@
     "displayName": "",
     "color": "#FFFFFF",
     "preview": "oct_sid_112.png"
+  },
+  {
+    "id": "rank_1037",
+    "name": "Welcome to the Black Parade",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_37.png"
+  },
+  {
+    "id": "rank_1040",
+    "name": "Heaven Sent",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_40.png"
+  },
+  {
+    "id": "rank_1109",
+    "name": "SURFACE TENSION",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_108.png"
+  },
+  {
+    "id": "rank_1118",
+    "name": "Shadows of Our Past",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_118.png"
   }
-]
+]            
