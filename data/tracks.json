@@ -4903,6 +4903,7 @@
     "bpm": 97,
     "key": "D Major",
     "duration": "5m 15s",
+    "album": "The Black Parade",
     "genre": "Rock",
     "rating": "Everyone",
     "difficulties": {
@@ -4951,6 +4952,7 @@
     "bpm": 115,
     "key": "F♯ Major",
     "duration": "3m 42s",
+    "album": "Chemical Miracle",
     "genre": "Rock",
     "rating": "Everyone",
     "difficulties": {
@@ -4999,6 +5001,7 @@
     "bpm": 160,
     "key": "F♯ Minor",
     "duration": "3m 31s",
+    "album": "A6",
     "genre": "Pop",
     "rating": "Everyone",
     "difficulties": {
@@ -5047,6 +5050,7 @@
     "bpm": 90,
     "key": "E Minor",
     "duration": "4m 52s",
+    "album":"GRAN TURISMO 7 ORIGINAL SOUNDTRACK BEST LAP (vol.1)",
     "genre": "Rock",
     "rating": "Everyone",
     "difficulties": {
@@ -5085,6 +5089,6 @@
       "bass": "",
       "drums": ""
     },
-    "charter": "Eezku"
+    "charter": "Eezku, Equinox"
   }
 }             
