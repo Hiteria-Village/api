@@ -3100,10 +3100,10 @@
     "genre": "Pop",
     "rating": "Everyone",
     "difficulties": {
-      "lead": 0,
+      "lead": 1,
       "bass": 0,
-      "drums": 3,
-      "vocals": 2,
+      "drums": 2,
+      "vocals": 1,
       "plastic-bass": -1,
       "plastic-drums": -1,
       "plastic-guitar": -1
