@@ -2316,8 +2316,8 @@
     "genre": "Electronic",
     "rating": "Everyone",
     "difficulties": {
-      "vocals": 5,
-      "lead": 1,
+      "vocals": 3,
+      "lead": 0,
       "bass": 0,
       "drums": 3,
       "plastic-bass": -1,
