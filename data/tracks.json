@@ -2954,9 +2954,10 @@
     "genre": "Electronic",
     "rating": "Everyone",
     "difficulties": {
-      "lead": 4,
+      "lead": 3,
       "bass": 3,
-      "drums": 5,
+      "drums": 3,
+      "vocals": 1,
       "plastic-bass": -1,
       "plastic-drums": -1,
       "plastic-guitar": -1
