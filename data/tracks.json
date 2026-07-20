@@ -5140,5 +5140,201 @@
       "drums": ""
     },
     "charter": "Lynks, Equinox, Luna, Skye, Eezku"
+  },
+  "astraltravelling": {
+    "title": "Astral Travelling",
+    "artist": "Makoto x Elle Shimada",
+    "releaseYear": 2026,
+    "cover": "astraltravelling.png",
+    "bpm": 174,
+    "key": "",
+    "duration": "3m 43s",
+    "album": "Forza Horizon 6: Hospital Records",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "lead": 3,
+      "bass": 2,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-07-25T00:00:00.000Z",
+    "lastFeatured": "2026-07-25T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "2PNeVfPLOg18d3jSYdfWqa",
+    "videoUrl": "astraltravelling.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_105.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/astraltravelling.mp3",
+    "shop": false,
+    "sid": "sid_105",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"             
+  },
+  "triggersequence": {
+    "title": "Trigger Sequence",
+    "artist": "TANTRON",
+    "releaseYear": 2026,
+    "cover": "triggersequence.png",
+    "bpm": 175,
+    "key": "",
+    "duration": "2m 49s",
+    "album": "Forza Horizon 6: Hospital Records",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": -1,
+      "lead": 4,
+      "bass": 4,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-07-25T00:00:00.000Z",
+    "lastFeatured": "2026-07-25T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "2PNeVfPLOg18d3jSYdfWqa",
+    "videoUrl": "triggersequence.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_106.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/triggersequence.mp3",
+    "shop": false,
+    "sid": "sid_106",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+  "turbofire": {
+    "title": "Turbo Fire",
+    "artist": "TANTRON & Nakamura Minami",
+    "releaseYear": 2026,
+    "cover": "turbofire.png",
+    "bpm": 174,
+    "key": "",
+    "duration": "2m 49s",
+    "album": "Forza Horizon 6: Hospital Records",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 6,
+      "bass": 3,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-07-25T00:00:00.000Z",
+    "lastFeatured": "2026-07-25T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "2PNeVfPLOg18d3jSYdfWqa",
+    "videoUrl": "turbofire.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_109.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/turbofire.mp3",
+    "shop": false,
+    "sid": "sid_109",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+  "pipedown": {
+    "title": "Pipe Down",
+    "artist": "Sankehips ft. DijahSB",
+    "releaseYear": 2026,
+    "cover": "pipedown.png",
+    "bpm": 175,
+    "key": "",
+    "duration": "2m 49s",
+    "album": "Pipe Down (Single)",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": -1,
+      "lead": 4,
+      "bass": 4,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-07-25T00:00:00.000Z",
+    "lastFeatured": "2026-07-25T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "2PNeVfPLOg18d3jSYdfWqa",
+    "videoUrl": "pipedown.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_107.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/pipedown.mp3",
+    "shop": false,
+    "sid": "sid_107",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
   }
-}             
+}            
