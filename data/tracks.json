@@ -1277,7 +1277,7 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
-      "lead": 5,
+      "lead": 3,
       "bass": 0,
       "drums": 3,
       "plastic-bass": -1,
@@ -3641,9 +3641,9 @@
     "rating": "Everyone",
     "difficulties": {
       "lead": 4,
-      "bass": 1,
+      "bass": 2,
       "drums": 3,
-      "vocals": 1,
+      "vocals": 2,
       "plastic-bass": -1,
       "plastic-drums": -1,
       "plastic-guitar": -1
@@ -3690,8 +3690,8 @@
     "rating": "Everyone",
     "difficulties": {
       "lead": 6,
-      "bass": 3,
-      "drums": 5,
+      "bass": 4,
+      "drums": 4,
       "vocals": 2,
       "plastic-bass": -1,
       "plastic-drums": -1,
@@ -4081,9 +4081,9 @@
     "genre": "Pop",
     "rating": "Everyone",
     "difficulties": {
-      "lead": 2,
-      "bass": 2,
-      "drums": 2,
+      "lead": 3,
+      "bass": 3,
+      "drums": 3,
       "vocals": 3,
       "plastic-bass": -1,
       "plastic-drums": -1,
@@ -5301,7 +5301,7 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 5,
-      "lead": 4,
+      "lead": 3,
       "bass": 4,
       "drums": 4,
       "plastic-bass": -1,
