@@ -1118,6 +1118,33 @@
     "displayName": "",
     "color": "#FFFFFF",
     "preview": "oct_sid_121.png"
+  },
+  {
+    "id": "rank_1105",
+    "name": "Astral Travelling",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_105.png"
+  },
+  {
+    "id": "rank_1106",
+    "name": "Trigger Sequence",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_106.png"
+  },
+  {
+    "id": "rank_1107",
+    "name": "Pipe Down",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_107.png"
+  },
+  {
+    "id": "rank_1109",
+    "name": "Turbo Fire",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_109.png"        
   }
-]         
-       
+]       
