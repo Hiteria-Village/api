@@ -883,7 +883,7 @@
       "vocals": 2,
       "lead": 2,
       "bass": 2,
-      "drums": 3,
+      "drums": 2,
       "plastic-bass": -1,
       "plastic-drums": -1,
       "plastic-guitar": -1
@@ -1277,7 +1277,7 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
-      "lead": 3,
+      "lead": 4,
       "bass": 0,
       "drums": 3,
       "plastic-bass": -1,
@@ -1524,7 +1524,7 @@
     "genre": "Pop",
     "rating": "Everyone",
     "difficulties": {
-      "vocals": 4,
+      "vocals": 3,
       "lead": 3,
       "bass": 0,
       "drums": 3,
@@ -2217,7 +2217,7 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
-      "lead": 3,
+      "lead": 4,
       "bass": 3,
       "drums": 4,
       "plastic-bass": -1,
@@ -2317,7 +2317,7 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
-      "lead": 0,
+      "lead": 1,
       "bass": 0,
       "drums": 3,
       "plastic-bass": -1,
@@ -2563,7 +2563,7 @@
     "genre": "Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
-      "vocals": 5,
+      "vocals": 4,
       "lead": 1,
       "bass": 1,
       "drums": 3,
@@ -2664,7 +2664,7 @@
     "difficulties": {
       "vocals": 2,
       "lead": 3,
-      "bass": 2,
+      "bass": 3,
       "drums": 3,
       "plastic-bass": -1,
       "plastic-drums": -1,
@@ -2712,7 +2712,7 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
-      "lead": 2,
+      "lead": 3,
       "bass": 2,
       "drums": 3,
       "plastic-bass": -1,
@@ -2761,7 +2761,7 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
-      "lead": 4,
+      "lead": 2,
       "bass": 2,
       "drums": 3,
       "plastic-bass": -1,
@@ -3740,7 +3740,7 @@
     "difficulties": {
       "lead": 1,
       "bass": 1,
-      "drums": 4,
+      "drums": 3,
       "vocals": 2,
       "plastic-bass": -1,
       "plastic-drums": -1,
@@ -4569,7 +4569,7 @@
     "difficulties": {
       "lead": 1,
       "bass": 0,
-      "drums": 3,
+      "drums": 4,
       "vocals": 5,
       "plastic-bass": -1,
       "plastic-drums": -1,
@@ -4619,7 +4619,7 @@
       "lead": 0,
       "bass": 0,
       "drums": 3,
-      "vocals": 3,
+      "vocals": 2,
       "plastic-bass": -1,
       "plastic-drums": -1,
       "plastic-guitar": -1
