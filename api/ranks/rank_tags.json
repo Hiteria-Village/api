@@ -392,6 +392,13 @@
     "preview": "Modeller.png"
   },
   {
+    "id": "rank_113",
+    "name": "Mod [Purple And Black]",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "mod_purp.png"    
+  },
+  {
     "id": "rank_1001",
     "name": "Professional Griefers",
     "displayName": "",
@@ -1145,13 +1152,6 @@
     "name": "Turbo Fire",
     "displayName": "",
     "color": "#FFFFFF",
-    "preview": "oct_sid_109.png"        
-  },
-  {
-    "id": "rank_1110",
-    "name": "Mod [Purple And Black]",
-    "displayName": "",
-    "color": "#FFFFFF",
-    "preview": "mod_purp.png"        
+    "preview": "oct_sid_109.png"                
   }
 ]       
