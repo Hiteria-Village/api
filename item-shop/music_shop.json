@@ -2,56 +2,51 @@
     {
     "itemRef": "sid_109",
     "cost": 500,
-    "layout": "TALL",
+    "layout": "SMALL",
     "isNew": true
   },
                   {
     "itemRef": "sid_107",
     "cost": 500,
-    "layout": "TALL",
+    "layout": "SMALL",
     "isNew": true
   },
                   {
     "itemRef": "sid_106",
     "cost": 500,
-    "layout": "TALL",
+    "layout": "SMALL",
     "isNew": true
   },
                   {
     "itemRef": "sid_105",
     "cost": 500,
-    "layout": "TALL",
+    "layout": "SMALL",
     "isNew": true
   },
                   {
     "itemRef": "sid_118",
     "cost": 500,
-    "layout": "TALL",
-    "isNew": true
+    "layout": "SMALL"
   },
                   {
     "itemRef": "sid_108",
     "cost": 500,
-    "layout": "TALL",
-    "isNew": true
+    "layout": "SMALL"
   },
                   {
     "itemRef": "sid_40",
     "cost": 500,
-    "layout": "TALL",
-    "isNew": true
+    "layout": "SMALL"
   },
                   {
     "itemRef": "sid_37",
     "cost": 500,
-    "layout": "TALL",
-    "isNew": true
+    "layout": "SMALL"
   },
                   {
     "itemRef": "sid_121",
     "cost": 500,
-    "layout": "TALL",
-    "isNew": false
+    "layout": "SMALL"
   },
                   {
     "itemRef": "sid_112",
