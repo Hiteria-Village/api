@@ -4,10 +4,15 @@
   "friends_list": "wallpaper1.png",
   "gems_shop": "wallpaper5.png",
   "inbox": "wallpaper1.png",
-  "item_preview": "wallpaper5.png",
-  "music_ticket": "wallpaper5.png",
-  "progression": "wallpaper2.png",
-  "other_player_cosmetics": "wallpaper1.png",
-  "player_profile": "wallpaper1.png",
-  "quests": "wallpaper1.png"
+  "song_select": "",
+  "settings": "",
+  "modifiers": "",
+  "highway": "",
+  "keybinds": "",
+  "profiles": "",
+  "leaderboard": "",
+  "tutorial": "",
+  "results": "",
+  "jamming": "",
+  "default": ""
 }
