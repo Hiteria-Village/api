@@ -1,5 +1,29 @@
 [
     {
+    "itemRef": "sid_122",
+    "cost": 500,
+    "layout": "SMALL",
+    "isNew": true
+  },
+                  {
+    "itemRef": "sid_119",
+    "cost": 500,
+    "layout": "SMALL",
+    "isNew": true
+  },
+                  {
+   "itemRef": "sid_113",
+    "cost": 500,
+    "layout": "SMALL",
+    "isNew": true
+  },
+                  {
+    "itemRef": "sid_87",
+    "cost": 500,
+    "layout": "SMALL",
+    "isNew": true
+  },
+                  {
     "itemRef": "sid_67",
     "cost": 500,
     "layout": "SMALL",
