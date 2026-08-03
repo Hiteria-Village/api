@@ -5581,5 +5581,201 @@
       "drums": ""
     },
     "charter": "Equinox"
+  },
+  "drinksonthecoast": {
+    "title": "DRINKS ON THE COAST",
+    "artist": "Lights",
+    "releaseYear": 2025,
+    "cover": "drinksonthecoast.png",
+    "bpm": 90,
+    "key": "C♯ Major",
+    "duration": "3m 25s",
+    "album": "A6",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 3,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-07T00:00:00.000Z",
+    "lastFeatured": "2026-08-07T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5Prz2FPgfHG0qBp5GLH0wm",
+    "videoUrl": "drinksonthecoast.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_114.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/drinksonthecoast.mp3",
+    "shop": false,
+    "sid": "sid_114",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna" 
+  },
+  "biggirl": {
+    "title": "Big Girl (You Are Beautiful)",
+    "artist": "MIKA",
+    "releaseYear": 2007,
+    "cover": "biggirl.png",
+    "bpm": 116,
+    "key": "B Major",
+    "duration": "4m 06s",
+    "album": "Life in Cartoon Motion",
+    "genre": "Indie",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 4,
+      "bass": 1,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-07T00:00:00.000Z",
+    "lastFeatured": "2026-08-07T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "2sY0M3k69oAYz7EOPVRFjo",
+    "videoUrl": "biggirl.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_115.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/biggirl.mp3",
+    "shop": false,
+    "sid": "sid_115",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "feelsoclose": {
+    "title": "Feel So Close",
+    "artist": "Calvin Harris",
+    "releaseYear": 2012,
+    "cover": "feelsoclose.png",
+    "bpm": 128,
+    "key": "G Major",
+    "duration": "3m 26s",
+    "album": "18 Months",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "lead": 2,
+      "bass": 1,
+      "drums": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-07T00:00:00.000Z",
+    "lastFeatured": "2026-08-07T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "1gihuPhrLraKYrJMAEONyc",
+    "videoUrl": "feelsoclose.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_116.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/feelsoclose.mp3",
+    "shop": false,
+    "sid": "sid_116",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"    
+  },
+  "partybymyself": {
+    "title": "Party By Myself",
+    "artist": "Juice WRLD",
+    "releaseYear": 2024,
+    "cover": "partybymyself.png",
+    "bpm": 116,
+    "key": "A Major",
+    "duration": "3m 19s",
+    "album": "The Party Never Ends 2.0",
+    "genre": "Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 1,
+      "bass": 0,
+      "drums": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-07T00:00:00.000Z",
+    "lastFeatured": "2026-08-07T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0rAXLQ7JgPek5Wll0AXBMb",
+    "videoUrl": "partybymyself.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_117.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/partybymyself.mp3",
+    "shop": false,
+    "sid": "sid_117",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
   }
-}                
+}        
