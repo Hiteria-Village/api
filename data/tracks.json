@@ -576,7 +576,7 @@
     "title": "365",
     "artist": "c4lendar",
     "releaseYear": 2024,
-    "cover": "threesixtyfive.png",
+    "cover": "threesixfive.png",
     "bpm": 192,
     "key": "C Major",
     "duration": "2m 35s",
@@ -600,7 +600,7 @@
     "videoPosition": 22.43,
     "loading_phrase": "oct_sid_12.png",
     "rank": true,
-    "previewUrl": "/api/assets/audio/threesixtyfive.mp3",
+    "previewUrl": "/api/assets/audio/threesixfive.mp3",
     "shop": true,
     "sid": "sid_12",
     "modalShadowColors": {
