@@ -5777,5 +5777,201 @@
       "drums": ""
     },
     "charter": "Luna"
+  },
+  "itsmeitsverity": {
+    "title": "It's me, It's Verity",
+    "artist": "Horror Skunx",
+    "releaseYear": 2026,
+    "cover": "itsmeitsverity.png",
+    "bpm": 126,
+    "key": "C Minor",
+    "duration": "2m 1s",
+    "album": "It's me, It's Verity",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 3,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-10T00:00:00.000Z",
+    "lastFeatured": "2026-08-10T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0rAXLQ7JgPek5Wll0AXBMb",
+    "videoUrl": "itsmeitsverity.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_133.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/itsmeitsverity.mp3",
+    "shop": false,
+    "sid": "sid_133",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "mentema": {
+    "title": "MENTE MA",
+    "artist": "NAKAMA, Mc Staff",
+    "releaseYear": 2025,
+    "cover": "mentema.png",
+    "bpm": 130,
+    "key": "D# Minor",
+    "duration": "1m 15s",
+    "album": "MENTE MA (Single)",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 1,
+      "bass": 1,
+      "drums": 0,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-10T00:00:00.000Z",
+    "lastFeatured": "2026-08-10T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "11gZL0HigsqfzjTHOpdFjE",
+    "videoUrl": "mentema.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_123.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/mentema.mp3",
+    "shop": false,
+    "sid": "sid_123",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "jackiesbox": {
+    "title": "JACKIE'S BOX",
+    "artist": "XTRA TUNA",
+    "releaseYear": 2024,
+    "cover": "jackiesbox.png",
+    "bpm": 140,
+    "key": "C# Major",
+    "duration": "3m",
+    "album": "JACKIE'S BOX",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 4,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-10T00:00:00.000Z",
+    "lastFeatured": "2026-08-10T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "jackiesbox.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_126.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/jackiesbox.mp3",
+    "shop": false,
+    "sid": "sid_126",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "skibidi": {
+    "title": "Skibidi",
+    "artist": "Little Big",
+    "releaseYear": 2018,
+    "cover": "skibidi.png",
+    "bpm": 132,
+    "key": "C Major",
+    "duration": "2m 43s",
+    "album": "Antipositive, Pt. 2",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 2,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-10T00:00:00.000Z",
+    "lastFeatured": "2026-08-10T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "4F4TGsDYacEbw4PLAIyJ2e",
+    "videoUrl": "skibidi.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_135.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/skibidi.mp3",
+    "shop": false,
+    "sid": "sid_135",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
-}        
+}
