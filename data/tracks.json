@@ -5986,10 +5986,10 @@
     "genre": "Electronic",
     "rating": "Everyone",
     "difficulties": {
-      "vocals": 6,
-      "lead": 6,
-      "bass": 5,
-      "drums": 5,
+      "vocals": 5,
+      "lead": 5,
+      "bass": 4,
+      "drums": 4,
       "plastic-bass": -1,
       "plastic-drums": -1,
       "plastic-guitar": -1
