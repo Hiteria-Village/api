@@ -5973,5 +5973,54 @@
       "drums": ""
     },
     "charter": "Equinox"
+  },
+  "blackknife": {
+    "title": "Black Knife",
+    "artist": "Toby Fox",
+    "releaseYear": 2025,
+    "cover": "blackknife.png",
+    "bpm": 148,
+    "key": "G# Major",
+    "duration": "1m 57s",
+    "album": "DELTARUNE Chapters 3+4 (Original Game Soundtrack)",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 6,
+      "lead": 6,
+      "bass": 5,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-12T00:00:00.000Z",
+    "lastFeatured": "2026-08-12T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "21egH6MsDL6DHXafR0XzPP",
+    "videoUrl": "blackknife.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_139.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/blackknife.mp3",
+    "shop": false,
+    "sid": "sid_139",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }
