@@ -1,6 +1,11 @@
 [
   {
     "type": "BUNDLE",
+    "bundleId": "music_bundle_27",
+    "layout": "TALL_RECTANGLE"  
+  },
+  {
+    "type": "BUNDLE",
     "bundleId": "music_bundle_26",
     "layout": "TALL_RECTANGLE"  
   },
