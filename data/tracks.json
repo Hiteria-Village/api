@@ -6022,5 +6022,201 @@
       "drums": ""
     },
     "charter": "Equinox"
+  },
+  "acoldplay": {
+    "title": "A COLD PLAY",
+    "artist": "The Kid LAROI",
+    "releaseYear": 2025,
+    "cover": "acoldplay.png",
+    "bpm": 151,
+    "key": "C Major",
+    "duration": "3m 03s",
+    "album": "BEFORE I FORGET",
+    "genre": "Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 0,
+      "bass": 0,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-16T00:00:00.000Z",
+    "lastFeatured": "2026-08-16T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "4H5DcBcHSt6ReloheY37Yi",
+    "videoUrl": "acoldplay.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_140.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/acoldplay.mp3",
+    "shop": false,
+    "sid": "sid_140",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "eraseyoursocial": {
+    "title": "Erase Your Social",
+    "artist": "Lil Uzi Vert",
+    "releaseYear": 2016,
+    "cover": "eraseyoursocial.png",
+    "bpm": 140,
+    "key": "D# Major",
+    "duration": "3m 23s",
+    "album": "The Perfect LUV Tape",
+    "genre": "Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 2,
+      "bass": 0,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-16T00:00:00.000Z",
+    "lastFeatured": "2026-08-16T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "4uhvMW7ly7tJil31YYscAN",
+    "videoUrl": "eraseyoursocial.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_137.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/eraseyoursocial.mp3",
+    "shop": false,
+    "sid": "sid_137",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "hellabars2": {
+    "title": "Hella Bars 2",
+    "artist": "Sik World",
+    "releaseYear": 2019,
+    "cover": "hellabars2.png",
+    "bpm": 160,
+    "key": "D Major",
+    "duration": "3m 21s",
+    "album": "When Stars Align",
+    "genre": "Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 6,
+      "lead": 1,
+      "bass": 0,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-16T00:00:00.000Z",
+    "lastFeatured": "2026-08-16T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0ChYskyEOzopeLqM6usQFw",
+    "videoUrl": "hellabars2.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_127.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/hellabars2.mp3",
+    "shop": false,
+    "sid": "sid_127",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "mockingbird": {
+    "title": "Mockingbird",
+    "artist": "Eminem",
+    "releaseYear": 2004,
+    "cover": "mockingbird.png",
+    "bpm": 169,
+    "key": "C Major",
+    "duration": "4m 14s",
+    "album": "Encore",
+    "genre": "Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 2,
+      "bass": 0,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-16T00:00:00.000Z",
+    "lastFeatured": "2026-08-16T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "561jH07mF1jHuk7KlaeF0s",
+    "videoUrl": "mockingbird.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_128.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/mockingbird.mp3",
+    "shop": false,
+    "sid": "sid_128",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }
