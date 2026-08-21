@@ -312,13 +312,6 @@
       "ifOwned2": 60,
       "ifOwned3": 80,
       "visualOverride": null
-    }, 
-    "music_bundle_0": {
-      "name": "Ultimate Test | Music Pack",
-      "description": "",
-      "basePrice": 9999999,
-      "items": ["sid_84"],
-      "visualOverride": null
     }
   }
 }            
