@@ -301,6 +301,24 @@
       "ifOwned2": 60,
       "ifOwned3": 80,
       "visualOverride": null
+    }, 
+    "music_bundle_28": {
+      "name": "Week 28 | Music Pack",
+      "description": "",
+      "basePrice": 2000,
+      "items": ["sid_127", "sid_128", "sid_137", "sid_140"],
+      "discount": 30,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "ifOwned3": 80,
+      "visualOverride": null
+    }, 
+    "music_bundle_999": {
+      "name": "Ultimate Test | Music Pack",
+      "description": "",
+      "basePrice": 9999999,
+      "items": ["sid_84"],
+      "visualOverride": null
     }
   }
-}                              
+}            
