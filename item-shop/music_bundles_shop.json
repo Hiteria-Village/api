@@ -138,5 +138,10 @@
     "type": "BUNDLE",
     "bundleId": "music_bundle_1",
     "layout": "TALL_RECTANGLE"
+  },
+  {
+    "type": "BUNDLE",
+    "bundleId": "music_bundle_0",
+    "layout": "TALL_RECTANGLE"
   }
 ]
