@@ -6267,5 +6267,201 @@
       "drums": ""
     },
     "charter": "Luna"
+  },
+  "animalihavebecome": {
+    "title": "Animal I Have Become",
+    "artist": "Three Days Grace",
+    "releaseYear": 2006,
+    "cover": "animalihavebecome.png",
+    "bpm": 122,
+    "key": "G# Major",
+    "duration": "3m 51s",
+    "album": "One-X",
+    "genre": "Rock",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 2,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-24T00:00:00.000Z",
+    "lastFeatured": "2026-08-24T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5eFxwmqKrHpSQDOEIFYlgY",
+    "videoUrl": "animalihavebecome.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_143.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/animalihavebecome.mp3",
+    "shop": false,
+    "sid": "sid_143",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "djadja": {
+    "title": "Djadja",
+    "artist": "Aya Nakamura",
+    "releaseYear": 2018,
+    "cover": "djadja.png",
+    "bpm": 98,
+    "key": "F Major",
+    "duration": "2m 58s",
+    "album": "NAKAMURA",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 1,
+      "bass": 0,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-24T00:00:00.000Z",
+    "lastFeatured": "2026-08-24T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6FqqTni0AEtGXynpMpDm4L",
+    "videoUrl": "djadja.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_142.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/djadja.mp3",
+    "shop": false,
+    "sid": "sid_142",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "redlights": {
+    "title": "Red Lights",
+    "artist": "Tiesto",
+    "releaseYear": 2014,
+    "cover": "redlights.png",
+    "bpm": 120,
+    "key": "A# Major",
+    "duration": "4m 26s",
+    "album": "A Town Called Paradise",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 2,
+      "bass": 1,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-24T00:00:00.000Z",
+    "lastFeatured": "2026-08-24T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5L2l7mI8J1USMzhsmdjat9",
+    "videoUrl": "redlights.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_55.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/redlights.mp3",
+    "shop": false,
+    "sid": "sid_55",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox, Jaydenz"
+  },
+  "youmakemefeel": {
+    "title": "You Make Me Feel...",
+    "artist": "Cobra Starship",
+    "releaseYear": 2011,
+    "cover": "youmakemefeel.png",
+    "bpm": 132,
+    "key": "G Minor",
+    "duration": "3m 19s",
+    "album": "You Make Me Feel...",
+    "genre": "Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 2,
+      "bass": 0,
+      "drums": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-08-24T00:00:00.000Z",
+    "lastFeatured": "2026-08-24T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5FeuH4LtGxDWkSkhRG47QT",
+    "videoUrl": "youmakemefeel.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_141.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/youmakemefeel.mp3",
+    "shop": false,
+    "sid": "sid_141",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }
