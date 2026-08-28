@@ -312,6 +312,17 @@
       "ifOwned2": 60,
       "ifOwned3": 80,
       "visualOverride": null
+    }, 
+    "music_bundle_29": {
+      "name": "Week 29 | Music Pack",
+      "description": "",
+      "basePrice": 2000,
+      "items": ["sid_55", "sid_141", "sid_142", "sid_143"],
+      "discount": 30,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "ifOwned3": 80,
+      "visualOverride": null
     }
   }
-}            
+}      
