@@ -6463,5 +6463,299 @@
       "drums": ""
     },
     "charter": "Equinox"
+  },
+  "ontheway": {
+    "title": "On The Way",
+    "artist": "Dinosaur Jr.",
+    "releaseYear": 1993,
+    "cover": "ontheway.png",
+    "bpm": 192,
+    "key": "C♯ minor",
+    "duration": "3m 31s",
+    "album": "Where You Been",
+    "genre": "Rock/Metal",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 5,
+      "bass": 3,
+      "drums": 6,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-04T00:00:00.000Z",
+    "lastFeatured": "2026-09-04T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "2UDMfB1lZebtTqY22W4JQ1",
+    "videoUrl": "ontheway.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_130.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/ontheway.mp3",
+    "shop": false,
+    "sid": "sid_130",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "overstepping": {
+    "title": "Overstepping",
+    "artist": "Belmont",
+    "releaseYear": 2016,
+    "cover": "overstepping.png",
+    "bpm": 205,
+    "key": "C♯ major",
+    "duration": "4m 06s",
+    "album": "Between You & Me",
+    "genre": "Punk/Ska/Hardcore",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "lead": 5,
+      "bass": 4,
+      "drums": 6,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-04T00:00:00.000Z",
+    "lastFeatured": "2026-09-04T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "4pawX422Y0FR6oMkyd5p4k",
+    "videoUrl": "overstepping.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_136.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/overstepping.mp3",
+    "shop": false,
+    "sid": "sid_136",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "itsgoingdownnow": {
+    "title": "It's Going Down Now",
+    "artist": "Azumi Takahashi, Lotus Juice",
+    "releaseYear": 2024,
+    "cover": "itsgoingdownnow.png",
+    "bpm": 168,
+    "key": "C♯ minor",
+    "duration": "3m 04s",
+    "album": "Persona 3 Reload Original Soundtrack",
+    "genre": "Rap/Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 5,
+      "lead": 4,
+      "bass": 3,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-04T00:00:00.000Z",
+    "lastFeatured": "2026-09-04T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "3znIACSXPLn3HFCf7moZ28",
+    "videoUrl": "itsgoingdownnow.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_144.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/itsgoingdownnow.mp3",
+    "shop": false,
+    "sid": "sid_144",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+  "everythingwillfreeze": {
+    "title": "Everything will freeze",
+    "artist": "UNDEAD CORPORATION",
+    "releaseYear": 2013,
+    "cover": "everythingwillfreeze.png",
+    "bpm": 120,
+    "key": "E minor",
+    "duration": "3m 17s",
+    "album": "暴君",
+    "genre": "Rock/Metal",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": -1,
+      "lead": 6,
+      "bass": 4,
+      "drums": 6,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-04T00:00:00.000Z",
+    "lastFeatured": "2026-09-04T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "57aU01U6qgLxT9O6yfLpB0",
+    "videoUrl": "everythingwillfreeze.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_145.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/everythingwillfreeze.mp3",
+    "shop": false,
+    "sid": "sid_145",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku, Equinox"
+  },
+  "whereuare": {
+    "title": "Where U Are",
+    "artist": "Throttle",
+    "releaseYear": 2019,
+    "cover": "whereuare.png",
+    "bpm": 174,
+    "key": "F major",
+    "duration": "3m 56s",
+    "album": "Where U Are",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 3,
+      "bass": 1,
+      "drums": 6,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-04T00:00:00.000Z",
+    "lastFeatured": "2026-09-04T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5FeuH4LtGxDWkSkhRG47QT",
+    "videoUrl": "whereuare.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_147.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/whereuare.mp3",
+    "shop": false,
+    "sid": "sid_147",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox, Eezku"
+  },
+  "robotrock": {
+    "title": "Robot Rock",
+    "artist": "Daft Punk",
+    "releaseYear": 2005,
+    "cover": "robotrock.png",
+    "bpm": 112,
+    "key": "G Major",
+    "duration": "4m 53s",
+    "album": "Human After All",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 0,
+      "lead": 3,
+      "bass": 2,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-04T00:00:00.000Z",
+    "lastFeatured": "2026-09-04T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "4zu9wo2FXoBSsKjO6tRB3R",
+    "videoUrl": "robotrock.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_148.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/robotrock.mp3",
+    "shop": false,
+    "sid": "sid_148",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna, Equinox"
   }
 }
