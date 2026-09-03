@@ -4,11 +4,6 @@
       "title": "2XP Event",
       "description": "For a limited time until September 4th get 2x the XP for your season pass",
       "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/2XPEVENT.png"
-    },
-    {
-      "title": "Week 30 Tracks!",
-      "description": "Check out these new tracks, hitting the store on Friday!",
-      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/week_30_tracks.png"
     }
   ]
 }      
