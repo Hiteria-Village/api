@@ -6761,7 +6761,7 @@
   "fungiwhisp": {
     "title": "Fungi Whisp",
     "artist": "When will it end?",
-    "releaseYear": "How long ago was this?",
+    "releaseYear": 0,
     "cover": "fungiwhisp.png",
     "bpm": 107,
     "key": "C Major",
