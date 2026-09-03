@@ -6757,54 +6757,5 @@
       "drums": ""
     },
     "charter": "Luna, Equinox"
-  },
-  "fungiwhisp": {
-    "title": "Fungi Whisp",
-    "artist": "When will it end?",
-    "releaseYear": "How long ago was this?",
-    "cover": "fungiwhisp.png",
-    "bpm": 107.252,
-    "key": "C Major",
-    "duration": "1m 36s",
-    "album": "How many are here?",
-    "genre": "Other",
-    "rating": "Everyone",
-    "difficulties": {
-      "vocals": 3,
-      "lead": 1,
-      "bass": 1,
-      "drums": 2,
-      "plastic-bass": -1,
-      "plastic-drums": -1,
-      "plastic-guitar": -1
-    },
-   "createdAt": "2026-09-03T00:00:00.000Z",
-    "lastFeatured": "2026-09-03T00:00:00.000Z",
-    "complete": "100%",
-    "spotify": "",
-    "videoUrl": "fungiwhisp.mp4",
-    "videoPosition": 50,
-    "loading_phrase": "oct_sid_2147.png",
-    "rank": true,
-    "previewUrl": "/api/assets/audio/fungiwhisp.mp3",
-    "shop": false,
-    "sid": "sid_2147",
-    "modalShadowColors": {
-      "default": {
-        "color1": "#8a2be2",
-        "color2": "#4b0082"
-      },
-      "hover": {
-        "color1": "#4b0082",
-        "color2": "#8a2be2"
-      }
-    },
-    "youtubeLinks": {
-      "vocals": "",
-      "lead": "",
-      "bass": "",
-      "drums": ""
-    },
-    "charter": "Where is he?"
   }
 }
