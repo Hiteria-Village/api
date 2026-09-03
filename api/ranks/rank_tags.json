@@ -1356,5 +1356,33 @@
     "displayName": "",
     "color": "#FFFFFF",
     "preview": "oct_sid_148.png"
+  },
+  {
+    "id": "rank_1146",
+    "name": "For The Damaged Coda",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_146.png"
+  },
+  {
+    "id": "rank_1134",
+    "name": "Oshama Scramble!",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_134.png"
+  },
+  {
+    "id": "rank_1131",
+    "name": "Ordirehv",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_131.png"
+  },
+  {
+    "id": "rank_1125",
+    "name": "Chop Suey!",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_125.png"
   }
 ]

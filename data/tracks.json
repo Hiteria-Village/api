@@ -6806,5 +6806,201 @@
       "drums": ""
     },
     "charter": "Where is he?"
+  },
+  "forthedamagedcoda": {
+    "title": "For the Damaged Coda",
+    "artist": "Blonde Redhead",
+    "releaseYear": 2000,
+    "cover": "forthedamagedcoda.png",
+    "bpm": 141,
+    "key": "C minor",
+    "duration": "2m 33s",
+    "album": "Melody of Certain Damaged Lemons",
+    "genre": "Indie/Alternative",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 0,
+      "lead": 1,
+      "bass": 1,
+      "drums": 1,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-04T00:00:00.000Z",
+    "lastFeatured": "2026-09-04T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6lvJDlBrtabJWiBlMTGxKs",
+    "videoUrl": "forthedamagedcoda.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_146.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/forthedamagedcoda.mp3",
+    "shop": false,
+    "sid": "sid_146",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "oshamascramble": {
+    "title": "Oshama Scramble!",
+    "artist": "t+pazolite",
+    "releaseYear": 2020,
+    "cover": "oshamascramble.png",
+    "bpm": 190,
+    "key": "C♯ major",
+    "duration": "2m 04s",
+    "album": "maimai ALL PERFECT COLLECTiON 3",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 4,
+      "bass": 3,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-04T00:00:00.000Z",
+    "lastFeatured": "2026-09-04T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "2xIcRy3dBracoAYxxOIh39",
+    "videoUrl": "oshamascramble.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_134.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/oshamascramble.mp3",
+    "shop": false,
+    "sid": "sid_134",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+  "ordirehv": {
+    "title": "Ordirehv",
+    "artist": "Feryquitous",
+    "releaseYear": 2020,
+    "cover": "ordirehv.png",
+    "bpm": 191,
+    "key": "D♯ minor",
+    "duration": "3m 30s",
+    "album": "C",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 5,
+      "bass": 4,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-04T00:00:00.000Z",
+    "lastFeatured": "2026-09-04T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "1fSsWkqjmO1kf5omfCPUnl",
+    "videoUrl": "ordirehv.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_131.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/ordirehv.mp3",
+    "shop": false,
+    "sid": "sid_131",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+  "chopsuey": {
+    "title": "Chop Suey!",
+    "artist": "System of a Down",
+    "releaseYear": 2001,
+    "cover": "chopsuey.png",
+    "bpm": 127,
+    "key": "G minor",
+    "duration": "3m 32s",
+    "album": "Toxicity",
+    "genre": "Rock/Metal",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 5,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-04T00:00:00.000Z",
+    "lastFeatured": "2026-09-04T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "2DlHlPMa4M17kufBvI2lEN",
+    "videoUrl": "chopsuey.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_125.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/chopsuey.mp3",
+    "shop": false,
+    "sid": "sid_125",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"    
   }
 }
