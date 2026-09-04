@@ -399,6 +399,13 @@
     "preview": "mod_purp.png"
   },
   {
+    "id": "rank_114",
+    "name": "Season 2 Mastery",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_S2Mastery.png"
+  },
+  {
     "id": "rank_1001",
     "name": "Professional Griefers",
     "displayName": "",

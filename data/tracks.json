@@ -8,7 +8,7 @@
     "key": "F# Minor",
     "duration": "4m 05s",
     "album": "> album title goes here <",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -166,7 +166,7 @@
     "key": "D Minor",
     "duration": "3m 16s",
     "album": "Beat Saber OST Vol. IV",
-    "genre": "Metal",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -217,7 +217,7 @@
     "key": "A Minor",
     "duration": "2m 10s",
     "album": "DJMAX - V Liberty 2",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -270,7 +270,7 @@
     "key": "B Minor",
     "duration": "2m 37s",
     "album": "DJMAX Respect - V Extension IV",
-    "genre": "Metal",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -321,7 +321,7 @@
     "key": "G Minor",
     "duration": "3m 47s",
     "album": "Minecraft Parodies",
-    "genre": "Pop",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "keys": "true",
     "difficulties": {
@@ -374,7 +374,7 @@
     "key": "B Minor",
     "duration": "3m 05s",
     "album": "From Under the Cork Tree",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -425,7 +425,7 @@
     "key": "E♭ Major",
     "duration": "3m 50s",
     "album": "Hourglass",
-    "genre": "Indie",
+    "genre": "Indie/Alternative",
     "rating": "Everyone",
     "sid": "sid_11",
     "difficulties": {
@@ -529,7 +529,7 @@
     "key": "G Minor",
     "duration": "3m 06s",
     "album": "Internet Childhood",
-    "genre": "Rock",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
@@ -581,7 +581,7 @@
     "key": "C Major",
     "duration": "2m 35s",
     "album": "Superstar Racers OST",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "keys": "true",
     "difficulties": {
@@ -630,7 +630,7 @@
     "key": "E♭ Major",
     "duration": "3m 09s",
     "album": "Rokstarr",
-    "genre": "Pop",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
@@ -680,7 +680,7 @@
     "key": "E Major",
     "duration": "3m 53s",
     "album": "All I Need (Single)",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -729,7 +729,7 @@
     "key": "C Minor",
     "duration": "4m 30s",
     "album": "Sonic Frontiers Original Soundtrack",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
@@ -778,7 +778,7 @@
     "key": "D♭ Major",
     "duration": "2m 31s",
     "album": "Nostalzia",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 5,
@@ -828,7 +828,7 @@
     "key": "A Minor",
     "duration": "3m 37s",
     "album": "More Than Just A Dream",
-    "genre": "Indie",
+    "genre": "Indie/Alternative",
     "rating": "Everyone",
     "sid": "sid_20",
     "difficulties": {
@@ -877,7 +877,7 @@
     "key": "C Minor",
     "duration": "4m 24s",
     "album": "Unknown Album",
-    "genre": "Rock",
+    "genre": "Indie/Alternative",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -927,7 +927,7 @@
     "key": "C Major",
     "duration": "3m 18s",
     "album": "In A Tidal Wave of Mystery",
-    "genre": "Pop",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -976,7 +976,7 @@
     "key": "C Major",
     "duration": "2m 44s",
     "album": "Unknown Album",
-    "genre": "Rock",
+    "genre": "Punk/Ska/Hardcore",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -1025,7 +1025,7 @@
     "key": "D Major",
     "duration": "5m 07s",
     "album": "Unknown Album",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "sid": "sid_21",
     "difficulties": {
@@ -1074,7 +1074,7 @@
     "key": "C Major",
     "duration": "3m 56s",
     "album": "amo",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
@@ -1123,7 +1123,7 @@
     "key": "D♭ Major",
     "duration": "6m 48s",
     "album": "DEVIL MAY CRY 5 ORIGINAL SOUNDTRACK",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -1174,7 +1174,7 @@
     "duration": "3m 27s",
     "keys": "true",
     "album": "Disconnected",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 5,
@@ -1224,7 +1224,7 @@
     "duration": "4m 17s",
     "keys": "true",
     "album": "Recovery",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
@@ -1273,7 +1273,7 @@
     "key": "E♭ Major",
     "duration": "3m 22s",
     "album": "Mansion",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
@@ -1322,7 +1322,7 @@
     "bpm": 120,
     "key": "C Major",
     "duration": "3m 51s",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 5,
@@ -1422,7 +1422,7 @@
     "bpm": 165,
     "key": "B Minor",
     "duration": "3m 21s",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
@@ -1472,7 +1472,7 @@
     "bpm": "93",
     "key": "C Major",
     "duration": "2m 17s",
-    "genre": "Indie",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -1571,7 +1571,7 @@
     "bpm": 146,
     "key": "D Minor",
     "duration": "0m 37s",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
@@ -1620,7 +1620,7 @@
     "bpm": 90,
     "key": "D Major",
     "duration": "3m 09s",
-    "genre": "Pop",
+    "genre": "Other",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -1669,7 +1669,7 @@
     "bpm": 125,
     "key": "D Minor",
     "duration": "2m 41s",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "lead": 4,
@@ -1717,7 +1717,7 @@
     "bpm": 156,
     "key": "C Minor",
     "duration": "3m 15s",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 0,
@@ -1767,7 +1767,7 @@
     "key": "F Minor",
     "duration": "2m 47s",
     "album": "<I°_°I>",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 5,
@@ -1817,7 +1817,7 @@
     "bpm": 124,
     "key": "C Minor",
     "duration": "3m 44s",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
@@ -1866,7 +1866,7 @@
     "bpm": 147,
     "key": "D Major",
     "duration": "6m 41s",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -1966,7 +1966,7 @@
     "bpm": 127,
     "key": "C Minor",
     "duration": "5m 25s",
-    "genre": "Metal",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -2016,7 +2016,7 @@
     "bpm": 127,
     "key": "C Minor",
     "duration": "7m 02s",
-    "genre": "Metal",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
@@ -2065,7 +2065,7 @@
     "bpm": 178,
     "key": "C Minor",
     "duration": "3m 57s",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
@@ -2163,7 +2163,7 @@
     "bpm": 173,
     "key": "G Minor",
     "duration": "1m 39s",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
@@ -2263,7 +2263,7 @@
     "bpm": 166,
     "key": "B♭ Major",
     "duration": "2m 29s",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
@@ -2313,7 +2313,7 @@
     "bpm": 140,
     "key": "C♯ Minor",
     "duration": "1m 55s",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -2363,7 +2363,7 @@
     "bpm": 87,
     "key": "F Major",
     "duration": "4m 20s",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -2412,7 +2412,7 @@
     "bpm": 175,
     "key": "B Minor",
     "duration": "3m 56s",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -2462,7 +2462,7 @@
     "bpm": 195,
     "key": "E Major",
     "duration": "2m 10s",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -2560,7 +2560,7 @@
     "bpm": 120,
     "key": "C♯ Major",
     "duration": "2m 0s",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
@@ -2610,7 +2610,7 @@
     "key": "C♯ Major",
     "duration": "6m 48s",
     "album": "Music Sounds Better With You",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
@@ -2659,7 +2659,7 @@
     "key": "D Major",
     "duration": "2m 23s",
     "album": "Vampire Weekend",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -2708,7 +2708,7 @@
     "key": "F# Minor",
     "duration": "3m 54s",
     "album": "Three Days Grace",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
@@ -2902,7 +2902,7 @@
     "key": "C Major",
     "duration": "4m 22s",
     "album": "Goodbye & Good Riddance",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "18+",
     "difficulties": {
       "vocals": 5,
@@ -2951,7 +2951,7 @@
     "key": "C♯ Minor",
     "duration": "1m 57s",
     "album": "UNDERTALE Soundtrack",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "lead": 3,
@@ -3000,7 +3000,7 @@
     "key": "B Major",
     "duration": "4m 24s",
     "album": "Noticable Changes",
-    "genre": "Indie",
+    "genre": "Indie/Alternative",
     "rating": "Everyone",
     "difficulties": {
       "lead": 1,
@@ -3049,7 +3049,7 @@
     "key": "F♯ Major",
     "duration": "5m 41s",
     "album": "Driving Songs",
-    "genre": "Pop",
+    "genre": "R&B/Soul/Funk",
     "rating": "Everyone",
     "difficulties": {
       "lead": 3,
@@ -3147,7 +3147,7 @@
     "key": "C Major",
     "duration": "3m 08s",
     "album": "Hungry Ghosts",
-    "genre": "Pop",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "lead": 3,
@@ -3196,7 +3196,7 @@
     "key": "C Major",
     "duration": "3m 08s",
     "album": "Grand Turismo 7 OST",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "lead": 4,
@@ -3245,7 +3245,7 @@
     "key": "D# Minor",
     "duration": "4m 02s",
     "album": "Chemical Miracle",
-    "genre": "Rock",
+    "genre": "Punk/Ska/Hardcore",
     "rating": "Everyone",
     "difficulties": {
       "lead": 5,
@@ -3294,7 +3294,7 @@
     "key": "F# Major",
     "duration": "5m 06s",
     "album": "Suicide and Sunshine",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "lead": 1,
@@ -3343,7 +3343,7 @@
     "key": "C# Major",
     "duration": "3m 15s",
     "album": "The American Dream",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "lead": 3,
@@ -3392,7 +3392,7 @@
     "key": "G Minor",
     "duration": "2m 29s",
     "album": "Single",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "lead": 2,
@@ -3490,7 +3490,7 @@
     "key": "C# Major",
     "duration": "2m 18s",
     "album": "Single",
-    "genre": "Pop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "lead": 1,
@@ -3539,7 +3539,7 @@
     "key": "B Minor",
     "duration": "2m 09s",
     "album": "Single",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "lead": 2,
@@ -3588,7 +3588,7 @@
     "key": "C Major",
     "duration": "3m 21s",
     "album": "Single",
-    "genre": "Indie",
+    "genre": "Indie/Alternative",
     "rating": "Everyone",
     "difficulties": {
       "lead": 2,
@@ -3637,7 +3637,7 @@
     "key": "B Minor",
     "duration": "3m 28s",
     "album": "Single",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "lead": 4,
@@ -3686,7 +3686,7 @@
     "key": "D Major",
     "duration": "5m 01s",
     "album": "Single",
-    "genre": "Metal",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "lead": 6,
@@ -3735,7 +3735,7 @@
     "key": "E Major",
     "duration": "2m 43s",
     "album": "Single",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "lead": 1,
@@ -3784,7 +3784,7 @@
     "key": "C# Major",
     "duration": "3m 51s",
     "album": "Single",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "lead": 3,
@@ -3833,7 +3833,7 @@
     "key": "C Minor",
     "duration": "3m 58s",
     "album": "SMILE :D",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "lead": 3,
@@ -3882,7 +3882,7 @@
     "key": "C Major",
     "duration": "3m 55s",
     "album": "Together/Apart",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "lead": 2,
@@ -3980,7 +3980,7 @@
     "key": "E Minor",
     "duration": "3m 35s",
     "album": "Alien (Single)",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "lead": 5,
@@ -4029,7 +4029,7 @@
     "key": "C Major",
     "duration": "3m 13s",
     "album": "Breakaway",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "lead": 3,
@@ -4127,7 +4127,7 @@
     "key": "A Minor",
     "duration": "5m 46s",
     "album": "RODEO",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "lead": 1,
@@ -4176,7 +4176,7 @@
     "key": "A Minor",
     "duration": "3m 03s",
     "album": "private music",
-    "genre": "Metal",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "lead": 3,
@@ -4225,7 +4225,7 @@
     "key": "D Major",
     "duration": "3m 15s",
     "album": "Djmax Best, Vol. 1 (Original Soundtrack)",
-    "genre": "Pop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "lead": 3,
@@ -4274,7 +4274,7 @@
     "key": "B Major",
     "duration": "3m 52s",
     "album": "Bag Raiders (Deluxe)",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "lead": 2,
@@ -4323,7 +4323,7 @@
     "key": "G Major",
     "duration": "2m 25s",
     "album": "SongsToSleepTo",
-    "genre": "Indie",
+    "genre": "Indie/Alternative",
     "rating": "Everyone",
     "difficulties": {
     "vocals": 2,
@@ -4368,7 +4368,7 @@
     "bpm": 146,
     "key": "D Minor",
     "duration": "1m 27s",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
 	"difficulties": {
     "vocals": 2,
@@ -4417,7 +4417,7 @@
     "bpm": 91,
     "key": "B Minor",
     "duration": "2m 57s",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
 	"difficulties": {
     "vocals": 4,
@@ -4466,7 +4466,7 @@
     "key": "B Major",
     "duration": "4m 03s",
     "album": "Beat Saber OST Vol. VI",
-    "genre": "Metal",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
     "vocals": 3,
@@ -4564,7 +4564,7 @@
     "key": "F# Major",
     "duration": "3m 35s",
     "album": "Blurryface",
-    "genre": "Pop",
+    "genre": "Indie/Alternative",
     "rating": "Everyone",
     "difficulties": {
       "lead": 1,
@@ -4662,7 +4662,7 @@
     "key": "E♭ Major",
     "duration": "3m 11s",
     "album": "Smash (Deluxe)",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "lead": 4,
@@ -4711,7 +4711,7 @@
     "key": "A♭ Major",
     "duration": "1m 47s",
     "album": "NEVER ENOUGH",
-    "genre": "Rock",
+    "genre": "Punk/Ska/Hardcore",
     "rating": "Teen",
     "difficulties": {
       "vocals": 2,
@@ -4760,7 +4760,7 @@
     "key": "B Major",
     "duration": "1m 53s",
     "album": "Plants Vs. Zombies (Original Video Game Soundtrack)",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -4809,7 +4809,7 @@
     "key": "G Major",
     "duration": "2m 39s",
     "album": "Plants Vs. Zombies (Original Video Game Soundtrack)",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "lead": 3,
@@ -4857,7 +4857,7 @@
     "bpm": 190,
     "key": "C♯ Minor",
     "duration": "3m 21s",
-    "genre": "Electronic",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
@@ -4905,7 +4905,7 @@
     "key": "D Major",
     "duration": "5m 15s",
     "album": "The Black Parade",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -4954,7 +4954,7 @@
     "key": "F♯ Major",
     "duration": "3m 42s",
     "album": "Chemical Miracle",
-    "genre": "Rock",
+    "genre": "Punk/Ska/Hardcore",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -5052,7 +5052,7 @@
     "key": "E Minor",
     "duration": "4m 52s",
     "album":"GRAN TURISMO 7 ORIGINAL SOUNDTRACK BEST LAP (vol.1)",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -5101,7 +5101,7 @@
     "key": "C♯ Major",
     "duration": "1m 30s",
     "album":"Granny Funk",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
@@ -5150,7 +5150,7 @@
     "key": "",
     "duration": "3m 43s",
     "album": "Forza Horizon 6: Hospital Records",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
@@ -5199,7 +5199,7 @@
     "key": "",
     "duration": "2m 49s",
     "album": "Forza Horizon 6: Hospital Records",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": -1,
@@ -5248,7 +5248,7 @@
     "key": "",
     "duration": "3m 25s",
     "album": "Forza Horizon 6: Hospital Records",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
@@ -5297,7 +5297,7 @@
     "key": "",
     "duration": "2m 59s",
     "album": "Pipe Down (Single)",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 5,
@@ -5346,7 +5346,7 @@
     "key": "A♭ Major",
     "duration": "3m 58s",
     "album": "Talking Dreams (Deluxe Edition)",
-    "genre": "Indie",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -5395,7 +5395,7 @@
     "key": "F Major",
     "duration": "2m 37s",
     "album": "bbno$",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -5444,7 +5444,7 @@
     "key": "A♭ Major",
     "duration": "3m 33s",
     "album": "Chemical Miracle",
-    "genre": "Rock",
+    "genre": "Punk/Ska/Hardcore",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -5493,7 +5493,7 @@
     "key": "",
     "duration": "3m 45s",
     "album": "Forza Horizon 6: Hospital Records",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -5542,7 +5542,7 @@
     "key": "",
     "duration": "1m 20s",
     "album": "Chef Pee Pee Cooking Song (Single)",
-    "genre": "Pop",
+    "genre": "Latin/World",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -5640,7 +5640,7 @@
     "key": "B Major",
     "duration": "4m 06s",
     "album": "Life in Cartoon Motion",
-    "genre": "Indie",
+    "genre": "Pop",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -5689,7 +5689,7 @@
     "key": "G Major",
     "duration": "3m 26s",
     "album": "18 Months",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 1,
@@ -5738,7 +5738,7 @@
     "key": "A Major",
     "duration": "3m 19s",
     "album": "The Party Never Ends 2.0",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -5787,7 +5787,7 @@
     "key": "C Minor",
     "duration": "2m 1s",
     "album": "It's me, It's Verity",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -5836,7 +5836,7 @@
     "key": "D# Minor",
     "duration": "1m 15s",
     "album": "MENTE MA (Single)",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -5885,7 +5885,7 @@
     "key": "C# Major",
     "duration": "3m",
     "album": "JACKIE'S BOX",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
@@ -5934,7 +5934,7 @@
     "key": "C Major",
     "duration": "2m 43s",
     "album": "Antipositive, Pt. 2",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -5983,7 +5983,7 @@
     "key": "G# Major",
     "duration": "1m 57s",
     "album": "DELTARUNE Chapters 3+4 (Original Game Soundtrack)",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 5,
@@ -6032,7 +6032,7 @@
     "key": "C Major",
     "duration": "3m 03s",
     "album": "BEFORE I FORGET",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -6081,7 +6081,7 @@
     "key": "D# Major",
     "duration": "3m 23s",
     "album": "The Perfect LUV Tape",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
@@ -6130,7 +6130,7 @@
     "key": "D Major",
     "duration": "3m 21s",
     "album": "When Stars Align",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 6,
@@ -6179,7 +6179,7 @@
     "key": "C Major",
     "duration": "4m 14s",
     "album": "Encore",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
@@ -6228,7 +6228,7 @@
     "key": "C# Minor",
     "duration": "2m 11s",
     "album": "money talks right",
-    "genre": "Hip-Hop",
+    "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
@@ -6277,7 +6277,7 @@
     "key": "G# Major",
     "duration": "3m 51s",
     "album": "One-X",
-    "genre": "Rock",
+    "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -6326,7 +6326,7 @@
     "key": "F Major",
     "duration": "2m 58s",
     "album": "NAKAMURA",
-    "genre": "Pop",
+    "genre": "R&B/Soul/Funk",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 4,
@@ -6375,7 +6375,7 @@
     "key": "A# Major",
     "duration": "4m 26s",
     "album": "A Town Called Paradise",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
@@ -6424,7 +6424,7 @@
     "key": "G Minor",
     "duration": "3m 19s",
     "album": "You Make Me Feel...",
-    "genre": "Electronic",
+    "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
       "vocals": 3,
