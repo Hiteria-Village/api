@@ -9,7 +9,17 @@
     "type": "instrument",
     "buyType": "GEMS",
     "isNew": true
-
+  },
+  {
+    "itemId": "mid_01",
+    "count": 1,
+    "name": "Sonic's Guitar",
+    "description": "A Guitar that doubles as a blaster.",
+    "cost": 1000,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS",
+    "isNew": true
   },
   {
     "itemId": "mid_03",

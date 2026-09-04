@@ -1,12 +1,9 @@
 {
   "items": [
-<<<<<<< HEAD
     {
       "title": "New Season Pass!",
       "description": "Check out Octave season 2! New tracks, new instruments, and more!",
       "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/seasonpass.png"
     }
-=======
->>>>>>> 43433131f29e29b47b7a5ba4a40b2316063ac0b9
   ]
 }      
