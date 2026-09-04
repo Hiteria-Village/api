@@ -1,6 +1,14 @@
 {
   "sections": [
     {
+      "id": "best_sellers",
+      "name": "Best Sellers",
+      "enabled": true,
+      "resetType": "NEVER",
+      "showTimer": false,
+      "order": 0
+    },
+    {
       "id": "event",
       "name": "Event",
       "enabled": false,
@@ -58,6 +66,24 @@
       "showTimer": false,
       "order": 6,
       "itemsFile": "music_shop.json"
+    },
+    {
+      "id": "coin_shop",
+      "name": "Coin Shop",
+      "enabled": true,
+      "resetType": "NEVER",
+      "showTimer": false,
+      "order": 7,
+      "itemsFile": "coin_items.json"
+    },
+    {
+      "id": "instrument_shop",
+      "name": "Instrument Shop",
+      "enabled": true,
+      "resetType": "NEVER",
+      "showTimer": false,
+      "order": 9,
+      "itemsFile": "instrument_shop.json"
     }
   ]
 }
