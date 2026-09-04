@@ -1,0 +1,101 @@
+[
+  {
+    "itemId": "mid_05",
+    "count": 1,
+    "name": "Friend Drums",
+    "description": "Your greatest compainion's greatest percussion.",
+    "cost": 500,
+    "layout": "NORMAL",
+    "type": "instrument",
+    "buyType": "GEMS",
+    "isNew": true
+  },
+  {
+    "itemId": "mid_19",
+    "count": 1,
+    "name": "Lightners Drumkit",
+    "description": "The Girl's drumkit.",
+    "cost": 500,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS",
+    "isNew": true
+  },
+  {
+    "itemId": "mid_20",
+    "count": 1,
+    "name": "Lightners Guitar",
+    "description": "The Cage's guitar.",
+    "cost": 500,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS",
+    "isNew": true
+  },
+  {
+    "itemId": "mid_21",
+    "count": 1,
+    "name": "Lost Girl's Guitar",
+    "description": "Find her.",
+    "cost": 500,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS",
+    "isNew": true
+  },
+  {
+    "itemId": "mid_07",
+    "count": 1,
+    "name": "Golden Drums",
+    "description": "A drumkit made with pure Hiterian gold!",
+    "cost": 5000,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS",
+    "isNew": true
+  },
+  {
+    "itemId": "mid_08",
+    "count": 1,
+    "name": "Golden Guitar",
+    "description": "A guitar made with pure Hiterian gold!",
+    "cost": 5000,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS",
+    "isNew": true
+  },
+  {
+    "itemId": "mid_10",
+    "count": 1,
+    "name": "Golden Keytar",
+    "description": "A keytar made with pure Hiterian gold!",
+    "cost": 5000,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS",
+    "isNew": true
+  },
+  {
+    "itemId": "mid_11",
+    "count": 1,
+    "name": "Golden Bass",
+    "description": "A bass made with pure Hiterian gold!",
+    "cost": 5000,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS",
+    "isNew": true
+  },
+  {
+    "itemId": "mid_09",
+    "count": 1,
+    "name": "Golden Mic",
+    "description": "A microphone made with pure Hiterian gold!",
+    "cost": 5000,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS",
+    "isNew": true
+  }
+]

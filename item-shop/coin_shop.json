@@ -1,0 +1,1932 @@
+[
+  {
+    "itemId": "minecraft:oak_log",
+    "count": 1,
+    "name": "Oak Log",
+    "description": "Cut from an Oak Tree.",
+    "cost": 10,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:spruce_log",
+    "count": 1,
+    "name": "Spruce Log",
+    "description": "Cut from a Spruce Tree.",
+    "cost": 10,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:birch_log",
+    "count": 1,
+    "name": "Birch Log",
+    "description": "Cut from a Birch Tree.",
+    "cost": 10,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:jungle_log",
+    "count": 1,
+    "name": "Jungle Log",
+    "description": "Cut from a Jungle Tree.",
+    "cost": 10,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:acacia_log",
+    "count": 1,
+    "name": "Acacia Log",
+    "description": "Cut from an Acacia Tree.",
+    "cost": 10,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:dark_oak_log",
+    "count": 1,
+    "name": "Dark Oak Log",
+    "description": "Cut from a Dark Oak Tree.",
+    "cost": 10,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:mangrove_log",
+    "count": 1,
+    "name": "Mangrove Log",
+    "description": "Cut from a Mangrove Tree.",
+    "cost": 10,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:cherry_log",
+    "count": 1,
+    "name": "Cherry Log",
+    "description": "Cut from a Cherry Blossom Tree.",
+    "cost": 10,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:bamboo_block",
+    "count": 1,
+    "name": "Bamboo Block",
+    "description": "Stripped from a Bamboo forest.",
+    "cost": 10,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:crimson_stem",
+    "count": 1,
+    "name": "Crimson Stem",
+    "description": "Cut from a Crimson tree in a world deep below.",
+    "cost": 20,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:warped_stem",
+    "count": 1,
+    "name": "Warped Stem",
+    "description": "Cut from a Warped tree in a world deep below.",
+    "cost": 20,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:coal",
+    "count": 1,
+    "name": "Coal",
+    "description": "Dug and delivered to you.",
+    "cost": 10,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:copper_ingot",
+    "count": 1,
+    "name": "Copper Ingot",
+    "description": "Dug and delivered to you.",
+    "cost": 20,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:iron_ingot",
+    "count": 1,
+    "name": "Iron Ingot",
+    "description": "Dug and delivered to you.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:gold_ingot",
+    "count": 1,
+    "name": "Gold Ingot",
+    "description": "Dug and delivered to you.",
+    "cost": 25,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:redstone",
+    "count": 1,
+    "name": "Redstone Dust",
+    "description": "Dug and delivered to you.",
+    "cost": 20,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:lapis_lazuli",
+    "count": 1,
+    "name": "Lapis Lazuli",
+    "description": "Dug and delivered to you.",
+    "cost": 20,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:diamond",
+    "count": 1,
+    "name": "Diamond",
+    "description": "Dug and delivered to you.",
+    "cost": 200,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:emerald",
+    "count": 1,
+    "name": "Emerald",
+    "description": "Dug and delivered to you.",
+    "cost": 100,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:apple",
+    "count": 1,
+    "name": "Apple",
+    "description": "Farmed to satisfy your hunger.",
+    "cost": 20,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:carrot",
+    "count": 1,
+    "name": "Carrot",
+    "description": "Farmed to satisfy your hunger.",
+    "cost": 20,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:potato",
+    "count": 1,
+    "name": "Potato",
+    "description": "Farmed to satisfy your hunger.",
+    "cost": 20,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:cooked_beef",
+    "count": 1,
+    "name": "Steak",
+    "description": "Cooked to satisfy your hunger.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:cooked_porkchop",
+    "count": 1,
+    "name": "Cooked Porkchop",
+    "description": "Cooked to satisfy your hunger.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:cooked_mutton",
+    "count": 1,
+    "name": "Cooked Mutton",
+    "description": "Cooked to satisfy your hunger.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:cooked_chicken",
+    "count": 1,
+    "name": "Cooked Chicken",
+    "description": "Cooked to satisfy your hunger.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:cooked_rabbit",
+    "count": 1,
+    "name": "Cooked Rabbit",
+    "description": "Cooked to satisfy your hunger.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:cooked_cod",
+    "count": 1,
+    "name": "Cooked Cod",
+    "description": "Caught, cooked, and served, straight from the Hiterian River",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:cooked_salmon",
+    "count": 1,
+    "name": "Cooked Salmon",
+    "description": "Caught, cooked, and served, straight from the Hiterian River",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:golden_apple",
+    "count": 1,
+    "name": "Golden Apple",
+    "description": "An Apple infused with gold.",
+    "cost": 100,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:golden_carrot",
+    "count": 1,
+    "name": "Golden Carrot",
+    "description": "A Carrot infused with gold.",
+    "cost": 100,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:milk_bucket",
+    "count": 1,
+    "name": "Bucket of Milk",
+    "description": "The Cows provide.",
+    "cost": 70,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:egg",
+    "count": 1,
+    "name": "Egg",
+    "description": "The Chickens provide.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:wheat",
+    "count": 1,
+    "name": "Wheat",
+    "description": "Farmed locally at the Great Hiterian Farm.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:leather",
+    "count": 1,
+    "name": "Leather",
+    "description": "Obtained from a fallen animal.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:feather",
+    "count": 1,
+    "name": "Feather",
+    "description": "Obtained from a fallen animal.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:ink_sac",
+    "count": 1,
+    "name": "Ink Sac",
+    "description": "Obtained from a fallen sea creature.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:glow_ink_sac",
+    "count": 1,
+    "name": "Glow Ink Sac",
+    "description": "Obtained from a fallen glowing sea creature.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:paper",
+    "count": 1,
+    "name": "Paper",
+    "description": "A delicate resource.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:gunpowder",
+    "count": 1,
+    "name": "Gunpowder",
+    "description": "Obtained from a slain mob.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:bone",
+    "count": 1,
+    "name": "Bone",
+    "description": "Obtained from a slain mob.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:string",
+    "count": 1,
+    "name": "String",
+    "description": "Obtained from a slain mob.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:spider_eye",
+    "count": 1,
+    "name": "Spider Eye",
+    "description": "Obtained from a slain mob.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:rotten_flesh",
+    "count": 1,
+    "name": "Rotten Flesh",
+    "description": "Obtained from a slain mob.",
+    "cost": 30,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:prismarine_shard",
+    "count": 1,
+    "name": "Prismarine Shard",
+    "description": "Obtained from a fallen sea creature.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:prismarine_crystals",
+    "count": 1,
+    "name": "Prismarine Crystals",
+    "description": "Obtained from a fallen sea creature.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "minecraft:ender_pearl",
+    "count": 1,
+    "name": "Ender Pearl",
+    "description": "Obtained from a slain mob.",
+    "cost": 100,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:fire_stone",
+    "count": 1,
+    "name": "Fire Stone",
+    "description": "A stone that can be used to evolve certain Fire-type Pokémon.",
+    "cost": 100,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:water_stone",
+    "count": 1,
+    "name": "Water Stone",
+    "description": "A stone that can be used to evolve certain Water-type Pokémon.",
+    "cost": 100,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:thunder_stone",
+    "count": 1,
+    "name": "Thunder Stone",
+    "description": "A stone that can be used to evolve certain Thunder-type Pokémon.",
+    "cost": 100,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:leaf_stone",
+    "count": 1,
+    "name": "Leaf Stone",
+    "description": "A stone that can be used to evolve certain Grass-type Pokémon.",
+    "cost": 100,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:moon_stone",
+    "count": 1,
+    "name": "Moon Stone",
+    "description": "A stone that can be used to evolve certain Ghost-type Pokémon.",
+    "cost": 100,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:sun_stone",
+    "count": 1,
+    "name": "Sun Stone",
+    "description": "A stone that can be used to evolve certain Fire-type Pokémon.",
+    "cost": 100,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:dawn_stone",
+    "count": 1,
+    "name": "Dawn Stone",
+    "description": "A stone that can be used to evolve certain Grass-type Pokémon.",
+    "cost": 100,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:dusk_stone",
+    "count": 1,
+    "name": "Dusk Stone",
+    "description": "A stone that can be used to evolve certain Ghost-type Pokémon.",
+    "cost": 100,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:shiny_stone",
+    "count": 1,
+    "name": "Shiny Stone",
+    "description": "A stone that can be used to evolve certain Shiny Pokémon.",
+    "cost": 100,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:ice_stone",
+    "count": 1,
+    "name": "Ice Stone",
+    "description": "A stone that can be used to evolve certain Ice-type Pokémon.",
+    "cost": 100,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:auspicious_armor",
+    "count": 1,
+    "name": "Auspicious Armor",
+    "description": "A rare armor that evolves Charcadet into Armarouge.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:malicious_armor",
+    "count": 1,
+    "name": "Malicious Armor",
+    "description": "A rare armor that evolves Charcadet into Ceruledge.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:black_augurite",
+    "count": 1,
+    "name": "Black Augurite",
+    "description": "An Evolution item that is used to evolve Scyther into Kleavor.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:chipped_pot",
+    "count": 1,
+    "name": "Chipped Pot",
+    "description": "An Evolution item used to evolve Antique Form Sinistea into Antique Form Polteageist.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:cracked_pot",
+    "count": 1,
+    "name": "Cracked Pot",
+    "description": "An Evolution item used to evolve Phony Form Sinistea into Phony Form Polteageist.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:deep_sea_scale",
+    "count": 1,
+    "name": "Deep Sea Scale",
+    "description": "An Evolution item used to evolve Clamperl into Gorebyss.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:deep_sea_tooth",
+    "count": 1,
+    "name": "Deep Sea Tooth",
+    "description": "An Evolution item used to evolve Clamperl into Huntail.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:dragon_scale",
+    "count": 1,
+    "name": "Dragon Scale",
+    "description": "An Evolution item used to evolve Seadra into Kingdra",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:dubious_disc",
+    "count": 1,
+    "name": "Dubious Disc",
+    "description": "An Evolution item used to evolve Porygon2 into Porygon-Z.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:electirizer",
+    "count": 1,
+    "name": "Electirizer",
+    "description": "An Evolution item used to evolve Electabuzz into Electivire.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:galarica_cuff",
+    "count": 1,
+    "name": "Galarica Cuff",
+    "description": "An Evolution item used to evolve Galarian Slowpoke into Galarian Slowbro.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:galarica_wreath",
+    "count": 1,
+    "name": "Galarica Wreath",
+    "description": "An Evolution item used to evolve Galarian Slowpoke into Galarian Slowking.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:kings_rock",
+    "count": 1,
+    "name": "King's Rock",
+    "description": "An Evolution item used to evolve Poliwhirl and Slowpoke into Politoed and Slowking respectively. Can also cause 10% chance of flinch on damaging attacks.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:link_cable",
+    "count": 1,
+    "name": "Link Cable",
+    "description": "An Evolution item that is used to evolve Pokémon that evolve via trading.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:magmarizer",
+    "count": 1,
+    "name": "Magmarizer",
+    "description": "An Evolution item used to evolve Magmar into Magmortar while trading.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:masterpiece_teacup",
+    "count": 1,
+    "name": "Masterpiece Teacup",
+    "description": "An Evolution item used to evolve Artisan Form Poltchageist into Masterpiece Form Sinistcha. It can also be used for cooking Sinister Tea.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:metal_alloy",
+    "count": 1,
+    "name": "Metal Alloy",
+    "description": "An Evolution item used to evolve Duraludon into Archaludon.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:metal_coat",
+    "count": 1,
+    "name": "Metal Coat",
+    "description": "An Evolution item used to evolve Scyther and Onix into Scizor and Steelix respectively, when held while trading. It can also to boost Steel-type moves by 20%",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:oval_stone",
+    "count": 1,
+    "name": "Oval Stone",
+    "description": "An Evolution item used to evolve Happiny into Chansey.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:peat_block",
+    "count": 1,
+    "name": "Peat Block",
+    "description": "An Evolution item used to evolve Ursaring into Ursaluna when used during a full moon at night.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:prism_scale",
+    "count": 1,
+    "name": "Prism Scale",
+    "description": "An Evolution item used to evolve Feebas into Milotic while trading.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:protector",
+    "count": 1,
+    "name": "Protector",
+    "description": "An Evolution item used to evolve Rhydon into Rhyperior while trading.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:razor_claw",
+    "count": 1,
+    "name": "Razor Claw",
+    "description": "An Evolution item used to evolve Sneasel into Weavile if Sneasel levels up whilst holding a Razor Claw at night. It can also raise the holder's critical hit ratio by one stage.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:razor_fang",
+    "count": 1,
+    "name": "Razor Fang",
+    "description": "An Evolution item used to evolve Gligar into Gliscor if Gligar levels up whilst holding a Razor Fang at night. It can also grant a 10% chance of flinch on damaging attacks.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:reaper_cloth",
+    "count": 1,
+    "name": "Reaper Cloth",
+    "description": "An Evolution item used to evolve Dusclops into Dusknoir while trading.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:sachet",
+    "count": 1,
+    "name": "Sachet",
+    "description": "An Evolution item that is used to evolve Spritzee into Aromatisse while trading.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:scroll_of_darkness",
+    "count": 1,
+    "name": "Scroll of Darkness",
+    "description": "An Evolution item that is used to allow Kubfu to evolve into Single Strike Style Urshifu.",
+    "cost": 500,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:scroll_of_waters",
+    "count": 1,
+    "name": "Scroll of Waters",
+    "description": "An Evolution item that is used to allow Kubfu to evolve into Rapid Strike Style Urshifu.",
+    "cost": 500,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:shell_helmet",
+    "count": 1,
+    "name": "Shell Helmet",
+    "description": "An Evolution item that is used to evolve Karrablast into Escavalier.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:berry_sweet",
+    "count": 1,
+    "name": "Berry Sweet",
+    "description": "An Evolution item that is used to evolve Milcery into various Alcremie forms, depending on which sweet is used and the time of day.",
+    "cost": 20,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:clover_sweet",
+    "count": 1,
+    "name": "Clover Sweet",
+    "description": "An Evolution item that is used to evolve Milcery into various Alcremie forms, depending on which sweet is used and the time of day.",
+    "cost": 20,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:flower_sweet",
+    "count": 1,
+    "name": "Flower Sweet",
+    "description": "An Evolution item that is used to evolve Milcery into various Alcremie forms, depending on which sweet is used and the time of day.",
+    "cost": 20,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:love_sweet",
+    "count": 1,
+    "name": "Love Sweet",
+    "description": "An Evolution item that is used to evolve Milcery into various Alcremie forms, depending on which sweet is used and the time of day.",
+    "cost": 20,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:ribbon_sweet",
+    "count": 1,
+    "name": "Ribbon Sweet",
+    "description": "An Evolution item that is used to evolve Milcery into various Alcremie forms, depending on which sweet is used and the time of day.",
+    "cost": 20,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:star_sweet",
+    "count": 1,
+    "name": "Star Sweet",
+    "description": "An Evolution item that is used to evolve Milcery into various Alcremie forms, depending on which sweet is used and the time of day.",
+    "cost": 20,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:strawberry_sweet",
+    "count": 1,
+    "name": "Strawberry Sweet",
+    "description": "An Evolution item that is used to evolve Milcery into various Alcremie forms, depending on which sweet is used and the time of day.",
+    "cost": 20,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:sweet_apple",
+    "count": 1,
+    "name": "Sweet Apple",
+    "description": "An Evolution item that is used to evolve Applin into Appletun.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:syrupy_apple",
+    "count": 1,
+    "name": "Syrupy Apple",
+    "description": "An Evolution item that is used to evolve Applin into Dipplin.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:tart_apple",
+    "count": 1,
+    "name": "Tart Apple",
+    "description": "An Evolution item that is used to evolve Applin into Flapple.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:unremarkable_teacup",
+    "count": 1,
+    "name": "Unremarkable Teacup",
+    "description": "An Evolution item that is used to evolve Counterfeit Form Poltchageist into Unremarkable Form Sinistcha.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:upgrade",
+    "count": 1,
+    "name": "Upgrade",
+    "description": "An Evolution item that is used to evolve Porygon into Porygon2 while trading.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:whipped_dream",
+    "count": 1,
+    "name": "Whipped Dream",
+    "description": "An Evolution item used to evolve Swirlix into Slurpuff while trading.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:ability_shield",
+    "count": 1,
+    "name": "Ability Shield",
+    "description": "A held item that prevents the holder's ability from being changed or suppressed by any effect.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:absorb_bulb",
+    "count": 1,
+    "name": "Absorb Bulb",
+    "description": "A held item that raises the holder's Special Attack by one stage when hit by a damaging Water-type move.",
+    "cost": 10,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:air_balloon",
+    "count": 1,
+    "name": "Air Balloon",
+    "description": "A held item that causes the holder to be ungrounded, meaning that they cannot be affected by damaging Ground-type moves and any other ground-related effects. If the holder is hit by a damaging move, the Air Balloon will pop, removing its effects. The item itself, however, will not be destroyed and will return to normal once the battle ends.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:assault_vest",
+    "count": 1,
+    "name": "Assault Vest",
+    "description": "A held item that raises the Special Defense of the Pokémon holding it by 50%, but prevents the holder from selecting any status move.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:big_root",
+    "count": 1,
+    "name": "Big Root",
+    "description": "A held item that increases the HP recovered from the holder's draining moves by 30%.",
+    "cost": 10,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:binding_band",
+    "count": 1,
+    "name": "Binding Band",
+    "description": "A held item that causes binding moves used by the holder to inflict 1/6 of the target's health instead of the usual 1/8 of the target's health at the end of each turn.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:black_belt",
+    "count": 1,
+    "name": "Black Belt",
+    "description": "A held item that increases the power of the holder's Fighting-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:black_glasses",
+    "count": 1,
+    "name": "Black Glasses",
+    "description": "A held item that increases the power of the holder's Dark-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:black_sludge",
+    "count": 1,
+    "name": "Black Sludge",
+    "description": "A held item that heals Poison-types by 1/16 of their maximum HP at the end of each turn. If the holder is not a Poison-type Pokémon, it will lose 1/8 of its maximum HP instead.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:blunder_policy",
+    "count": 1,
+    "name": "Blunder Policy",
+    "description": "A held item that increases the holder's Speed by two stages when one of the holder's moves misses a target due to an accuracy or evasion check.",
+    "cost": 100,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:bright_powder",
+    "count": 1,
+    "name": "Bright Powder",
+    "description": "A held item that causes the opponent's attacks targeted at the holder to have a 10% extra reduction in accuracy.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:cell_battery",
+    "count": 1,
+    "name": "Cell Battery",
+    "description": "A held item that increases the holder's Attack by one stage when hit by a damaging Electric-type move.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:charcoal_stick",
+    "count": 1,
+    "name": "Charcoal Stick",
+    "description": "A held item that boosts the power of the holder's Fire-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:choice_band",
+    "count": 1,
+    "name": "Choice Band",
+    "description": "A held item that boosts the Attack of the Pokémon holding it by 50%, but only allows the use of the first move selected each time it is sent into battle.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:choice_scarf",
+    "count": 1,
+    "name": "Choice Scarf",
+    "description": "A held item that boosts the Speed of the Pokémon holding it by 50%, but only allows the use of the first move selected each time it is sent into battle.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:choice_specs",
+    "count": 1,
+    "name": "Choice Specs",
+    "description": "A held item that boosts the Special Attack of the Pokémon holding it by 50%, but only allows the use of the first move selected each time it is sent into battle.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:clear_amulet",
+    "count": 1,
+    "name": "Clear Amulet",
+    "description": "A held item that prevents the holder from being affected by status conditions.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:covert_cloak",
+    "count": 1,
+    "name": "Covert Cloak",
+    "description": "A held item that protects the holder from any additional effects from other Pokémon's damaging moves.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:damp_rock",
+    "count": 1,
+    "name": "Damp Rock",
+    "description": "A held item that increases the duration of rain from 5 turns to 8 turns, if the holder created the rain.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:destiny_knot",
+    "count": 1,
+    "name": "Destiny Knot",
+    "description": "A held item that causes the opponent to be infatuated if the holder is infatuated.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:dragon_fang",
+    "count": 1,
+    "name": "Dragon Fang",
+    "description": "A held item that increases the power of the holder's Dragon-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:eject_button",
+    "count": 1,
+    "name": "Eject Button",
+    "description": "A held item that causes the holder to be switched out when hit by a damaging move.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:eject_pack",
+    "count": 1,
+    "name": "Eject Pack",
+    "description": "A held item that causes the holder to be switched out when their stats are lowered.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:everstone",
+    "count": 1,
+    "name": "Everstone",
+    "description": "A held item that prevents the holder from evolving.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:eviolite",
+    "count": 1,
+    "name": "Eviolite",
+    "description": "A held item that increases the Defense and Special Defense of the holder by 50% if they are not fully evolved.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:exp_share",
+    "count": 1,
+    "name": "Exp. Share",
+    "description": "A held item that allows the holder to share experience points with other Pokémon in the party as long as they are not fainted.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:expert_belt",
+    "count": 1,
+    "name": "Expert Belt",
+    "description": "A held item that boosts the damage of the holder's super effective moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:fairy_feather",
+    "count": 1,
+    "name": "Fairy Feather",
+    "description": "A held item that increases the power of the holder's Fairy-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:flame_orb",
+    "count": 1,
+    "name": "Flame Orb",
+    "description": "A held item that causes the holder to be burned at the end of each turn.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:float_stone",
+    "count": 1,
+    "name": "Float Stone",
+    "description": "A held item that halves the weight of the holder to a minimum of 0.1kg.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:focus_band",
+    "count": 1,
+    "name": "Focus Band",
+    "description": "A held item that allows the holder to survive an attack that would otherwise cause it to faint, with 10% chance, leaving it at 1hp.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:focus_sash",
+    "count": 1,
+    "name": "Focus Sash",
+    "description": "A held item that, if the Pokémon is at full HP, allows the holder to survive an attack that would otherwise cause it to faint, with 10% chance, leaving it at 1hp.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:grip_claw",
+    "count": 1,
+    "name": "Grip Claw",
+    "description": "A held item that increases the duration of the user's trapping moves to 7 turns.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:hard_stone",
+    "count": 1,
+    "name": "Hard Stone",
+    "description": "A held item that increases the power of the holder's Rock-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:heat_rock",
+    "count": 1,
+    "name": "Heat Rock",
+    "description": "A held item that extends the duration of harsh sunlight from 5 turns to 8 turns, if the holder created the harsh sunlight.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:heavy_duty_boots",
+    "count": 1,
+    "name": "Heavy Duty Boots",
+    "description": "A held item that make the holder immune to entry hazards such as Stealth Rock, Spikes and Sticky Web.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:icy_rock",
+    "count": 1,
+    "name": "Icy Rock",
+    "description": "A held item that extends the duration of hail or snow from 5 turns to 8 turns, if the holder created the hail or snow.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:iron_ball",
+    "count": 1,
+    "name": "Iron Ball",
+    "description": "A held item that reduces the holder's Speed by 50%. It also causes the holder to be grounded and thus susceptible to Ground-type moves, Arena Trap, Spikes, Toxic Spikes, Sticky Web and terrain, even if it is a Flying-type or is levitating.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:lagging_tail",
+    "count": 1,
+    "name": "Icy Rock",
+    "description": "A held item which causes the holder to move last in its priority bracket.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:leftovers",
+    "count": 1,
+    "name": "Leftovers",
+    "description": "A held item that heals 1/16 of the holder's maximum HP at the end of each turn.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:life_orb",
+    "count": 1,
+    "name": "Life Orb",
+    "description": "A held item that boosts the power of the holder's moves by 30%, but causes the holder to take damage equal to 10% of its maximum HP after using a damaging move.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:light_ball",
+    "count": 1,
+    "name": "Light Ball",
+    "description": "A held item that doubles Attack and Special Attack, if held by a Pikachu. This item has no effect if held by any other Pokémon.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:light_clay",
+    "count": 1,
+    "name": "Light Clay",
+    "description": "A held item that extends the duration of the moves Reflect, Aurora Veil and Light Screen from five turns to eight turns when used by the holder.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:loaded_dice",
+    "count": 1,
+    "name": "Loaded Dice",
+    "description": "A held item that causes the holder's multistrike moves to always hit at least four times, if possible.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:lucky_egg",
+    "count": 1,
+    "name": "Lucky Egg",
+    "description": "A held item that boosts the amount of experience a Pokémon gains after battle by 50%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:luminous_moss",
+    "count": 1,
+    "name": "Luminous Moss",
+    "description": "A held item that raises the holder's Special Defense by one stage when hit by a damaging Water-type move.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:magnet",
+    "count": 1,
+    "name": "Magnet",
+    "description": "A held item that boosts the power of the holder's Electric-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:mental_herb",
+    "count": 1,
+    "name": "Mental Herb",
+    "description": "A held item that cures the holder of infatuation and other mental effects. It will be consumed after use.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:metal_powder",
+    "count": 1,
+    "name": "Metal Powder",
+    "description": "A held item that increases Ditto's Defense and Special Defense by 50% when held.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:metronome",
+    "count": 1,
+    "name": "Metronome",
+    "description": "A held item that boosts the power of moves used consecutively by the Pokémon holding it by 20% for each previous, consecutive turn the move has been used successfully, up to a maximum increase of 100%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:miracle_seed",
+    "count": 1,
+    "name": "Miracle Seed",
+    "description": "A held item that boosts the power of the holder's Grass-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:mirror_herb",
+    "count": 1,
+    "name": "Mirror Herb",
+    "description": "A held item that copies all of the opponent's increased stats.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:muscle_band",
+    "count": 1,
+    "name": "Muscle Band",
+    "description": "A held item that boosts the power of the holder's physical moves by 10%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:mystic_water",
+    "count": 1,
+    "name": "Mystic Water",
+    "description": "A held item that boosts the power of the holder's Water-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:never_melt_ice",
+    "count": 1,
+    "name": "Never-Melt Ice",
+    "description": "A held item that boosts the power of the holder's Ice-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:poison_barb",
+    "count": 1,
+    "name": "Poison Barb",
+    "description": "A held item that boosts the power of the holder's Poison-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:power_anklet",
+    "count": 1,
+    "name": "Power Anklet",
+    "description": "A held item that gives extra Speed EVs when the holder participates in battle.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:power_band",
+    "count": 1,
+    "name": "Power Band",
+    "description": "A held item that gives extra Special Defense EVs when the holder participates in battle.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:power_belt",
+    "count": 1,
+    "name": "Power Belt",
+    "description": "A held item that gives extra Defense EVs when the holder participates in battle.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:power_bracer",
+    "count": 1,
+    "name": "Power Bracer",
+    "description": "A held item that gives extra Attack EVs when the holder participates in battle.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:power_herb",
+    "count": 1,
+    "name": "Power Herb",
+    "description": "A held item that allows the holder to immediately use a move that would normally require a turn to charge.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:power_lens",
+    "count": 1,
+    "name": "Power Lens",
+    "description": "A held item that gives extra Special Attack EVs when the holder participates in battle.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:power_weight",
+    "count": 1,
+    "name": "Power Weight",
+    "description": "A held item that gives extra HP EVs when the holder participates in battle.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:protective_pads",
+    "count": 1,
+    "name": "Protective Pads",
+    "description": "A held item that protects the holder from the effects of moves that make contact with the target.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:punching_glove",
+    "count": 1,
+    "name": "Punching Glove",
+    "description": "A held item that increases the power of the holder's punching moves by 10% and prevents contact with targets via these moves.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:quick_claw",
+    "count": 1,
+    "name": "Quick Claw",
+    "description": "A held item that grants the holder a 20% chance of moving first in its priority bracket.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:quick_powder",
+    "count": 1,
+    "name": "Quick Powder",
+    "description": "A held item that doubles an untransformed Ditto's Speed when held.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:red_card",
+    "count": 1,
+    "name": "Red Card",
+    "description": "A held item that causes the attacker to switch out if the holder is hit by another Pokémon's damaging move. The item only activates once per battle and will not activate if the attacker is a wild Pokémon or its Trainer has no Pokémon to switch in.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:ring_target",
+    "count": 1,
+    "name": "Ring Target",
+    "description": "A held item that removes the holder's type immunities.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:rocky_helmet",
+    "count": 1,
+    "name": "Rocky Helmet",
+    "description": "A held item that causes Pokémon that use a contact move on the holder to take damage equal to 1/6 of their maximum HP.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:room_service",
+    "count": 1,
+    "name": "Room Service",
+    "description": "A held item that lowers the holders Speed by one stage if Trick Room is active. This item can only activate once per battle.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:safety_goggles",
+    "count": 1,
+    "name": "Safety Goggles",
+    "description": "A held item that grants the holder immunity to powder and spore moves, as well as protection from damage caused by hail and sandstorm.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:scope_lens",
+    "count": 1,
+    "name": "Scope Lens",
+    "description": "A held item that increases the holder's critical hit ratio by one stage.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:sharp_beak",
+    "count": 1,
+    "name": "Sharp Beak",
+    "description": "A held item that boosts the power of the holder's Flying-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:shed_shell",
+    "count": 1,
+    "name": "Shed Shell",
+    "description": "A held item that allows the holder to switch out even if it is under the effects of a trapping move or ability. This does not, however, allow the player to flee or Teleport under these effects.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:shell_bell",
+    "count": 1,
+    "name": "Shell Bell",
+    "description": "A held item that restores HP equal to 1/8 of the damage dealt by the holder's damaging moves.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:silk_scarf",
+    "count": 1,
+    "name": "Silk Scarf",
+    "description": "A held item that boosts the power of the holder's Normal-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:silver_powder",
+    "count": 1,
+    "name": "Silver Powder",
+    "description": "A held item that boosts the power of the holder's Bug-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:smoke_ball",
+    "count": 1,
+    "name": "Smoke Ball",
+    "description": "A held item that guarantees the holder can flee from wild Pokémon.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:smooth_rock",
+    "count": 1,
+    "name": "Smooth Rock",
+    "description": "A held item that extends the duration of sandstorms from 5 turns to 8 turns, if the holder created the sandstorm.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:soft_sand",
+    "count": 1,
+    "name": "Smooth Rock",
+    "description": "A held item that boosts the power of the holder's Ground-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:soothe_bell",
+    "count": 1,
+    "name": "Soothe Bell",
+    "description": "A held item that increases the holder's amount of friendship earned by 50%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:spell_tag",
+    "count": 1,
+    "name": "Spell Tag",
+    "description": "A held item that boosts the power of the holder's Ghost-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:sticky_barb",
+    "count": 1,
+    "name": "Sticky Barb",
+    "description": "A held item that damages 1/8 of the holder's maximum HP at the end of each turn. If a Pokémon with no held item hits the holder with a contact move, the Sticky Barb is transferred to the attacker.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:terrain_extender",
+    "count": 1,
+    "name": "Terrain Extender",
+    "description": "A held item that increases the duration of the holder's moves and abilities which create terrain to 8 turns.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:throat_spray",
+    "count": 1,
+    "name": "Throat Spray",
+    "description": "A held item that increases the holder's Special Attack by one stage when they use a sound-based move.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:toxic_orb",
+    "count": 1,
+    "name": "Toxic Orb",
+    "description": "A held item that badly poisons its holder at the end of the turn. The holder does not take damage on the turn the status is inflicted.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:twisted_spoon",
+    "count": 1,
+    "name": "Twisted Spoon",
+    "description": "A held item that boosts the power of the holder's Psychic-type moves by 20%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:utility_umbrella",
+    "count": 1,
+    "name": "Utility Umbrella",
+    "description": "A held item that causes the holder to ignore the effects of rain and harsh sunlight.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:weakness_policy",
+    "count": 1,
+    "name": "Weakness Policy",
+    "description": "A held item that raises the holder's Attack and Special Attack by two stages when hit by a super-effective move. This can only activate once per battle.",
+    "cost": 100,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:white_herb",
+    "count": 1,
+    "name": "White Herb",
+    "description": "A held item that restores all of the holder's decreased stats.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:wide_lens",
+    "count": 1,
+    "name": "Wide Lens",
+    "description": "A held item that boosts the holder's accuracy by 10%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:wise_glasses",
+    "count": 1,
+    "name": "Wise Glasses",
+    "description": "A held item that boosts the power of the holder's special moves by 10%.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  },
+  {
+    "itemId": "cobblemon:zoom_lens",
+    "count": 1,
+    "name": "Zoom Lens",
+    "description": "A held item that boosts the holder's accuracy by 20% against targets that have already used a move in the same turn.",
+    "cost": 50,
+    "layout": "NORMAL",
+    "buyType": "COINS",
+    "isNew": false
+  }
+]
