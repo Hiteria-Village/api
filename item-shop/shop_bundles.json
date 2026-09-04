@@ -323,6 +323,27 @@
       "ifOwned2": 60,
       "ifOwned3": 80,
       "visualOverride": null
+    }, 
+    "music_bundle_30": {
+      "name": "Week 30 | Music Pack",
+      "description": "",
+      "basePrice": 3000,
+      "items": ["sid_130", "sid_136", "sid_144", "sid_145", "sid_147", "sid_148"],
+      "discount": 30,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "visualOverride": null
+    }, 
+    "music_bundle_31": {
+      "name": "Season 1 | Music Pack",
+      "description": "",
+      "basePrice": 2000,
+      "items": ["sid_79", "sid_96", "sid_99", "sid_84"],
+      "discount": 30,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "ifOwned3": 80,
+      "visualOverride": null 
     }
   }
-}      
+}     

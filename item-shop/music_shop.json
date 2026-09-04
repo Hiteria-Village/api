@@ -1,57 +1,110 @@
 [
     {
+    "itemRef": "sid_84",
+    "cost": 500,
+    "layout": "SMALL"
+   },
+   {
+    "itemRef": "sid_99",
+    "cost": 500,
+    "layout": "SMALL"
+   },
+   {
+    "itemRef": "sid_96",
+    "cost": 500,
+    "layout": "SMALL"
+   },
+   {
+    "itemRef": "sid_79",
+    "cost": 500,
+    "layout": "SMALL"
+   },
+   {
+    "itemRef": "sid_148",
+    "cost": 500,
+    "layout": "SMALL",
+    "isNew": true
+   },
+   {
+    "itemRef": "sid_147",
+    "cost": 500,
+    "layout": "SMALL",
+    "isNew": true
+   },
+   {
+    "itemRef": "sid_145",
+    "cost": 500,
+    "layout": "SMALL",
+    "isNew": true
+   },
+   {
+    "itemRef": "sid_144",
+    "cost": 500,
+    "layout": "SMALL",
+    "isNew": true
+   },
+   {
+    "itemRef": "sid_136",
+    "cost": 500,
+    "layout": "SMALL",
+    "isNew": true
+   },
+   {
+    "itemRef": "sid_130",
+    "cost": 500,
+    "layout": "SMALL",
+    "isNew": true
+   },
+   {
     "itemRef": "sid_143",
     "cost": 500,
     "layout": "SMALL",
     "isNew": true
    },
    {
+    "itemRef": "sid_143",
+    "cost": 500,
+    "layout": "SMALL"
+   },
+   {
     "itemRef": "sid_142",
     "cost": 500,
-    "layout": "SMALL",
-    "isNew": true
+    "layout": "SMALL"
    },
    {
     "itemRef": "sid_141",
     "cost": 500,
-    "layout": "SMALL",
-    "isNew": true
+    "layout": "SMALL"
    },
    {
     "itemRef": "sid_55",
     "cost": 500,
-    "layout": "SMALL",
-    "isNew": true
+    "layout": "SMALL"
    },
    {
     "itemRef": "sid_140",
     "cost": 500,
-    "layout": "SMALL",
-    "isNew": true
+    "layout": "SMALL"
    },
    {
     "itemRef": "sid_137",
     "cost": 500,
-    "layout": "SMALL",
-    "isNew": true
+    "layout": "SMALL"
    },
    {
     "itemRef": "sid_128",
     "cost": 500,
-    "layout": "SMALL",
-    "isNew": true
+    "layout": "SMALL"
    },
    {
     "itemRef": "sid_127",
     "cost": 500,
-    "layout": "SMALL",
-    "isNew": true
+    "layout": "SMALL"
    },
    {
     "itemRef": "sid_132",
     "cost": 500,
-    "layout": "SMALL",
-    "isNew": true
+    "layout": "SMALL"
    },
    {
     "itemRef": "sid_135",
