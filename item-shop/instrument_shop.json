@@ -33,17 +33,6 @@
     "isNew": true
   },
   {
-    "itemId": "mid_02",
-    "count": 1,
-    "name": "Sonic Speed Mic",
-    "description": "Singing with speed.",
-    "cost": 1000,
-    "type": "instrument",
-    "layout": "NORMAL",
-    "buyType": "GEMS",
-    "isNew": true
-  },
-  {
     "itemId": "mid_07",
     "count": 1,
     "name": "Golden Drums",
@@ -81,17 +70,6 @@
     "count": 1,
     "name": "Golden Bass",
     "description": "A bass made with pure Hiterian gold!",
-    "cost": 5000,
-    "type": "instrument",
-    "layout": "NORMAL",
-    "buyType": "GEMS",
-    "isNew": true
-  },
-  {
-    "itemId": "mid_09",
-    "count": 1,
-    "name": "Golden Mic",
-    "description": "A microphone made with pure Hiterian gold!",
     "cost": 5000,
     "type": "instrument",
     "layout": "NORMAL",
