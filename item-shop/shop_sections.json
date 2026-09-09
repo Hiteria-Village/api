@@ -29,15 +29,6 @@
       "itemsFile": "permanent_shop.json"
     },
     {
-      "id": "featured",
-      "name": "Featured Items",
-      "enabled": true,
-      "resetType": "NEVER",
-      "showTimer": true,
-      "order": 3,
-      "itemsFile": "featured_shop.json"
-    },
-    {
       "id": "musicbundles",
       "name": "Music Bundles",
       "enabled": true,
