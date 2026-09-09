@@ -11,10 +11,10 @@
     {
       "id": "event",
       "name": "Event",
-      "enabled": true,
+      "enabled": false,
       "resetType": "CUSTOM",
-      "startDate": "2026-09-09",
-      "endDate": "2026-09-16",
+      "startDate": "2026-02-12",
+      "endDate": "2026-03-12",
       "showTimer": true,
       "order": 1,
       "itemsFile": "event_shop.json"
@@ -27,6 +27,15 @@
       "showTimer": false,
       "order": 2,
       "itemsFile": "permanent_shop.json"
+    },
+    {
+      "id": "featured",
+      "name": "Featured Items",
+      "enabled": true,
+      "resetType": "NEVER",
+      "showTimer": true,
+      "order": 3,
+      "itemsFile": "featured_shop.json"
     },
     {
       "id": "musicbundles",
