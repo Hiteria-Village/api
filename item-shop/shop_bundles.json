@@ -344,6 +344,16 @@
       "ifOwned2": 60,
       "ifOwned3": 80,
       "visualOverride": null 
+    }, 
+    "music_bundle_32": {
+      "name": "Test Bundle | Music Pack",
+      "description": "",
+      "basePrice": 1500,
+      "items": ["sid_23", "sid_47", "sid_152"],
+      "discount": 30,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "visualOverride": null
     }
   }
 }     
