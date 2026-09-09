@@ -346,7 +346,7 @@
       "visualOverride": null 
     }, 
     "music_bundle_32": {
-      "name": "Test Bundle | Music Pack",
+      "name": "Mastodon Tracks | Music Pack",
       "description": "",
       "basePrice": 1500,
       "items": ["sid_23", "sid_47", "sid_152"],
