@@ -1,0 +1,12 @@
+[
+  {
+    "type": "BUNDLE",
+    "bundleId": "music_bundle_32",
+    "layout": "TALL_RECTANGLE"
+   },
+   {
+    "itemRef": "sid_152",
+    "cost": 500,
+    "layout": "SMALL"
+  }
+]

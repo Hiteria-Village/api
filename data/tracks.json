@@ -7002,5 +7002,54 @@
       "drums": ""
     },
     "charter": "Luna"    
+  },
+  "outlikealamb": {
+    "title": "Out Like a Lamb",
+    "artist": "Mastodon",
+    "releaseYear": 2026,
+    "cover": "outlikealamb.png",
+    "bpm": 138,
+    "key": "C♯ major",
+    "duration": "5m 44s",
+    "album": "Marrow Deep",
+    "genre": "Rock/Metal",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 6,
+      "bass": 4,
+      "drums": 6,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-09T00:00:00.000Z",
+    "lastFeatured": "2026-09-09T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "64QhhtLUgQpAmvJ4gP4tbq",
+    "videoUrl": "outlikealamb.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_152.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/outlikealamb.mp3",
+    "shop": false,
+    "sid": "sid_152",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }
