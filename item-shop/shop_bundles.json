@@ -17,9 +17,9 @@
       "basePrice": 2000,
       "items": ["sid_02", "sid_11", "sid_16", "sid_18"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     },
     "music_bundle_3": {
@@ -28,9 +28,9 @@
       "basePrice": 2000,
       "items": ["sid_08", "sid_12", "sid_13", "sid_19"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     },
     "music_bundle_4": {
@@ -39,9 +39,9 @@
       "basePrice": 2000,
       "items": ["sid_24", "sid_20", "sid_29", "sid_15"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     },
     "music_bundle_5": {
@@ -50,9 +50,9 @@
       "basePrice": 2000,
       "items": ["sid_14", "sid_21", "sid_22", "sid_25"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     },
     "music_bundle_6": {
@@ -61,9 +61,9 @@
       "basePrice": 2000,
       "items": ["sid_28", "sid_10", "sid_26", "sid_27"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     },
     "music_bundle_7": {
@@ -72,9 +72,9 @@
       "basePrice": 2000,
       "items": ["sid_33", "sid_34", "sid_41", "sid_44"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     },
     "music_bundle_8": {
@@ -83,9 +83,9 @@
       "basePrice": 2000,
       "items": ["sid_17", "sid_36", "sid_38", "sid_48"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null      
     },
     "music_bundle_9": {
@@ -94,9 +94,9 @@
       "basePrice": 2000,
       "items": ["sid_45", "sid_49", "sid_52", "sid_31"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     },
     "music_bundle_10": {
@@ -104,9 +104,10 @@
       "description": "",
       "basePrice": 3000,
       "items": ["sid_23", "sid_47", "sid_56", "sid_57", "sid_58", "sid_39"],
-      "discount": 30,
+      "discount": 20,
       "ifOwned1": 40,
       "ifOwned2": 60,
+      "ifOwned3": 80,
       "visualOverride": null
     },
     "music_bundle_11": {
@@ -115,9 +116,9 @@
       "basePrice": 2000,
       "items": ["sid_53", "sid_32", "sid_30", "sid_46"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     },
     "music_bundle_12": {
@@ -126,9 +127,9 @@
       "basePrice": 2000,
       "items": ["sid_62", "sid_60", "sid_59", "sid_51"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     },
     "test_bundle_1": {
@@ -137,9 +138,9 @@
       "basePrice": 4500,
       "items": ["mid_13", "mid_14", "mid_15", "mid_16", "mid_17"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     },
     "music_bundle_13": {
@@ -148,9 +149,9 @@
       "basePrice": 2000,
       "items": ["sid_35", "sid_43", "sid_64", "sid_69"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     },
     "music_bundle_14": {
@@ -159,9 +160,9 @@
       "basePrice": 2000,
       "items": ["sid_54", "sid_61", "sid_72", "sid_73"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null  
     },
     "music_bundle_15": {
@@ -170,9 +171,9 @@
       "basePrice": 2000,
       "items": ["sid_65", "sid_74", "sid_75", "sid_76"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null  
     },
     "music_bundle_16": {
@@ -181,9 +182,9 @@
       "basePrice": 2000,
       "items": ["sid_77", "sid_80", "sid_81", "sid_83"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     },
     "music_bundle_17": {
@@ -192,9 +193,9 @@
       "basePrice": 2000,
       "items": ["sid_78", "sid_82", "sid_86", "sid_89"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null  
     },
     "music_bundle_18": {
@@ -220,9 +221,10 @@
       "description": "",
       "basePrice": 3000,
       "items": ["sid_85", "sid_92", "sid_93", "sid_94", "sid_97", "sid_98"],
-      "discount": 30,
+      "discount": 20,
       "ifOwned1": 40,
       "ifOwned2": 60,
+      "ifOwned3": 80,
       "visualOverride": null
     }, 
     "music_bundle_21": {
@@ -231,9 +233,9 @@
       "basePrice": 2000,
       "items": ["sid_100", "sid_101", "sid_102", "sid_103"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     }, 
     "music_bundle_22": {
@@ -242,9 +244,9 @@
       "basePrice": 2000,
       "items": ["sid_104", "sid_110", "sid_111", "sid_112"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     }, 
     "music_bundle_23": {
@@ -253,9 +255,9 @@
       "basePrice": 2000,
       "items": ["sid_37", "sid_40", "sid_108", "sid_118"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     }, 
     "music_bundle_24": {
@@ -264,9 +266,9 @@
       "basePrice": 2000,
       "items": ["sid_105", "sid_106", "sid_107", "sid_109"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     }, 
     "music_bundle_25": {
@@ -277,7 +279,7 @@
       "discount": 30,
       "ifOwned1": 40,
       "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned3": 90,
       "visualOverride": null
     }, 
     "music_bundle_26": {
@@ -286,9 +288,9 @@
       "basePrice": 2000,
       "items": ["sid_114", "sid_115", "sid_116", "sid_117"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     }, 
     "music_bundle_27": {
@@ -297,9 +299,9 @@
       "basePrice": 2000,
       "items": ["sid_123", "sid_126", "sid_133", "sid_135"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     }, 
     "music_bundle_28": {
@@ -308,9 +310,9 @@
       "basePrice": 2000,
       "items": ["sid_127", "sid_128", "sid_137", "sid_140"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     }, 
     "music_bundle_29": {
@@ -319,9 +321,9 @@
       "basePrice": 2000,
       "items": ["sid_55", "sid_141", "sid_142", "sid_143"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null
     }, 
     "music_bundle_30": {
@@ -329,9 +331,10 @@
       "description": "",
       "basePrice": 3000,
       "items": ["sid_130", "sid_136", "sid_144", "sid_145", "sid_147", "sid_148"],
-      "discount": 30,
+      "discount": 20,
       "ifOwned1": 40,
       "ifOwned2": 60,
+      "ifOwned3": 80,
       "visualOverride": null
     }, 
     "music_bundle_31": {
@@ -340,9 +343,9 @@
       "basePrice": 2000,
       "items": ["sid_79", "sid_96", "sid_99", "sid_84"],
       "discount": 30,
-      "ifOwned1": 40,
-      "ifOwned2": 60,
-      "ifOwned3": 80,
+      "ifOwned1": 50,
+      "ifOwned2": 70,
+      "ifOwned3": 90,
       "visualOverride": null 
     }, 
     "music_bundle_32": {
