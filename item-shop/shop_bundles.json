@@ -19,7 +19,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     },
     "music_bundle_3": {
@@ -30,7 +30,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     },
     "music_bundle_4": {
@@ -41,7 +41,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     },
     "music_bundle_5": {
@@ -52,7 +52,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     },
     "music_bundle_6": {
@@ -63,7 +63,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     },
     "music_bundle_7": {
@@ -74,7 +74,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     },
     "music_bundle_8": {
@@ -85,7 +85,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null      
     },
     "music_bundle_9": {
@@ -96,7 +96,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     },
     "music_bundle_10": {
@@ -118,7 +118,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     },
     "music_bundle_12": {
@@ -129,7 +129,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     },
     "test_bundle_1": {
@@ -140,7 +140,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     },
     "music_bundle_13": {
@@ -151,7 +151,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     },
     "music_bundle_14": {
@@ -162,7 +162,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null  
     },
     "music_bundle_15": {
@@ -173,7 +173,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null  
     },
     "music_bundle_16": {
@@ -184,7 +184,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     },
     "music_bundle_17": {
@@ -195,7 +195,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null  
     },
     "music_bundle_18": {
@@ -235,7 +235,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     }, 
     "music_bundle_22": {
@@ -246,7 +246,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     }, 
     "music_bundle_23": {
@@ -257,7 +257,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     }, 
     "music_bundle_24": {
@@ -268,7 +268,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     }, 
     "music_bundle_25": {
@@ -279,7 +279,7 @@
       "discount": 30,
       "ifOwned1": 40,
       "ifOwned2": 60,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     }, 
     "music_bundle_26": {
@@ -290,7 +290,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     }, 
     "music_bundle_27": {
@@ -301,7 +301,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     }, 
     "music_bundle_28": {
@@ -312,7 +312,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     }, 
     "music_bundle_29": {
@@ -323,7 +323,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null
     }, 
     "music_bundle_30": {
@@ -345,7 +345,7 @@
       "discount": 30,
       "ifOwned1": 50,
       "ifOwned2": 70,
-      "ifOwned3": 97,
+      "ifOwned3": 95,
       "visualOverride": null 
     }, 
     "music_bundle_32": {
