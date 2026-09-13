@@ -359,7 +359,7 @@
       "name": "Beginners Bounty | Starter Pack",
       "description": "",
       "basePrice": 0,
-      "items": ["sid_17", "sid_04", "sid_116", "mid_04", "songvoucher"],
+      "items": ["sid_17", "sid_04", "mid_04", "songvoucher"],
       "visualOverride": null
     }
   }

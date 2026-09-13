@@ -1,9 +1,14 @@
 {
   "items": [
     {
+      "title": "Mastodon Tracks | Music Bundle!",
+      "description": "Grab this new bundle containing 4 Mastodon tracks, one being an entirely new track! Get it now before it's gone on the 16th!",
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/mastodonbundle.png"
+    },
+    {
       "title": "New Season Pass!",
       "description": "Check out Octave season 2! New tracks, new instruments, and more!",
-      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/seasonpass.png"
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/seasonpass.png"      
     }
   ]
 }      
