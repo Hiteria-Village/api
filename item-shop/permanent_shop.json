@@ -8,5 +8,10 @@
 	"itemRef": "hiteriaphone",
     "cost": 0,
     "layout": "WIDE_RECTANGLE"
+  },
+  {
+    "type": "BUNDLE",
+    "bundleId": "music_bundle_33",
+    "layout": "TALL_RECTANGLE"
   }
 ]

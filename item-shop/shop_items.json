@@ -35,6 +35,12 @@
       "description": "Practice your performaces",
       "itemId": "octave:hiteriaphone_white",
       "visualOverride": null
+    },
+    "songvoucher": {
+      "name": "Song Voucher",
+      "description": "Get an awesome free track!",
+      "itemId": "hiteria:music_track_ticket",
+      "visualOverride": null      
     }
   },
  "music_tracks": {
