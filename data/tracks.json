@@ -2560,6 +2560,7 @@
     "bpm": 120,
     "key": "C♯ Major",
     "duration": "2m 0s",
+    "album": "Hiteria's Greatest Hits - Volume 1",
     "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
@@ -6766,7 +6767,7 @@
     "bpm": 107,
     "key": "C Major",
     "duration": "1m 36s",
-    "album": "How many are here?",
+    "album": "Hiteria's Greatest Hits - Volume 1",
     "genre": "Other",
     "rating": "Everyone",
     "difficulties": {
@@ -7034,6 +7035,104 @@
     "previewUrl": "/api/assets/audio/outlikealamb.mp3",
     "shop": false,
     "sid": "sid_152",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "navigating": {
+    "title": "Navigating",
+    "artist": "Twenty One Pilots",
+    "releaseYear": 2024,
+    "cover": "navigating.png",
+    "bpm": 166,
+    "key": "B minor",
+    "duration": "3m 48s",
+    "album": "Clancy",
+    "genre": "Indie/Alternative",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 3,
+      "bass": 3,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-16T00:00:00.000Z",
+    "lastFeatured": "2026-09-16T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "3gy21TwRSP40aUMwcY7Rtq",
+    "videoUrl": "navigating.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_151.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/navigating.mp3",
+    "shop": false,
+    "sid": "sid_151",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "octavegroove": {
+    "title": "Octave Groove",
+    "artist": "UpGoofed",
+    "releaseYear": 2026,
+    "cover": "octavegroove.png",
+    "bpm": 100,
+    "key": "D♯",
+    "duration": "1m 07s",
+    "album": "Hiteria's Greatest Hits - Volume 1",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 1,
+      "bass": 0,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-16T00:00:00.000Z",
+    "lastFeatured": "2026-09-16T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "octavegroove.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_160.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/octavegroove.mp3",
+    "shop": false,
+    "sid": "sid_160",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",

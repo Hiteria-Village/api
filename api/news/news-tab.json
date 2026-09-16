@@ -1,14 +1,14 @@
 {
   "items": [
     {
-      "title": "Mastodon Tracks | Music Bundle!",
-      "description": "Grab this new bundle containing 3 Mastodon tracks, one being an entirely new track!",
-      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/mastodonbundle.png"
+      "title": "Navigating | New Track!",
+      "description": "Check out the new track 'Navigating' by Twenty One Pilots!",
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/navigatingpromo.png"
     },
     {
-      "title": "New Season Pass!",
-      "description": "Check out Octave season 2! New tracks, new instruments, and more!",
-      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/seasonpass.png"      
+      "title": "Octave Groove | New Track!",
+      "description": "The tutorial has been updated to include our own original track! It's also playable now outside of the tutorial! Check out 'Octave Groove'!",
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octavegroove.png"
     }
   ]
 }      

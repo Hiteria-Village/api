@@ -39,5 +39,9 @@
   {
     "type": "cosmetic",
     "id": "nid_05"
+  },
+  {
+    "type": "music_track",
+    "id": "sid_160"
   }
 ]
