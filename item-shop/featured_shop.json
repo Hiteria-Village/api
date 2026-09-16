@@ -10,6 +10,11 @@
     "layout": "SMALL"
    },
    {
+    "itemRef": "sid_58",
+    "cost": 500,
+    "layout": "SMALL"
+   },
+   {
     "itemRef": "sid_71",
     "cost": 500,
     "layout": "SMALL"
