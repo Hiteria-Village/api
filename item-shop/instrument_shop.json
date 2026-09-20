@@ -22,6 +22,17 @@
     "isNew": true
   },
   {
+    "itemId": "mid_02",
+    "count": 1,
+    "name": "Sonic's Speed Microphone",
+    "description": "Singing with speed.",
+    "cost": 1000,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS",
+    "isNew": true
+  },
+  {
     "itemId": "mid_03",
     "count": 1,
     "name": "Sonia's Keytar",
@@ -53,6 +64,17 @@
     "layout": "NORMAL",
     "buyType": "GEMS",
     "isNew": true
+  },
+  {
+    "itemId": "mid_09",
+    "count": 1,
+    "name": "Golden Microphone",
+    "description": "A microphone made with pure Hiterian gold!",
+    "cost": 5000,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS",
+    "isNew": true    
   },
   {
     "itemId": "mid_10",
