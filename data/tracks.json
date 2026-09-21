@@ -7150,5 +7150,201 @@
       "drums": ""
     },
     "charter": "Equinox"
+  },
+  "intheshadows": {
+    "title": "In the Shadows",
+    "artist": "The Rasmus",
+    "releaseYear": 2003,
+    "cover": "intheshadows.png",
+    "bpm": 106,
+    "key": "D Major",
+    "duration": "4m 13s",
+    "album": "Dead Letters",
+    "genre": "Rock/Metal",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 4,
+      "bass": 1,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-21T00:00:00.000Z",
+    "lastFeatured": "2026-09-21T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "1fr92Vupmcs2vgLMFVQ7rd",
+    "videoUrl": "intheshadows.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_154.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/intheshadows.mp3",
+    "shop": false,
+    "sid": "sid_154",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "murderonmymind": {
+    "title": "Murder On My Mind",
+    "artist": "YNW Melly",
+    "releaseYear": 2018,
+    "cover": "murderonmymind.png",
+    "bpm": 115,
+    "key": "C Minor",
+    "duration": "4m 33s",
+    "album": "I AM YOU",
+    "genre": "Rap/Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 2,
+      "bass": 0,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-21T00:00:00.000Z",
+    "lastFeatured": "2026-09-21T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7eBqSVxrzQZtK2mmgRG6lC",
+    "videoUrl": "murderonmymind.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_156.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/murderonmymind.mp3",
+    "shop": false,
+    "sid": "sid_156",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "sociopath": {
+    "title": "Sociopath",
+    "artist": "Pleasantries",
+    "releaseYear": 2025,
+    "cover": "sociopath.png",
+    "bpm": 95,
+    "key": "D Major",
+    "duration": "5m 57s",
+    "album": "Nobody Will Notice When I'm Gone",
+    "genre": "Indie/Alternative",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 3,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-21T00:00:00.000Z",
+    "lastFeatured": "2026-09-21T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "4eSXZRUCPlvBDlVRimLsk1",
+    "videoUrl": "sociopath.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_149.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/sociopath.mp3",
+    "shop": false,
+    "sid": "sid_149",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "thetimeisnow": {
+    "title": "The Time Is Now",
+    "artist": "John Cena & Tha Trademarc",
+    "releaseYear": 2005,
+    "cover": "thetimeisnow.png",
+    "bpm": 87,
+    "key": "G# Major",
+    "duration": "3m 04s",
+    "album": "WWE: You Can't See Me",
+    "genre": "Rap/Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 1,
+      "bass": 1,
+      "drums": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-21T00:00:00.000Z",
+    "lastFeatured": "2026-09-21T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "1ceQ6GnflE32iovHqnsJQA",
+    "videoUrl": "thetimeisnow.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_157.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/thetimeisnow.mp3",
+    "shop": false,
+    "sid": "sid_157",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
   }
 }

@@ -1412,5 +1412,33 @@
     "displayName": "",
     "color": "#FFFFFF",
     "preview": "oct_sid_160.png"
+  },
+  {
+    "id": "rank_1149",
+    "name": "Sociopath",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_149.png"
+  },
+  {
+    "id": "rank_1154",
+    "name": "In the Shadows",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_154.png"
+  },
+  {
+    "id": "rank_1156",
+    "name": "Murder on My Mind",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_156.png"
+  },
+  {
+    "id": "rank_1157",
+    "name": "The Time is Now",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_157.png"
   }
 ]

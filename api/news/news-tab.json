@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "title": "New Tracks | Coming Soon!",
+      "description": "This week is a little taste at what my life was like before Octave! Dropping Friday.",
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_33.png"
+    },
+    {
       "title": "Navigating | New Track!",
       "description": "Check out the new track 'Navigating' by Twenty One Pilots!",
       "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/navigatingpromo.png"
