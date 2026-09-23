@@ -7346,5 +7346,54 @@
       "drums": ""
     },
     "charter": "Luna"
+  },
+  "masterofhumanity": {
+    "title": "Master Of Humanity (Lord Verity)",
+    "artist": "Horror Skunx",
+    "releaseYear": 2026,
+    "cover": "masterofhumanity.png",
+    "bpm": 104,
+    "key": "G Minor",
+    "duration": "2m 21s",
+    "album": "Master Of Humanity (Lord Verity)",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 0,
+      "bass": 4,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-22T00:00:00.000Z",
+    "lastFeatured": "2026-09-22T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "3qWjq3rURGmsWEfIpAo6IP",
+    "videoUrl": "masterofhumanity.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_163.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/masterofhumanity.mp3",
+    "shop": false,
+    "sid": "sid_163",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }

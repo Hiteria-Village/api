@@ -338,6 +338,16 @@
       "basePrice": 0,
       "items": ["sid_17", "sid_04", "mid_04", "songvoucher"],
       "visualOverride": null
+    },
+    "music_bundle_34": {
+      "name": "Master Of Humanity | Cosmetic Bundle",
+      "description": "",
+      "basePrice": 2000,
+      "items": ["sid_163", "sid_133", "mid_29"],
+      "discount": 30,
+      "ifOwned1": 50,
+      "ifOwned2": 80,
+      "visualOverride": null
     }
   }
 }           

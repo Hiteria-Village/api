@@ -97,5 +97,16 @@
     "layout": "NORMAL",
     "buyType": "GEMS",
     "isNew": true
+  },
+  {
+    "itemId": "mid_29",
+    "count": 1,
+    "name": "Verity Mic",
+    "description": "Master of humanity!",
+    "cost": 1000,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS",
+    "isNew": true
   }
 ]
