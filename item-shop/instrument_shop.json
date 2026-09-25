@@ -7,8 +7,7 @@
     "cost": 1000,
     "layout": "NORMAL",
     "type": "instrument",
-    "buyType": "GEMS",
-    "isNew": true
+    "buyType": "GEMS"
   },
   {
     "itemId": "mid_01",
@@ -18,8 +17,7 @@
     "cost": 1000,
     "type": "instrument",
     "layout": "NORMAL",
-    "buyType": "GEMS",
-    "isNew": true
+    "buyType": "GEMS"
   },
   {
     "itemId": "mid_02",
@@ -29,8 +27,7 @@
     "cost": 1000,
     "type": "instrument",
     "layout": "NORMAL",
-    "buyType": "GEMS",
-    "isNew": true
+    "buyType": "GEMS"
   },
   {
     "itemId": "mid_03",
@@ -40,8 +37,7 @@
     "cost": 1000,
     "type": "instrument",
     "layout": "NORMAL",
-    "buyType": "GEMS",
-    "isNew": true
+    "buyType": "GEMS"
   },
   {
     "itemId": "mid_07",
@@ -51,8 +47,7 @@
     "cost": 5000,
     "type": "instrument",
     "layout": "NORMAL",
-    "buyType": "GEMS",
-    "isNew": true        
+    "buyType": "GEMS"       
   },
   {
     "itemId": "mid_08",
@@ -62,8 +57,7 @@
     "cost": 5000,
     "type": "instrument",
     "layout": "NORMAL",
-    "buyType": "GEMS",
-    "isNew": true
+    "buyType": "GEMS"
   },
   {
     "itemId": "mid_09",
@@ -73,8 +67,7 @@
     "cost": 5000,
     "type": "instrument",
     "layout": "NORMAL",
-    "buyType": "GEMS",
-    "isNew": true    
+    "buyType": "GEMS"   
   },
   {
     "itemId": "mid_10",
@@ -84,8 +77,7 @@
     "cost": 5000,
     "type": "instrument",
     "layout": "NORMAL",
-    "buyType": "GEMS",
-    "isNew": true
+    "buyType": "GEMS"
   },
   {
     "itemId": "mid_11",
@@ -95,8 +87,7 @@
     "cost": 5000,
     "type": "instrument",
     "layout": "NORMAL",
-    "buyType": "GEMS",
-    "isNew": true
+    "buyType": "GEMS"
   },
   {
     "itemId": "mid_29",
