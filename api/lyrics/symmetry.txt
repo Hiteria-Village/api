@@ -1,0 +1,42 @@
+[00:15.41]{agent:v1}There's symmetry in the way you cut me straight in two
+<There's:15.41:15.895455|symmetry:15.895455:16.866364|in:16.380909:17.837273|the:16.866364:18.808182|way:17.351818:19.779091|you:17.837273:20.75|cut:18.322727:21.720909|me:18.808182:22.691818|straight:19.293636:23.662727|in:19.779091:24.633636|two:20.264545:20.75>
+[00:20.75]{agent:v1}Each side reflects the image of a crowd in an empty room
+<Each:20.75:21.151667|side:21.151667:21.955|reflects:21.553333:22.758333|the:21.955:23.561667|image:22.356667:24.365|of:22.758333:25.168333|a:23.16:25.971667|crowd:23.561667:26.775|in:23.963333:27.578333|an:24.365:28.381667|empty:24.766667:29.185|room:25.168333:25.57>
+[00:25.57]{agent:v1}You're a match that can't be lit
+<You're:25.57:26.297143|a:26.297143:27.751429|match:27.024286:29.205714|that:27.751429:30.66|can't:28.478571:32.114286|be:29.205714:33.568571|lit:29.932857:30.66>
+[00:30.66]{agent:v1}Spark a flame, burn infinite
+<Spark:30.66:32.168|a:32.168:35.184|flame,:33.676:38.2|burn:35.184:41.216|infinite:36.692:38.2>
+[00:38.20]{agent:v1}You broke me like a mirror
+<You:38.2:39.125|broke:39.125:40.975|me:40.05:42.825|like:40.975:44.675|a:41.9:46.525|mirror:42.825:43.75>
+[00:43.75]{agent:v1}Seven years keep adding up
+<Seven:43.75:44.648|years:44.648:46.444|keep:45.546:48.24|adding:46.444:50.036|up:47.342:48.24>
+[00:48.24]{agent:v1}Walk barefoot through the glass
+<Walk:48.24:49.304|barefoot:49.304:51.432|through:50.368:53.56|the:51.432:55.688|glass:52.496:53.56>
+[00:53.56]{agent:v1}Not a single cut
+<Not:53.56:55.125|a:55.125:58.255|single:56.69:61.385|cut:58.255:59.82>
+[00:59.82]{agent:v1}Direction, I'm walking on fences
+<Direction,:59.82:60.736|I'm:60.736:62.568|walking:61.652:64.4|on:62.568:66.232|fences:63.484:64.4>
+[01:04.40]{agent:v1}It left me defenseless
+<It:64.4:65.105|left:65.105:66.515|me:65.81:67.925|defenseless:66.515:67.22>
+[01:07.22]{agent:v1}
+[01:18.70]{agent:v1}You broke me like a mirror
+<You:78.7:79.59|broke:79.59:81.37|me:80.48:83.15|like:81.37:84.93|a:82.26:86.71|mirror:83.15:84.04>
+[01:24.04]{agent:v1}Seven years keep adding up
+<Seven:84.04:85.062|years:85.062:87.106|keep:86.084:89.15|adding:87.106:91.194|up:88.128:89.15>
+[01:29.15]{agent:v1}Walk barefoot through the glass
+<Walk:89.15:90.148|barefoot:90.148:92.144|through:91.146:94.14|the:92.144:96.136|glass:93.142:94.14>
+[01:34.14]{agent:v1}Not a single cut
+<Not:94.14:95.115|a:95.115:97.065|single:96.09:99.015|cut:97.065:98.04>
+[01:38.04]{agent:v1}
+[01:44.53]{agent:v1}Balance, I'm losing it and the ground beneath does not exist
+<Balance,:104.53:105.091818|I'm:105.091818:106.215455|losing:105.653636:107.339091|it:106.215455:108.462727|and:106.777273:109.586364|the:107.339091:110.71|ground:107.900909:111.833636|beneath:108.462727:112.957273|does:109.024545:114.080909|not:109.586364:115.204545|exist:110.148182:110.71>
+[01:50.71]{agent:v1}You're a match that can't be lit
+<You're:110.71:111.155714|a:111.155714:112.047143|match:111.601429:112.938571|that:112.047143:113.83|can't:112.492857:114.721429|be:112.938571:115.612857|lit:113.384286:113.83>
+[01:53.83]{agent:v1}Spark a flame, burn infinite
+<Spark:113.83:114.454|a:114.454:115.702|flame,:115.078:116.95|burn:115.702:118.198|infinite:116.326:116.95>
+[01:56.95]{agent:v1}Balance, I'm losing it and the ground beneath does not exist
+<Balance,:116.95:117.471818|I'm:117.471818:118.515455|losing:117.993636:119.559091|it:118.515455:120.602727|and:119.037273:121.646364|the:119.559091:122.69|ground:120.080909:123.733636|beneath:120.602727:124.777273|does:121.124545:125.820909|not:121.646364:126.864545|exist:122.168182:122.69>
+[02:02.69]{agent:v1}You're a match that can't be lit (balance, I'm losing it)
+<You're:122.69:122.933636|a:122.933636:123.420909|match:123.177273:123.908182|that:123.420909:124.395455|can't:123.664545:124.882727|be:123.908182:125.37|lit:124.151818:125.857273|(balance,:124.395455:126.344545|I'm:124.639091:126.831818|losing:124.882727:127.319091|it):125.126364:125.37>
+[02:05.37]{agent:v1}Spark a flame, burn infinite (and the ground beneath does not exist)
+<Spark:125.37:126.250833|a:126.250833:128.0125|flame,:127.131667:129.774167|burn:128.0125:131.535833|infinite:128.893333:133.2975|(and:129.774167:135.059167|the:130.655:136.820833|ground:131.535833:138.5825|beneath:132.416667:140.344167|does:133.2975:142.105833|not:134.178333:143.8675|exist):135.059167:135.94>
