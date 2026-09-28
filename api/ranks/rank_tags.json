@@ -1475,5 +1475,12 @@
     "displayName": "",
     "color": "#FFFFFF",
     "preview": "oct_sid_161.png"
+  },
+  {
+    "id": "rank_1169",
+    "name": "Local Forecast",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_169.png"
   }
 ]

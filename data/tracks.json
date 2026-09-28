@@ -7591,5 +7591,54 @@
       "drums": ""
     },
     "charter": "Equinox"
+  },
+  "localforecast": {
+    "title": "Local Forecast",
+    "artist": "Kevin Macleod",
+    "releaseYear": 2013,
+    "cover": "localforecast.png",
+    "bpm": 93,
+    "key": "F Major",
+    "duration": "2m 50s",
+    "album": "Disco Ultralounge",
+    "genre": "Jazz/Fusion",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 3,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-28T00:00:00.000Z",
+    "lastFeatured": "2026-09-28T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "1nqb3MUd1bK0A4N9XgfLx8",
+    "videoUrl": "localforecast.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_169.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/localforecast.mp3",
+    "shop": false,
+    "sid": "sid_169",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }

@@ -7,6 +7,12 @@
       "tabActiveTime": 1790601540
     },
     {
+      "title": "Local Forecast | New Track!",
+      "description": "Didn't you see the news today? A new track has hit your stores right now! Local Forecast is here!",
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/shockdrop55.png",
+      "tabActiveTime": 1790098769
+    },
+    {
       "title": "Master Of Humanity Bundle | 2 Tracks + Microphone",
       "description": "The Master of Humanity targets Octave next, The Master of Humanity Bundle is now available including: Master Of Humanity, It's Me It's Verity & Verity's Mic",
       "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_master_of_humanity_bundle.png",
