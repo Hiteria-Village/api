@@ -1,16 +1,16 @@
 {
   "items": [
     {
+      "title": "New Tracks | Coming Soon!",
+      "description": "Hopefully you're passionate about Octave! In Return, we'll give you some great tracks this week!",
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_34.png",
+      "tabActiveTime": 1790601540
+    },
+    {
       "title": "Master Of Humanity Bundle | 2 Tracks + Microphone",
       "description": "The Master of Humanity targets Octave next, The Master of Humanity Bundle is now available including: Master Of Humanity, It's Me It's Verity & Verity's Mic",
       "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_master_of_humanity_bundle.png",
       "tabActiveTime": 1790098769
-    },
-    {
-      "title": "New Tracks | Coming Soon!",
-      "description": "This week is a little taste at what my life was like before Octave! Dropping Friday.",
-      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_33.png",
-      "tabActiveTime": 1789997719
     }
   ]
 }      

@@ -7395,5 +7395,201 @@
       "drums": ""
     },
     "charter": "Equinox"
+  },
+  "inreturn": {
+    "title": "In Return",
+    "artist": "Trophy Eyes",
+    "releaseYear": 2014,
+    "cover": "inreturn.png",
+    "bpm": 155,
+    "key": "F# Major",
+    "duration": "2m 58s",
+    "album": "Mend, Move On",
+    "genre": "Punk/Ska/Hardcore",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 4,
+      "bass": 4,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-28T00:00:00.000Z",
+    "lastFeatured": "2026-09-28T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "14mKYpo8OWS8YJ0UReBwON",
+    "videoUrl": "inreturn.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_161.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/inreturn.mp3",
+    "shop": false,
+    "sid": "sid_161",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "passionfruit": {
+    "title": "Passionfruit",
+    "artist": "Drake",
+    "releaseYear": 2017,
+    "cover": "passionfruit.png",
+    "bpm": 112,
+    "key": "B Major",
+    "duration": "4m 06s",
+    "album": "More Life",
+    "genre": "R&B/Soul/Funk",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 1,
+      "bass": 0,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-28T00:00:00.000Z",
+    "lastFeatured": "2026-09-28T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5mCPDVBb16L4XQwDdbRUpz",
+    "videoUrl": "passionfruit.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_150.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/passionfruit.mp3",
+    "shop": false,
+    "sid": "sid_150",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "rotforclout": {
+    "title": "ROT FOR CLOUT",
+    "artist": "Jamie Paige ft. Kasane Teto",
+    "releaseYear": 2024,
+    "cover": "rotforclout.png",
+    "bpm": 172,
+    "key": "D Major",
+    "duration": "3m 50s",
+    "album": "Constant Companions",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 4,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-28T00:00:00.000Z",
+    "lastFeatured": "2026-09-28T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6oodgVJsVi06ocDO9rwNig",
+    "videoUrl": "rotforclout.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_158.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/rotforclout.mp3",
+    "shop": false,
+    "sid": "sid_158",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Ac3, Eezku"
+  },
+  "symmetry": {
+    "title": "Symmetry",
+    "artist": "Title Fight",
+    "releaseYear": 2009,
+    "cover": "symmetry.png",
+    "bpm": 190,
+    "key": "F# Major",
+    "duration": "2m 16s",
+    "album": "The Last Thing You Forget",
+    "genre": "Punk/Ska/Hardcore",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 4,
+      "bass": 4,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-09-28T00:00:00.000Z",
+    "lastFeatured": "2026-09-28T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6oodgVJsVi06ocDO9rwNig",
+    "videoUrl": "symmetry.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_159.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/symmetry.mp3",
+    "shop": false,
+    "sid": "sid_159",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }

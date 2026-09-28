@@ -1447,5 +1447,33 @@
     "displayName": "",
     "color": "#FFFFFF",
     "preview": "oct_sid_163.png"
+  },
+  {
+    "id": "rank_1150",
+    "name": "Passionfruit",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_150.png"
+  },
+  {
+    "id": "rank_1158",
+    "name": "ROT FOR CLOUT",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_158.png"
+  },
+  {
+    "id": "rank_1159",
+    "name": "Symmetry",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_159.png"
+  },
+  {
+    "id": "rank_1161",
+    "name": "In Return",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_161.png"
   }
 ]
