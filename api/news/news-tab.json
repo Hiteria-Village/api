@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "title": "New Tracks | Out Now!",
-      "description": "Hopefully you're passionate about Octave! In Return, we'll give you some great tracks this week!\n\nIf you see this, no you don't",
-      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_34.png",
-      "tabActiveTime": 1790601540
+      "title": "New Tracks | Coming Soon!",
+      "description": "There's a couple of things you might see when Chasing Shadows, one of them being the Midnight Sun that's residing in the Sky. Hopefully it doesn't make the undead Come Alive.\n\nDrop 1: Chasing Shadows & SKY - Wednesday!\nDrop 2: Come Alive & Midnight Sun - Friday!",
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_35.png",
+      "tabActiveTime": 1791205101
     },
     {
-      "title": "Local Forecast | New Track!",
-      "description": "Didn't you see the news today? A new track has hit your stores right now! Local Forecast is here!",
-      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/shockdrop55.png",
-      "tabActiveTime": 1790098769
+      "title": "Week 34 Tracks | Out Now!",
+      "description": "Check out last weeks releases!",
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_34.png",
+      "tabActiveTime": 1790601540
     }
   ]
 }      

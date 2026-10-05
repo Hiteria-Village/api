@@ -1482,5 +1482,33 @@
     "displayName": "",
     "color": "#FFFFFF",
     "preview": "oct_sid_169.png"
+  },
+  {
+    "id": "rank_1153",
+    "name": "Sky",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_153.png"
+  },
+  {
+    "id": "rank_1155",
+    "name": "Come Alive",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_155.png"
+  },
+  {
+    "id": "rank_1162",
+    "name": "Chasing Shadows",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_162.png"
+  },
+  {
+    "id": "rank_1165",
+    "name": "Midnight Sun",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_165.png"
   }
 ]

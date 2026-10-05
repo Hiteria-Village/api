@@ -7640,5 +7640,201 @@
       "drums": ""
     },
     "charter": "Equinox, its11"
+  },
+  "chasingshadows": {
+    "title": "Chasing Shadows",
+    "artist": "bitbreaker",
+    "releaseYear": 2026,
+    "cover": "chasingshadows.png",
+    "bpm": 90,
+    "key": "E Minor",
+    "duration": "3m 52s",
+    "album": "Chasing Shadows",
+    "genre": "Rock/Metal",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 4,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-10-05T00:00:00.000Z",
+    "lastFeatured": "2026-10-05T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0R9y11uaUTnvxHgEbBAlod",
+    "videoUrl": "chasingshadows.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_162.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/chasingshadows.mp3",
+    "shop": false,
+    "sid": "sid_162",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+  "comealive": {
+    "title": "Come Alive",
+    "artist": "Netsky",
+    "releaseYear": 2012,
+    "cover": "comealive.png",
+    "bpm": 173,
+    "key": "A Minor",
+    "duration": "4m 12s",
+    "album": "2",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 3,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-10-05T00:00:00.000Z",
+    "lastFeatured": "2026-10-05T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7JSRgtiKwuyhZBbJ52cFkb",
+    "videoUrl": "comealive.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_155.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/comealive.mp3",
+    "shop": false,
+    "sid": "sid_155",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+  "midnightsun": {
+    "title": "Midnight Sun",
+    "artist": "Zara Larsson",
+    "releaseYear": 2025,
+    "cover": "midnightsun.png",
+    "bpm": 151,
+    "key": "A Major",
+    "duration": "3m 13s",
+    "album": "Midnight Sun",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 2,
+      "bass": 2,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-10-05T00:00:00.000Z",
+    "lastFeatured": "2026-10-05T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "37UCSVSqiPGdR1DijOFyYY",
+    "videoUrl": "midnightsun.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_165.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/midnightsun.mp3",
+    "shop": false,
+    "sid": "sid_165",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "sky": {
+    "title": "SKY",
+    "artist": "1nonly",
+    "releaseYear": 2025,
+    "cover": "sky.png",
+    "bpm": 123,
+    "key": "F Major",
+    "duration": "2m 14s",
+    "album": "ONLY IF I DIE, WOULD I NOT BE",
+    "genre": "Rap/Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 5,
+      "lead": 0,
+      "bass": 0,
+      "drums": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+   "createdAt": "2026-10-05T00:00:00.000Z",
+    "lastFeatured": "2026-10-05T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6NuySv6YGXrEiNQkwmYDTs",
+    "videoUrl": "sky.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_155.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/sky.mp3",
+    "shop": false,
+    "sid": "sid_155",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
   }
 }
