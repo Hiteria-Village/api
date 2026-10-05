@@ -7814,11 +7814,11 @@
     "spotify": "6NuySv6YGXrEiNQkwmYDTs",
     "videoUrl": "sky.mp4",
     "videoPosition": 50,
-    "loading_phrase": "oct_sid_155.png",
+    "loading_phrase": "oct_sid_153.png",
     "rank": true,
     "previewUrl": "/api/assets/audio/sky.mp3",
     "shop": false,
-    "sid": "sid_155",
+    "sid": "sid_153",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
