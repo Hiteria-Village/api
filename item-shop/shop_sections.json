@@ -31,7 +31,7 @@
     {
       "id": "featured",
       "name": "Featured Items",
-      "enabled": false,
+      "enabled": true,
       "resetType": "NEVER",
       "showTimer": false,
       "order": 3,
