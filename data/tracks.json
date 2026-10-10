@@ -1178,8 +1178,8 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 5,
-      "lead": 3,
-      "bass": 1,
+      "lead": 1,
+      "bass": 0,
       "drums": 3,
       "plastic-bass": -1,
       "plastic-drums": -1,
@@ -2560,7 +2560,7 @@
     "bpm": 120,
     "key": "C♯ Major",
     "duration": "2m 0s",
-    "album": "Hiteria's Greatest Hits - Volume 1",
+    "album": "Octave's Greatest Hits - Volume 1",
     "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
@@ -6767,7 +6767,7 @@
     "bpm": 107,
     "key": "C Major",
     "duration": "1m 36s",
-    "album": "Hiteria's Greatest Hits - Volume 1",
+    "album": "Octave's Greatest Hits - Volume 1",
     "genre": "Other",
     "rating": "Everyone",
     "difficulties": {
@@ -7110,7 +7110,7 @@
     "bpm": 100,
     "key": "D♯ Minor",
     "duration": "1m 07s",
-    "album": "Hiteria's Greatest Hits - Volume 1",
+    "album": "Octave's Greatest Hits - Volume 1",
     "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
