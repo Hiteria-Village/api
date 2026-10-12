@@ -1,13 +1,13 @@
 // Music track interface application built on top of fnfestival.co template.
 // All credit to fnfestival.co for the base code; extended with additional features.
 document.addEventListener('DOMContentLoaded', () => {
-  // Preload instrument images
+  // preload instrument images
   const instrumentImages = [
-    '/api/assets/images/vocals.png',
-    '/api/assets/images/lead.png',
-    '/api/assets/images/keys.png',
-    '/api/assets/images/bass.png',
-    '/api/assets/images/drums.png'
+    '/assets/images/vocals.png',
+    '/assets/images/lead.png',
+    '/assets/images/keys.png',
+    '/assets/images/bass.png',
+    '/assets/images/drums.png'
   ];
   
   instrumentImages.forEach(src => {
@@ -77,40 +77,11 @@ document.addEventListener('DOMContentLoaded', () => {
   };
 
   const audio = new Audio();
-  // Initialize volume from localStorage or default to 50%
+  // initialize audio from localstorage
   const storedVolume = localStorage.getItem('audioVolume');
   const initialVolume = storedVolume ? parseInt(storedVolume, 10) : 50;
   audio.volume = initialVolume / 100;
   audio.muted = state.isMuted;
-
-  // Volume Control Functions
-  const volumeControl = {
-    setVolume: (volume) => {
-      const volumeValue = Math.max(0, Math.min(volume / 100, 1));
-      audio.volume = volumeValue;
-      localStorage.setItem('audioVolume', volume);
-      
-      // Update volume slider and percentage display
-      // Direct mapping: higher slider value = higher volume
-      if (elements.volumeSlider) elements.volumeSlider.value = volume;
-      if (elements.volumePercentage) elements.volumePercentage.textContent = `${volume}%`;
-    },
-    
-    getStoredVolume: () => {
-      const storedVolume = localStorage.getItem('audioVolume');
-      return storedVolume ? parseInt(storedVolume, 10) : 50; // Default to 50%
-    },
-    
-    initializeVolume: () => {
-      const volume = volumeControl.getStoredVolume();
-      volumeControl.setVolume(volume);
-    }
-  };
-
-  // Initialize volume control
-  setTimeout(() => {
-    volumeControl.initializeVolume();
-  }, 100);
 
   let player;
   let intersectionObserver;
@@ -170,26 +141,39 @@ document.addEventListener('DOMContentLoaded', () => {
       return validDiffs.reduce((sum, d) => sum + d, 0) / validDiffs.length;
     },
     preloadImages: (tracks) => {
-      const imageUrls = new Set();
+      if (!tracks || !tracks.length) return;
       
-      // Collect all unique cover images
-      tracks.forEach(track => {
+      const initialBatch = tracks.slice(0, 12);
+      initialBatch.forEach(track => {
         if (track.cover) {
-          imageUrls.add(`/api/assets/covers/${track.cover}`);
-        }
-        // Also preload rank images if they exist
-        if (track.rank === true && track.loading_phrase) {
-          imageUrls.add(`/api/ranks/rank_previews/${track.loading_phrase}`);
+          const img = new Image();
+          img.src = `/api/assets/covers/${track.cover}`;
         }
       });
       
-      // Preload each image
-      imageUrls.forEach(url => {
-        const img = new Image();
-        img.src = url;
-      });
+      const remainingTracks = tracks.slice(12);
+      let index = 0;
+      const preloadNext = () => {
+        if (index >= remainingTracks.length) return;
+        const track = remainingTracks[index++];
+        if (track?.cover) {
+          const img = new Image();
+          img.src = `/api/assets/covers/${track.cover}`;
+        }
+        if (index < remainingTracks.length) {
+          if ('requestIdleCallback' in window) {
+            window.requestIdleCallback(preloadNext, { timeout: 1000 });
+          } else {
+            setTimeout(preloadNext, 100);
+          }
+        }
+      };
       
-      console.log(`Preloading ${imageUrls.size} images...`);
+      if ('requestIdleCallback' in window) {
+        window.requestIdleCallback(preloadNext, { timeout: 2000 });
+      } else {
+        setTimeout(preloadNext, 500);
+      }
     },
   };
 
@@ -213,10 +197,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
   };
 
-  // Audio Handling
+  // audio handling
   const audioModule = {
     fadeInAudio: (audio, targetVolume, duration) => {
       if (state.fadeInRequestId) cancelAnimationFrame(state.fadeInRequestId);
+      if (state.fadeOutRequestId) cancelAnimationFrame(state.fadeOutRequestId);
       audio.volume = 0;
       const startTime = performance.now();
       const step = (currentTime) => {
@@ -234,6 +219,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     fadeOutAudio: (audio, duration) => {
       return new Promise((resolve) => {
+        if (state.fadeInRequestId) cancelAnimationFrame(state.fadeInRequestId);
         if (state.fadeOutRequestId) cancelAnimationFrame(state.fadeOutRequestId);
         const startVolume = audio.volume;
         const startTime = performance.now();
@@ -253,20 +239,40 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     },
     setVolume: (volume) => {
+      if (state.fadeInRequestId) {
+        cancelAnimationFrame(state.fadeInRequestId);
+        state.fadeInRequestId = null;
+      }
+      if (state.fadeOutRequestId) {
+        cancelAnimationFrame(state.fadeOutRequestId);
+        state.fadeOutRequestId = null;
+      }
+      state.isFadingOut = false;
+
       const volumeValue = Math.max(0, Math.min(volume / 100, 1));
       audio.volume = volumeValue;
       localStorage.setItem('audioVolume', volume);
-      
-      // Update volume slider and percentage display
+
+      if (volume === 0) {
+        state.isMuted = true;
+        audio.muted = true;
+        localStorage.setItem('isMuted', 'true');
+        uiModule.updateMuteIcon();
+      } else if (state.isMuted) {
+        state.isMuted = false;
+        audio.muted = false;
+        localStorage.setItem('isMuted', 'false');
+        uiModule.updateMuteIcon();
+      }
+
       const volumeSlider = document.getElementById('volumeSlider');
       const volumePercentage = document.getElementById('volumePercentage');
-      // Direct mapping for rotated slider (rotation handles orientation)
       if (volumeSlider) volumeSlider.value = volume;
       if (volumePercentage) volumePercentage.textContent = `${volume}%`;
     },
     getStoredVolume: () => {
       const storedVolume = localStorage.getItem('audioVolume');
-      return storedVolume ? parseInt(storedVolume, 10) : 50; // Default to 50%
+      return storedVolume ? parseInt(storedVolume, 10) : 50;
     },
     initializeVolume: () => {
       const volume = audioModule.getStoredVolume();
@@ -274,93 +280,114 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     playPreview: (previewUrl, startTime, endTime) => {
       audio.ontimeupdate = null;
-      
+      audio.onended = null;
+
       const startMs = startTime ? Number(startTime) : 0;
       const endMs = endTime ? Number(endTime) : 0;
+      const startSec = startMs > 0 ? startMs / 1000 : 0;
 
-      // Clear any existing replay timeout
       if (state.replayTimeoutId) {
         clearTimeout(state.replayTimeoutId);
         state.replayTimeoutId = null;
       }
+      if (state.fadeInRequestId) {
+        cancelAnimationFrame(state.fadeInRequestId);
+        state.fadeInRequestId = null;
+      }
+      if (state.fadeOutRequestId) {
+        cancelAnimationFrame(state.fadeOutRequestId);
+        state.fadeOutRequestId = null;
+      }
+      state.isFadingOut = false;
 
-      const playSegment = () => {
-        if (!state.isMuted && elements.videoPopup.style.display !== 'block') {
-          // Play muted first (always allowed), then unmute — works around autoplay policy
-          const wasMuted = audio.muted;
-          audio.muted = true;
-          audio.play()
-            .then(() => {
-              audio.muted = wasMuted;
-              console.log(`Audio playing: ${previewUrl} from ${startMs}ms`);
-              if (state.fadeInAudioEnabled) {
-                const targetVolume = audioModule.getStoredVolume() / 100;
-                audioModule.fadeInAudio(audio, targetVolume, 3000);
-              } else {
-                audio.volume = audioModule.getStoredVolume() / 100;
-              }
-              document.querySelector('.autoplay-notice')?.remove();
-            })
-            .catch((error) => {
-              console.error('Audio playback failed (likely browser autoplay policy):', error);
-            });
+      const startPlayback = () => {
+        if (state.isMuted || elements.videoPopup?.style.display === 'block') {
+          audio.pause();
+          return;
         }
-        
-        // Set up end time listener with fade out and replay
+
+        const targetVolume = audioModule.getStoredVolume() / 100;
+        audio.muted = false;
+        if (state.fadeInAudioEnabled) {
+          audioModule.fadeInAudio(audio, targetVolume, 3000);
+        } else {
+          audio.volume = targetVolume;
+        }
+
+        const playPromise = audio.play();
+        if (playPromise !== undefined) {
+          playPromise.catch((error) => {
+            console.warn('Audio playback waiting for interaction:', error);
+            const resumeOnInteraction = () => {
+              document.removeEventListener('click', resumeOnInteraction);
+              if (!state.isMuted && elements.modal?.style.display !== 'none') {
+                audio.play().catch(() => {});
+              }
+            };
+            document.addEventListener('click', resumeOnInteraction, { once: true });
+          });
+        }
+      };
+
+      const setupEndHandling = () => {
         if (endMs > 0) {
+          const endSec = endMs / 1000;
           const fadeOutDuration = 2000;
-          const fadeOutStartTime = (endMs / 1000) - (fadeOutDuration / 1000);
-          
+          const fadeOutStartTime = Math.max(startSec, endSec - (fadeOutDuration / 1000));
+
           audio.ontimeupdate = () => {
             const currentTime = audio.currentTime;
-            
-            if (currentTime >= fadeOutStartTime && currentTime < endMs / 1000 && !state.isFadingOut) {
+            if (currentTime >= fadeOutStartTime && currentTime < endSec && !state.isFadingOut) {
               state.isFadingOut = true;
-              console.log('Starting fade out at', currentTime);
               audioModule.fadeOutAudio(audio, fadeOutDuration).then(() => {
                 audio.pause();
                 state.isFadingOut = false;
-                
-                console.log('Waiting 5 seconds before replay...');
                 state.replayTimeoutId = setTimeout(() => {
-                  if (!state.isMuted && elements.videoPopup.style.display !== 'block') {
-                    console.log('Replaying audio...');
-                    audio.currentTime = startMs / 1000;
-                    audio.play()
-                      .then(() => {
-                        if (state.fadeInAudioEnabled) {
-                          const targetVolume = audioModule.getStoredVolume() / 100;
-                          audioModule.fadeInAudio(audio, targetVolume, 3000);
-                        }
-                      })
-                      .catch(err => console.error('Replay failed:', err));
+                  if (!state.isMuted && elements.videoPopup?.style.display !== 'block' && elements.modal?.style.display !== 'none') {
+                    audio.currentTime = startSec;
+                    startPlayback();
                   }
-                }, 5000);
+                }, 3000);
               });
             }
-            
-            if (currentTime >= endMs / 1000) {
+            if (currentTime >= endSec) {
               audio.pause();
               audio.ontimeupdate = null;
+            }
+          };
+        } else {
+          // loop preview when song reaches end
+          audio.onended = () => {
+            if (!state.isMuted && elements.videoPopup?.style.display !== 'block' && elements.modal?.style.display !== 'none') {
+              audio.currentTime = startSec;
+              startPlayback();
             }
           };
         }
       };
 
-      if (audio.src !== previewUrl) {
+      state.currentPreviewUrl = previewUrl;
+
+      const isNewSrc = !audio.src.endsWith(previewUrl);
+      if (isNewSrc) {
+        audio.pause();
         audio.src = previewUrl;
-        state.currentPreviewUrl = previewUrl;
-        playSegment();
-        if (startMs > 0) {
-          audio.addEventListener('canplay', () => {
-            audio.currentTime = startMs / 1000;
+        setupEndHandling();
+
+        if (startSec > 0) {
+          audio.addEventListener('loadedmetadata', () => {
+            audio.currentTime = startSec;
+            startPlayback();
           }, { once: true });
+        } else {
+          startPlayback();
         }
       } else {
-        if (startMs > 0) {
-          audio.currentTime = startMs / 1000;
+        setupEndHandling();
+        if (startSec > 0) {
+          audio.currentTime = startSec;
         }
-        playSegment();
+        startPlayback();
       }
     },
     toggleMute: () => {
@@ -368,17 +395,26 @@ document.addEventListener('DOMContentLoaded', () => {
       audio.muted = state.isMuted;
       localStorage.setItem('isMuted', state.isMuted);
       uiModule.updateMuteIcon();
+
       if (state.isMuted) {
         modalModule.stopGlowInterval();
-      } else if (state.currentPreviewUrl && elements.videoPopup.style.display !== 'block') {
-        audio.play()
-          .then(() => {
-            console.log('Audio unmuted:', state.currentPreviewUrl);
+      } else if (state.currentPreviewUrl && elements.videoPopup?.style.display !== 'block') {
+        const targetVolume = audioModule.getStoredVolume() / 100;
+        if (audio.paused) {
+          audio.play().then(() => {
             if (state.fadeInAudioEnabled) {
-              audioModule.fadeInAudio(audio, audio.volume, 3000);
+              audioModule.fadeInAudio(audio, targetVolume, 3000);
+            } else {
+              audio.volume = targetVolume;
             }
-          })
-          .catch((error) => console.error('Audio playback failed:', error));
+          }).catch((error) => console.warn('Audio playback failed on unmute:', error));
+        } else {
+          if (state.fadeInAudioEnabled) {
+            audioModule.fadeInAudio(audio, targetVolume, 3000);
+          } else {
+            audio.volume = targetVolume;
+          }
+        }
       }
     },
   };
@@ -469,6 +505,10 @@ document.addEventListener('DOMContentLoaded', () => {
         return;
       }
       
+      if (!state.previousUrl && !window.location.pathname.startsWith('/songs/')) {
+        state.previousUrl = window.location.pathname + window.location.search;
+      }
+      
       modalModule.renderModal(track);
       
       if (track.identifier) {
@@ -540,16 +580,35 @@ document.addEventListener('DOMContentLoaded', () => {
       if (!loadingPhraseElement) {
         loadingPhraseElement = document.createElement('div');
         loadingPhraseElement.classList.add('modal-loading-phrase');
-        modalContent.appendChild(loadingPhraseElement);
+        const modalBottomSection = modalContent.querySelector('.modal-bottom-section');
+        if (modalBottomSection && modalBottomSection.parentNode) {
+          modalBottomSection.parentNode.insertBefore(loadingPhraseElement, modalBottomSection);
+        } else {
+          modalContent.appendChild(loadingPhraseElement);
+        }
       } else {
         loadingPhraseElement.classList.remove('glow');
       }
       
-      // Check if rank is true to display image instead of text
+      // display rank reward image
       if (rank === true && loading_phrase) {
-        loadingPhraseElement.innerHTML = `<center><img src="/api/ranks/rank_previews/${loading_phrase}" alt="Rank" style="max-width: 100%; max-height: 120px; height: auto; object-fit: contain;" /><br><span class="rank-reward-text">Rank Reward</span></center>`;
+        loadingPhraseElement.style.display = '';
+        loadingPhraseElement.innerHTML = `
+          <div class="rank-reward-container">
+            <img class="rank-reward-image" src="/api/ranks/rank_previews/${loading_phrase}" alt="Rank Reward" onerror="this.style.display='none'" />
+            <span class="rank-reward-text">Rank Reward</span>
+          </div>
+        `;
+      } else if (loading_phrase) {
+        loadingPhraseElement.style.display = '';
+        loadingPhraseElement.innerHTML = `
+          <div class="loading-phrase-text">
+            <span class="loading-phrase-label">Phrase:</span> ${loading_phrase}
+          </div>
+        `;
       } else {
-        loadingPhraseElement.innerHTML = `<center><strong></strong> ${loading_phrase || 'Not available'}</p>`;
+        loadingPhraseElement.innerHTML = '';
+        loadingPhraseElement.style.display = 'none';
       }
 
       if (state.textGlowEnabled && glowTimes?.length && previewUrl) {
@@ -591,8 +650,7 @@ document.addEventListener('DOMContentLoaded', () => {
           modalContent.style.boxShadow = defaultShadow;
           console.log(`Modal glow removed on hover leave for ${track.title}`);
         };
-        modalModule.handleTouchStart = (e) => {
-          e.preventDefault();
+        modalModule.handleTouchStart = () => {
           modalContent.style.boxShadow = glowShadow;
           console.log(`Modal glow triggered on touch for ${track.title}`);
         };
@@ -602,12 +660,16 @@ document.addEventListener('DOMContentLoaded', () => {
         };
         modalContent.addEventListener('mouseenter', modalModule.handleMouseEnter);
         modalContent.addEventListener('mouseleave', modalModule.handleMouseLeave);
-        modalContent.addEventListener('touchstart', modalModule.handleTouchStart, { passive: false });
-        modalContent.addEventListener('touchend', modalModule.handleTouchEnd);
+        modalContent.addEventListener('touchstart', modalModule.handleTouchStart, { passive: true });
+        modalContent.addEventListener('touchend', modalModule.handleTouchEnd, { passive: true });
       }
 
       if (previewUrl) {
         audioModule.playPreview(previewUrl, preview_time, preview_end_time);
+      } else {
+        audio.pause();
+        audio.src = '';
+        state.currentPreviewUrl = '';
       }
 
       if (videoUrl) {
@@ -625,10 +687,24 @@ document.addEventListener('DOMContentLoaded', () => {
         videoElement.playsInline = true; // Important for iOS - prevents fullscreen
         videoElement.setAttribute('webkit-playsinline', 'true'); // Extra iOS compatibility
         videoElement.setAttribute('playsinline', 'true'); // Ensure inline playback
-        videoElement.innerHTML = `<source src="/api/assets/preview/${videoUrl}" type="video/mp4">`;
         videoElement.style.objectFit = 'cover';
         videoElement.style.objectPosition = `center ${positionPercent}%`;
         videoElement.style.transform = `scale(${videoZoom || 1})`;
+        
+        const handleVideoError = () => {
+          videoElement.remove();
+          modalContent.classList.add('no-video');
+        };
+
+        const sourceElement = document.createElement('source');
+        sourceElement.src = `/api/assets/preview/${videoUrl}`;
+        sourceElement.type = 'video/mp4';
+        sourceElement.onerror = handleVideoError;
+
+        videoElement.onerror = handleVideoError;
+        videoElement.addEventListener('error', handleVideoError, true);
+        videoElement.onloadeddata = () => videoElement.classList.add('loaded');
+        videoElement.appendChild(sourceElement);
         
         // Add zoom functionality for mobile
         if (isMobile) {
@@ -643,11 +719,8 @@ document.addEventListener('DOMContentLoaded', () => {
         if (modalRightSection) {
           modalRightSection.appendChild(videoElement);
         }
-        videoElement.onerror = () => {
-          videoElement.remove();
-          modalContent.classList.add('no-video');
-        };
-        videoElement.onloadeddata = () => videoElement.classList.add('loaded');
+      } else {
+        modalContent.classList.add('no-video');
       }
 
       const modalCover = elements.modal.querySelector('#modalCover');
@@ -657,7 +730,23 @@ document.addEventListener('DOMContentLoaded', () => {
       const modalDetails = elements.modal.querySelector('#modalDetails');
       const modalDifficulties = elements.modal.querySelector('#modalDifficulties');
 
-      if (modalCover) modalCover.src = `/api/assets/covers/${cover}`;
+      if (modalCover) {
+        modalCover.onerror = () => { modalCover.src = '/assets/images/logo.png'; };
+        modalCover.src = `/api/assets/covers/${cover}`;
+      }
+
+      if (state.currentTrackIndex >= 0 && state.currentFilteredTracks?.length) {
+        const nextTrack = state.currentFilteredTracks[state.currentTrackIndex + 1];
+        const prevTrack = state.currentFilteredTracks[state.currentTrackIndex - 1];
+        if (nextTrack?.cover) {
+          const img = new Image();
+          img.src = `/api/assets/covers/${nextTrack.cover}`;
+        }
+        if (prevTrack?.cover) {
+          const img = new Image();
+          img.src = `/api/assets/covers/${prevTrack.cover}`;
+        }
+      }
       if (modalTitle) modalTitle.textContent = title;
       if (modalArtist) modalArtist.textContent = artist;
       if (modalDuration) {
@@ -717,7 +806,9 @@ document.addEventListener('DOMContentLoaded', () => {
       state.isFadingOut = false;
       
       if (window.location.pathname.startsWith('/songs/')) {
-        history.replaceState(null, null, '/songs');
+        history.replaceState(null, null, state.previousUrl || '/tracks.html');
+      } else if (window.location.hash) {
+        history.replaceState(null, null, window.location.pathname + window.location.search);
       }
       
       // Clear replay timeout
@@ -747,10 +838,6 @@ document.addEventListener('DOMContentLoaded', () => {
       
       modalModule.stopGlowInterval();
       
-      if (window.location.pathname.startsWith('/songs/')) {
-        history.replaceState(null, null, '/songs');
-      }
-      
       const modalContent = elements.modal.querySelector('.modal-content');
       if (modalContent) {
         modalContent.removeEventListener('mouseenter', modalModule.handleMouseEnter);
@@ -766,6 +853,20 @@ document.addEventListener('DOMContentLoaded', () => {
         const newTrack = state.currentFilteredTracks[newIndex];
         if (newTrack) {
           modalModule.stopGlowInterval();
+          if (state.replayTimeoutId) {
+            clearTimeout(state.replayTimeoutId);
+            state.replayTimeoutId = null;
+          }
+          if (state.fadeInRequestId) {
+            cancelAnimationFrame(state.fadeInRequestId);
+            state.fadeInRequestId = null;
+          }
+          if (state.fadeOutRequestId) {
+            cancelAnimationFrame(state.fadeOutRequestId);
+            state.fadeOutRequestId = null;
+          }
+          state.isFadingOut = false;
+          audio.pause();
           
           if (newTrack.identifier) {
             history.pushState({ track: newTrack.identifier }, '', `/songs/${newTrack.identifier}`);
@@ -1076,8 +1177,7 @@ document.addEventListener('DOMContentLoaded', () => {
       trackElement.addEventListener('click', (e) => {
         e.preventDefault();
         modalModule.openModal(track);
-        if (utils.isMobile() && track.previewUrl) {
-          audioModule.playPreview(track.previewUrl, track.preview_time, track.preview_end_time);
+        if (utils.isMobile()) {
           trackElement.classList.add('mobile-highlight');
           setTimeout(() => trackElement.classList.remove('mobile-highlight'), 300);
         }
@@ -1189,9 +1289,6 @@ document.addEventListener('DOMContentLoaded', () => {
       listItem.addEventListener('click', (e) => {
         e.preventDefault();
         modalModule.openModal(track);
-        if (track.previewUrl) {
-          audioModule.playPreview(track.previewUrl, track.preview_time, track.preview_end_time);
-        }
       });
       
       return listItem;
@@ -1330,9 +1427,10 @@ document.addEventListener('DOMContentLoaded', () => {
       if (!container) return;
       container.innerHTML = '';
       const maxBars = 7;
-      const excludedInstruments = ['plastic-guitar', 'plastic-drums', 'plastic-bass'];
-      Object.entries(difficulties || {}).forEach(([instrument, level]) => {
-        if (!excludedInstruments.includes(instrument)) {
+      const instrumentOrder = ['vocals', 'lead', 'bass', 'drums'];
+      instrumentOrder.forEach((instrument) => {
+        const level = difficulties ? difficulties[instrument] : undefined;
+        if (level !== undefined && level !== null && level !== -1) {
           const difficultyElement = document.createElement('div');
           difficultyElement.classList.add('difficulty');
           let barsHTML = '';
@@ -1438,7 +1536,15 @@ document.addEventListener('DOMContentLoaded', () => {
         if (e.target === elements.modal) modalModule.closeModal();
       });
       const modalClose = elements.modal.querySelector('.modal-close');
-      if (modalClose) modalClose.addEventListener('click', modalModule.closeModal);
+      if (modalClose) {
+        const handleClose = (e) => {
+          e.preventDefault();
+          e.stopPropagation();
+          modalModule.closeModal();
+        };
+        modalClose.addEventListener('click', handleClose);
+        modalClose.addEventListener('touchend', handleClose);
+      }
       const modalPrev = elements.modal.querySelector('.modal-prev');
       if (modalPrev) modalPrev.addEventListener('click', () => modalModule.navigateModal(-1));
       const modalNext = elements.modal.querySelector('.modal-next');
@@ -1631,8 +1737,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const modalContent = elements.modal.querySelector('.modal-content');
       
       elements.modal.addEventListener('touchstart', (e) => {
-        // Don't interfere with video zoom
-        if (e.target.classList.contains('modal-video')) {
+        if (e.target.classList.contains('modal-video') || e.target.closest('.modal-close')) {
           return;
         }
         
@@ -1652,37 +1757,18 @@ document.addEventListener('DOMContentLoaded', () => {
         const deltaX = touchCurrentX - touchStartX;
         const deltaY = touchCurrentY - touchStartY;
         
-        // Determine swipe direction on first significant movement
-        if (!swipeDirection && (Math.abs(deltaX) > 10 || Math.abs(deltaY) > 10)) {
-          if (Math.abs(deltaX) > Math.abs(deltaY)) {
-            swipeDirection = 'horizontal';
-          } else {
-            swipeDirection = 'vertical';
-          }
+        // only track horizontal swipes so vertical scrolling remains unhindered
+        if (!swipeDirection && Math.abs(deltaX) > 15 && Math.abs(deltaX) > Math.abs(deltaY) * 1.5) {
+          swipeDirection = 'horizontal';
         }
         
-        if (swipeDirection === 'horizontal' && Math.abs(deltaX) > 10) {
+        if (swipeDirection === 'horizontal' && Math.abs(deltaX) > 15) {
           isDragging = true;
-          
-          // Apply smooth transform during horizontal drag
           if (modalContent) {
             const opacity = 1 - Math.abs(deltaX) / 400;
             modalContent.style.transform = `translateX(${deltaX}px)`;
             modalContent.style.opacity = Math.max(0.5, opacity);
             modalContent.style.transition = 'none';
-            modalContent.style.zIndex = '10000'; // Bring to front during swipe
-          }
-        } else if (swipeDirection === 'vertical' && deltaY > 10) {
-          isDragging = true;
-          
-          // Apply smooth transform during vertical drag (only downward)
-          if (modalContent) {
-            const opacity = 1 - deltaY / 300;
-            const scale = 1 - deltaY / 1000;
-            modalContent.style.transform = `translateY(${deltaY}px) scale(${Math.max(0.8, scale)})`;
-            modalContent.style.opacity = Math.max(0.3, opacity);
-            modalContent.style.transition = 'none';
-            modalContent.style.zIndex = '10000'; // Bring to front during swipe
           }
         }
       }, { passive: true });
@@ -1695,38 +1781,20 @@ document.addEventListener('DOMContentLoaded', () => {
         const deltaX = touchEndX - touchStartX;
         const deltaY = touchEndY - touchStartY;
         
-        // Reset transform
         if (modalContent) {
-          modalContent.style.transition = 'transform 0.3s ease, opacity 0.3s ease, z-index 0s';
+          modalContent.style.transition = 'transform 0.3s ease, opacity 0.3s ease';
           modalContent.style.transform = '';
           modalContent.style.opacity = '';
-          
-          // Reset z-index after transition
-          setTimeout(() => {
-            if (modalContent) {
-              modalContent.style.zIndex = '';
-            }
-          }, 300);
         }
         
-        if (isDragging) {
-          if (swipeDirection === 'horizontal' && Math.abs(deltaX) > 80) {
-            // Horizontal swipe - navigate tracks
-            setTimeout(() => {
-              if (deltaX < 0) {
-                // Swipe left - next track
-                modalModule.navigateModal(1);
-              } else {
-                // Swipe right - previous track
-                modalModule.navigateModal(-1);
-              }
-            }, 100);
-          } else if (swipeDirection === 'vertical' && deltaY > 100) {
-            // Vertical swipe down - close modal
-            setTimeout(() => {
-              modalModule.closeModal();
-            }, 100);
-          }
+        if (isDragging && swipeDirection === 'horizontal' && Math.abs(deltaX) > 80 && Math.abs(deltaX) > Math.abs(deltaY) * 1.5) {
+          setTimeout(() => {
+            if (deltaX < 0) {
+              modalModule.navigateModal(1);
+            } else {
+              modalModule.navigateModal(-1);
+            }
+          }, 100);
         }
         
         touchStartX = 0;

@@ -8,31 +8,30 @@
     <meta property="og:title" content="Hiteria Village">
     <meta property="og:description" content="Browse and discover Octave tracks">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://hiteriavillage.com/api/assets/images/logo.png">
+    <meta property="og:image" content="https://hiteriavillage.com/assets/images/logo.png">
     <meta property="og:url" content="http://hiteria-village.github.io/hiteriavillage.github.io/tracks.html">
     <meta property="og:site_name" content="Hiteria Village">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Hiteria Village">
     <meta name="twitter:description" content="Browse and discover Octave tracks">
-    <meta name="twitter:image" content="https://hiteriavillage.com/api/assets/images/logo.png">
+    <meta name="twitter:image" content="https://hiteriavillage.com/assets/images/logo.png">
     <title>Hiteria Village | Octave Tracks</title>
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
-    <link rel="icon" type="image/png" href="assets/images/logo.png">
-    <link rel="stylesheet" href="assets/css/styles.css?v10">
-    <link rel="stylesheet" href="assets/css/modal-layout.css?v1">
-    <link rel="stylesheet" href="assets/css/volume-controls.css?v1">
-    <link rel="stylesheet" href="assets/css/volume-controls.css?v1">
-    <script type="module" src="assets/js/scripts.js?v10"></script>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" href="/assets/images/logo.png">
+    <link rel="stylesheet" href="/assets/css/styles.css?v11">
+    <link rel="stylesheet" href="/assets/css/modal-layout.css?v11">
+    <link rel="stylesheet" href="/assets/css/volume-controls.css?v11">
+    <script type="module" src="/assets/js/scripts.js?v11"></script>
     <!-- Spotify Player Integration -->
-    <script src="assets/js/spotify-player.js"></script>
-    <script src="assets/js/tracks-integration.js"></script>
+    <script src="/assets/js/spotify-player.js"></script>
+    <script src="/assets/js/tracks-integration.js"></script>
 </head>
 <body>
     <header class="header">
         <div class="container">
             <div class="header-left">
                 <a href="/" id="logo">
-                    <img src="assets/images/logo.png" alt="Logo" width="40" height="40">
+                    <img src="/assets/images/logo.png" alt="Logo" width="40" height="40">
                 </a>
             </div>
             <div class="search-wrapper">
@@ -165,10 +164,16 @@
             <div class="modal-right-section">
                 <!-- Video will be inserted here -->
             </div>
-            <!-- Bottom Section: Difficulties -->
-            <div class="modal-bottom-section">
-                <div id="modalDifficulties" class="modal-difficulties"></div>
+            <div class="modal-footer-wrapper">
+                <!-- loading phrase / rank reward -->
+                <div class="modal-loading-phrase" style="display: none;"></div>
+                <!-- Bottom Section: Difficulties -->
+                <div class="modal-bottom-section">
+                    <div id="modalDifficulties" class="modal-difficulties"></div>
+                </div>
             </div>
+            <!-- bottom spacer for mobile scrolling -->
+            <div class="modal-bottom-spacer"></div>
         </div>
     </div>
     <div id="videoPopup" class="video-popup" style="display: none;">

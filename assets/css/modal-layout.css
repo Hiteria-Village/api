@@ -36,8 +36,14 @@
     z-index: 0;
 }
 
+/* black screen when no preview video */
 .modal-content.no-video {
-    background-color: #333333;
+    background-color: #000000;
+}
+
+.modal-content.no-video .modal-right-section {
+    background: #000000;
+    z-index: 1;
 }
 
 /* Left Section - Track Info */
@@ -156,6 +162,15 @@
 }
 
 /* Bottom Section - Difficulties */
+/* footer wrapper for rank and difficulties */
+.modal-footer-wrapper {
+    display: contents;
+}
+
+.modal-bottom-spacer {
+    display: none;
+}
+
 .modal-bottom-section {
     position: absolute;
     bottom: 30px;
@@ -165,7 +180,7 @@
     justify-content: flex-end;
 }
 
-/* Loading Phrase - Left Side */
+/* loading phrase and rank reward */
 .modal-loading-phrase {
     position: absolute;
     bottom: 30px;
@@ -175,12 +190,63 @@
     border-radius: 12px;
     background-color: rgba(0, 0, 0, 0.85);
     backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
     font-size: 14px;
     color: rgba(255, 255, 255, 0.9);
-    text-align: left;
-    transition: text-shadow 0.3s ease;
+    text-align: center;
+    transition: text-shadow 0.3s ease, transform 0.2s ease;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.7);
-    max-width: 400px;
+    max-width: 360px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-loading-phrase.glow {
+    text-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px #ffffff;
+}
+
+.rank-reward-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+
+.rank-reward-image {
+    max-width: 100%;
+    max-height: 100px;
+    height: auto;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+    filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.6));
+}
+
+.rank-reward-text {
+    display: inline-block;
+    margin-top: 8px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #ffffff;
+    letter-spacing: 0.5px;
+}
+
+.loading-phrase-text {
+    font-size: 14px;
+    line-height: 1.4;
+    color: rgba(255, 255, 255, 0.95);
+    text-align: center;
+}
+
+.loading-phrase-label {
+    font-weight: bold;
+    color: #00ffff;
+    margin-right: 6px;
 }
 
 .modal-difficulties {
@@ -188,6 +254,7 @@
     border-radius: 12px;
     background-color: rgba(0, 0, 0, 0.85);
     backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
     display: flex;
     flex-direction: column;
     flex-shrink: 0;
@@ -253,37 +320,7 @@
     background: rgba(0, 0, 0, 0.9);
 }
 
-/* Loading Phrase - Left side of video area */
-.modal-loading-phrase {
-    position: absolute;
-    bottom: 30px;
-    left: 680px;
-    z-index: 3;
-    padding: 15px 25px;
-    border-radius: 12px;
-    background-color: rgba(0, 0, 0, 0.85);
-    backdrop-filter: blur(15px);
-    font-size: 14px;
-    color: rgba(255, 255, 255, 0.9);
-    text-align: left;
-    transition: text-shadow 0.3s ease;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.7);
-    max-width: 400px;
-}
-
-.modal-loading-phrase.glow {
-    text-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px #ffffff;
-}
-
-.rank-reward-text {
-    display: inline-block;
-    margin-top: 10px;
-    font-size: 1.2rem;
-    font-weight: bold;
-    color: #ffffff;
-}
-
-/* Mobile Responsive */
+/* mobile and tablet */
 @media (max-width: 1024px) {
     .modal-content {
         width: 95%;
@@ -295,11 +332,12 @@
         flex: 0 0 auto;
         max-height: 50%;
         padding: 20px;
+        overflow-y: auto;
     }
 
     .modal-right-section {
         flex: 1;
-        min-height: 300px;
+        min-height: 250px;
     }
 
     .modal-bottom-section {
@@ -313,16 +351,16 @@
     }
 
     .modal-header img {
-        max-width: 200px;
+        max-width: 180px;
         margin: 0 auto;
     }
 
     .modal-loading-phrase {
         left: 20px;
-        bottom: 80px;
-        max-width: 300px;
+        bottom: 20px;
+        max-width: 280px;
         font-size: 13px;
-        padding: 12px 20px;
+        padding: 12px 18px;
     }
 }
 
@@ -330,6 +368,7 @@
     .modal-content {
         width: 100%;
         height: 100vh;
+        height: 100dvh;
         border-radius: 0;
         max-height: none;
         flex-direction: column;
@@ -338,6 +377,8 @@
         transform: none;
         overflow-y: auto;
         overflow-x: hidden;
+        -webkit-overflow-scrolling: touch;
+        padding-bottom: env(safe-area-inset-bottom, 20px);
     }
 
     /* Video as full background on mobile */
@@ -372,35 +413,41 @@
         left: 0;
         width: 100%;
         height: 100%;
-        background: rgba(0, 0, 0, 0.4);
+        background: rgba(0, 0, 0, 0.45);
         backdrop-filter: blur(20px);
         -webkit-backdrop-filter: blur(20px);
         z-index: 2;
         pointer-events: none;
     }
     
-    /* Ensure close button is above blur overlay */
+    /* close button fixed on mobile */
     .modal-close {
-        z-index: 1001 !important;
+        position: fixed !important;
+        top: 15px !important;
+        right: 15px !important;
+        z-index: 2000 !important;
+        pointer-events: auto !important;
+        cursor: pointer !important;
+        display: flex !important;
     }
 
     /* Left section overlays the blur */
     .modal-left-section {
         position: relative;
         z-index: 3;
-        padding: 40px 15px;
-        padding-bottom: 200px;
+        padding: 40px 16px 15px;
         gap: 5px;
         background: transparent;
         backdrop-filter: none;
         flex: 0 0 auto;
         max-height: none;
-        min-height: 100vh;
+        min-height: auto;
         border-right: none;
     }
 
     .modal-header .album-art-wrapper {
-        width: 80%;
+        width: 75%;
+        max-width: 260px;
     }
 
     .modal-header img {
@@ -410,15 +457,15 @@
         object-fit: cover;
     }
 
-    .modal-loading-phrase {
-        position: absolute;
-        left: 15px;
-        bottom: -30px;
-        margin-top: 80px;
-        max-width: 250px;
-        font-size: 12px;
-        padding: 10px 15px;
-        z-index: 4;
+    .track-info {
+        width: 100%;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .button-container {
+        justify-content: center;
+        margin-top: 10px;
     }
 
     .track-info h2 {
@@ -429,31 +476,90 @@
         font-size: 14px;
     }
 
-    .modal-close {
-        top: 10px;
-        right: 10px;
-        font-size: 30px;
-        width: 40px;
-        height: 40px;
-        z-index: 1000;
-        pointer-events: auto;
-        touch-action: manipulation;
-        background: rgba(0, 0, 0, 0.8);
-        display: none;
+    /* footer wrapper for rank and difficulties side by side on mobile */
+    .modal-footer-wrapper {
+        display: flex;
+        flex-direction: row;
+        align-items: stretch;
+        justify-content: center;
+        gap: 12px;
+        margin: 15px 16px 20px;
+        width: calc(100% - 32px);
+        box-sizing: border-box;
+        z-index: 4;
+        position: relative;
+        flex-shrink: 0;
     }
 
-    .modal-bottom-section {
-        position: absolute;
-        bottom: -25px;
-        right: 15px;
-        margin-top: 80px;
+    /* bottom spacer to ensure scrollable empty gap on mobile */
+    .modal-bottom-spacer {
+        display: block;
+        width: 100%;
+        height: 140px;
+        min-height: 140px;
+        flex: 0 0 140px;
+        pointer-events: none;
+    }
+
+    /* rank reward on left */
+    .modal-loading-phrase {
+        position: relative;
+        bottom: auto;
+        left: auto;
+        right: auto;
+        top: auto;
+        margin: 0;
+        flex: 1 1 50%;
+        max-width: 50%;
+        box-sizing: border-box;
+        font-size: 12px;
+        padding: 12px 8px;
         z-index: 4;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 100%;
+    }
+
+    .rank-reward-image {
+        max-height: 55px;
+        max-width: 100%;
+        object-fit: contain;
+    }
+
+    .rank-reward-text {
+        font-size: 0.9rem;
+        margin-top: 6px;
+    }
+
+    /* difficulties pushed to right of rank reward */
+    .modal-bottom-section {
+        position: relative;
+        bottom: auto;
+        right: auto;
+        left: auto;
+        top: auto;
+        margin: 0;
+        flex: 1 1 50%;
+        max-width: 50%;
+        box-sizing: border-box;
+        z-index: 4;
+        display: flex;
+        justify-content: center;
+    }
+
+    .modal-loading-phrase[style*="display: none"] ~ .modal-bottom-section,
+    .modal-loading-phrase:empty ~ .modal-bottom-section {
+        flex: 0 1 auto;
+        max-width: 320px;
     }
 
     .modal-difficulties {
-        gap: 8px;
-        padding: 10px 12px;
-        min-height: 100%;
+        gap: 6px;
+        padding: 10px 10px;
+        width: 100%;
+        box-sizing: border-box;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -461,5 +567,34 @@
 
     .difficulty {
         margin-right: 0;
+    }
+
+    .instrument-icon {
+        width: 24px;
+        height: 24px;
+        margin-right: 6px;
+    }
+
+    .difficulty-bar {
+        height: 16px;
+    }
+
+    .difficulty-bar span {
+        width: 5px;
+        margin-right: 3px;
+    }
+
+    /* black screen on mobile when no preview video */
+    .modal-content.no-video {
+        background-color: #000000;
+    }
+
+    .modal-content.no-video .modal-right-section {
+        background: #000000;
+    }
+
+    .modal-content.no-video::before,
+    .modal-content.no-video::after {
+        display: none;
     }
 }

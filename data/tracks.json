@@ -8081,54 +8081,5 @@
       "drums": ""
     },
     "charter": "Eezku, Equinox"
-  },
-  "saikyostronger": {
-    "title": "SAIKYO STRONGER",
-    "artist": "REDALiCE, USAO",
-    "releaseYear": 2020,
-    "cover": "saikyostronger.png",
-    "bpm": 102,
-    "key": "G Major",
-    "duration": "2m 26s",
-    "album": "SAIKYO STRONGER",
-    "genre": "Dance/Electronic",
-    "rating": "Everyone",
-    "difficulties": {
-      "vocals": 2,
-      "lead": 4,
-      "bass": 3,
-      "drums": 5,
-      "plastic-bass": -1,
-      "plastic-drums": -1,
-      "plastic-guitar": -1
-    },
-   "createdAt": "2026-10-16T00:00:00.000Z",
-    "lastFeatured": "2026-10-16T00:00:00.000Z",
-    "complete": "100%",
-    "spotify": "3DpOXw3jNKAvwQXNgtn1iM",
-    "videoUrl": "saikyostronger.mp4",
-    "videoPosition": 50,
-    "loading_phrase": "oct_sid_180.png",
-    "rank": true,
-    "previewUrl": "/api/assets/audio/saikyostronger.mp3",
-    "shop": false,
-    "sid": "sid_180",
-    "modalShadowColors": {
-      "default": {
-        "color1": "#8a2be2",
-        "color2": "#4b0082"
-      },
-      "hover": {
-        "color1": "#4b0082",
-        "color2": "#8a2be2"
-      }
-    },
-    "youtubeLinks": {
-      "vocals": "",
-      "lead": "",
-      "bass": "",
-      "drums": ""
-    },
-    "charter": "Eezku"
   }
 }

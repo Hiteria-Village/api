@@ -16,7 +16,14 @@ class WeekImagePage {
         this.horizontalScroll = 0;
         this.customText = '';
         this.showCustomText = true;
+        this.showHeaderLogo = true;
+        this.showHeaderTitle = true;
         this.showTrackMeta = true;
+        this.trackTitleColor = '#ffffff';
+        this.trackArtistColor = '#ebebeb';
+        this.gifBgUrl = '';
+        this.gifSize = 100;
+        this.gifWidth = 100;
         this.exportWidth = 1280;
         this.exportHeight = 1280;
         this.init();
@@ -70,6 +77,42 @@ class WeekImagePage {
             });
         });
 
+        // GIF background controls
+        const gifInput = document.getElementById('gif-file-input');
+        if (gifInput) {
+            gifInput.addEventListener('change', (e) => {
+                const file = e.target.files[0];
+                if (file) {
+                    const reader = new FileReader();
+                    reader.onload = (evt) => {
+                        this.gifBgUrl = evt.target.result;
+                        this.updateGifBackground();
+                    };
+                    reader.readAsDataURL(file);
+                }
+            });
+        }
+
+        const gifSizeSlider = document.getElementById('gif-size-slider');
+        if (gifSizeSlider) {
+            gifSizeSlider.addEventListener('input', (e) => {
+                this.gifSize = parseInt(e.target.value);
+                const valSpan = document.getElementById('gif-size-value');
+                if (valSpan) valSpan.textContent = `${this.gifSize}%`;
+                this.updateGifBackground();
+            });
+        }
+
+        const gifWidthSlider = document.getElementById('gif-width-slider');
+        if (gifWidthSlider) {
+            gifWidthSlider.addEventListener('input', (e) => {
+                this.gifWidth = parseInt(e.target.value);
+                const valSpan = document.getElementById('gif-width-value');
+                if (valSpan) valSpan.textContent = `${this.gifWidth}%`;
+                this.updateGifBackground();
+            });
+        }
+
         // Layout options
         document.querySelectorAll('.layout-option').forEach(btn => {
             btn.addEventListener('click', (e) => {
@@ -119,10 +162,44 @@ class WeekImagePage {
             this.toggleCustomText(e.target.checked);
         });
 
+        // Header logo & title toggles
+        const logoToggle = document.getElementById('show-header-logo');
+        if (logoToggle) {
+            logoToggle.addEventListener('change', (e) => {
+                this.toggleHeaderLogo(e.target.checked);
+            });
+        }
+
+        const titleToggle = document.getElementById('show-header-title');
+        if (titleToggle) {
+            titleToggle.addEventListener('change', (e) => {
+                this.toggleHeaderTitle(e.target.checked);
+            });
+        }
+
         // Track meta toggle
         document.getElementById('show-track-meta').addEventListener('change', (e) => {
             this.toggleTrackMeta(e.target.checked);
         });
+
+        // Track text colors
+        const titleColorInput = document.getElementById('track-title-color');
+        if (titleColorInput) {
+            titleColorInput.addEventListener('input', (e) => {
+                this.trackTitleColor = e.target.value;
+                document.documentElement.style.setProperty('--track-title-color', this.trackTitleColor);
+                this.saveSettings();
+            });
+        }
+
+        const artistColorInput = document.getElementById('track-artist-color');
+        if (artistColorInput) {
+            artistColorInput.addEventListener('input', (e) => {
+                this.trackArtistColor = e.target.value;
+                document.documentElement.style.setProperty('--track-artist-color', this.trackArtistColor);
+                this.saveSettings();
+            });
+        }
 
         // Resolution controls
         document.getElementById('export-width-slider').addEventListener('input', (e) => {
@@ -295,14 +372,36 @@ class WeekImagePage {
         document.documentElement.style.setProperty('--horizontal-scroll', `${this.horizontalScroll}px`);
         document.documentElement.style.setProperty('--grid-gap-horizontal', `${this.gridGapHorizontal}px`);
         document.documentElement.style.setProperty('--grid-gap-vertical', `${this.gridGapVertical}px`);
+        document.documentElement.style.setProperty('--track-title-color', this.trackTitleColor);
+        document.documentElement.style.setProperty('--track-artist-color', this.trackArtistColor);
 
+        const validTracks = [];
         this.selectedTracks.forEach(trackId => {
+            if (this.tracks[trackId]) {
+                validTracks.push(trackId);
+            }
+        });
+
+        const totalTracks = validTracks.length;
+        const cols = this.gridColumns || 2;
+
+        validTracks.forEach((trackId, index) => {
             const track = this.tracks[trackId];
             if (!track) return;
 
             const trackCard = document.createElement('div');
             trackCard.className = 'track-card';
             trackCard.dataset.trackId = trackId;
+
+            // When the last row has only 1 track (such as 5 tracks in a 2-column preset/grid),
+            // center it across the columns so it sits right in the middle between where the columns would be.
+            if (cols > 1 && (totalTracks % cols === 1) && index === totalTracks - 1) {
+                trackCard.classList.add('centered-last-track');
+                trackCard.style.gridColumn = `span ${cols}`;
+                trackCard.style.justifySelf = 'center';
+                trackCard.style.marginLeft = 'auto';
+                trackCard.style.marginRight = 'auto';
+            }
 
             trackCard.innerHTML = `
                 <img src="/api/assets/covers/${track.cover}" alt="${track.title}" class="track-cover" onerror="this.src='/api/assets/images/logo.png'">
@@ -437,10 +536,22 @@ class WeekImagePage {
 
         // Show/hide custom controls
         const customControls = document.getElementById('custom-bg-controls');
-        if (bgType === 'custom') {
-            customControls.classList.remove('hidden');
-        } else {
-            customControls.classList.add('hidden');
+        if (customControls) {
+            if (bgType === 'custom') {
+                customControls.classList.remove('hidden');
+            } else {
+                customControls.classList.add('hidden');
+            }
+        }
+
+        // Show/hide GIF controls
+        const gifControls = document.getElementById('gif-bg-controls');
+        if (gifControls) {
+            if (bgType === 'gif') {
+                gifControls.classList.remove('hidden');
+            } else {
+                gifControls.classList.add('hidden');
+            }
         }
 
         this.currentBackground = bgType;
@@ -455,7 +566,22 @@ class WeekImagePage {
 
         if (this.currentBackground === 'custom') {
             this.updateCustomBackground();
+        } else if (this.currentBackground === 'gif') {
+            this.updateGifBackground();
         }
+    }
+
+    updateGifBackground() {
+        const bg = document.getElementById('animated-background');
+        if (!bg) return;
+        if (this.gifBgUrl) {
+            bg.style.setProperty('--gif-bg-url', `url("${this.gifBgUrl}")`);
+        }
+        const effW = (this.gifSize * (this.gifWidth / 100));
+        const effH = this.gifSize;
+        bg.style.setProperty('--gif-bg-width', `${effW}%`);
+        bg.style.setProperty('--gif-bg-height', `${effH}%`);
+        this.saveSettings();
     }
 
     updateCustomBackground() {
@@ -554,6 +680,20 @@ class WeekImagePage {
     toggleCustomText(show) {
         this.showCustomText = show;
         this.updateCustomTextDisplay();
+        this.saveSettings();
+    }
+
+    toggleHeaderLogo(show) {
+        this.showHeaderLogo = show;
+        const logo = document.querySelector('.header-logo');
+        if (logo) logo.style.display = show ? '' : 'none';
+        this.saveSettings();
+    }
+
+    toggleHeaderTitle(show) {
+        this.showHeaderTitle = show;
+        const title = document.querySelector('.weekimage-title');
+        if (title) title.style.display = show ? '' : 'none';
         this.saveSettings();
     }
 
@@ -827,18 +967,20 @@ class WeekImagePage {
                      0, 0, this.exportWidth, this.exportHeight);
 
         // Add logo in the top-left corner
-        try {
-            const logo = document.querySelector('.header-logo');
-            if (logo && logo.complete) {
-                const logoSize = 60; // Size of logo in pixels
-                const logoPadding = 20; // Padding from corner
-                
-                ctx.drawImage(logo, 
-                             logoPadding, logoPadding, 
-                             logoSize, logoSize);
+        if (this.showHeaderLogo) {
+            try {
+                const logo = document.querySelector('.header-logo');
+                if (logo && logo.complete) {
+                    const logoSize = 60; // Size of logo in pixels
+                    const logoPadding = 20; // Padding from corner
+                    
+                    ctx.drawImage(logo, 
+                                 logoPadding, logoPadding, 
+                                 logoSize, logoSize);
+                }
+            } catch (error) {
+                console.warn('Could not add logo to export:', error);
             }
-        } catch (error) {
-            console.warn('Could not add logo to export:', error);
         }
 
         return outputCanvas;
@@ -982,9 +1124,13 @@ class WeekImagePage {
             horizontalScroll: this.horizontalScroll,
             customText: this.customText,
             showCustomText: this.showCustomText,
+            showHeaderLogo: this.showHeaderLogo,
+            showHeaderTitle: this.showHeaderTitle,
             showTrackMeta: this.showTrackMeta,
             exportWidth: this.exportWidth,
             exportHeight: this.exportHeight,
+            trackTitleColor: this.trackTitleColor,
+            trackArtistColor: this.trackArtistColor,
             customColors: {
                 color1: document.getElementById('bg-color1').value,
                 color2: document.getElementById('bg-color2').value
@@ -1092,6 +1238,22 @@ class WeekImagePage {
                 document.getElementById('show-custom-text').checked = settings.showCustomText;
             }
 
+            if (settings.showHeaderLogo !== undefined) {
+                this.showHeaderLogo = settings.showHeaderLogo;
+                const el = document.getElementById('show-header-logo');
+                if (el) el.checked = this.showHeaderLogo;
+                const logo = document.querySelector('.header-logo');
+                if (logo) logo.style.display = this.showHeaderLogo ? '' : 'none';
+            }
+
+            if (settings.showHeaderTitle !== undefined) {
+                this.showHeaderTitle = settings.showHeaderTitle;
+                const el = document.getElementById('show-header-title');
+                if (el) el.checked = this.showHeaderTitle;
+                const title = document.querySelector('.weekimage-title');
+                if (title) title.style.display = this.showHeaderTitle ? '' : 'none';
+            }
+
             if (settings.showTrackMeta !== undefined) {
                 this.showTrackMeta = settings.showTrackMeta;
                 document.getElementById('show-track-meta').checked = settings.showTrackMeta;
@@ -1107,6 +1269,20 @@ class WeekImagePage {
                 this.exportHeight = settings.exportHeight;
                 document.getElementById('export-height-slider').value = settings.exportHeight;
                 document.getElementById('export-height-value').textContent = `${settings.exportHeight}px`;
+            }
+
+            if (settings.trackTitleColor) {
+                this.trackTitleColor = settings.trackTitleColor;
+                const el = document.getElementById('track-title-color');
+                if (el) el.value = this.trackTitleColor;
+                document.documentElement.style.setProperty('--track-title-color', this.trackTitleColor);
+            }
+
+            if (settings.trackArtistColor) {
+                this.trackArtistColor = settings.trackArtistColor;
+                const el = document.getElementById('track-artist-color');
+                if (el) el.value = this.trackArtistColor;
+                document.documentElement.style.setProperty('--track-artist-color', this.trackArtistColor);
             }
 
             this.updateCustomTextDisplay();
