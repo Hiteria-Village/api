@@ -381,13 +381,23 @@
     }, 
     "music_bundle_39": {
       "name": "Octavian Nightmares | Halloween Cosmetic Pack",
-      "description": "",
+      "description": "Trick or Treat!",
       "basePrice": 3500,
       "items": ["mid_27", "mid_25", "mid_28", "mid_26", "mid_31"],
       "discount": 30,
       "ifOwned1": 40,
       "ifOwned2": 60,
       "visualOverride": null      
+    }, 
+    "music_bundle_40": {
+      "name": "Week 36 | Music Pack",
+      "description": "",
+      "basePrice": 2000,
+      "items": ["sid_66", "sid_120", "sid_124", "sid_138", "sid_167", "sid_180"],
+      "discount": 30,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "visualOverride": null
     }
   }
 }      

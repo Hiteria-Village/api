@@ -1510,5 +1510,47 @@
     "displayName": "",
     "color": "#FFFFFF",
     "preview": "oct_sid_165.png"
+  },
+  {
+    "id": "rank_166",
+    "name": "Ninja Is Dead",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_66.png"
+  },
+  {
+    "id": "rank_1120",
+    "name": "Night of Knights",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_120.png"
+  },
+  {
+    "id": "rank_1124",
+    "name": "Airborne Robots",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_124.png"
+  },
+  {
+    "id": "rank_1138",
+    "name": "GOODTEK",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_138.png"
+  },
+  {
+    "id": "rank_1167",
+    "name": "crystallized",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_167.png"
+  },
+  {
+    "id": "rank_1180",
+    "name": "SAIKYO STRONGER",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_180.png"
   }
 ]

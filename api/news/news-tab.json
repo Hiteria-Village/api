@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "title": "New Tracks | Out Now!",
-      "description": "There's a couple of things you might see when Chasing Shadows, one of them being the Midnight Sun that's residing in the Sky. Hopefully it doesn't make the undead Come Alive.\n\nDrop 1: Chasing Shadows & SKY - Wednesday!\nDrop 2: Come Alive & Midnight Sun - Friday!",
-      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_35.png",
-      "tabActiveTime": 1791205101
+      "title": "New Tracks | Coming Soon!",
+      "description": "Check out this weeks new tracks!.\n\nDrop 1: Night of Knights, GOODTEK & SAIKYO STRONGER - Wednesday!\nDrop 2: Ninja Is Dead, Airborne Robots & crystallized - Friday!",
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_36.png",
+      "tabActiveTime": 	1791813600
     },
     {
-      "title": "Week 34 Tracks | Out Now!",
+      "title": "Week 35 Tracks | Out Now!",
       "description": "Check out last weeks releases!",
-      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_34.png",
-      "tabActiveTime": 1790601540
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_35.png",
+      "tabActiveTime": 	1791813600
     }
   ]
 }      
