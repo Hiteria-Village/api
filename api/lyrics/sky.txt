@@ -63,7 +63,7 @@
 [01:23.38]{agent:v1}Fit handmade, this shit ain't thrifted, damn
 <Fit:83.38:83.73|handmade,:83.73:84.43|this:84.08:85.13|shit:84.43:85.83|ain't:84.78:86.53|thrifted,:85.13:87.23|damn:85.48:87.93>
 [01:26.18]{agent:v1}Who ride with ya and who'd stay?
-<Who:86.18:86.37|ride:86.37:86.75|with:86.56:87.13|ya:86.75:87.51|and:86.94:87.89|who'd:87.13:88.27>
+<Who:86.18:86.37|ride:86.37:86.75|with:86.56:87.13|ya:86.75:87.51|and:86.94:87.89|who'd:87.13:88.27|stay?:87.23.33>
 [01:27.89]{agent:v1}Who'd die for ya and who'd wait?
 <Who'd:87.89:88.126667|die:88.126667:88.6|for:88.363333:89.073333|ya:88.6:89.546667|and:88.836667:90.02|who'd:89.073333:90.493333|wait?:89.31:90.966667>
 [01:30.02]{agent:v1}Bullets fly, steady kicking, Bruce Wayne
