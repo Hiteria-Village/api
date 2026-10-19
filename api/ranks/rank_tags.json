@@ -1545,5 +1545,33 @@
     "displayName": "",
     "color": "#FFFFFF",
     "preview": "oct_sid_167.png"
+  },
+  {
+    "id": "rank_142",
+    "name": "Denkoh Sekka",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_42.png"
+  },
+  {
+    "id": "rank_150",
+    "name": "Girl Hell 1999",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_50.png"
+  },
+  {
+    "id": "rank_1168",
+    "name": "Error 4 On The Floor",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_168.png"
+  },
+  {
+    "id": "rank_1170",
+    "name": "Kalifornia",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_170.png"
   }
 ]

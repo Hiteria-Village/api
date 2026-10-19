@@ -917,7 +917,7 @@
       "drums": ""
     },
     "charter": "Equinox"
-  },                                                    
+  },
   "safeandsound": {
     "title": "Safe and Sound",
     "artist": "Capital Cities",
@@ -966,7 +966,7 @@
       "drums": ""
     },
     "charter": "Equinox"
- },
+  },
   "enmore": {
     "title": "Enmore",
     "artist": "Trophy Eyes",
@@ -1263,7 +1263,7 @@
       "drums": ""
     },
     "charter": "Equinox"
- },
+  },
   "turnthemusicup": {
     "title": "Turn The Music Up",
     "artist": "NF",
@@ -1312,7 +1312,7 @@
       "drums": ""
     },
     "charter": "Equinox"
- },
+  },
   "internationallove": {
     "title": "International Love",
     "artist": "Pitbull ft. Chris Brown",
@@ -1362,7 +1362,7 @@
       "drums": ""
     },
     "charter": "Equinox"
- },
+  },
   "psycho": {
     "title": "PSYCHO",
     "artist": "Rxseboy",
@@ -1412,7 +1412,7 @@
       "drums": ""
     },
     "charter": "Equinox"
- },
+  },
   "stayaway": {
     "title": "Stay Away",
     "artist": "Nirvana",
@@ -1441,7 +1441,6 @@
     "videoPosition": 50.0,
     "loading_phrase": "oct_sid_44.png",
     "rank": true,
-
     "previewUrl": "/api/assets/audio/stayaway.mp3",
     "shop": true,
     "sid": "sid_44",
@@ -1462,7 +1461,7 @@
       "drums": ""
     },
     "charter": "Equinox, Eezku"
- },
+  },
   "redo": {
     "title": "Re-Do",
     "artist": "Modern Baseball",
@@ -1511,7 +1510,7 @@
       "drums": ""
     },
     "charter": "Equinox"
- },
+  },
   "whencaniseeyouagain": {
     "title": "When Can I See You Again",
     "artist": "Owl City",
@@ -1561,7 +1560,7 @@
       "drums": ""
     },
     "charter": "WorseAverage"
- },
+  },
   "elevatorjam": {
     "title": "Elevator Jam",
     "artist": "LSPLASH",
@@ -1611,7 +1610,7 @@
       "drums": ""
     },
     "charter": "Equinox"
- },
+  },
   "funnysong": {
     "title": "Funny Song",
     "artist": "Bensound",
@@ -1660,7 +1659,7 @@
       "drums": ""
     },
     "charter": "Equinox"
- },
+  },
   "crabrave": {
     "title": "Crab Rave",
     "artist": "Noisestorm",
@@ -1708,10 +1707,10 @@
       "drums": ""
     },
     "charter": "Eezku"
- },
+  },
   "badpiggiestheme": {
-	  "title": "Bad Piggies Theme",    
-	  "artist": "Ilmari Hakkola",    
+    "title": "Bad Piggies Theme",
+    "artist": "Ilmari Hakkola",
     "releaseYear": 2012,
     "cover": "badpiggiestheme.png",
     "bpm": 156,
@@ -1757,8 +1756,8 @@
       "drums": ""
     },
     "charter": "Equinox"
-},
-"lonedigger": {
+  },
+  "lonedigger": {
     "title": "Lone Digger",
     "artist": "Caravan Palace",
     "releaseYear": 2015,
@@ -1808,10 +1807,10 @@
       "drums": ""
     },
     "charter": "Eezku"
-},
+  },
   "binary": {
-	  "title": "binary",    
-	  "artist": "asc",    
+    "title": "binary",
+    "artist": "asc",
     "releaseYear": 2021,
     "cover": "binary.png",
     "bpm": 124,
@@ -1857,10 +1856,10 @@
       "drums": ""
     },
     "charter": "Eezku"
-},
+  },
   "hotelcalifornia": {
-	  "title": "Hotel California",    
-	  "artist": "The Eagles",    
+    "title": "Hotel California",
+    "artist": "The Eagles",
     "releaseYear": 1976,
     "cover": "hotelcalifornia.png",
     "bpm": 147,
@@ -1907,10 +1906,10 @@
       "drums": ""
     },
     "charter": "Equinox"
-},
+  },
   "oopsididitagain": {
-	  "title": "Oops!...I Did It Again",    
-	  "artist": "Britney Spears",    
+    "title": "Oops!...I Did It Again",
+    "artist": "Britney Spears",
     "releaseYear": 2000,
     "cover": "oopsididitagain.png",
     "bpm": 95,
@@ -1956,10 +1955,10 @@
       "drums": ""
     },
     "charter": "Equinox"
-},
+  },
   "teardrinker": {
-	  "title": "Teardrinker",    
-	  "artist": "Mastodon",    
+    "title": "Teardrinker",
+    "artist": "Mastodon",
     "album": "Hushed and Grim",
     "releaseYear": 2021,
     "cover": "teardrinker.png",
@@ -2006,10 +2005,10 @@
       "drums": ""
     },
     "charter": "Equinox"
-},
+  },
   "gigantium": {
-	  "title": "Gigantium",    
-	  "artist": "Mastodon",    
+    "title": "Gigantium",
+    "artist": "Mastodon",
     "album": "Hushed and Grim",
     "releaseYear": 2021,
     "cover": "teardrinker.png",
@@ -2056,10 +2055,10 @@
       "drums": ""
     },
     "charter": "Equinox"
-},
+  },
   "ninelie": {
-	  "title": "Ninelie (REDSHiFT X Vesuvia Remix)",    
-	  "artist": "Aimer w/ chelly",    
+    "title": "Ninelie (REDSHiFT X Vesuvia Remix)",
+    "artist": "Aimer w/ chelly",
     "releaseYear": 2016,
     "cover": "ninelie.png",
     "bpm": 178,
@@ -2104,10 +2103,10 @@
       "drums": ""
     },
     "charter": "Eezku"
-},
+  },
   "standingnexttoyou": {
-	  "title": "Standing Next To You",    
-	  "artist": "Jung Kook",    
+    "title": "Standing Next To You",
+    "artist": "Jung Kook",
     "album": "GOLDEN",
     "releaseYear": 2023,
     "cover": "standingnexttoyou.png",
@@ -2154,10 +2153,10 @@
       "drums": ""
     },
     "charter": "Eezku"
-},
+  },
   "coldcall": {
-	  "title": "Cold Call",    
-	  "artist": "UpGoofed",    
+    "title": "Cold Call",
+    "artist": "UpGoofed",
     "releaseYear": 2025,
     "cover": "coldcall.png",
     "bpm": 173,
@@ -2203,10 +2202,10 @@
       "drums": ""
     },
     "charter": "Equinox, Eezku"
-},
+  },
   "shesalliwannabe": {
-	  "title": "she's all i wanna be",    
-	  "artist": "Tate McRae",    
+    "title": "she's all i wanna be",
+    "artist": "Tate McRae",
     "album": "i used to think i could fly",
     "releaseYear": 2022,
     "cover": "shesalliwannabe.png",
@@ -2254,9 +2253,9 @@
     },
     "charter": "Luna"
   },
-	"iwalkthisearth": {
-	  "title": "i walk this earth all by myself",    
-	  "artist": "EKKSTACY",    
+  "iwalkthisearth": {
+    "title": "i walk this earth all by myself",
+    "artist": "EKKSTACY",
     "album": "NEGATIVE",
     "releaseYear": 2021,
     "cover": "iwalkthisearth.png",
@@ -2304,9 +2303,9 @@
     },
     "charter": "Luna"
   },
-	"areyoulistening": {
-	  "title": "areyoulistening",    
-	  "artist": "Gunnr",    
+  "areyoulistening": {
+    "title": "areyoulistening",
+    "artist": "Gunnr",
     "album": "silk in shadows",
     "releaseYear": 2025,
     "cover": "areyoulistening.png",
@@ -2354,9 +2353,9 @@
     },
     "charter": "Luna"
   },
-	"highanddry": {
-	  "title": "High and Dry",    
-	  "artist": "Radiohead",  
+  "highanddry": {
+    "title": "High and Dry",
+    "artist": "Radiohead",
     "album": "The Bends",
     "releaseYear": 1995,
     "cover": "highanddry.png",
@@ -2404,9 +2403,9 @@
     },
     "charter": "Equinox, Eezku"
   },
-	"wewontbealone": {
-	  "title": "We Won't Be Alone",    
-	  "artist": "Feint ft. Laura Brehm",    
+  "wewontbealone": {
+    "title": "We Won't Be Alone",
+    "artist": "Feint ft. Laura Brehm",
     "releaseYear": 2015,
     "cover": "wewontbealone.png",
     "bpm": 175,
@@ -2453,9 +2452,9 @@
     },
     "charter": "Eezku"
   },
-	"ainov": {
+  "ainov": {
     "title": "Ai Nov",
-    "artist": "Feryquitous",   
+    "artist": "Feryquitous",
     "album": "ONGEKI Sound Collection 01",
     "releaseYear": 2019,
     "cover": "ainov.png",
@@ -2502,9 +2501,9 @@
     },
     "charter": "Eezku"
   },
-	"livinginabox": {
-	  "title": "Living In A Box",    
-	  "artist": "Living in a Box",    
+  "livinginabox": {
+    "title": "Living In A Box",
+    "artist": "Living in a Box",
     "album": "Living In A Box",
     "releaseYear": 1987,
     "cover": "livinginabox.png",
@@ -2552,9 +2551,9 @@
     },
     "charter": "Eezku"
   },
-	"octavetutorial": {
-	  "title": "Octave Tutorial",    
-	  "artist": "Hiteria Village ft. Jaydenz, Luna & RynTLDR",    
+  "octavetutorial": {
+    "title": "Octave Tutorial",
+    "artist": "Hiteria Village ft. Jaydenz, Luna & RynTLDR",
     "releaseYear": 2026,
     "cover": "octavetutorial.png",
     "bpm": 120,
@@ -2992,7 +2991,7 @@
     },
     "charter": "Luna"
   },
-	"winternights": {
+  "winternights": {
     "title": "winter nights",
     "artist": "Urum ft. SugarDuckey",
     "releaseYear": 2024,
@@ -4316,8 +4315,8 @@
     "charter": "Luna"
   },
   "iguessthisisgoodbye": {
-  "title": "IGuessThisIsGoodbye",
-  "artist": "BONES",
+    "title": "IGuessThisIsGoodbye",
+    "artist": "BONES",
     "releaseYear": 2026,
     "cover": "iguessthisisgoodbye.png",
     "bpm": 106,
@@ -4327,9 +4326,9 @@
     "genre": "Indie/Alternative",
     "rating": "Everyone",
     "difficulties": {
-    "vocals": 2,
-    "bass": 0,
-    "lead": 2
+      "vocals": 2,
+      "bass": 0,
+      "lead": 2
     },
     "createdAt": "2026-06-26T00:00:00.000Z",
     "lastFeatured": "2026-06-26T00:00:00.000Z",
@@ -4359,7 +4358,7 @@
       "drums": ""
     },
     "charter": "Luna"
- },
+  },
   "elevatorjamremix": {
     "title": "Elevator Jam (Remix)",
     "artist": "LSPLASH",
@@ -4371,11 +4370,11 @@
     "duration": "1m 27s",
     "genre": "Dance/Electronic",
     "rating": "Everyone",
-	"difficulties": {
-    "vocals": 2,
-		"drums": 2,
-		"bass": 1,
-		"lead": 2,
+    "difficulties": {
+      "vocals": 2,
+      "drums": 2,
+      "bass": 1,
+      "lead": 2,
       "plastic-bass": -1,
       "plastic-drums": -1,
       "plastic-guitar": -1
@@ -4409,7 +4408,7 @@
       "drums": ""
     },
     "charter": "Equinox"
- },
+  },
   "nerdvsgeek": {
     "title": "Epic Rap Battle: Nerd vs. Geek",
     "artist": "Rhett and Link",
@@ -4420,11 +4419,11 @@
     "duration": "2m 57s",
     "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
-	"difficulties": {
-    "vocals": 4,
-		"drums": 5,
-		"bass": 2,
-		"lead": 3,
+    "difficulties": {
+      "vocals": 4,
+      "drums": 5,
+      "bass": 2,
+      "lead": 3,
       "plastic-bass": -1,
       "plastic-drums": -1,
       "plastic-guitar": -1
@@ -4459,8 +4458,8 @@
     "charter": "Equinox"
   },
   "powerofthesaberblade": {
-	"title": "Power of the Saber Blade",    
-	"artist": "DragonForce",    
+    "title": "Power of the Saber Blade",
+    "artist": "DragonForce",
     "releaseYear": 2023,
     "cover": "powerofthesaberblade.png",
     "bpm": 225,
@@ -4470,10 +4469,10 @@
     "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
-    "vocals": 3,
-		"drums": 6,
-		"bass": 5,
-		"lead": 6,
+      "vocals": 3,
+      "drums": 6,
+      "bass": 5,
+      "lead": 6,
       "plastic-bass": -1,
       "plastic-drums": -1,
       "plastic-guitar": -1
@@ -4508,8 +4507,8 @@
     "charter": "Equinox"
   },
   "beautifulgirls": {
-	"title": "Beautiful Girls",    
-	"artist": "Sean Kingston",    
+    "title": "Beautiful Girls",
+    "artist": "Sean Kingston",
     "releaseYear": 2007,
     "cover": "beautifulgirls.png",
     "bpm": 130,
@@ -4519,10 +4518,10 @@
     "genre": "Pop",
     "rating": "Everyone",
     "difficulties": {
-    "vocals": 3,
-		"drums": 2,
-		"bass": 1,
-		"lead": 2,
+      "vocals": 3,
+      "drums": 2,
+      "bass": 1,
+      "lead": 2,
       "plastic-bass": -1,
       "plastic-drums": -1,
       "plastic-guitar": -1
@@ -4868,7 +4867,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-07-10T00:00:00.000Z",
+    "createdAt": "2026-07-10T00:00:00.000Z",
     "lastFeatured": "2026-07-10T00:00:00.000Z",
     "complete": "100%",
     "spotify": "6QOU0QCxzTrBGeR3LFNvrg",
@@ -4917,7 +4916,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-07-17T00:00:00.000Z",
+    "createdAt": "2026-07-17T00:00:00.000Z",
     "lastFeatured": "2026-07-17T00:00:00.000Z",
     "complete": "100%",
     "spotify": "5wQnmLuC1W7ATsArWACrgW",
@@ -4966,7 +4965,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-07-17T00:00:00.000Z",
+    "createdAt": "2026-07-17T00:00:00.000Z",
     "lastFeatured": "2026-07-17T00:00:00.000Z",
     "complete": "100%",
     "spotify": "7epEb4JHieug0GQUXMP1d9",
@@ -5015,7 +5014,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-07-17T00:00:00.000Z",
+    "createdAt": "2026-07-17T00:00:00.000Z",
     "lastFeatured": "2026-07-17T00:00:00.000Z",
     "complete": "100%",
     "spotify": "2PNeVfPLOg18d3jSYdfWqa",
@@ -5052,7 +5051,7 @@
     "bpm": 90,
     "key": "E Minor",
     "duration": "4m 52s",
-    "album":"GRAN TURISMO 7 ORIGINAL SOUNDTRACK BEST LAP (vol.1)",
+    "album": "GRAN TURISMO 7 ORIGINAL SOUNDTRACK BEST LAP (vol.1)",
     "genre": "Rock/Metal",
     "rating": "Everyone",
     "difficulties": {
@@ -5064,7 +5063,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-07-17T00:00:00.000Z",
+    "createdAt": "2026-07-17T00:00:00.000Z",
     "lastFeatured": "2026-07-17T00:00:00.000Z",
     "complete": "100%",
     "spotify": "271F4ytYcBCH9gx64gFSAw",
@@ -5101,7 +5100,7 @@
     "bpm": 130,
     "key": "C♯ Major",
     "duration": "1m 30s",
-    "album":"Granny Funk",
+    "album": "Granny Funk",
     "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
@@ -5113,7 +5112,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-07-14T00:00:00.000Z",
+    "createdAt": "2026-07-14T00:00:00.000Z",
     "lastFeatured": "2026-07-14T00:00:00.000Z",
     "complete": "100%",
     "spotify": "5ne3aCmxm0QZprcNPJA4bj",
@@ -5162,7 +5161,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-07-24T00:00:00.000Z",
+    "createdAt": "2026-07-24T00:00:00.000Z",
     "lastFeatured": "2026-07-24T00:00:00.000Z",
     "complete": "100%",
     "spotify": "2PNeVfPLOg18d3jSYdfWqa",
@@ -5189,7 +5188,7 @@
       "bass": "",
       "drums": ""
     },
-    "charter": "Eezku"             
+    "charter": "Eezku"
   },
   "triggersequence": {
     "title": "Trigger Sequence",
@@ -5211,7 +5210,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-07-24T00:00:00.000Z",
+    "createdAt": "2026-07-24T00:00:00.000Z",
     "lastFeatured": "2026-07-24T00:00:00.000Z",
     "complete": "100%",
     "spotify": "2PNeVfPLOg18d3jSYdfWqa",
@@ -5260,7 +5259,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-07-24T00:00:00.000Z",
+    "createdAt": "2026-07-24T00:00:00.000Z",
     "lastFeatured": "2026-07-24T00:00:00.000Z",
     "complete": "100%",
     "spotify": "2PNeVfPLOg18d3jSYdfWqa",
@@ -5309,7 +5308,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-07-24T00:00:00.000Z",
+    "createdAt": "2026-07-24T00:00:00.000Z",
     "lastFeatured": "2026-07-24T00:00:00.000Z",
     "complete": "100%",
     "spotify": "2PNeVfPLOg18d3jSYdfWqa",
@@ -5358,7 +5357,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-07-31T00:00:00.000Z",
+    "createdAt": "2026-07-31T00:00:00.000Z",
     "lastFeatured": "2026-07-31T00:00:00.000Z",
     "complete": "100%",
     "spotify": "13P5rwmk2EsoFRIz9UCeh9",
@@ -5407,7 +5406,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-07-31T00:00:00.000Z",
+    "createdAt": "2026-07-31T00:00:00.000Z",
     "lastFeatured": "2026-07-31T00:00:00.000Z",
     "complete": "100%",
     "spotify": "2mz0QjBZrwkNbJh2JaQ4RD",
@@ -5456,7 +5455,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-07-31T00:00:00.000Z",
+    "createdAt": "2026-07-31T00:00:00.000Z",
     "lastFeatured": "2026-07-31T00:00:00.000Z",
     "complete": "100%",
     "spotify": "2WA01dtTyCLuMdyjXv1mxT",
@@ -5505,7 +5504,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-07-31T00:00:00.000Z",
+    "createdAt": "2026-07-31T00:00:00.000Z",
     "lastFeatured": "2026-07-31T00:00:00.000Z",
     "complete": "100%",
     "spotify": "5N58lGJXm4M4NjHhPyLnmo",
@@ -5554,7 +5553,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-07-27T00:00:00.000Z",
+    "createdAt": "2026-07-27T00:00:00.000Z",
     "lastFeatured": "2026-07-27T00:00:00.000Z",
     "complete": "100%",
     "spotify": "",
@@ -5603,7 +5602,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-07T00:00:00.000Z",
+    "createdAt": "2026-08-07T00:00:00.000Z",
     "lastFeatured": "2026-08-07T00:00:00.000Z",
     "complete": "100%",
     "spotify": "5Prz2FPgfHG0qBp5GLH0wm",
@@ -5630,7 +5629,7 @@
       "bass": "",
       "drums": ""
     },
-    "charter": "Luna" 
+    "charter": "Luna"
   },
   "biggirl": {
     "title": "Big Girl (You Are Beautiful)",
@@ -5652,7 +5651,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-07T00:00:00.000Z",
+    "createdAt": "2026-08-07T00:00:00.000Z",
     "lastFeatured": "2026-08-07T00:00:00.000Z",
     "complete": "100%",
     "spotify": "2sY0M3k69oAYz7EOPVRFjo",
@@ -5701,7 +5700,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-07T00:00:00.000Z",
+    "createdAt": "2026-08-07T00:00:00.000Z",
     "lastFeatured": "2026-08-07T00:00:00.000Z",
     "complete": "100%",
     "spotify": "1gihuPhrLraKYrJMAEONyc",
@@ -5728,7 +5727,7 @@
       "bass": "",
       "drums": ""
     },
-    "charter": "Luna"    
+    "charter": "Luna"
   },
   "partybymyself": {
     "title": "Party By Myself",
@@ -5750,7 +5749,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-14T00:00:00.000Z",
+    "createdAt": "2026-08-14T00:00:00.000Z",
     "lastFeatured": "2026-08-14T00:00:00.000Z",
     "complete": "100%",
     "spotify": "0rAXLQ7JgPek5Wll0AXBMb",
@@ -5799,7 +5798,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-14T00:00:00.000Z",
+    "createdAt": "2026-08-14T00:00:00.000Z",
     "lastFeatured": "2026-08-14T00:00:00.000Z",
     "complete": "100%",
     "spotify": "0rAXLQ7JgPek5Wll0AXBMb",
@@ -5848,7 +5847,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-14T00:00:00.000Z",
+    "createdAt": "2026-08-14T00:00:00.000Z",
     "lastFeatured": "2026-08-14T00:00:00.000Z",
     "complete": "100%",
     "spotify": "11gZL0HigsqfzjTHOpdFjE",
@@ -5897,7 +5896,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-14T00:00:00.000Z",
+    "createdAt": "2026-08-14T00:00:00.000Z",
     "lastFeatured": "2026-08-14T00:00:00.000Z",
     "complete": "100%",
     "spotify": "",
@@ -5946,7 +5945,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-14T00:00:00.000Z",
+    "createdAt": "2026-08-14T00:00:00.000Z",
     "lastFeatured": "2026-08-14T00:00:00.000Z",
     "complete": "100%",
     "spotify": "4F4TGsDYacEbw4PLAIyJ2e",
@@ -5995,7 +5994,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-12T00:00:00.000Z",
+    "createdAt": "2026-08-12T00:00:00.000Z",
     "lastFeatured": "2026-08-12T00:00:00.000Z",
     "complete": "100%",
     "spotify": "21egH6MsDL6DHXafR0XzPP",
@@ -6044,7 +6043,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-21T00:00:00.000Z",
+    "createdAt": "2026-08-21T00:00:00.000Z",
     "lastFeatured": "2026-08-21T00:00:00.000Z",
     "complete": "100%",
     "spotify": "4H5DcBcHSt6ReloheY37Yi",
@@ -6093,7 +6092,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-21T00:00:00.000Z",
+    "createdAt": "2026-08-21T00:00:00.000Z",
     "lastFeatured": "2026-08-21T00:00:00.000Z",
     "complete": "100%",
     "spotify": "4uhvMW7ly7tJil31YYscAN",
@@ -6142,7 +6141,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-21T00:00:00.000Z",
+    "createdAt": "2026-08-21T00:00:00.000Z",
     "lastFeatured": "2026-08-21T00:00:00.000Z",
     "complete": "100%",
     "spotify": "0ChYskyEOzopeLqM6usQFw",
@@ -6191,7 +6190,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-21T00:00:00.000Z",
+    "createdAt": "2026-08-21T00:00:00.000Z",
     "lastFeatured": "2026-08-21T00:00:00.000Z",
     "complete": "100%",
     "spotify": "561jH07mF1jHuk7KlaeF0s",
@@ -6240,7 +6239,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-17T00:00:00.000Z",
+    "createdAt": "2026-08-17T00:00:00.000Z",
     "lastFeatured": "2026-08-17T00:00:00.000Z",
     "complete": "100%",
     "spotify": "3ZZC2cg9dwlkZCFUc2dSia",
@@ -6289,7 +6288,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-28T00:00:00.000Z",
+    "createdAt": "2026-08-28T00:00:00.000Z",
     "lastFeatured": "2026-08-28T00:00:00.000Z",
     "complete": "100%",
     "spotify": "5eFxwmqKrHpSQDOEIFYlgY",
@@ -6338,7 +6337,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-28T00:00:00.000Z",
+    "createdAt": "2026-08-28T00:00:00.000Z",
     "lastFeatured": "2026-08-28T00:00:00.000Z",
     "complete": "100%",
     "spotify": "6FqqTni0AEtGXynpMpDm4L",
@@ -6387,7 +6386,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-28T00:00:00.000Z",
+    "createdAt": "2026-08-28T00:00:00.000Z",
     "lastFeatured": "2026-08-28T00:00:00.000Z",
     "complete": "100%",
     "spotify": "5L2l7mI8J1USMzhsmdjat9",
@@ -6436,7 +6435,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-08-28T00:00:00.000Z",
+    "createdAt": "2026-08-28T00:00:00.000Z",
     "lastFeatured": "2026-08-28T00:00:00.000Z",
     "complete": "100%",
     "spotify": "5FeuH4LtGxDWkSkhRG47QT",
@@ -6485,7 +6484,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-04T00:00:00.000Z",
+    "createdAt": "2026-09-04T00:00:00.000Z",
     "lastFeatured": "2026-09-04T00:00:00.000Z",
     "complete": "100%",
     "spotify": "2UDMfB1lZebtTqY22W4JQ1",
@@ -6534,7 +6533,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-04T00:00:00.000Z",
+    "createdAt": "2026-09-04T00:00:00.000Z",
     "lastFeatured": "2026-09-04T00:00:00.000Z",
     "complete": "100%",
     "spotify": "4pawX422Y0FR6oMkyd5p4k",
@@ -6583,7 +6582,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-04T00:00:00.000Z",
+    "createdAt": "2026-09-04T00:00:00.000Z",
     "lastFeatured": "2026-09-04T00:00:00.000Z",
     "complete": "100%",
     "spotify": "3znIACSXPLn3HFCf7moZ28",
@@ -6632,7 +6631,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-04T00:00:00.000Z",
+    "createdAt": "2026-09-04T00:00:00.000Z",
     "lastFeatured": "2026-09-04T00:00:00.000Z",
     "complete": "100%",
     "spotify": "57aU01U6qgLxT9O6yfLpB0",
@@ -6681,7 +6680,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-04T00:00:00.000Z",
+    "createdAt": "2026-09-04T00:00:00.000Z",
     "lastFeatured": "2026-09-04T00:00:00.000Z",
     "complete": "100%",
     "spotify": "5FeuH4LtGxDWkSkhRG47QT",
@@ -6730,7 +6729,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-04T00:00:00.000Z",
+    "createdAt": "2026-09-04T00:00:00.000Z",
     "lastFeatured": "2026-09-04T00:00:00.000Z",
     "complete": "100%",
     "spotify": "4zu9wo2FXoBSsKjO6tRB3R",
@@ -6779,7 +6778,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-03T00:00:00.000Z",
+    "createdAt": "2026-09-03T00:00:00.000Z",
     "lastFeatured": "2026-09-03T00:00:00.000Z",
     "complete": "100%",
     "spotify": "",
@@ -6828,7 +6827,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-04T00:00:00.000Z",
+    "createdAt": "2026-09-04T00:00:00.000Z",
     "lastFeatured": "2026-09-04T00:00:00.000Z",
     "complete": "100%",
     "spotify": "6lvJDlBrtabJWiBlMTGxKs",
@@ -6877,7 +6876,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-04T00:00:00.000Z",
+    "createdAt": "2026-09-04T00:00:00.000Z",
     "lastFeatured": "2026-09-04T00:00:00.000Z",
     "complete": "100%",
     "spotify": "2xIcRy3dBracoAYxxOIh39",
@@ -6926,7 +6925,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-04T00:00:00.000Z",
+    "createdAt": "2026-09-04T00:00:00.000Z",
     "lastFeatured": "2026-09-04T00:00:00.000Z",
     "complete": "100%",
     "spotify": "1fSsWkqjmO1kf5omfCPUnl",
@@ -6975,7 +6974,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-04T00:00:00.000Z",
+    "createdAt": "2026-09-04T00:00:00.000Z",
     "lastFeatured": "2026-09-04T00:00:00.000Z",
     "complete": "100%",
     "spotify": "2DlHlPMa4M17kufBvI2lEN",
@@ -7002,7 +7001,7 @@
       "bass": "",
       "drums": ""
     },
-    "charter": "Luna"    
+    "charter": "Luna"
   },
   "outlikealamb": {
     "title": "Out Like a Lamb",
@@ -7024,7 +7023,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-09T00:00:00.000Z",
+    "createdAt": "2026-09-09T00:00:00.000Z",
     "lastFeatured": "2026-09-09T00:00:00.000Z",
     "complete": "100%",
     "spotify": "64QhhtLUgQpAmvJ4gP4tbq",
@@ -7073,7 +7072,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-16T00:00:00.000Z",
+    "createdAt": "2026-09-16T00:00:00.000Z",
     "lastFeatured": "2026-09-16T00:00:00.000Z",
     "complete": "100%",
     "spotify": "3gy21TwRSP40aUMwcY7Rtq",
@@ -7122,7 +7121,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-16T00:00:00.000Z",
+    "createdAt": "2026-09-16T00:00:00.000Z",
     "lastFeatured": "2026-09-16T00:00:00.000Z",
     "complete": "100%",
     "spotify": "",
@@ -7171,7 +7170,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-21T00:00:00.000Z",
+    "createdAt": "2026-09-21T00:00:00.000Z",
     "lastFeatured": "2026-09-21T00:00:00.000Z",
     "complete": "100%",
     "spotify": "1fr92Vupmcs2vgLMFVQ7rd",
@@ -7220,7 +7219,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-21T00:00:00.000Z",
+    "createdAt": "2026-09-21T00:00:00.000Z",
     "lastFeatured": "2026-09-21T00:00:00.000Z",
     "complete": "100%",
     "spotify": "7eBqSVxrzQZtK2mmgRG6lC",
@@ -7269,7 +7268,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-21T00:00:00.000Z",
+    "createdAt": "2026-09-21T00:00:00.000Z",
     "lastFeatured": "2026-09-21T00:00:00.000Z",
     "complete": "100%",
     "spotify": "4eSXZRUCPlvBDlVRimLsk1",
@@ -7318,7 +7317,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-21T00:00:00.000Z",
+    "createdAt": "2026-09-21T00:00:00.000Z",
     "lastFeatured": "2026-09-21T00:00:00.000Z",
     "complete": "100%",
     "spotify": "1ceQ6GnflE32iovHqnsJQA",
@@ -7367,7 +7366,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-22T00:00:00.000Z",
+    "createdAt": "2026-09-22T00:00:00.000Z",
     "lastFeatured": "2026-09-22T00:00:00.000Z",
     "complete": "100%",
     "spotify": "3qWjq3rURGmsWEfIpAo6IP",
@@ -7416,7 +7415,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-28T00:00:00.000Z",
+    "createdAt": "2026-09-28T00:00:00.000Z",
     "lastFeatured": "2026-09-28T00:00:00.000Z",
     "complete": "100%",
     "spotify": "14mKYpo8OWS8YJ0UReBwON",
@@ -7465,7 +7464,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-28T00:00:00.000Z",
+    "createdAt": "2026-09-28T00:00:00.000Z",
     "lastFeatured": "2026-09-28T00:00:00.000Z",
     "complete": "100%",
     "spotify": "5mCPDVBb16L4XQwDdbRUpz",
@@ -7514,7 +7513,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-28T00:00:00.000Z",
+    "createdAt": "2026-09-28T00:00:00.000Z",
     "lastFeatured": "2026-09-28T00:00:00.000Z",
     "complete": "100%",
     "spotify": "6oodgVJsVi06ocDO9rwNig",
@@ -7563,7 +7562,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-28T00:00:00.000Z",
+    "createdAt": "2026-09-28T00:00:00.000Z",
     "lastFeatured": "2026-09-28T00:00:00.000Z",
     "complete": "100%",
     "spotify": "6oodgVJsVi06ocDO9rwNig",
@@ -7612,7 +7611,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-09-28T00:00:00.000Z",
+    "createdAt": "2026-09-28T00:00:00.000Z",
     "lastFeatured": "2026-09-28T00:00:00.000Z",
     "complete": "100%",
     "spotify": "1nqb3MUd1bK0A4N9XgfLx8",
@@ -7661,7 +7660,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-10-05T00:00:00.000Z",
+    "createdAt": "2026-10-05T00:00:00.000Z",
     "lastFeatured": "2026-10-05T00:00:00.000Z",
     "complete": "100%",
     "spotify": "0R9y11uaUTnvxHgEbBAlod",
@@ -7710,7 +7709,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-10-05T00:00:00.000Z",
+    "createdAt": "2026-10-05T00:00:00.000Z",
     "lastFeatured": "2026-10-05T00:00:00.000Z",
     "complete": "100%",
     "spotify": "7JSRgtiKwuyhZBbJ52cFkb",
@@ -7759,7 +7758,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-10-05T00:00:00.000Z",
+    "createdAt": "2026-10-05T00:00:00.000Z",
     "lastFeatured": "2026-10-05T00:00:00.000Z",
     "complete": "100%",
     "spotify": "37UCSVSqiPGdR1DijOFyYY",
@@ -7808,7 +7807,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-10-05T00:00:00.000Z",
+    "createdAt": "2026-10-05T00:00:00.000Z",
     "lastFeatured": "2026-10-05T00:00:00.000Z",
     "complete": "100%",
     "spotify": "6NuySv6YGXrEiNQkwmYDTs",
@@ -7857,7 +7856,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-10-16T00:00:00.000Z",
+    "createdAt": "2026-10-16T00:00:00.000Z",
     "lastFeatured": "2026-10-16T00:00:00.000Z",
     "complete": "100%",
     "spotify": "1Y7kl5NT8WDmZufWKdElPJ",
@@ -7906,7 +7905,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-10-16T00:00:00.000Z",
+    "createdAt": "2026-10-16T00:00:00.000Z",
     "lastFeatured": "2026-10-16T00:00:00.000Z",
     "complete": "100%",
     "spotify": "6F6DM614sKOZuMFst9xiIb",
@@ -7955,7 +7954,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-10-16T00:00:00.000Z",
+    "createdAt": "2026-10-16T00:00:00.000Z",
     "lastFeatured": "2026-10-16T00:00:00.000Z",
     "complete": "100%",
     "spotify": "0AHTh3J84W1k16P4Fj7v4c",
@@ -8004,7 +8003,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-10-16T00:00:00.000Z",
+    "createdAt": "2026-10-16T00:00:00.000Z",
     "lastFeatured": "2026-10-16T00:00:00.000Z",
     "complete": "100%",
     "spotify": "79odnX3Bm70iRSZc8fHZOj",
@@ -8053,7 +8052,7 @@
       "plastic-drums": -1,
       "plastic-guitar": -1
     },
-   "createdAt": "2026-10-16T00:00:00.000Z",
+    "createdAt": "2026-10-16T00:00:00.000Z",
     "lastFeatured": "2026-10-16T00:00:00.000Z",
     "complete": "100%",
     "spotify": "6HBznW6Doe0w8WBazMavO5",
@@ -8081,5 +8080,201 @@
       "drums": ""
     },
     "charter": "Eezku, Equinox"
+  },
+  "denkohsekka": {
+    "title": "Denkoh Sekka",
+    "artist": "Camellia",
+    "releaseYear": 2025,
+    "cover": "denkohsekka.png",
+    "bpm": 103,
+    "key": "F♯ minor",
+    "duration": "3m 42s",
+    "album": "電光刹歌",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 4,
+      "bass": 4,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-10-23T00:00:00.000Z",
+    "lastFeatured": "2026-10-23T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7fAb4w5YqpHgTBGjCmJpVH",
+    "videoUrl": "denkohsekka.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_42.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/denkohsekka.mp3",
+    "shop": false,
+    "sid": "sid_42",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+  "girlhellnineteenninetynine": {
+    "title": "GIRL HELL 1999",
+    "artist": "femtanyl",
+    "releaseYear": 2023,
+    "cover": "girlhellnineteenninetynine.png",
+    "bpm": 175,
+    "key": "G major",
+    "duration": "2m 25s",
+    "album": "CHASER (EP)",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 4,
+      "bass": 0,
+      "drums": 6,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-10-23T00:00:00.000Z",
+    "lastFeatured": "2026-10-23T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5dptcPc81FCiyCPsNvl0qu",
+    "videoUrl": "girlhellnineteenninetynine.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_50.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/girlhellnineteenninetynine.mp3",
+    "shop": false,
+    "sid": "sid_50",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "errorfouronthefloor": {
+    "title": "Error 4 On The Floor",
+    "artist": "Starjunk 95",
+    "releaseYear": 2026,
+    "cover": "errorfouronthefloor.png",
+    "bpm": 177,
+    "key": "E minor",
+    "duration": "3m 51s",
+    "album": "Industrial Sunset Memories",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 3,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-10-23T00:00:00.000Z",
+    "lastFeatured": "2026-10-23T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7Apml1Un1bjL0tKverMqIZ",
+    "videoUrl": "errorfouronthefloor.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_168.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/errorfouronthefloor.mp3",
+    "shop": false,
+    "sid": "sid_168",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+  "kalifornia": {
+    "title": "Kalifornia",
+    "artist": "The Subways",
+    "releaseYear": 2008,
+    "cover": "kalifornia.png",
+    "bpm": 147,
+    "key": "C minor",
+    "duration": "2m 56s",
+    "album": "All or Nothing",
+    "genre": "Rock/Metal",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "lead": 3,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-10-23T00:00:00.000Z",
+    "lastFeatured": "2026-10-23T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0BjcWYjW3psldLhiMSFCzh",
+    "videoUrl": "kalifornia.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_170.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/kalifornia.mp3",
+    "shop": false,
+    "sid": "sid_170",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }
