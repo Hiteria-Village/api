@@ -1,0 +1,65 @@
+[00:07.46]{agent:v1}We don't get along
+<We:7.461:7.687000000000001|don't:7.687000000000001:7.832000000000001|get:7.832000000000001:8.045|along:8.045:9.058>
+[00:10.12]{agent:v1}We don't get along
+<We:10.123000000000001:10.379|don't:10.379:10.529|get:10.529:10.729|along:10.729:11.687>
+[00:12.85]{agent:v1}We don't get along
+<We:12.852:13.036|don't:13.036:13.266|get:13.266:13.506|along:13.506:14.819>
+[00:14.93]{agent:v1}Mello made it right
+<Mello:14.927:15.295|made:15.295:15.407|it:15.407:15.537|right:15.537:15.864>
+[00:15.86]{agent:v1}
+[00:18.19]{agent:v1}We don't get along
+<We:18.186:18.398999999999997|don't:18.398999999999997:18.588|get:18.588:18.748|along:18.748:19.861>
+[00:20.81]{agent:v1}We don't get along
+<We:20.806:21.067|don't:21.067:21.261|get:21.261:21.493|along:21.493:22.694>
+[00:23.48]{agent:v1}We don't get along
+<We:23.48:23.781|don't:23.781:23.981|get:23.981:24.141|along:24.141:24.809>
+[00:26.19]{agent:v1}We don't get along
+<We:26.19:26.448|don't:26.448:26.632|get:26.632:26.867|along:26.867:27.501>
+[00:27.50]{agent:v1}Looking in the mirror with these words on my tongue
+<Looking:27.501:27.885|in:27.885:28.013|the:28.013:28.219|mirror:28.219:28.552|with:28.552:28.712|these:28.712:28.861|words:28.861:29.179|on:29.179:29.347|my:29.347:29.496|tongue:29.496:30.014>
+[00:30.01]{agent:v1}I've come to this conclusion, we don't get along
+<I've:30.014:30.192|come:30.192:30.342|to:30.342:30.515|this:30.515:30.715|conclusion,:30.715:31.561|we:31.561:31.745|don't:31.745:31.886|get:31.886:32.120999999999995|along:32.120999999999995:33.418>
+[00:32.78]{agent:v1}Saving myself from myself is a job
+<Saving:32.777:33.248999999999995|myself:33.248999999999995:33.684|from:33.684:33.972|myself:33.972:34.417|is:34.417:34.665|a:34.665:34.924|job:34.924:36.04>
+[00:35.35]{agent:v1}But someone's got to do it, so let's just move along
+<But:35.352:35.549|someone's:35.549:35.85|got:35.85:36.078|to:36.078:36.256|do:36.256:36.456|it,:36.456:36.757|so:36.757:36.869|let's:36.869:37.059|just:37.059:37.235|move:37.235:37.568|along:37.568:38.973>
+[00:38.02]{agent:v1}I'm all fucked up, but it's all my fault
+<I'm:38.015:38.234|all:38.234:38.506|fucked:38.506:38.816|up,:38.816:39.099|but:39.099:39.333|it's:39.333:39.533|all:39.533:39.816|my:39.816:40.139|fault:40.139:41.463>
+[00:40.83]{agent:v1}I ain't wanna do it, but temptation is strong
+<I:40.825:41.019|ain't:41.019:41.145|wanna:41.145:41.488|do:41.488:41.785|it,:41.785:41.958|but:41.958:42.217|temptation:42.217:42.558|is:42.558:42.758|strong:42.758:43.683>
+[00:43.50]{agent:v1}Now I'm left in the cold, let my story be told
+<Now:43.496:43.72|I'm:43.72:44.296|left:44.296:44.896|in:44.896:45.138|the:45.138:45.544|cold,:45.544:46.147|let:46.147:46.438|my:46.438:46.814|story:46.814:47.539|be:47.539:48.115|told:48.115:49.514>
+[00:48.85]{agent:v1}Let my story be told
+<Let:48.854:49.126|my:49.126:49.531|story:49.531:50.171|be:50.171:50.787|told:50.787:53.248>
+[00:53.47]{agent:v1}Oh, oh
+<Oh,:53.473:56.212|oh:56.212:58.8>
+[00:58.80]{agent:v1}Pain in my cardiac matches the pain in my brain
+<Pain:58.8:59.488|in:59.488:59.76|my:59.76:60.093|cardiac:60.093:60.827|matches:60.827:61.36|the:61.36:61.555|pain:61.555:62.12|in:62.12:62.371|my:62.371:62.728|brain:62.728:63.585>
+[01:03.22]{agent:v1}Living in the shadows, you know where to find me at
+<Living:63.221:63.579|in:63.579:63.807|the:63.807:63.951|shadows,:63.951:64.509|you:64.509:64.72500000000001|know:64.72500000000001:64.885|where:64.885:65.269|to:65.269:65.44800000000001|find:65.44800000000001:65.696|me:65.696:65.92|at:65.92:66.327>
+[01:06.03]{agent:v1}The place where they don't dare speak good things
+<The:66.03:66.295|place:66.295:66.534|where:66.534:66.758|they:66.758:66.884|don't:66.884:67.174|dare:67.174:67.508|speak:67.508:67.769|good:67.769:68.1|things:68.1:69.198>
+[01:08.49]{agent:v1}Make out session, oh, am I late?
+<Make:68.488:68.844|out:68.844:69.07|session,:69.07:69.92|oh,:69.92:70.165|am:70.165:70.48|I:70.48:70.765|late?:70.765:72.01>
+[01:11.21]{agent:v1}Had another make out session with codeine
+<Had:71.206:71.472|another:71.472:71.88|make:71.88:72.214|out:72.214:72.472|session:72.472:73.067|with:73.067:73.326|codeine:73.326:74.516>
+[01:13.88]{agent:v1}I kiss her, she kiss me to sleep
+<I:73.881:74.086|kiss:74.086:74.483|her,:74.483:74.827|she:74.827:75.145|kiss:75.145:75.478|me:75.478:75.811|to:75.811:76.078|sleep:76.078:76.847>
+[01:16.45]{agent:v1}Having Hollywood dreams since 2016
+<Having:76.453:76.947|Hollywood:76.947:77.523|dreams:77.523:77.873|since:77.873:78.24|2016:78.24:80.773>
+[01:19.57]{agent:v1}We don't get along
+<We:79.575:79.783|don't:79.783:79.972|get:79.972:80.14|along:80.14:80.834>
+[01:20.83]{agent:v1}Looking in the mirror with these words on my tongue
+<Looking:80.834:81.154|in:81.154:81.37|the:81.37:81.578|mirror:81.578:81.845|with:81.845:82.045|these:82.045:82.186|words:82.186:82.461|on:82.461:82.672|my:82.672:82.912|tongue:82.912:83.308>
+[01:23.31]{agent:v1}I've come to this conclusion, we don't get along
+<I've:83.308:83.553|come:83.553:83.745|to:83.745:83.889|this:83.889:84.087|conclusion,:84.087:84.828|we:84.828:84.988|don't:84.988:85.212|get:85.212:85.388|along:85.388:86.784>
+[01:26.05]{agent:v1}Saving myself from myself is a job
+<Saving:86.049:86.617|myself:86.617:87.039|from:87.039:87.265|myself:87.265:87.791|is:87.791:87.983|a:87.983:88.217|job:88.217:89.421>
+[01:28.70]{agent:v1}But someone's got to do it, so let's just move along
+<But:88.699:88.94|someone's:88.94:89.186|got:89.186:89.422|to:89.422:89.607|do:89.607:89.858|it,:89.858:90.134|so:90.134:90.262|let's:90.262:90.467|just:90.467:90.651|move:90.651:90.827|along:90.827:92.211>
+[01:31.32]{agent:v1}I'm all fucked up, but it's all my fault
+<I'm:91.321:91.62|all:91.62:91.911|fucked:91.911:92.153|up,:92.153:92.492|but:92.492:92.727|it's:92.727:92.927|all:92.927:93.177|my:93.177:93.452|fault:93.452:94.792>
+[01:34.00]{agent:v1}I ain't wanna do it, but temptation is strong
+<I:94.005:94.295|ain't:94.295:94.514|wanna:94.514:94.767|do:94.767:95.023|it,:95.023:95.288|but:95.288:95.448|temptation:95.448:96.029|is:96.029:96.264|strong:96.264:96.864>
+[01:36.86]{agent:v1}Now I'm left in the cold, let my story be told
+<Now:96.864:97.144|I'm:97.144:97.446|left:97.446:98.211|in:98.211:98.406|the:98.406:98.846|cold,:98.846:99.53|let:99.53:99.797|my:99.797:100.213|story:100.213:100.88|be:100.88:101.53|told:101.53:103.244>

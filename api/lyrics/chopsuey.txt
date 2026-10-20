@@ -1,0 +1,100 @@
+[00:48.36]{agent:v1}Wake up
+<Wake:48.356:48.52|up:48.52:48.672>
+[00:49.27]{agent:v1}Grab a brush and put a little make up
+<Grab:49.272:49.447|a:49.447:49.547|brush:49.547:49.682|and:49.682:49.799|put:49.799:49.971|a:49.971:50.051|little:50.051:50.271|make:50.271:50.383|up:50.383:50.668>
+[00:51.19]{agent:v1}Hide the scars to fade away the shake-up
+<Hide:51.186:51.384|the:51.384:51.514|scars:51.514:51.643|to:51.643:51.805|fade:51.805:51.93|away:51.93:52.049|the:52.049:52.146|shake-up:52.146:52.417>
+[00:53.13]{agent:v1}Why'd you leave the keys upon the table?
+<Why'd:53.129:53.305|you:53.305:53.419|leave:53.419:53.578|the:53.578:53.698|keys:53.698:53.823|upon:53.823:54.059|the:54.059:54.119|table?:54.119:54.48>
+[00:55.03]{agent:v1}Here you go, create another fable
+<Here:55.03:55.211|you:55.211:55.3|go,:55.3:55.456|create:55.456:55.695|another:55.695:55.956|fable:55.956:56.203>
+[00:56.88]{agent:v1}Grab a brush and put a little make up
+<Grab:56.879:57.054|a:57.054:57.154|brush:57.154:57.29|and:57.29:57.455|put:57.455:57.536|a:57.536:57.667|little:57.667:57.842|make:57.842:58.01|up:58.01:58.188>
+[00:58.85]{agent:v1}Hide the scars to fade away the shake-up
+<Hide:58.846:58.956|the:58.956:59.122|scars:59.122:59.232|to:59.232:59.359|fade:59.359:59.482|away:59.482:59.687|the:59.687:59.814|shake-up:59.814:60.037>
+[01:00.72]{agent:v1}Why'd you leave the keys upon the table?
+<Why'd:60.722:60.863|you:60.863:61.041|leave:61.041:61.18|the:61.18:61.24|keys:61.24:61.367|upon:61.367:61.654|the:61.654:61.758|table?:61.758:61.999>
+[01:02.61]{agent:v1}I don't think you trust
+<I:62.606:62.856|don't:62.856:63.143|think:63.143:63.413|you:63.413:63.66|trust:63.66:64.27>
+[01:05.66]{agent:v1}In my
+<In:65.655:66.121|my:67.534:68.156>
+[01:09.33]{agent:v1}Self-righteous suicide
+<Self-righteous:69.328:70.402|suicide:70.402:72.009>
+[01:13.31]{agent:v1}I cry
+<I:73.309:74.123|cry:75.194:76.317>
+[01:16.81]{agent:v1}When angels deserve to
+<When:76.809:77.064|angels:77.064:77.8|deserve:77.8:78.487|to:78.487:78.957>
+[01:18.96]{agent:v1}Die
+<Die:78.957:82.36>
+[01:22.36]{agent:v1}
+[01:28.13]{agent:v1}Wake up
+<Wake:88.134:88.302|up:88.302:88.605>
+[01:29.02]{agent:v1}Grab a brush and put a little make up
+<Grab:89.015:89.131|a:89.131:89.231|brush:89.231:89.479|and:89.479:89.543|put:89.543:89.665|a:89.665:89.786|little:89.786:90.061|make:90.061:90.167|up:90.167:90.349>
+[01:30.94]{agent:v1}Hide the scars to fade away the–
+<Hide:90.937:91.162|the:91.162:91.285|scars:91.285:91.361|to:91.361:91.528|fade:91.528:91.655|away:91.655:91.799|the–:91.799:91.899>
+[01:32.84]{agent:v1}Why'd you leave the keys upon the table?
+<Why'd:92.842:93.07|you:93.07:93.192|leave:93.192:93.285|the:93.285:93.421|keys:93.421:93.584|upon:93.584:93.764|the:93.764:93.864|table?:93.864:94.163>
+[01:34.80]{agent:v1}Here you go, create another fable
+<Here:94.802:94.893|you:94.893:95.044|go,:95.044:95.122|create:95.122:95.421|another:95.421:95.713|fable:95.713:96.081>
+[01:36.66]{agent:v1}Grab a brush and put a little make up
+<Grab:96.657:96.743|a:96.743:96.899|brush:96.899:97.053|and:97.053:97.176|put:97.176:97.299|a:97.299:97.43|little:97.43:97.639|make:97.639:97.806|up:97.806:97.952>
+[01:38.50]{agent:v1}Hide the scars to fade away the shake-up
+<Hide:98.505:98.74|the:98.74:98.832|scars:98.832:98.982|to:98.982:99.1|fade:99.1:99.216|away:99.216:99.455|the:99.455:99.515|shake-up:99.515:99.888>
+[01:40.45]{agent:v1}Why'd you leave the keys upon the table?
+<Why'd:100.452:100.71|you:100.71:100.81|leave:100.81:100.899|the:100.899:101.039|keys:101.039:101.099|upon:101.099:101.333|the:101.333:101.393|table?:101.393:101.766>
+[01:42.33]{agent:v1}I don't think you trust
+<I:102.329:102.646|don't:102.646:102.931|think:102.931:103.188|you:103.188:103.393|trust:103.393:104.353>
+[01:45.30]{agent:v1}In my
+<In:105.3:105.785|my:107.36:108.289>
+[01:49.06]{agent:v1}Self-righteous suicide
+<Self-righteous:109.056:110.159|suicide:110.159:112.239>
+[01:52.98]{agent:v1}I cry
+<I:112.977:113.877|cry:114.954:116.341>
+[01:56.55]{agent:v1}When angels deserve to die
+<When:116.554:116.861|angels:116.861:117.623|deserve:117.623:118.236|to:118.236:118.756|die:118.756:120.636>
+[02:00.65]{agent:v1}In my
+<In:120.651:122.506|my:122.506:123.89>
+[02:04.21]{agent:v1}Self-righteous suicide
+<Self-righteous:124.209:125.288|suicide:125.288:128.153>
+[02:08.16]{agent:v1}I cry
+<I:128.163:129.889|cry:129.889:131.377>
+[02:11.63]{agent:v1}When angels deserve to die
+<When:131.629:131.836|angels:131.836:132.563|deserve:132.563:133.24|to:133.24:133.68|die:133.68:135.624>
+[02:15.62]{agent:v1}
+[02:23.05]{agent:v1}Father
+<Father:143.05:143.949>
+[02:24.86]{agent:v1}Father
+<Father:144.864:145.86>
+[02:26.73]{agent:v1}Father
+<Father:146.735:147.75>
+[02:28.62]{agent:v1}Father
+<Father:148.618:149.619>
+[02:30.66]{agent:v1}Father, into your hands, I commend my spirit
+<Father,:150.657:151.256|into:151.256:151.566|your:151.566:151.866|hands,:151.866:152.558|I:152.558:153.024|commend:153.024:153.542|my:153.542:153.713|spirit:153.713:154.409>
+[02:34.49]{agent:v1}Father, into your hands
+<Father,:154.489:154.98|into:154.98:155.4|your:155.4:155.684|hands:155.684:156.11>
+[02:36.12]{agent:v1}Why have you forsaken me?
+<Why:156.124:156.544|have:156.544:157.044|you:157.044:157.511|forsaken:157.511:158.946|me?:158.946:159.646>
+[02:39.80]{agent:v1}In your eyes, forsaken me
+<In:159.799:160.408|your:160.408:160.91|eyes,:160.91:161.361|forsaken:161.361:162.761|me:162.761:163.514>
+[02:43.57]{agent:v1}In your thoughts, forsaken me
+<In:163.567:164.124|your:164.124:164.659|thoughts,:164.659:165.166|forsaken:165.166:166.59|me:166.59:167.287>
+[02:47.38]{agent:v1}In your heart, forsaken me, oh
+<In:167.377:167.984|your:167.984:168.411|heart,:168.411:168.929|forsaken:168.929:170.637|me,:171.204:172.113|oh:172.113:172.875>
+[02:52.98]{agent:v1}Trust in my
+<Trust:172.985:174.953|in:174.953:176.795|my:176.795:178.321>
+[02:58.47]{agent:v1}Self-righteous suicide
+<Self-righteous:178.466:179.546|suicide:179.546:182.152>
+[03:02.25]{agent:v1}I cry
+<I:182.247:184.072|cry:184.072:185.531>
+[03:05.62]{agent:v1}When angels deserve to die
+<When:185.623:185.97|angels:185.97:186.618|deserve:186.618:187.334|to:187.334:187.539|die:187.539:189.308>
+[03:09.57]{agent:v1}In my
+<In:189.574:191.316|my:191.316:193.046>
+[03:13.04]{agent:v1}Self-righteous suicide
+<Self-righteous:193.044:194.142|suicide:194.142:196.629>
+[03:16.72]{agent:v1}I cry
+<I:196.715:198.573|cry:198.573:200.136>
+[03:20.23]{agent:v1}When angels deserve to die
+<When:200.228:200.461|angels:200.461:201.161|deserve:201.161:201.792|to:201.792:202.299|die:202.299:205.288>

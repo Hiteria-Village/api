@@ -1,0 +1,91 @@
+[00:29.51]{agent:v1}Monkey see, monkey do
+<Monkey:29.511:29.81|see,:29.81:30.103|monkey:30.103:30.436|do:30.436:30.948>
+[00:32.24]{agent:v1}I'd rather be dead than cool
+<I'd:32.241:32.413|rather:32.413:32.747|be:32.747:33.072|dead:33.072:33.221|than:33.221:33.389|cool:33.389:33.999>
+[00:35.25]{agent:v1}Every line ends in rhyme
+<Every:35.252:35.555|line:35.555:35.961|ends:35.961:36.105|in:36.105:36.254|rhyme:36.254:36.889>
+[00:38.14]{agent:v1}Less is more, love is blind
+<Less:38.144:38.346|is:38.346:38.479|more,:38.479:38.772|love:38.772:38.972|is:38.972:39.14|blind:39.14:39.818>
+[00:40.87]{agent:v1}Stay
+<Stay:40.87:43.114>
+[00:43.12]{agent:v1}Stay away
+<Stay:43.116:43.515|away:43.515:45.869>
+[00:46.03]{agent:v1}Stay away
+<Stay:46.029:46.484|away:46.484:48.798>
+[00:48.94]{agent:v1}Stay away
+<Stay:48.939:49.394|away:49.394:52.858>
+[00:52.72]{agent:v1}Give an inch, take a smile
+<Give:52.72:52.975|an:52.975:53.101|inch,:53.101:53.49|take:53.49:53.668|a:53.668:53.728|smile:53.728:54.339>
+[00:55.60]{agent:v1}Fashion shits, fashion style
+<Fashion:55.599:55.943|shits,:55.943:56.292|fashion:56.292:56.62|style:56.62:57.333>
+[00:58.45]{agent:v1}Throw it out, keep it in
+<Throw:58.453:58.67|it:58.67:58.836|out,:58.836:59.204|keep:59.204:59.385|it:59.385:59.513|in:59.513:59.903>
+[01:01.30]{agent:v1}Have to have poison skin
+<Have:61.3:61.553|to:61.553:61.737|have:61.737:62.07|poison:62.07:62.403|skin:62.403:62.865>
+[01:04.16]{agent:v1}Stay
+<Stay:64.159:66.219>
+[01:06.28]{agent:v1}Stay away
+<Stay:66.279:66.734|away:66.734:69.088>
+[01:09.18]{agent:v1}Stay away
+<Stay:69.179:69.634|away:69.634:71.988>
+[01:12.13]{agent:v1}Stay away
+<Stay:72.129:72.584|away:72.584:76.043>
+[01:16.04]{agent:v1}
+[01:20.42]{agent:v1}I don't know why
+<I:80.417:80.627|don't:80.627:80.811|know:80.811:80.936|why:80.936:81.891>
+[01:21.89]{agent:v1}
+[01:26.19]{agent:v1}I don't know why
+<I:86.191:86.321|don't:86.321:86.505|know:86.505:86.71|why:86.71:87.31>
+[01:27.31]{agent:v1}Stay
+<Stay:87.31:89.462>
+[01:29.49]{agent:v1}Stay away
+<Stay:89.493:89.876|away:89.876:92.27>
+[01:32.39]{agent:v1}Stay away
+<Stay:92.39:92.805|away:92.805:95.159>
+[01:35.31]{agent:v1}Stay away
+<Stay:95.31:95.725|away:95.725:99.267>
+[01:39.12]{agent:v1}Monkey see, monkey do
+<Monkey:99.117:99.416|see,:99.416:99.709|monkey:99.709:100.042|do:100.042:100.554>
+[01:41.99]{agent:v1}I'd rather be dead than cool
+<I'd:101.991:102.14|rather:102.14:102.433|be:102.433:102.788|dead:102.788:102.9|than:102.9:103.105|cool:103.105:103.731>
+[01:44.93]{agent:v1}Every line ends in rhyme
+<Every:104.931:105.21|line:105.21:105.65|ends:105.65:105.8|in:105.8:105.949|rhyme:105.949:106.603>
+[01:47.74]{agent:v1}Less is more, love is blind
+<Less:107.744:107.986|is:107.986:108.119|more,:108.119:108.412|love:108.412:108.652|is:108.652:108.82|blind:108.82:109.474>
+[01:50.59]{agent:v1}Stay
+<Stay:110.592:112.67>
+[01:52.75]{agent:v1}Stay away
+<Stay:112.751:113.126|away:113.126:115.52>
+[01:55.66]{agent:v1}Stay away
+<Stay:115.661:116.076|away:116.076:118.39>
+[01:58.55]{agent:v1}Stay away
+<Stay:118.551:118.966|away:118.966:122.475>
+[02:02.47]{agent:v1}
+[02:06.92]{agent:v1}I don't know why
+<I:126.921:127.091|don't:127.091:127.315|know:127.315:127.44|why:127.44:128.355>
+[02:08.35]{agent:v1}
+[02:12.64]{agent:v1}I don't know why
+<I:132.641:132.771|don't:132.771:132.995|know:132.995:133.16|why:133.16:133.77>
+[02:13.77]{agent:v1}Stay
+<Stay:133.77:135.905>
+[02:15.91]{agent:v1}Stay away
+<Stay:135.905:136.36|away:136.36:138.714>
+[02:18.87]{agent:v1}Stay away
+<Stay:138.871:139.326|away:139.326:141.68>
+[02:21.80]{agent:v1}Stay away
+<Stay:141.797:142.212|away:142.212:145.645>
+[02:25.64]{agent:v1}
+[02:36.23]{agent:v1}Yeah
+<Yeah:156.227:159.184>
+[02:39.20]{agent:v1}Stay away
+<Stay:159.202:159.633|away:159.633:161.947>
+[02:42.10]{agent:v1}Stay away
+<Stay:162.097:162.512|away:162.512:164.866>
+[02:44.99]{agent:v1}Stay away
+<Stay:164.987:165.402|away:165.402:167.716>
+[02:47.91]{agent:v1}Stay away
+<Stay:167.908:168.283|away:168.283:170.677>
+[02:50.73]{agent:v1}Stay away
+<Stay:170.735:171.15|away:171.15:173.544>
+[02:53.87]{agent:v1}God is gay
+<God:173.867:174.12|is:174.12:174.32|gay:174.32:179.077>

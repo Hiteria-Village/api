@@ -1,0 +1,85 @@
+[00:36.37]{agent:v1}Somehow with the light creeping in, you still stumbled
+<Somehow:36.374:37.379|with:37.379:37.613|the:37.613:37.808|light:37.808:38.264|creeping:38.264:39.107|in,:39.107:39.523|you:39.523:39.997|still:39.997:40.464|stumbled:40.464:44.155>
+[00:44.16]{agent:v1}Propped up from both sides, you stood
+<Propped:44.155:44.702|up:44.702:45.15|from:45.15:45.584|both:45.584:46.075|sides,:46.075:46.507|you:46.507:46.934|stood:46.934:48.35>
+[00:48.73]{agent:v1}Knees buckled and fell to the ground
+<Knees:48.733:49.525|buckled:49.525:50.352|and:50.352:50.859|fell:50.859:51.867|to:51.867:52.091|the:52.091:52.256|ground:52.256:55.109>
+[00:55.11]{agent:v1}
+[00:57.26]{agent:v1}All that I've taken from watching such power
+<All:57.258:57.842|that:57.842:58.258|I've:58.258:58.709|taken:58.709:59.519|from:59.519:60.007|watching:60.007:60.874|such:60.874:61.285|power:61.285:64.903>
+[01:05.05]{agent:v1}Feeling the weight of the world
+<Feeling:65.049:66.065|the:66.065:66.5|weight:66.5:66.908|of:66.908:67.358|the:67.358:67.817|world:67.817:69.348>
+[01:09.61]{agent:v1}And hoping to save you
+<And:69.606:70.432|hoping:70.432:71.211|to:71.211:71.694|save:71.694:74.379|you:74.379:76.896>
+[01:16.90]{agent:v1}
+[01:19.48]{agent:v1}Gone is the weight
+<Gone:79.477:79.955|is:79.955:80.259|the:80.259:80.587|weight:80.587:81.936>
+[01:21.94]{agent:v1}
+[01:24.57]{agent:v1}Writhing off my skin
+<Writhing:84.571:85.715|off:85.715:86.438|my:86.438:87.136|skin:87.136:88.342>
+[01:29.84]{agent:v1}All is in vain and you slipped
+<All:89.84:90.368|is:90.368:90.61|in:90.61:91.05|vain:91.05:91.661|and:91.661:91.944|you:91.944:92.352|slipped:92.352:93.117>
+[01:33.12]{agent:v1}
+[01:35.10]{agent:v1}Lose it all again
+<Lose:95.101:95.614|it:95.614:96.222|all:96.222:97.08|again:97.08:98.37>
+[01:38.90]{agent:v1}Stars form in a circle, surrounding my head
+<Stars:98.902:99.542|form:99.542:99.982|in:99.982:100.198|a:100.198:100.448|circle,:100.448:101.259|surrounding:101.259:102.592|my:102.592:103.083|head:103.083:106.649>
+[01:46.83]{agent:v1}I feel the essence creeping in
+<I:106.826:107.38|feel:107.38:107.756|the:107.756:108.247|essence:108.247:109.09|creeping:109.09:109.572|in:109.572:111.002>
+[01:52.02]{agent:v1}I feel the sorrow
+<I:112.018:112.552|feel:112.552:112.986|the:112.986:113.437|sorrow:113.437:119.071>
+[01:59.91]{agent:v1}I tried to wrap you in linens designed by the lamb
+<I:119.909:120.451|tried:120.451:120.811|to:120.811:121.267|wrap:121.267:121.677|you:121.677:122.128|in:122.128:122.6|linens:122.6:123.485|designed:123.485:125.144|by:125.144:126.192|the:126.192:126.702|lamb:126.702:127.71>
+[02:07.72]{agent:v1}Evil to come rushing in
+<Evil:127.716:128.678|to:128.678:129.056|come:129.056:129.523|rushing:129.523:130.39|in:130.39:131.403>
+[02:11.66]{agent:v1}Came in to turn you to stone
+<Came:131.665:132.196|in:132.196:132.537|to:132.537:132.988|turn:132.988:133.439|you:133.439:133.855|to:133.855:135.372|stone:135.372:139.473>
+[02:19.47]{agent:v1}
+[02:22.04]{agent:v1}Gone is the weight
+<Gone:142.041:142.591|is:142.591:142.817|the:142.817:143.241|weight:143.241:144.588>
+[02:24.59]{agent:v1}
+[02:27.22]{agent:v1}Writhing off my skin
+<Writhing:147.225:148.361|off:148.361:148.977|my:148.977:149.668|skin:149.668:150.902>
+[02:30.90]{agent:v1}
+[02:32.50]{agent:v1}All is in vain and you slipped
+<All:152.502:153.022|is:153.022:153.288|in:153.288:153.656|vain:153.656:154.288|and:154.288:154.539|you:154.539:154.939|slipped:154.939:155.763>
+[02:35.76]{agent:v1}
+[02:37.66]{agent:v1}Lose it all again
+<Lose:157.664:158.253|it:158.253:158.821|all:158.821:159.794|again:159.794:162.912>
+[02:42.91]{agent:v1}
+[03:03.76]{agent:v1}Bleeding it all together
+<Bleeding:183.76:184.709|it:184.709:185.176|all:185.176:186.232|together:186.232:187.896>
+[03:09.03]{agent:v1}Breathing it all in as well
+<Breathing:189.035:189.992|it:189.992:190.4|all:190.4:190.875|in:190.875:191.235|as:191.235:191.726|well:191.726:192.771>
+[03:13.99]{agent:v1}We failed to live off each other
+<We:193.987:194.296|failed:194.296:194.987|to:194.987:195.635|live:195.635:196.254|off:196.254:196.646|each:196.646:196.952|other:196.952:198.352>
+[03:19.19]{agent:v1}We gave up our hearts to you still
+<We:199.192:199.576|gave:199.576:199.952|up:199.952:200.387|our:200.387:200.859|hearts:200.859:201.293|to:201.293:201.685|you:201.685:202.12|still:202.12:203.053>
+[03:23.05]{agent:v1}
+[03:24.65]{agent:v1}One lifelong endeavor
+<One:204.653:205.347|lifelong:205.347:207.08|endeavor:207.08:208.608>
+[03:29.66]{agent:v1}You gave it your all and farewell
+<You:209.658:210.018|gave:210.018:210.445|it:210.445:210.853|your:210.853:211.261|all:211.261:211.696|and:211.696:212.112|farewell:212.112:213.802>
+[03:35.04]{agent:v1}Laying down on the gutter
+<Laying:215.045:216.088|down:216.088:216.512|on:216.512:217.478|the:217.478:217.811|gutter:217.811:219.181>
+[03:40.00]{agent:v1}We gave up our hearts to you still
+<We:220.002:220.376|gave:220.376:220.776|up:220.776:221.192|our:221.192:221.658|hearts:221.658:222.149|to:222.149:222.584|you:222.584:223.01|still:223.01:224.127>
+[03:44.13]{agent:v1}
+[04:57.26]{agent:v1}Echoes of cries in the night, shattered bone and skull
+<Echoes:297.263:298.21|of:298.21:298.658|cries:298.658:299.053|in:299.053:299.543|the:299.543:299.935|night,:299.935:300.426|shattered:300.426:301.277|bone:301.277:302.57|and:302.57:304.09|skull:304.09:305.081>
+[05:05.16]{agent:v1}Fleeting moments slip away
+<Fleeting:305.162:306.481|moments:306.481:307.324|slip:307.324:307.542|away:307.542:308.734>
+[05:09.04]{agent:v1}Into the void with your light
+<Into:309.043:309.947|the:309.947:310.419|void:310.419:310.854|with:310.854:311.254|your:311.254:312.654|light:312.654:315.965>
+[05:15.97]{agent:v1}
+[05:19.48]{agent:v1}Gone is the weight
+<Gone:319.483:319.947|is:319.947:320.235|the:320.235:320.603|weight:320.603:322.102>
+[05:22.10]{agent:v1}
+[05:24.63]{agent:v1}Writhing off my skin
+<Writhing:324.627:325.731|off:325.731:326.422|my:326.422:327.139|skin:327.139:328.299>
+[05:28.30]{agent:v1}
+[05:29.89]{agent:v1}All is in vain and you slipped
+<All:329.891:330.414|is:330.414:330.64|in:330.64:331.03|vain:331.03:331.606|and:331.606:331.928|you:331.928:332.288|slipped:332.288:333.213>
+[05:33.21]{agent:v1}
+[05:35.10]{agent:v1}Lose it all again
+<Lose:335.101:335.648|it:335.648:336.197|all:336.197:337.098|again:337.098:338.614>

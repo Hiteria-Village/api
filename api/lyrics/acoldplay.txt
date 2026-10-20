@@ -1,0 +1,84 @@
+[00:16.49]{agent:v1}Who was I to think that I could fix you, baby?
+<Who:16.486:16.736|was:16.736:17.099|I:17.099:17.301|to:17.301:17.532|think:17.532:17.694|that:17.694:17.795|I:17.795:18.043|could:18.043:18.247|fix:18.247:18.521|you,:18.521:18.721|baby?:18.721:19.044>
+[00:19.65]{agent:v1}Who would I be if I didn't miss you, baby?
+<Who:19.649:19.762|would:19.762:20.219|I:20.219:20.415|be:20.415:20.547|if:20.547:20.796|I:20.796:20.998|didn't:20.998:21.357|miss:21.357:21.577|you,:21.577:21.795|baby?:21.795:22.244>
+[00:22.84]{agent:v1}I hope that you know you were appreciated
+<I:22.844:22.973|hope:22.973:23.384|that:23.384:23.64|you:23.64:23.788|know:23.788:24.026|you:24.026:24.287|were:24.287:24.395|appreciated:24.395:25.358>
+[00:25.36]{agent:v1}Around my house I still got up all of our pictures, baby
+<Around:25.358:26.035|my:26.035:26.295|house:26.295:26.485|I:26.485:26.598|still:26.598:26.884|got:26.884:27.033|up:27.033:27.112|all:27.112:27.254|of:27.254:27.461|our:27.461:27.671|pictures,:27.671:28.081|baby:28.081:28.448>
+[00:28.45]{agent:v1}Mmm
+<Mmm:28.448:29.286>
+[00:29.36]{agent:v1}'Cause I still love you, that's how I feel at my core
+<'Cause:29.363:29.745|I:29.745:29.842|still:29.842:30.162|love:30.162:30.352|you,:30.352:30.501|that's:30.501:30.763|how:30.763:31.001|I:31.001:31.101|feel:31.101:31.369|at:31.369:31.53|my:31.53:31.728|core:31.728:32.302>
+[00:32.53]{agent:v1}Flew different states to come see you in-between tour
+<Flew:32.531:32.954|different:32.954:33.315|states:33.315:33.618|to:33.618:33.733|come:33.733:33.929|see:33.929:34.203|you:34.203:34.328|in-between:34.328:35.016|tour:35.016:35.459>
+[00:35.68]{agent:v1}I gave you everything I had and even more
+<I:35.677:36.038|gave:36.038:36.236|you:36.236:36.497|everything:36.497:37.091|I:37.091:37.3|had:37.3:37.468|and:37.468:37.716|even:37.716:38.069|more:38.069:38.661>
+[00:38.87]{agent:v1}Just understand it's not like me to give my heart away, ay
+<Just:38.867:39.318|understand:39.318:39.895|it's:39.895:40.109|not:40.109:40.264|like:40.264:40.559|me:40.559:40.674|to:40.674:40.888|give:40.888:41.061|my:41.061:41.357|heart:41.357:41.941|away,:41.941:42.197|ay:42.197:42.739>
+[00:42.74]{agent:v1}Now you taking distance and that's hard to take, ay
+<Now:42.739:43.124|you:43.124:43.264|taking:43.264:43.604|distance:43.604:43.993|and:43.993:44.118|that's:44.118:44.39|hard:44.39:44.98|to:44.98:45.177|take,:45.177:45.623|ay:45.623:45.902>
+[00:45.90]{agent:v1}I tried everything to get your thoughts to change, ay
+<I:45.902:46.196|tried:46.196:46.442|everything:46.442:47.001|to:47.001:47.215|get:47.215:47.4|your:47.4:47.632|thoughts:47.632:48.191|to:48.191:48.451|change,:48.451:48.881|ay:48.881:49.132>
+[00:49.13]{agent:v1}I tried not to listen when they always say, ay
+<I:49.132:49.4|tried:49.4:49.702|not:49.702:49.88|to:49.88:50.078|listen:50.078:50.495|when:50.495:50.636|they:50.636:50.911|always:50.911:51.57|say,:51.57:51.934|ay:51.934:52.265>
+[00:52.27]{agent:v1}This was temporary and you'd walk away
+<This:52.265:52.555|was:52.555:52.628|temporary:52.628:53.424|and:53.424:53.693|you'd:53.693:53.949|walk:53.949:54.573|away:54.573:56.595>
+[00:56.59]{agent:v1}It'll always be easy to blame you
+<It'll:56.595:57.006|always:57.006:58.479|be:58.479:58.579|easy:58.579:59.826|to:59.826:60.034|blame:60.034:60.794|you:60.794:61.651>
+[01:02.70]{agent:v1}But it's my fault for thinking I could
+<But:62.702:63.119|it's:63.119:63.327|my:63.327:63.635|fault:63.635:64.473|for:64.473:64.731|thinking:64.731:65.724|I:65.724:65.864|could:65.864:66.57>
+[01:06.60]{agent:v1}Fix you, fix you, fix you, fix you
+<Fix:66.604:66.831|you,:66.831:67.103|fix:67.103:67.407|you,:67.407:67.637|fix:67.637:68.013|you,:68.013:68.325|fix:68.325:68.699|you:68.699:69.787>
+[01:09.80]{agent:v1}Fix you, fix you, fix you, wish I could
+<Fix:69.802:70.085|you,:70.085:70.321|fix:70.321:70.587|you,:70.587:70.849|fix:70.849:71.229|you,:71.229:71.701|wish:71.701:71.917|I:71.917:72.244|could:72.244:72.987>
+[01:12.99]{agent:v1}Miss you, miss you, miss you, I miss you
+<Miss:72.987:73.4|you,:73.4:73.705|miss:73.705:73.937|you,:73.937:74.306|miss:74.306:74.55|you,:74.55:74.69|I:74.69:75.102|miss:75.102:75.393|you:75.393:76.63>
+[01:16.22]{agent:v1}It's really hard to accept the fact that I can't
+<It's:76.216:76.57|really:76.57:76.873|hard:76.873:77.236|to:77.236:77.296|accept:77.296:77.785|the:77.785:77.987|fact:77.987:78.196|that:78.196:78.386|I:78.386:78.64|can't:78.64:80.275>
+[01:19.29]{agent:v1}Fix you, fix you, fix you, fix you
+<Fix:79.295:79.755|you,:79.755:79.987|fix:79.987:80.331|you,:80.331:80.561|fix:80.561:80.937|you,:80.937:81.209|fix:81.209:81.583|you:81.583:82.486>
+[01:22.50]{agent:v1}Fix you, fix you, fix you, wish I could
+<Fix:82.5:82.882|you,:82.882:83.22|fix:83.22:83.333|you,:83.333:83.636|fix:83.636:83.973|you,:83.973:84.309|wish:84.309:84.588|I:84.588:84.875|could:84.875:85.702>
+[01:25.70]{agent:v1}Miss you, miss you, miss you, I miss you
+<Miss:85.702:86.026|you,:86.026:86.306|miss:86.306:86.569|you,:86.569:86.95|miss:86.95:87.176|you,:87.176:87.555|I:87.555:87.676|miss:87.676:88.227|you:88.227:89.284>
+[01:28.90]{agent:v1}It's really hard to accept the fact I can't fix you now
+<It's:88.898:89.361|really:89.361:89.795|hard:89.795:90.021|to:90.021:90.121|accept:90.121:90.527|the:90.527:90.818|fact:90.818:91.078|I:91.078:91.138|can't:91.138:91.388|fix:91.388:91.532|you:91.532:91.834|now:91.834:92.33>
+[01:32.36]{agent:v1}You said to me baby, you was all in
+<You:92.359:92.74|said:92.74:93.3|to:93.3:93.496|me:93.496:93.704|baby,:93.704:94.087|you:94.087:94.281|was:94.281:94.521|all:94.521:94.971|in:94.971:95.301>
+[01:35.61]{agent:v1}I think we just probably shoulda stayed friends
+<I:95.613:95.924|think:95.924:96.593|we:96.593:96.778|just:96.778:96.992|probably:96.992:97.295|shoulda:97.295:97.6|stayed:97.6:98.098|friends:98.098:98.637>
+[01:38.75]{agent:v1}I think that we probably coulda saved tears
+<I:98.754:99.143|think:99.143:99.605|that:99.605:99.811|we:99.811:100.026|probably:100.026:100.408|coulda:100.408:100.662|saved:100.662:101.181|tears:101.181:101.805>
+[01:41.80]{agent:v1}And saved a year
+<And:101.805:101.945|saved:101.945:102.492|a:102.492:102.881|year:102.881:103.287>
+[01:42.48]{agent:v1}Just understand it's not like me to give my heart away, ay
+<Just:102.485:102.886|understand:102.886:103.487|it's:103.487:103.661|not:103.661:103.822|like:103.822:104.112|me:104.112:104.266|to:104.266:104.447|give:104.447:104.613|my:104.613:104.915|heart:104.915:105.54|away,:105.54:106.135|ay:106.135:106.327>
+[01:46.33]{agent:v1}Now you taking distance and that's hard to take, ay
+<Now:106.327:106.694|you:106.694:106.794|taking:106.794:107.114|distance:107.114:107.581|and:107.581:107.681|that's:107.681:107.954|hard:107.954:108.539|to:108.539:108.769|take,:108.769:109.181|ay:109.181:109.508>
+[01:49.51]{agent:v1}I tried everything to get your thoughts to change, ay
+<I:109.508:109.715|tried:109.715:109.994|everything:109.994:110.6|to:110.6:110.814|get:110.814:110.952|your:110.952:111.184|thoughts:111.184:111.749|to:111.749:111.964|change,:111.964:112.48|ay:112.48:112.667>
+[01:52.72]{agent:v1}I tried not to listen when they always say, ay
+<I:112.718:112.993|tried:112.993:113.215|not:113.215:113.433|to:113.433:113.631|listen:113.631:114.048|when:114.048:114.189|they:114.189:114.452|always:114.452:114.986|say,:114.986:115.44|ay:115.44:115.841>
+[01:55.84]{agent:v1}This was temporary and you'd walk away
+<This:115.841:116.107|was:116.107:116.18|temporary:116.18:116.982|and:116.982:117.251|you'd:117.251:117.547|walk:117.547:118.132|away:118.132:120.14>
+[02:00.14]{agent:v1}It'll always be easy to blame you
+<It'll:120.14:120.574|always:120.574:121.99|be:121.99:122.13|easy:122.13:123.363|to:123.363:123.591|blame:123.591:124.357|you:124.357:125.041>
+[02:06.29]{agent:v1}But it's my fault for thinking I could
+<But:126.295:126.752|it's:126.752:126.92|my:126.92:127.228|fault:127.228:128.106|for:128.106:128.324|thinking:128.324:129.24|I:129.24:129.648|could:129.648:130.03>
+[02:10.12]{agent:v1}Fix you, fix you, fix you, fix you
+<Fix:130.118:130.443|you,:130.443:130.728|fix:130.728:130.936|you,:130.936:131.205|fix:131.205:131.608|you,:131.608:131.881|fix:131.881:132.21|you:132.21:133.365>
+[02:13.36]{agent:v1}Fix you, fix you, fix you, wish I could
+<Fix:133.365:133.601|you,:133.601:133.911|fix:133.911:134.332|you,:134.332:134.564|fix:134.564:135.047|you,:135.047:135.22|wish:135.22:135.476|I:135.476:135.837|could:135.837:136.512>
+[02:16.51]{agent:v1}Miss you, miss you, miss you, I miss you
+<Miss:136.512:136.961|you,:136.961:137.306|miss:137.306:137.498|you,:137.498:137.797|miss:137.797:138.068|you,:138.068:138.379|I:138.379:138.65|miss:138.65:138.964|you:138.964:140.469>
+[02:19.81]{agent:v1}It's really hard to accept the fact that I can't
+<It's:139.807:140.085|really:140.085:140.559|hard:140.559:140.745|to:140.745:140.845|accept:140.845:141.34|the:141.34:141.583|fact:141.583:141.751|that:141.751:141.981|I:141.981:142.15|can't:142.15:143.844>
+[02:22.86]{agent:v1}Fix you, fix you, fix you, fix you
+<Fix:142.865:143.225|you,:143.225:143.497|fix:143.497:143.807|you,:143.807:144.031|fix:144.031:144.447|you,:144.447:144.719|fix:144.719:145.053|you:145.053:146.063>
+[02:26.07]{agent:v1}Fix you, fix you, fix you, wish I could
+<Fix:146.068:146.329|you,:146.329:146.525|fix:146.525:146.831|you,:146.831:147.093|fix:147.093:147.433|you,:147.433:147.905|wish:147.905:148.161|I:148.161:148.528|could:148.528:149.245>
+[02:29.26]{agent:v1}Miss you, miss you, miss you, I miss you
+<Miss:149.261:149.62|you,:149.62:149.965|miss:149.965:150.197|you,:150.197:150.566|miss:150.566:150.85|you,:150.85:150.91|I:150.91:151.322|miss:151.322:151.653|you:151.653:152.89>
+[02:32.51]{agent:v1}It's really hard to accept the fact I can't fix you now
+<It's:152.511:153.014|really:153.014:153.408|hard:153.408:153.634|to:153.634:153.734|accept:153.734:154.036|the:154.036:154.268|fact:154.268:154.691|I:154.691:154.791|can't:154.791:154.961|fix:154.961:155.185|you:155.185:155.407|now:155.407:155.949>

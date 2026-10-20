@@ -1,0 +1,145 @@
+[00:03.33]{agent:v1}Cannon
+<Cannon:3.329:4.119>
+[00:05.07]{agent:v1}Know I walk with the racks on me
+<Know:5.067:5.256|I:5.256:5.424|walk:5.424:5.637|with:5.637:5.773|the:5.773:5.898|racks:5.898:6.181|on:6.181:6.397|me:6.397:6.659>
+[00:06.81]{agent:v1}Bad bitch want back, back and you know she throw that ass on me
+<Bad:6.807:7.036|bitch:7.036:7.358|want:7.358:7.644|back,:7.644:7.926|back:7.926:8.169|and:8.169:8.385|you:8.385:8.51|know:8.51:8.641|she:8.641:8.812|throw:8.812:9.054|that:9.054:9.361|ass:9.361:9.644|on:9.644:9.801|me:9.801:9.987>
+[00:10.19]{agent:v1}I don't want that girl 'cause she want me 'cause the cash on me
+<I:10.186:10.401|don't:10.401:10.556|want:10.556:10.801|that:10.801:11.028|girl:11.028:11.311|'cause:11.311:11.649|she:11.649:11.892|want:11.892:12.161|me:12.161:12.428|'cause:12.428:12.601|the:12.601:12.785|cash:12.785:13.028|on:13.028:13.212|me:13.212:13.548>
+[00:13.63]{agent:v1}Yeah, you know she cappin', homie, dreadlock, that cap on me
+<Yeah,:13.628:13.843|you:13.843:14.014|know:14.014:14.246|she:14.246:14.507|cappin',:14.507:14.814|homie,:14.814:15.321|dreadlock,:15.321:15.922999999999996|that:15.922999999999996:16.158|cap:16.158:16.457|on:16.457:16.678|me:16.678:16.894>
+[00:17.07]{agent:v1}Back then, they napped on me, now, they all just act homie
+<Back:17.074:17.337|then,:17.337:17.639|they:17.639:17.929|napped:17.929:18.172|on:18.172:18.388|me,:18.388:18.812|now,:18.812:19.012|they:19.012:19.145|all:19.145:19.393|just:19.393:19.679|act:19.679:19.905|homie:19.905:20.289>
+[00:20.48]{agent:v1}Now I'm hot, they all on me, pull out the Snapchats on me
+<Now:20.479:20.646|I'm:20.646:20.764|hot,:20.764:21.046|they:21.046:21.369|all:21.369:21.662|on:21.662:21.886|me,:21.886:22.188|pull:22.188:22.505|out:22.505:22.68|the:22.68:22.82|Snapchats:22.82:23.313|on:23.313:23.5|me:23.5:23.789>
+[00:23.90]{agent:v1}I ain't got no Snapchat, homie, I think it's too personal
+<I:23.904:24.09|ain't:24.09:24.298|got:24.298:24.421|no:24.421:24.591|Snapchat,:24.591:25.034|homie,:25.034:25.623|I:25.623:25.925|think:25.925:26.111|it's:26.111:26.234|too:26.234:26.477|personal:26.477:27.185>
+[00:27.33]{agent:v1}That's what I got Twitter for, Instagram, I'll bag your ho
+<That's:27.325:27.636|what:27.636:27.794|I:27.794:27.938|got:27.938:28.228|Twitter:28.228:28.527|for,:28.527:29.092|Instagram,:29.092:29.644|I'll:29.644:29.914|bag:29.914:30.127|your:30.127:30.287|ho:30.287:30.769>
+[00:30.77]{agent:v1}Back then, they napped on me, now, they all just act homie
+<Back:30.769:31.075|then,:31.075:31.342|they:31.342:31.646|napped:31.646:31.933999999999997|on:31.933999999999997:32.115|me,:32.115:32.448|now,:32.448:32.622|they:32.622:32.712|all:32.712:33.083|just:33.083:33.35|act:33.35:33.648|homie:33.648:34.052>
+[00:34.20]{agent:v1}Now I'm hot, they all on me, pull out the Snapchats on me
+<Now:34.202:34.356|I'm:34.356:34.511|hot,:34.511:34.756|they:34.756:35.025|all:35.025:35.367|on:35.367:35.529|me,:35.529:35.839|pull:35.839:36.172|out:36.172:36.372|the:36.372:36.529|Snapchats:36.529:37.023|on:37.023:37.239|me:37.239:37.453>
+[00:37.60]{agent:v1}I ain't got no Snapchat, homie, I think it's too personal
+<I:37.602:37.823|ain't:37.823:37.972|got:37.972:38.119|no:38.119:38.249|Snapchat,:38.249:38.772|homie,:38.772:39.3|I:39.3:39.615|think:39.615:39.815|it's:39.815:39.972|too:39.972:40.239|personal:40.239:40.813>
+[00:41.04]{agent:v1}That's what I got Twitter for, Instagram, I'll bag your ho
+<That's:41.038:41.328|what:41.328:41.552|I:41.552:41.709|got:41.709:41.896|Twitter:41.896:42.219|for,:42.219:42.787|Instagram,:42.787:43.352|I'll:43.352:43.581|bag:43.581:43.867|your:43.867:44.003|ho:44.003:44.503>
+[00:44.50]{agent:v1}Back then, they napped on me, now, they all just act homie
+<Back:44.503:44.798|then,:44.798:45.041|they:45.041:45.286|napped:45.286:45.588|on:45.588:45.833|me,:45.833:46.233|now,:46.233:46.377|they:46.377:46.508|all:46.508:46.758|just:46.758:47.062|act:47.062:47.308|homie:47.308:47.763>
+[00:47.87]{agent:v1}Now I'm hot, they all on me, pull out the Snapchats on me
+<Now:47.868:48.118|I'm:48.118:48.235|hot,:48.235:48.521|they:48.521:48.745|all:48.745:49.062|on:49.062:49.302|me,:49.302:49.67|pull:49.67:49.897|out:49.897:50.097|the:50.097:50.27|Snapchats:50.27:50.763|on:50.763:50.937|me:50.937:51.164>
+[00:51.32]{agent:v1}I ain't got no Snapchat, homie, I think it's too personal
+<I:51.324:51.475|ain't:51.475:51.646|got:51.646:51.814|no:51.814:51.998|Snapchat,:51.998:52.507|homie,:52.507:53.025|I:53.025:53.379|think:53.379:53.571|it's:53.571:53.702|too:53.702:53.889|personal:53.889:54.595>
+[00:54.74]{agent:v1}That's what I got Twitter for, Instagram, I'll bag your ho
+<That's:54.74:55.078|what:55.078:55.251|I:55.251:55.355|got:55.355:55.646|Twitter:55.646:55.963|for,:55.963:56.497|Instagram,:56.497:57.022|I'll:57.022:57.379|bag:57.379:57.579|your:57.579:57.732|ho:57.732:58.213>
+[00:57.77]{agent:v1}Like flex on you haters, hi, haters
+<Like:57.771:58.193|flex:58.193:58.671|on:58.671:58.887|you:58.887:59.087|haters,:59.087:59.682|hi,:60.33:60.815|haters:60.815:61.365>
+[01:01.63]{agent:v1}This is my world, so it's all in my favor
+<This:61.626:61.863|is:61.863:62.063|my:62.063:62.481|world,:62.481:62.879|so:62.879:63.129|it's:63.129:63.385|all:63.385:63.548|in:63.548:63.764|my:63.764:64.113|favor:64.113:64.653>
+[01:05.01]{agent:v1}I like all girls, yeah, all type of flavors
+<I:65.007:65.244|like:65.244:65.5|all:65.5:65.892|girls,:65.892:66.326|yeah,:66.326:66.833|all:66.833:67.193|type:67.193:67.425|of:67.425:67.641|flavors:67.641:68.282>
+[01:08.28]{agent:v1}But that don't matter 'cause I just got my baby
+<But:68.282:68.54|that:68.54:68.74|don't:68.74:68.956|matter:68.956:69.775|'cause:69.775:70.241|I:70.241:70.492|just:70.492:70.724|got:70.724:70.908|my:70.908:71.084|baby:71.084:71.452>
+[01:11.94]{agent:v1}Pull up right there in Mercedes
+<Pull:71.943:72.038|up:72.038:72.23|right:72.23:72.345|there:72.345:72.497|in:72.497:72.59|Mercedes:72.59:73.442>
+[01:13.59]{agent:v1}Water, water like the navy
+<Water,:73.588:73.942|water:73.942:74.187|like:74.187:74.411|the:74.411:74.539|navy:74.539:74.937>
+[01:15.24]{agent:v1}Fuck that girl till the sun down
+<Fuck:75.241:75.43|that:75.43:75.598|girl:75.598:75.83|till:75.83:76.046|the:76.046:76.203|sun:76.203:76.48|down:76.48:76.8>
+[01:16.80]{agent:v1}Number one like I'm McGrady
+<Number:76.8:77.018|one:77.018:77.311|like:77.311:77.637|I'm:77.637:77.853|McGrady:77.853:78.349>
+[01:18.78]{agent:v1}Boy, you said that you made me
+<Boy,:78.785:78.99|you:78.99:79.107|said:79.107:79.371|that:79.371:79.528|you:79.528:79.654|made:79.654:79.888|me:79.888:80.167>
+[01:20.44]{agent:v1}Go ahead, make another one
+<Go:80.442:80.708|ahead,:80.708:80.999|make:80.999:81.223|another:81.223:81.735|one:81.735:81.983>
+[01:21.98]{agent:v1}Do what I want 'cause I'm trusting none
+<Do:81.983:82.27|what:82.27:82.385|I:82.385:82.55|want:82.55:82.729|'cause:82.729:82.862|I'm:82.862:83.081|trusting:83.081:83.481|none:83.481:83.928>
+[01:23.93]{agent:v1}I'ma love her till the love is done
+<I'ma:83.928:84.17|love:84.17:84.338|her:84.338:84.543|till:84.543:84.698|the:84.698:84.842|love:84.842:85.042|is:85.042:85.277|done:85.277:85.604>
+[01:25.60]{agent:v1}Took your girl, she ain't tried to run
+<Took:85.604:85.75|your:85.75:85.918|girl,:85.918:86.155|she:86.155:86.289|ain't:86.289:86.459|tried:86.459:86.742|to:86.742:86.934|run:86.934:87.305>
+[01:27.30]{agent:v1}Hit from the back, so her legs get numb
+<Hit:87.305:87.542|from:87.542:87.632|the:87.632:87.782|back,:87.782:87.934|so:87.934:88.107|her:88.107:88.2|legs:88.2:88.456|get:88.456:88.688|numb:88.688:89.041>
+[01:29.04]{agent:v1}Hit from the back so long
+<Hit:89.041:89.224|from:89.224:89.355|the:89.355:89.48|back:89.48:89.699|so:89.699:89.915|long:89.915:90.761>
+[01:30.76]{agent:v1}That my own legs starting to get numb
+<That:90.761:90.926|my:90.926:91.059|own:91.059:91.23|legs:91.23:91.507|starting:91.507:91.84|to:91.84:91.958|get:91.958:92.176|numb:92.176:92.425>
+[01:32.42]{agent:v1}Sucking me up, give me brain, now she dumb
+<Sucking:92.425:92.75|me:92.75:92.966|up,:92.966:93.147|give:93.147:93.243|me:93.243:93.432|brain,:93.432:93.582|now:93.582:93.659|she:93.659:93.856|dumb:93.856:94.3>
+[01:34.58]{agent:v1}Tell her it's repercussions
+<Tell:94.58:94.798|her:94.798:94.945|it's:94.945:95.102|repercussions:95.102:96.097>
+[01:36.33]{agent:v1}Play her just like a drum
+<Play:96.327:96.433|her:96.433:96.582|just:96.582:96.806|like:96.806:97.033|a:97.033:97.217|drum:97.217:97.609>
+[01:37.61]{agent:v1}Make in a night what you make in a month
+<Make:97.609:97.806|in:97.806:97.955|a:97.955:98.067|night:98.067:98.216|what:98.216:98.35|you:98.35:98.499|make:98.499:98.648|in:98.648:98.784|a:98.784:98.955|month:98.955:99.335>
+[01:39.33]{agent:v1}Back then, they napped on me, now, they all just act homie
+<Back:99.335:99.625|then,:99.625:99.966|they:99.966:100.198|napped:100.198:100.425|on:100.425:100.644|me,:100.644:101.025|now,:101.025:101.254|they:101.254:101.342|all:101.342:101.633|just:101.633:101.894|act:101.894:102.161|homie:102.161:102.586>
+[01:42.70]{agent:v1}Now I'm hot, they all on me, pull out the Snapchats on me
+<Now:102.702:102.917|I'm:102.917:103.091|hot,:103.091:103.373|they:103.373:103.619|all:103.619:103.901|on:103.901:104.101|me,:104.101:104.507|pull:104.507:104.752|out:104.752:104.941|the:104.941:105.056|Snapchats:105.056:105.568|on:105.568:105.811|me:105.811:106.037>
+[01:46.16]{agent:v1}I ain't got no Snapchat, homie, I think it's too personal
+<I:106.161:106.416|ain't:106.416:106.534|got:106.534:106.718|no:106.718:106.827|Snapchat,:106.827:107.328|homie,:107.328:107.891|I:107.891:108.219|think:108.219:108.363|it's:108.363:108.494|too:108.494:108.774|personal:108.774:109.386>
+[01:49.64]{agent:v1}That's what I got Twitter for, Instagram, I'll bag your ho
+<That's:109.642:109.924|what:109.924:110.1|I:110.1:110.209|got:110.209:110.444|Twitter:110.444:110.743|for,:110.743:111.143|Instagram,:111.417:111.916|I'll:111.916:112.199|bag:112.199:112.316|your:112.316:112.575|ho:112.575:113.072>
+[01:53.07]{agent:v1}Back then, they napped on me, now, they all just act homie
+<Back:113.072:113.351|then,:113.351:113.594|they:113.594:113.901|napped:113.901:114.146|on:114.146:114.402|me,:114.402:114.751|now,:114.751:114.951|they:114.951:115.122|all:115.122:115.367|just:115.367:115.597|act:115.597:115.863|homie:115.863:116.289>
+[01:56.41]{agent:v1}Now I'm hot, they all on me, pull out the Snapchats on me
+<Now:116.409:116.611|I'm:116.611:116.779|hot,:116.779:117.043|they:117.043:117.31|all:117.31:117.611|on:117.611:117.811|me,:117.811:118.195|pull:118.195:118.443|out:118.443:118.683|the:118.683:118.816|Snapchats:118.816:119.29|on:119.29:119.47|me:119.47:119.763>
+[01:59.89]{agent:v1}I ain't got no Snapchat, homie, I think it's too personal
+<I:119.889:120.134|ain't:120.134:120.288|got:120.288:120.395|no:120.395:120.528|Snapchat,:120.528:121.083|homie,:121.083:121.635|I:121.635:121.952|think:121.952:122.094|it's:122.094:122.267|too:122.267:122.478|personal:122.478:123.084>
+[02:03.34]{agent:v1}That's what I got Twitter for, Instagram, I'll bag your ho
+<That's:123.34:123.635|what:123.635:123.745|I:123.745:123.918|got:123.918:124.19|Twitter:124.19:124.507|for,:124.507:125.057|Instagram,:125.057:125.606|I'll:125.606:125.907|bag:125.907:126.11|your:126.11:126.27|ho:126.27:126.781>
+[02:06.78]{agent:v1}Boy, you said that you made me
+<Boy,:126.781:126.967|you:126.967:127.194|said:127.194:127.308|that:127.308:127.487|you:127.487:127.62|made:127.62:127.911|me:127.911:128.09>
+[02:08.44]{agent:v1}Go ahead, make another one
+<Go:128.442:128.716|ahead,:128.716:128.991|make:128.991:129.231|another:129.231:129.724|one:129.724:129.968>
+[02:09.97]{agent:v1}Do what I want 'cause I'm trusting none
+<Do:129.968:130.231|what:130.231:130.359|I:130.359:130.565|want:130.565:130.746|'cause:130.746:130.858|I'm:130.858:131.074|trusting:131.074:131.514|none:131.514:131.902>
+[02:11.90]{agent:v1}I'ma love her till the love is done
+<I'ma:131.902:132.136|love:132.136:132.36|her:132.36:132.493|till:132.493:132.699|the:132.699:132.787|love:132.787:133.043|is:133.043:133.219|done:133.219:133.585>
+[02:13.59]{agent:v1}Took your girl, she ain't tried to run
+<Took:133.585:133.808|your:133.808:133.963|girl,:133.963:134.128|she:134.128:134.272|ain't:134.272:134.539|tried:134.539:134.792|to:134.792:134.968|run:134.968:135.286>
+[02:15.29]{agent:v1}Hit from the back, so her legs get numb
+<Hit:135.286:135.531|from:135.531:135.685|the:135.685:135.797|back,:135.797:135.947|so:135.947:136.072|her:136.072:136.221|legs:136.221:136.496|get:136.496:136.624|numb:136.624:137.022>
+[02:17.02]{agent:v1}Hit from the back so long
+<Hit:137.022:137.253|from:137.253:137.405|the:137.405:137.496|back:137.496:137.728|so:137.728:137.896|long:137.896:138.742>
+[02:18.74]{agent:v1}That my own legs starting to get numb
+<That:138.742:138.931|my:138.931:139.04|own:139.04:139.192|legs:139.192:139.44|starting:139.44:139.781|to:139.781:139.891|get:139.891:140.107|numb:140.107:140.642>
+[02:20.64]{agent:v1}
+[02:22.16]{agent:v1}Know I walk with the racks on me
+<Know:142.162:142.297|I:142.297:142.537|walk:142.537:142.769|with:142.769:142.9|the:142.9:143.055|racks:143.055:143.353|on:143.353:143.553|me:143.553:143.808>
+[02:23.91]{agent:v1}Bad bitch want back, back and you know she throw that ass on me
+<Bad:143.908:144.166|bitch:144.166:144.446|want:144.446:144.737|back,:144.737:145.062|back:145.062:145.251|and:145.251:145.411|you:145.411:145.539|know:145.539:145.763|she:145.763:145.899|throw:145.899:146.166|that:146.166:146.489|ass:146.489:146.731|on:146.731:146.955|me:146.955:147.178>
+[02:27.31]{agent:v1}I don't want that girl 'cause she want me 'cause the cash on me
+<I:147.308:147.542|don't:147.542:147.675|want:147.675:147.926|that:147.926:148.193|girl:148.193:148.435|'cause:148.435:148.734|she:148.734:149.019|want:149.019:149.326|me:149.326:149.534|'cause:149.534:149.75|the:149.75:149.851|cash:149.851:150.193|on:150.193:150.39|me:150.39:150.577>
+[02:30.74]{agent:v1}Yeah, you know she cappin', homie, dreadlock, that cap on me
+<Yeah,:150.741:150.986|you:150.986:151.119|know:151.119:151.351|she:151.351:151.636|cappin',:151.636:151.911|homie,:151.911:152.5|dreadlock,:152.5:153.012|that:153.012:153.295|cap:153.295:153.578|on:153.578:153.82|me:153.82:154.057>
+[02:34.10]{agent:v1}Back then, they napped on me, now, they all just act homie
+<Back:154.101:154.511|then,:154.511:154.756|they:154.756:155.004|napped:155.004:155.327|on:155.327:155.562|me,:155.562:155.943|now,:155.943:156.13|they:156.13:156.239|all:156.239:156.511|just:156.511:156.738|act:156.738:157.06|homie:157.06:157.434>
+[02:37.55]{agent:v1}Now I'm hot, they all on me, pull out the Snapchats on me
+<Now:157.549:157.764|I'm:157.764:157.938|hot,:157.938:158.18|they:158.18:158.503|all:158.503:158.748|on:158.748:158.964|me,:158.964:159.338|pull:159.338:159.62|out:159.62:159.78|the:159.78:159.938|Snapchats:159.938:160.471|on:160.471:160.631|me:160.631:160.841>
+[02:41.06]{agent:v1}I ain't got no Snapchat, homie, I think it's too personal
+<I:161.065:161.246|ain't:161.246:161.334|got:161.334:161.56|no:161.56:161.651|Snapchat,:161.651:162.224|homie,:162.224:162.763|I:162.763:163.04|think:163.04:163.275|it's:163.275:163.43|too:163.43:163.651|personal:163.651:164.305>
+[02:44.48]{agent:v1}That's what I got Twitter for, Instagram, I'll bag your ho
+<That's:164.485:164.81|what:164.81:164.98|I:164.98:165.068|got:165.068:165.319|Twitter:165.319:165.636|for,:165.636:166.186|Instagram,:166.186:166.754|I'll:166.754:167.092|bag:167.092:167.252|your:167.252:167.463|ho:167.463:167.922>
+[02:47.92]{agent:v1}Back then, they napped on me, now, they all just act homie
+<Back:167.922:168.172|then,:168.172:168.439|they:168.439:168.724|napped:168.724:169.007|on:169.007:169.247|me,:169.247:169.575|now,:169.575:169.796|they:169.796:169.913|all:169.913:170.215|just:170.215:170.513|act:170.513:170.745|homie:170.745:171.131>
+[02:51.29]{agent:v1}Now I'm hot, they all on me, pull out the Snapchats on me
+<Now:171.287:171.5|I'm:171.5:171.708|hot,:171.708:171.884|they:171.884:172.206|all:172.206:172.508|on:172.508:172.692|me,:172.692:173.041|pull:173.041:173.284|out:173.284:173.526|the:173.526:173.657|Snapchats:173.657:174.132|on:174.132:174.348|me:174.348:174.596>
+[02:54.73]{agent:v1}I ain't got no Snapchat, homie, I think it's too personal
+<I:174.733:174.908|ain't:174.908:175.116|got:175.116:175.271|no:175.271:175.404|Snapchat,:175.404:175.927|homie,:175.927:176.256|I:176.479:176.794|think:176.794:176.978|it's:176.978:177.13|too:177.13:177.394|personal:177.394:177.943>
+[02:58.21]{agent:v1}That's what I got Twitter for, Instagram, I'll bag your ho
+<That's:178.206:178.523|what:178.523:178.656|I:178.656:178.848|got:178.848:179.043|Twitter:179.043:179.317|for,:179.317:179.651|Instagram,:179.901:180.419|I'll:180.419:180.757|bag:180.757:180.957|your:180.957:181.147|ho:181.147:181.607>
+[03:01.61]{agent:v1}Back then, they napped on me, now, they all just act homie
+<Back:181.607:181.924|then,:181.924:182.19|they:182.19:182.476|napped:182.476:182.718|on:182.718:182.99|me,:182.99:183.308|now,:183.308:183.492|they:183.492:183.641|all:183.641:183.924|just:183.924:184.15|act:184.15:184.452|homie:184.452:184.804>
+[03:04.99]{agent:v1}Now I'm hot, they all on me, pull out the Snapchats on me
+<Now:184.989:185.223|I'm:185.223:185.316|hot,:185.316:185.599|they:185.599:185.882|all:185.882:186.223|on:186.223:186.423|me,:186.423:186.722|pull:186.722:187.055|out:187.055:187.242|the:187.242:187.332|Snapchats:187.332:187.815|on:187.815:188.023|me:188.023:188.27>
+[03:08.42]{agent:v1}I ain't got no Snapchat, homie, I think it's too personal
+<I:188.425:188.6|ain't:188.6:188.744|got:188.744:189|no:189:189.134|Snapchat,:189.134:189.632|homie,:189.632:190.166|I:190.166:190.459|think:190.459:190.659|it's:190.659:190.832|too:190.832:191.118|personal:191.118:191.653>
+[03:11.92]{agent:v1}That's what I got Twitter for, Instagram, I'll bag your ho
+<That's:191.924:192.227|what:192.227:192.398|I:192.398:192.545|got:192.545:192.771|Twitter:192.771:193.054|for,:193.054:193.603|Instagram,:193.603:194.155|I'll:194.155:194.513|bag:194.513:194.729|your:194.729:194.822|ho:194.822:195.407>
+[03:15.92]{agent:v1}I ain't gon' lie
+<I:195.92:196.055|ain't:196.055:196.255|gon':196.255:196.522|lie:196.522:196.893>
+[03:17.57]{agent:v1}The baddest girls do be on Snapchat
+<The:197.573:197.69|baddest:197.69:198.058|girls:198.058:198.34|do:198.34:198.548|be:198.548:198.639|on:198.639:198.866|Snapchat:198.866:199.503>
+[03:20.24]{agent:v1}I'm finna make one
+<I'm:200.242:200.444|finna:200.444:200.708|make:200.708:200.849|one:200.849:201.155>

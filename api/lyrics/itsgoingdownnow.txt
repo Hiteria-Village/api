@@ -1,0 +1,129 @@
+[00:02.83]{agent:v1}Baby, baby, baby, baby, baby
+<Baby,:2.8290000000000006:3.3890000000000002|baby,:3.3890000000000002:4.509|baby,:3.949:5.629|baby,:4.509:6.748999999999999|baby:5.069:5.629>
+[00:05.63]{agent:v1}Baby, baby, baby, baby, baby
+<Baby,:5.629:6.1958|baby,:6.1958:7.3294|baby,:6.762599999999999:8.463|baby,:7.3294:9.5966|baby:7.8962:8.463>
+[00:08.46]{agent:v1}Baby, baby, baby, baby, baby
+<Baby,:8.463:8.9998|baby,:8.9998:10.0734|baby,:9.5366:11.147|baby,:10.0734:12.2206|baby:10.6102:11.147>
+[00:11.15]{agent:v1}Ba-baby, baby, baby, baby, baby
+<Ba-baby,:11.147:11.674|baby,:11.674:12.728|baby,:12.201:13.782|baby,:12.728:14.835999999999999|baby:13.255:13.782>
+[00:13.78]{agent:v1}It's those unintelligent monsters, ain't it?
+<It's:13.782:14.084833|those:14.084833:14.6905|unintelligent:14.387667:15.296167|monsters,:14.6905:15.901833|ain't:14.993333:16.5075|it?:15.296167:15.599>
+[00:15.60]{agent:v1}What are they thinking? Please explain it
+<What:15.599:15.800142999999998|are:15.800142999999998:16.202429|they:16.001286:16.604714|thinking?:16.202429:17.007|Please:16.403571:17.409286|explain:16.604714:17.811571|it:16.805857:17.007>
+[00:17.01]{agent:v1}Don't really need this crap, can't waste time
+<Don't:17.007:17.18725|really:17.18725:17.54775|need:17.3675:17.90825|this:17.54775:18.26875|crap,:17.728:18.62925|can't:17.90825:18.98975|waste:18.0885:19.35025|time:18.26875:18.449>
+[00:18.45]{agent:v1}What I possess can't copy and paste, uh
+<What:18.449:18.61125|I:18.61125:18.93575|possess:18.7735:19.26025|can't:18.93575:19.58475|copy:19.098:19.90925|and:19.26025:20.23375|paste,:19.4225:20.55825|uh:19.58475:19.747>
+[00:19.75]{agent:v1}I'm doing it better, never settling for another regular
+<I'm:19.747:20.062889|doing:20.062889:20.694667|it:20.378778:21.326444|better,:20.694667:21.958222|never:21.010556:22.59|settling:21.326444:23.221778|for:21.642333:23.853556|another:21.958222:24.485333|regular:22.274111:22.59>
+[00:22.71]{agent:v1}Letter to my enemies, hey, I'm telling ya
+<Letter:22.707:22.891375|to:22.891375:23.260125|my:23.07575:23.628875|enemies,:23.260125:23.997625|hey,:23.4445:24.366375|I'm:23.628875:24.735125|telling:23.81325:25.103875|ya:23.997625:24.182>
+[00:24.18]{agent:v1}Breaking you down to the level of molecular
+<Breaking:24.182:24.359|you:24.359:24.713|down:24.536:25.067|to:24.713:25.421|the:24.89:25.775|level:25.067:26.129|of:25.244:26.483|molecular:25.421:25.598>
+[00:26.23]{agent:v1}Better be wise when you're choosing battles
+<Better:26.225:26.442|be:26.442:26.876|wise:26.659:27.31|when:26.876:27.744|you're:27.093:28.178|choosing:27.31:28.612|battles:27.527:27.744>
+[00:27.74]{agent:v1}Mostly babbles
+<Mostly:27.744:28.062|babbles:28.062:28.38>
+[00:28.38]{agent:v1}You know one of those big time shady foe-foes
+<You:28.38:28.585333|know:28.585333:28.996|one:28.790667:29.406667|of:28.996:29.817333|those:29.201333:30.228|big:29.406667:30.638666999999998|time:29.612:31.049332999999997|shady:29.817333:31.46|foe-foes:30.022667:30.228>
+[00:30.23]{agent:v1}Ain't worth fighting for
+<Ain't:30.228:30.462000000000003|worth:30.462000000000003:30.93|fighting:30.695999999999998:31.398000000000003|for:30.93:31.164>
+[00:31.26]{agent:v1}Drop these bars in my sleep
+<Drop:31.256999999999998:31.476667|these:31.476667:31.915999999999997|bars:31.696333000000003:32.355333|in:31.915999999999997:32.794667|my:32.135667:33.234|sleep:32.355333:32.575>
+[00:32.72]{agent:v1}Few more tricks up my sleeve
+<Few:32.724:32.958167|more:32.958167:33.4265|tricks:33.192333:33.894833|up:33.4265:34.363167|my:33.660667:34.8315|sleeve:33.894833:34.129>
+[00:34.13]{agent:v1}It's way too late for you to leave now
+<It's:34.129:34.290222|way:34.290222:34.612667|too:34.451444:34.935111|late:34.612667:35.257556|for:34.773889:35.58|you:34.935111:35.902444|to:35.096333:36.224889|leave:35.257556:36.547333|now:35.418778:35.58>
+[00:35.58]{agent:v1}Get ready
+<Get:35.58:35.936|ready:35.936:36.292>
+[00:35.97]{agent:v1}Disturbing the peace
+<Disturbing:35.969:36.814667|the:36.814667:38.506|peace:37.660333:38.506>
+[00:38.82]{agent:v1}Look into my eyes
+<Look:38.823:39.52925|into:39.52925:40.94175|my:40.2355:42.35425|eyes:40.94175:41.648>
+[00:41.84]{agent:v1}Now tell me the things
+<Now:41.84:42.0432|tell:42.0432:42.4496|me:42.2464:42.856|the:42.4496:43.2624|things:42.6528:42.856>
+[00:42.86]{agent:v1}You blabbing about behind my back
+<You:42.856:43.545333|blabbing:43.545333:44.924|about:44.234667:46.302667|behind:44.924:47.681333|my:45.613333:49.06|back:46.302667:46.992>
+[00:47.55]{agent:v1}The tenacity
+<The:47.554:48.7765|tenacity:48.7765:49.999>
+[00:50.25]{agent:v1}I hold it's hard to break down
+<I:50.246:50.763429|hold:50.763429:51.798286|it's:51.280857:52.833143|hard:51.798286:53.868|to:52.315714:54.902857|break:52.833143:55.937714|down:53.350571:53.868>
+[00:54.70]{agent:v1}It's too late for apologies
+<It's:54.699:55.305|too:55.305:56.517|late:55.911:57.729|for:56.517:58.941|apologies:57.123:57.729>
+[00:57.73]{agent:v1}It's going down now
+<It's:57.729:59.56225|going:59.56225:63.228750000000005|down:61.3955:66.89525|now:63.228750000000005:65.062>
+[01:05.06]{agent:v1}
+[01:11.12]{agent:v1}You're thirsty for blood
+<You're:71.122:71.437|thirsty:71.437:72.067|for:71.752:72.697|blood:72.067:72.382>
+[01:12.38]{agent:v1}Actually craving for love
+<Actually:72.382:72.72725|craving:72.72725:73.41775|for:73.0725:74.10825|love:73.41775:73.763>
+[01:13.76]{agent:v1}What you only want is dub
+<What:73.763:74.006833|you:74.006833:74.4945|only:74.250667:74.982167|want:74.4945:75.469833|is:74.738333:75.9575|dub:74.982167:75.226>
+[01:15.23]{agent:v1}Greed makes you go numb
+<Greed:75.226:75.506|makes:75.506:76.066|you:75.786:76.626|go:76.066:77.186|numb:76.346:76.626>
+[01:16.63]{agent:v1}Purposefully blocking good thoughts
+<Purposefully:76.626:76.98525|blocking:76.98525:77.70375|good:77.3445:78.42225|thoughts:77.70375:78.063>
+[01:18.06]{agent:v1}Hey, please doctor, doctor
+<Hey,:78.063:78.31825|please:78.31825:78.82875|doctor,:78.5735:79.33925|doctor:78.82875:79.084>
+[01:19.08]{agent:v1}He's 'bout to be that patient
+<He's:79.084:79.266667|'bout:79.266667:79.632|to:79.449333:79.997333|be:79.632:80.362667|that:79.814667:80.728|patient:79.997333:80.18>
+[01:20.18]{agent:v1}'Cause I'm about to knock him out cold
+<'Cause:80.18:80.403|I'm:80.403:80.849|about:80.626:81.295|to:80.849:81.741|knock:81.072:82.187|him:81.295:82.633|out:81.518:83.079|cold:81.741:81.964>
+[01:21.66]{agent:v1}Bring him back, please
+<Bring:81.659:81.936|him:81.936:82.49|back,:82.213:83.044|please:82.49:82.767>
+[01:22.77]{agent:v1}Whole lotta moves I make on you like dance floor
+<Whole:82.767:83.0307|lotta:83.0307:83.5581|moves:83.2944:84.0855|I:83.5581:84.6129|make:83.8218:85.1403|on:84.0855:85.6677|you:84.3492:86.1951|like:84.6129:86.7225|dance:84.8766:87.2499|floor:85.1403:85.404>
+[01:25.40]{agent:v1}And during this beat down, you probably wish that you can fast forward (Oh)
+<And:85.404:85.642643|during:85.642643:86.119929|this:85.881286:86.597214|beat:86.119929:87.0745|down,:86.358571:87.551786|you:86.597214:88.029071|probably:86.835857:88.506357|wish:87.0745:88.983643|that:87.313143:89.460929|you:87.551786:89.938214|can:87.790429:90.4155|fast:88.029071:90.892786|forward:88.267714:91.370071|(Oh):88.506357:88.745>
+[01:28.74]{agent:v1}Don't you worry 'bout it
+<Don't:88.745:88.9376|you:88.9376:89.3228|worry:89.1302:89.708|'bout:89.3228:90.0932|it:89.5154:89.708>
+[01:29.71]{agent:v1}I'll save some room for your last words
+<I'll:89.708:89.905625|save:89.905625:90.300875|some:90.10325:90.696125|room:90.300875:91.091375|for:90.4985:91.486625|your:90.696125:91.881875|last:90.89375:92.277125|words:91.091375:91.289>
+[01:31.29]{agent:v1}After I do this, do that, and the third
+<After:91.289:91.489|I:91.489:91.889|do:91.689:92.289|this,:91.889:92.689|do:92.089:93.089|that,:92.289:93.489|and:92.489:93.889|the:92.689:94.289|third:92.889:93.089>
+[01:33.09]{agent:v1}Disturbing the peace
+<Disturbing:93.089:93.945|the:93.945:95.657|peace:94.801:95.657>
+[01:35.92]{agent:v1}Look into my eyes
+<Look:95.921:96.655|into:96.655:98.123|my:97.389:99.591|eyes:98.123:98.857>
+[01:38.96]{agent:v1}Now tell me the things
+<Now:98.965:99.1916|tell:99.1916:99.6448|me:99.4182:100.098|the:99.6448:100.5512|things:99.8714:100.098>
+[01:40.10]{agent:v1}You blabbing about behind my back
+<You:100.098:100.75|blabbing:100.75:102.054|about:101.402:103.358|behind:102.054:104.662|my:102.706:105.966|back:103.358:104.01>
+[01:44.63]{agent:v1}The tenacity
+<The:104.629:105.857|tenacity:105.857:107.085>
+[01:47.38]{agent:v1}I hold it's hard to break down
+<I:107.38:107.911857|hold:107.911857:108.975571|it's:108.443714:110.039286|hard:108.975571:111.103|to:109.507429:112.166714|break:110.039286:113.230429|down:110.571143:111.103>
+[01:51.82]{agent:v1}It's too late for apologies
+<It's:111.824:112.4372|too:112.4372:113.6636|late:113.0504:114.89|for:113.6636:116.1164|apologies:114.2768:114.89>
+[01:54.89]{agent:v1}It's going
+<It's:114.89:115.756|going:115.756:116.622>
+[01:56.62]{agent:v1}Some things may break me
+<Some:116.622:117.2062|things:117.2062:118.3746|may:117.7904:119.543|break:118.3746:120.7114|me:118.9588:119.543>
+[01:59.70]{agent:v1}But always get back up
+<But:119.705:120.1668|always:120.1668:121.0904|get:120.6286:122.014|back:121.0904:122.9376|up:121.5522:122.014>
+[02:02.35]{agent:v1}New perspective gained
+<New:122.347:123.133667|perspective:123.133667:124.707|gained:123.920333:124.707>
+[02:04.71]{agent:v1}From all the pain and stress
+<From:124.707:125.22|all:125.22:126.24599999999998|the:125.733:127.27199999999999|pain:126.24599999999998:128.298|and:126.75900000000001:129.324|stress:127.27199999999999:127.785>
+[02:07.91]{agent:v1}And when I do come back
+<And:127.905:128.321|when:128.321:129.153|I:128.737:129.985|do:129.153:130.817|come:129.569:131.649|back:129.985:130.401>
+[02:10.60]{agent:v1}I'm stronger than ever before
+<I'm:130.602:131.5554|stronger:131.5554:133.4622|than:132.5088:135.369|ever:133.4622:137.2758|before:134.4156:135.369>
+[02:15.55]{agent:v1}So kneel down
+<So:135.548:136.654|kneel:136.654:138.866|down:137.76:138.866>
+[02:18.87]{agent:v1}Disturbing the peace
+<Disturbing:138.866:139.724|the:139.724:141.44|peace:140.582:141.44>
+[02:21.69]{agent:v1}Look into my eyes
+<Look:141.688:142.416|into:142.416:143.872|my:143.144:145.328|eyes:143.872:144.6>
+[02:24.71]{agent:v1}Now tell me the things
+<Now:144.709:144.9244|tell:144.9244:145.3552|me:145.1398:145.786|the:145.3552:146.2168|things:145.5706:145.786>
+[02:25.79]{agent:v1}You blabbing about behind my back
+<You:145.786:146.472333|blabbing:146.472333:147.845|about:147.158667:149.217667|behind:147.845:150.590333|my:148.531333:151.963|back:149.217667:149.904>
+[02:30.36]{agent:v1}The tenacity
+<The:150.364:151.572|tenacity:151.572:152.78>
+[02:33.04]{agent:v1}I hold it's hard to break down
+<I:153.041:153.608|hold:153.608:154.742|it's:154.175:155.876|hard:154.742:157.01|to:155.309:158.144|break:155.876:159.278|down:156.443:157.01>
+[02:37.56]{agent:v1}It's too late for apologies
+<It's:157.563:158.1792|too:158.1792:159.4116|late:158.7954:160.644|for:159.4116:161.8764|apologies:160.0278:160.644>
+[02:40.64]{agent:v1}It's going down
+<It's:160.644:162.3|going:162.3:165.612|down:163.956:165.612>

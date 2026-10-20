@@ -1,0 +1,88 @@
+[00:16.50]{agent:v1}No nightmares
+<No:16.497:16.66|nightmares:16.66:17.616>
+[00:18.47]{agent:v1}When you can still see the light
+<When:18.471:18.775|you:18.775:19.007|can:19.007:19.151|still:19.151:19.335|see:19.335:19.559|the:19.559:19.703|light:19.703:20.275>
+[00:20.28]{agent:v1}
+[00:22.90]{agent:v1}Can't find me
+<Can't:22.899:23.158|find:23.158:23.286|me:23.286:23.675>
+[00:24.65]{agent:v1}I'm not in the city tonight
+<I'm:24.645:24.882|not:24.882:25.106|in:25.106:25.29|the:25.29:25.474|city:25.474:25.89|tonight:25.89:26.754>
+[00:28.06]{agent:v1}I like your playlist, boy, turn it up a little louder
+<I:28.06:28.3|like:28.3:28.5|your:28.5:28.644|playlist,:28.644:29.444|boy,:29.444:29.863|turn:29.863:30.063|it:30.063:30.295|up:30.295:30.519|a:30.519:30.663|little:30.663:31.052|louder:31.052:31.876>
+[00:31.88]{agent:v1}Road's empty, so you drive a little faster
+<Road's:31.876:32.255|empty,:32.255:33.124|so:33.124:33.34|you:33.34:33.484|drive:33.484:33.649|a:33.649:33.873|little:33.873:34.289|faster:34.289:35.479>
+[00:36.13]{agent:v1}Ain't taken nothing tonight, but I'm feeling so high
+<Ain't:36.128:36.32|taken:36.32:36.637|nothing:36.637:37.107|tonight,:37.107:37.642|but:37.642:37.946|I'm:37.946:38.232|feeling:38.232:38.709|so:38.709:38.981|high:38.981:39.701>
+[00:40.50]{agent:v1}Show my tan lines, low-rise
+<Show:40.502:40.969|my:40.969:41.321|tan:41.321:42.195|lines,:42.195:42.913|low-rise:42.913:44.497>
+[00:44.50]{agent:v1}Rooftop down
+<Rooftop:44.497:46.172|down:46.172:46.762>
+[00:46.99]{agent:v1}It's golden hour all the time
+<It's:46.986:47.765|golden:47.765:49.381|hour:49.381:50.165|all:50.165:50.599|the:50.599:50.965|time:50.965:52.284>
+[00:53.68]{agent:v1}It's the midnight sun-kissed skin under the red sky
+<It's:53.682:53.903|the:53.903:54.069|midnight:54.069:54.786|sun-kissed:54.786:55.687|skin:55.687:55.869|under:55.869:56.375|the:56.375:56.543|red:56.543:56.943|sky:56.943:57.251>
+[00:57.25]{agent:v1}Laying on your chest like this
+<Laying:57.251:57.79|on:57.79:57.974|your:57.974:58.067|chest:58.067:58.491|like:58.491:58.958|this:58.958:59.493>
+[00:59.63]{agent:v1}Hold me like the pebbles in your hand
+<Hold:59.633:59.934|me:59.934:60.116|like:60.116:60.3|the:60.3:60.508|pebbles:60.508:60.934|in:60.934:61.116|your:61.116:61.284|hand:61.284:61.704>
+[01:01.70]{agent:v1}Initials in the sand, yeah
+<Initials:61.704:62.571|in:62.571:62.744|the:62.744:62.928|sand,:62.928:63.328|yeah:63.328:63.703>
+[01:03.70]{agent:v1}Summer isn't over yet
+<Summer:63.703:64.127|isn't:64.127:64.492|over:64.492:65.343|yet:65.343:65.922>
+[01:06.27]{agent:v1}Skinny-dipping with your heart out
+<Skinny-dipping:66.267:67.27|with:67.27:67.422|your:67.422:67.584|heart:67.584:68.035|out:68.035:68.428>
+[01:08.43]{agent:v1}It's my favorite part now
+<It's:68.428:68.739|my:68.739:68.905|favorite:68.905:69.313|part:69.313:69.678|now:69.678:70.032>
+[01:10.03]{agent:v1}We ain't gotta tell no one
+<We:70.032:70.295|ain't:70.295:70.479|gotta:70.479:70.804|tell:70.804:71.204|no:71.204:71.607|one:71.607:72.028>
+[01:12.59]{agent:v1}A never-ending midnight sun
+<A:72.586:72.81|never-ending:72.81:74.687|midnight:74.687:76.23|sun:76.23:85.355>
+[01:25.35]{agent:v1}A never-ending midnight sun
+<A:85.355:85.552|never-ending:85.552:87.446|midnight:87.446:88.995|sun:88.995:92.313>
+[01:32.31]{agent:v1}
+[01:36.03]{agent:v1}Connected
+<Connected:96.034:97.118>
+[01:38.00]{agent:v1}I'm so in touch with it all
+<I'm:98.002:98.159|so:98.159:98.351|in:98.351:98.541|touch:98.541:98.759|with:98.759:99.114|it:99.114:99.309|all:99.309:99.863>
+[01:39.86]{agent:v1}
+[01:42.05]{agent:v1}Feel protected
+<Feel:102.054:102.395|protected:102.395:103.302>
+[01:44.55]{agent:v1}By the moon and the stars
+<By:104.551:104.82|the:104.82:105.111|moon:105.111:105.204|and:105.204:105.375|the:105.375:105.54|stars:105.54:106.296>
+[01:47.52]{agent:v1}I'm walking barefoot, feel the grass in between my toes
+<I'm:107.519:107.695|walking:107.695:108.111|barefoot,:108.111:108.93|feel:108.93:109.114|the:109.114:109.282|grass:109.282:109.754|in:109.754:109.938|between:109.938:110.335|my:110.335:110.508|toes:110.508:110.942>
+[01:50.94]{agent:v1}Bombshell wind in my hair, baby, let it blow, yeah
+<Bombshell:110.942:111.749|wind:111.749:112.175|in:112.175:112.357|my:112.357:112.581|hair,:112.581:112.909|baby,:112.909:113.359|let:113.359:113.565|it:113.565:113.733|blow,:113.733:114.149|yeah:114.149:115.193>
+[01:55.70]{agent:v1}It's been a while since I've cried over something so nice
+<It's:115.698:115.879|been:115.879:116.031|a:116.031:116.189|while:116.189:116.471|since:116.471:116.663|I've:116.663:116.954|cried:116.954:117.165|over:117.165:117.682|something:117.682:118.199|so:118.199:118.455|nice:118.455:119.247>
+[01:59.95]{agent:v1}Show my tan lines, low-rise
+<Show:119.949:120.426|my:120.426:120.832|tan:120.832:121.626|lines,:121.626:122.432|low-rise:122.432:124.003>
+[02:04.11]{agent:v1}Rooftop down
+<Rooftop:124.113:125.62|down:125.62:126.302>
+[02:06.42]{agent:v1}It's golden hour all the time
+<It's:126.422:127.206|golden:127.206:128.774|hour:128.774:129.606|all:129.606:130.057|the:130.057:130.39|time:130.39:131.801>
+[02:13.11]{agent:v1}It's the midnight sun-kissed skin under the red sky
+<It's:133.108:133.377|the:133.377:133.527|midnight:133.527:134.311|sun-kissed:134.311:135.161|skin:135.161:135.385|under:135.385:135.785|the:135.785:135.929|red:135.929:136.281|sky:136.281:136.787>
+[02:16.79]{agent:v1}Laying on your chest like this, ah
+<Laying:136.787:137.2|on:137.2:137.344|your:137.344:137.515|chest:137.515:137.952|like:137.952:138.352|this,:138.352:138.784|ah:138.784:139.061>
+[02:19.19]{agent:v1}Hold me like the pebbles in your hand
+<Hold:139.191:139.369|me:139.369:139.513|like:139.513:139.713|the:139.713:139.969|pebbles:139.969:140.353|in:140.353:140.513|your:140.513:140.769|hand:140.769:141.125>
+[02:21.12]{agent:v1}Initials in the sand, yeah
+<Initials:141.125:141.957|in:141.957:142.162|the:142.162:142.317|sand,:142.317:142.706|yeah:142.706:143.054>
+[02:23.09]{agent:v1}Summer isn't over yet
+<Summer:143.087:143.51|isn't:143.51:143.915|over:143.915:144.694|yet:144.694:145.212>
+[02:25.79]{agent:v1}Skinny-dipping with your heart out
+<Skinny-dipping:145.793:146.785|with:146.785:146.95|your:146.95:147.094|heart:147.094:147.553|out:147.553:147.86>
+[02:27.86]{agent:v1}It's my favorite part now
+<It's:147.86:148.213|my:148.213:148.378|favorite:148.378:148.722|part:148.722:149.181|now:149.181:149.462>
+[02:29.46]{agent:v1}We ain't gotta tell no one
+<We:149.462:149.769|ain't:149.769:149.934|gotta:149.934:150.302|tell:150.302:150.662|no:150.662:151.086|one:151.086:151.556>
+[02:32.03]{agent:v1}A never-ending midnight sun
+<A:152.027:152.262|never-ending:152.262:154.23|midnight:154.23:155.752|sun:155.752:164.712>
+[02:44.71]{agent:v1}A never-ending midnight sun
+<A:164.712:164.883|never-ending:164.883:166.899|midnight:166.899:168.488|sun:168.488:177.407>
+[02:53.45]{agent:v1}A never-ending midnight sun
+<A:173.455:173.69|never-ending:173.69:174.668|midnight:174.668:175.242|sun:175.242:175.8>
+[02:55.80]{agent:v1}
+[02:57.41]{agent:v1}A never-ending midnight sun
+<A:177.405:177.7|never-ending:177.7:179.644|midnight:179.644:181.129|sun:181.129:184.579>

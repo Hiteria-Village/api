@@ -1,0 +1,87 @@
+[00:11.40]{agent:v1}Blacked out, everything's faded
+<Blacked:11.401:12.374|out,:12.374:13.46|everything's:13.46:14.466|faded:14.466:15.242>
+[00:15.30]{agent:v1}On your love
+<On:15.305:15.751|your:15.751:16.593|love:16.593:17.257>
+[00:17.26]{agent:v1}I'm already wasted
+<I'm:17.256:17.59|already:17.59:18.122|wasted:18.122:19.353>
+[00:19.35]{agent:v1}So close, that I can taste it now
+<So:19.352:20.107|close,:20.107:20.958|that:20.958:21.304|I:21.304:21.664|can:21.664:22.028|taste:22.028:22.602|it:22.602:23.086|now:23.086:24.484>
+[00:24.48]{agent:v1}Now
+<Now:24.484:25.944>
+[00:25.94]{agent:v1}So let's break right out of these gilded cages
+<So:25.944:26.511|let's:26.511:27.139|break:27.139:28.008|right:28.008:28.932|out:28.932:29.196|of:29.196:29.589|these:29.589:29.901|gilded:29.901:30.646|cages:30.646:32.688>
+[00:32.69]{agent:v1}We're gonna make it now
+<We're:32.691:33.171|gonna:33.171:33.736|make:33.736:34.201|it:34.201:34.648|now:34.648:36.07>
+[00:36.54]{agent:v1}Don't ever turn around
+<Don't:36.535:37.028|ever:37.028:37.425|turn:37.425:38.056|around:38.056:39.779>
+[00:40.40]{agent:v1}Don't ever turn around
+<Don't:40.404:40.865|ever:40.865:41.274|turn:41.274:41.842|around:41.842:43.512>
+[00:43.51]{agent:v1}Nobody else needs to know
+<Nobody:43.51:44.296|else:44.296:44.919|needs:44.919:45.438|to:45.438:45.999|know:45.999:47.923>
+[00:47.95]{agent:v1}Where we might go
+<Where:47.955:48.57|we:48.57:49.26|might:49.26:49.708|go:49.708:50.78>
+[00:50.78]{agent:v1}We could just run them red lights
+<We:50.778:51.321|could:51.321:51.604|just:51.604:52.116|run:52.116:52.716|them:52.716:53.286|red:53.286:53.949|lights:53.949:54.719>
+[00:54.72]{agent:v1}We could just run them red lights
+<We:54.721:55.111|could:55.111:55.569|just:55.569:56.119|run:56.119:56.552|them:56.552:56.937|red:56.937:57.479|lights:57.479:58.759>
+[00:58.76]{agent:v1}There ain't no reason to stay
+<There:58.758:59.135|ain't:59.135:59.337|no:59.337:59.836|reason:59.836:60.632|to:60.632:61.219|stay:61.219:62.855>
+[01:02.86]{agent:v1}We'll be light years away
+<We'll:62.857:63.296|be:63.296:63.709|light:63.709:64.167|years:64.167:64.64500000000001|away:64.64500000000001:66.392>
+[01:06.39]{agent:v1}We could just run them red lights
+<We:66.394:66.613|could:66.613:67.052|just:67.052:67.458|run:67.458:68.036|them:68.036:68.444|red:68.444:68.953|lights:68.953:70.098>
+[01:10.10]{agent:v1}We could just run them red lights
+<We:70.098:70.612|could:70.612:70.959|just:70.959:71.299|run:71.299:71.901|them:71.901:72.419|red:72.419:72.861|lights:72.861:74.074>
+[01:14.07]{agent:v1}
+[01:40.73]{agent:v1}We could just run them red lights
+<We:100.726:101.114|could:101.114:101.647|just:101.647:102.157|run:102.157:102.661|them:102.661:103.096|red:103.096:103.545|lights:103.545:104.772>
+[01:44.77]{agent:v1}
+[01:47.60]{agent:v1}White lights flirt in the darkness
+<White:107.598:108.399|lights:108.399:109.578|flirt:109.578:109.81|in:109.81:110.112|the:110.112:110.268|darkness:110.268:111.466>
+[01:51.46]{agent:v1}This road leads where your heart is
+<This:111.464:112.228|road:112.228:113.333|leads:113.333:113.644|where:113.644:113.935|your:113.935:114.174|heart:114.174:114.672|is:114.672:115.23>
+[01:55.23]{agent:v1}These signs, something we can't ignore
+<These:115.229:116.12|signs,:116.12:116.951|something:116.951:117.822|we:117.822:118.111|can't:118.111:118.578|ignore:118.578:120.455>
+[02:00.46]{agent:v1}No
+<No:120.456:122.163>
+[02:02.16]{agent:v1}We can't back down
+<We:122.163:122.538|can't:122.538:123.105|back:123.105:124.03|down:124.03:124.863>
+[02:04.86]{agent:v1}We'll never let them change us
+<We'll:124.861:125.338|never:125.338:125.708|let:125.708:126.426|them:126.426:126.676|change:126.676:127.953|us:127.953:128.757>
+[02:08.76]{agent:v1}We're gonna make it now
+<We're:128.757:129.206|gonna:129.206:129.639|make:129.639:130.082|it:130.082:130.506|now:130.506:132.287>
+[02:12.66]{agent:v1}What are we waiting for?
+<What:132.663:133.033|are:133.033:133.173|we:133.173:133.366|waiting:133.366:134.429|for?:134.429:135.933>
+[02:16.45]{agent:v1}What are we waiting for?
+<What:136.45:136.751|are:136.751:137.05|we:137.05:137.286|waiting:137.286:138.194|for?:138.194:139.53>
+[02:19.53]{agent:v1}Nobody else needs to know
+<Nobody:139.532:140.431|else:140.431:141.032|needs:141.032:141.382|to:141.382:141.912|know:141.912:143.947>
+[02:24.07]{agent:v1}Where we might go
+<Where:144.073:144.729|we:144.729:145.278|might:145.278:145.72|go:145.72:146.961>
+[02:26.96]{agent:v1}We could just run them red lights
+<We:146.962:147.186|could:147.186:147.505|just:147.505:148.007|run:148.007:148.551|them:148.551:149.152|red:149.152:149.584|lights:149.584:150.777>
+[02:30.78]{agent:v1}We could just run them red lights
+<We:150.779:151.093|could:151.093:151.382|just:151.382:152.032|run:152.032:152.496|them:152.496:152.933|red:152.933:153.438|lights:153.438:154.804>
+[02:34.80]{agent:v1}There ain't no reason to stay
+<There:154.805:155.261|ain't:155.261:155.648|no:155.648:155.935|reason:155.935:156.747|to:156.747:157.287|stay:157.287:158.843>
+[02:38.84]{agent:v1}We'll be light years away
+<We'll:158.844:159.203|be:159.203:159.607|light:159.607:160.275|years:160.275:160.737|away:160.737:162.429>
+[02:42.43]{agent:v1}We could just run them red lights
+<We:162.431:162.724|could:162.724:163.092|just:163.092:163.567|run:163.567:164|them:164:164.48|red:164.48:165.015|lights:165.015:166.114>
+[02:46.22]{agent:v1}We could just run them red lights
+<We:166.219:166.485|could:166.485:166.769|just:166.769:167.243|run:167.243:167.841|them:167.841:168.45|red:168.45:168.731|lights:168.731:170.2>
+[02:50.20]{agent:v1}
+[03:16.91]{agent:v1}We could just run them red lights
+<We:196.913:197.296|could:197.296:197.422|just:197.422:197.938|run:197.938:198.535|them:198.535:198.997|red:198.997:199.65|lights:199.65:200.322>
+[03:20.32]{agent:v1}
+[03:55.38]{agent:v1}We could just run them red lights
+<We:235.385:235.694|could:235.694:236.023|just:236.023:236.447|run:236.447:236.908|them:236.908:237.429|red:237.429:237.999|lights:237.999:239.114>
+[03:59.11]{agent:v1}
+[04:02.87]{agent:v1}We could just run them red lights
+<We:242.873:243.453|could:243.453:243.69|just:243.69:244.176|run:244.176:244.673|them:244.673:245.071|red:245.071:245.578|lights:245.578:246.693>
+[04:06.69]{agent:v1}
+[04:10.66]{agent:v1}We could just run them red lights
+<We:250.655:251.13|could:251.13:251.428|just:251.428:251.836|run:251.836:252.24|them:252.24:252.721|red:252.721:253.227|lights:253.227:254.47>
+[04:14.47]{agent:v1}
+[04:18.31]{agent:v1}We could just run them red lights
+<We:258.311:258.819|could:258.819:259.149|just:259.149:259.559|run:259.559:259.936|them:259.936:260.407|red:260.407:261.004|lights:261.004:262.127>

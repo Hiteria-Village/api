@@ -1,0 +1,58 @@
+[00:13.98]{agent:v1}Days into years holding out, barely on the borderline
+<Days:13.979:14.331|into:14.331:14.644|years:14.644:15.028|holding:15.028:15.352|out,:15.352:15.754000000000001|barely:15.754000000000001:16.102|on:16.102:16.211|the:16.211:16.434|borderline:16.434:17.662>
+[00:17.66]{agent:v1}
+[00:19.50]{agent:v1}Sky opens up, blue and warm, and I step into the light
+<Sky:19.499:19.895|opens:19.895:20.214|up,:20.214:20.612|blue:20.612:20.798|and:20.798:20.932|warm,:20.932:21.335|and:21.335:21.503|I:21.503:21.611|step:21.611:21.905|into:21.905:22.112|the:22.112:22.283|light:22.283:23.109>
+[00:23.53]{agent:v1}My head is overjoyed
+<My:23.529:23.744|head:23.744:24.142|is:24.142:24.489|overjoyed:24.489:26.053>
+[00:26.65]{agent:v1}And this is where I wanna be
+<And:26.647:26.899|this:26.899:27.112|is:27.112:27.228|where:27.228:27.453|I:27.453:27.632|wanna:27.632:27.923|be:27.923:28.861>
+[00:29.45]{agent:v1}But I can't feel a fuckin' thing
+<But:29.454:29.648|I:29.648:29.783|can't:29.783:30.007|feel:30.007:30.29|a:30.29:30.39|fuckin':30.39:30.677|thing:30.677:31.346>
+[00:31.35]{agent:v1}
+[00:36.22]{agent:v1}I was slipping up I didn't know which way to go
+<I:36.223:36.389|was:36.389:36.644|slipping:36.644:37.009|up:37.009:37.172|I:37.172:37.314|didn't:37.314:37.604|know:37.604:37.776|which:37.776:38.049|way:38.049:38.205|to:38.205:38.37|go:38.37:38.614>
+[00:39.03]{agent:v1}I was in my head, face down in the dirt
+<I:39.033:39.167|was:39.167:39.392|in:39.392:39.564|my:39.564:39.739|head,:39.739:40.116|face:40.116:40.459|down:40.459:40.829|in:40.829:40.941|the:40.941:41.143|dirt:41.143:41.451>
+[00:41.82]{agent:v1}Just when I thought that I could never get it right
+<Just:41.815:42.178|when:42.178:42.398|I:42.398:42.532|thought:42.532:42.749|that:42.749:42.963|I:42.963:43.031|could:43.031:43.238|never:43.238:43.635|get:43.635:43.778|it:43.778:43.935|right:43.935:44.569>
+[00:44.59]{agent:v1}Now I'm taking flight
+<Now:44.585:44.889|I'm:44.889:45.023|taking:45.023:45.314|flight:45.314:45.716>
+[00:45.72]{agent:v1}And my head is overjoyed
+<And:45.716:45.95|my:45.95:46.107|head:46.107:46.392|is:46.392:46.714|overjoyed:46.714:48.32>
+[00:49.00]{agent:v1}And this is where I wanna be
+<And:48.998:49.243|this:49.243:49.411|is:49.411:49.585|where:49.585:49.753|I:49.753:49.853|wanna:49.853:50.254|be:50.254:51.258>
+[00:51.80]{agent:v1}And this is where I wanna be
+<And:51.799:51.953|this:51.953:52.191|is:52.191:52.276|where:52.276:52.548|I:52.548:52.684|wanna:52.684:52.994|be:52.994:53.938>
+[00:54.55]{agent:v1}And this is where I wanna be
+<And:54.548:54.768|this:54.768:54.897|is:54.897:55.087|where:55.087:55.261|I:55.261:55.468|wanna:55.468:55.826|be:55.826:56.783>
+[00:57.31]{agent:v1}But I can't feel a fuckin' thing
+<But:57.313:57.51|I:57.51:57.702|can't:57.702:57.909|feel:57.909:58.078|a:58.078:58.281|fuckin':58.281:58.617|thing:58.617:59.352>
+[00:59.35]{agent:v1}
+[01:00.99]{agent:v1}Rain
+<Rain:60.99:61.556>
+[01:01.56]{agent:v1}
+[01:03.77]{agent:v1}Rain
+<Rain:63.769999999999996:64.291>
+[01:04.29]{agent:v1}
+[01:06.54]{agent:v1}Rain
+<Rain:66.54:67.091>
+[01:08.37]{agent:v1}Head is overjoyed
+<Head:68.371:68.752|is:68.752:69.074|overjoyed:69.074:70.623>
+[01:11.33]{agent:v1}And this is where I wanna be
+<And:71.332:71.566|this:71.566:71.783|is:71.783:71.96|where:71.96:72.197|I:72.197:72.316|wanna:72.316:72.62|be:72.62:73.535>
+[01:14.12]{agent:v1}And this is where I wanna be
+<And:74.119:74.322|this:74.322:74.504|is:74.504:74.671|where:74.671:74.909|I:74.909:75.048|wanna:75.048:75.365|be:75.365:76.456>
+[01:16.93]{agent:v1}And this is where I want to be
+<And:76.934:77.086|this:77.086:77.271|is:77.271:77.402|where:77.402:77.662|I:77.662:77.861|want:77.861:78.041|to:78.041:78.317|be:78.317:79.23>
+[01:19.60]{agent:v1}But I can't feel a fuckin' thing
+<But:79.599:79.765|I:79.765:79.961|can't:79.961:80.261|feel:80.261:80.464|a:80.464:80.625|fuckin':80.625:80.919|thing:80.919:81.713>
+[01:21.71]{agent:v1}
+[01:23.34]{agent:v1}Rain
+<Rain:83.344:83.861>
+[01:23.86]{agent:v1}
+[01:26.15]{agent:v1}Rain
+<Rain:86.154:86.617>
+[01:26.62]{agent:v1}
+[01:28.88]{agent:v1}Rain
+<Rain:88.883:89.375>

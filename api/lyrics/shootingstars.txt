@@ -1,0 +1,90 @@
+[00:43.85]{agent:v1}It's late and I'm awake
+<It's:43.848:44.155|late:44.155:44.371|and:44.371:44.827|I'm:44.827:45.237|awake:45.237:46.676>
+[00:47.61]{agent:v1}Staring at the wall
+<Staring:47.606:48.691|at:48.691:49.139|the:49.139:49.59|wall:49.59:50.414>
+[00:51.69]{agent:v1}Open up my window
+<Open:51.694:52.507|up:52.507:52.942|my:52.942:53.39|window:53.39:54.607>
+[00:55.48]{agent:v1}Head floats out the door
+<Head:55.477:56.098|floats:56.098:56.584|out:56.584:57.077|the:57.077:57.365|door:57.365:58.123>
+[00:59.49]{agent:v1}No one else around
+<No:59.49:59.719|one:59.719:60.21|else:60.21:60.652|around:60.652:62.027>
+[01:02.76]{agent:v1}The shimmer takes my eye
+<The:62.757:63.301|shimmer:63.301:63.994|takes:63.994:64.501|my:64.501:64.893|eye:64.893:65.87>
+[01:05.87]{agent:v1}
+[01:07.47]{agent:v1}I lift my head
+<I:67.47:67.902|lift:67.902:68.337|my:68.337:68.851|head:68.851:69.815>
+[01:10.88]{agent:v1}Blinded by the sky
+<Blinded:70.875:71.686|by:71.686:72.158|the:72.158:72.352|sky:72.352:73.5>
+[01:14.63]{agent:v1}Feel my weight in front
+<Feel:74.63:75.067|my:75.067:75.55|weight:75.55:75.993|in:75.993:76.459|front:76.459:77.469>
+[01:18.45]{agent:v1}Just following the sound
+<Just:78.449:78.633|following:78.633:79.833|the:79.833:80.324|sound:80.324:81.244>
+[01:22.17]{agent:v1}It moves away so fast
+<It:82.174:82.481|moves:82.481:82.923|away:82.923:83.539|so:83.539:84.049|fast:84.049:85.132>
+[01:25.96]{agent:v1}We fall down to the ground
+<We:85.962:86.237|fall:86.237:86.77|down:86.77:87.293|to:87.293:87.802|the:87.802:88.002|ground:88.002:88.933>
+[01:29.86]{agent:v1}I know there's more to come
+<I:89.863:90.255|know:90.255:90.415|there's:90.415:90.855|more:90.855:91.255|to:91.255:91.732|come:91.732:92.69>
+[01:33.81]{agent:v1}Jump back to my feet
+<Jump:93.81:94.509|back:94.509:95.058|to:95.058:95.234|my:95.234:95.725|feet:95.725:96.517>
+[01:37.28]{agent:v1}Now I only see ahead of me
+<Now:97.277:97.648|I:97.648:97.88|only:97.88:98.498|see:98.498:99.024|ahead:99.024:99.93|of:99.93:100.381|me:100.381:101.141>
+[01:41.37]{agent:v1}Chasing down the street
+<Chasing:101.371:102.598|down:102.598:103.139|the:103.139:103.358|street:103.358:104.093>
+[01:44.47]{agent:v1}Down the street
+<Down:104.471:105.066|the:105.066:105.306|street:105.306:105.995>
+[01:46.36]{agent:v1}Down the street
+<Down:106.362:107.045|the:107.045:107.261|street:107.261:107.694>
+[01:48.17]{agent:v1}Down the street
+<Down:108.175:108.946|the:108.946:109.122|street:109.122:109.694>
+[01:50.21]{agent:v1}Down the street
+<Down:110.212:110.876|the:110.876:111.127|street:111.127:111.68>
+[01:51.68]{agent:v1}
+[02:45.46]{agent:v1}Give my love to a shooting star
+<Give:165.456:165.869|my:165.869:166.061|love:166.061:166.296|to:166.296:166.536|a:166.536:166.68|shooting:166.68:167.619|star:167.619:168.173>
+[02:48.18]{agent:v1}But she moves so fast
+<But:168.183:168.503|she:168.503:168.703|moves:168.703:169.13|so:169.13:169.655|fast:169.655:169.962>
+[02:50.13]{agent:v1}That I can't keep up
+<That:170.135:170.455|I:170.455:170.655|can't:170.655:171.066|keep:171.066:171.514|up:171.514:172.062>
+[02:52.07]{agent:v1}I'm chasing
+<I'm:172.072:172.309|chasing:172.309:173.085>
+[02:53.20]{agent:v1}I'm in love with a shooting star
+<I'm:173.205:173.618|in:173.618:173.794|love:173.794:174.029|with:174.029:174.229|a:174.229:174.418|shooting:174.418:175.202|star:175.202:175.881>
+[02:55.89]{agent:v1}But she moves so fast
+<But:175.891:176.144|she:176.144:176.419|moves:176.419:176.846|so:176.846:177.336|fast:177.336:177.779>
+[02:57.78]{agent:v1}When she falls then
+<When:177.781:177.989|she:177.989:178.24|falls:178.24:178.746|then:178.746:179.216>
+[02:59.23]{agent:v1}I'll be waiting
+<I'll:179.234:179.773|be:179.773:179.991|waiting:179.991:180.701>
+[03:00.90]{agent:v1}Give my love to a shooting star
+<Give:180.901:181.253|my:181.253:181.445|love:181.445:181.688|to:181.688:181.904|a:181.904:182.069|shooting:182.069:182.936|star:182.936:183.565>
+[03:03.58]{agent:v1}But she moves so fast
+<But:183.583:183.887|she:183.887:184.087|moves:184.087:184.498|so:184.498:185.02|fast:185.02:185.242>
+[03:05.44]{agent:v1}That I can't keep up
+<That:185.445:185.754|I:185.754:185.946|can't:185.946:186.381|keep:186.381:186.864|up:186.864:187.402>
+[03:07.42]{agent:v1}I'm chasing
+<I'm:187.42:187.668|chasing:187.668:188.549>
+[03:08.55]{agent:v1}I'm in love with a shooting star
+<I'm:188.551:188.871|in:188.871:189.119|love:189.119:189.394|with:189.394:189.57|a:189.57:189.743|shooting:189.743:190.644|star:190.644:191.182>
+[03:11.19]{agent:v1}But she moves so fast
+<But:191.192:191.48|she:191.48:191.771|moves:191.771:192.213|so:192.213:192.648|fast:192.648:193.172>
+[03:13.19]{agent:v1}When she falls then
+<When:193.19:193.486|she:193.486:193.665|falls:193.665:194.121|then:194.121:194.609>
+[03:14.61]{agent:v1}I'll be waiting
+<I'll:194.611:195.126|be:195.126:195.382|waiting:195.382:196.153>
+[03:16.23]{agent:v1}Give my love to a shooting star
+<Give:196.233:196.577|my:196.577:196.828|love:196.828:197.06|to:197.06:197.276|a:197.276:197.428|shooting:197.428:198.337|star:198.337:198.892>
+[03:18.90]{agent:v1}But she moves so fast
+<But:198.902:199.211|she:199.211:199.443|moves:199.443:199.838|so:199.838:200.345|fast:200.345:200.689>
+[03:20.90]{agent:v1}That I can't keep up
+<That:200.902:201.166|I:201.166:201.406|can't:201.406:201.822|keep:201.822:202.249|up:202.249:202.73>
+[03:22.73]{agent:v1}I'm chasing
+<I'm:202.732:202.996|chasing:202.996:203.881>
+[03:23.96]{agent:v1}I'm in love with a shooting star
+<I'm:203.961:204.225|in:204.225:204.476|love:204.476:204.748|with:204.748:204.964|a:204.964:205.132|shooting:205.132:205.876|star:205.876:206.649>
+[03:26.67]{agent:v1}But she moves so fast
+<But:206.667:206.896|she:206.896:207.152|moves:207.152:207.579|so:207.579:208.104|fast:208.104:208.563>
+[03:28.57]{agent:v1}When she falls then
+<When:208.573:208.834|she:208.834:209.053|falls:209.053:209.485|then:209.485:210.028>
+[03:30.03]{agent:v1}I'll be waiting
+<I'll:210.03:210.518|be:210.518:210.758|waiting:210.758:211.349>

@@ -1,0 +1,129 @@
+[00:19.42]{agent:v1}I just wanna stay in the sun, where I find
+<I:19.424:19.621|just:19.621:19.95|wanna:19.95:20.282|stay:20.282:20.723|in:20.723:20.886|the:20.886:21.063|sun,:21.063:21.535|where:21.535:21.834|I:21.834:22.113|find:22.113:22.774>
+[00:22.87]{agent:v1}I know it's hard sometimes
+<I:22.874:23.183|know:23.183:23.744|it's:23.744:23.992|hard:23.992:24.465|sometimes:24.465:25.459>
+[00:25.88]{agent:v1}Pieces of peace in the sun's peace of mind
+<Pieces:25.878:26.375|of:26.375:26.722|peace:26.722:27.175|in:27.175:27.306|the:27.306:27.483|sun's:27.483:27.91|peace:27.91:28.269|of:28.269:28.536|mind:28.536:29.132>
+[00:29.34]{agent:v1}I know it's hard sometimes
+<I:29.341:29.514|know:29.514:30.087|it's:30.087:30.285|hard:30.285:30.872|sometimes:30.872:31.766>
+[00:32.27]{agent:v1}Yeah, I think about the end just way too much
+<Yeah,:32.272:32.457|I:32.457:32.614999999999995|think:32.614999999999995:32.932|about:32.932:33.269|the:33.269:33.452|end:33.452:33.861999999999995|just:33.861999999999995:34.271|way:34.271:34.647|too:34.647:34.929|much:34.929:35.522>
+[00:35.62]{agent:v1}But it's fun to fantasize
+<But:35.619:35.832|it's:35.832:35.957|fun:35.957:36.56|to:36.56:36.737|fantasize:36.737:38.164>
+[00:38.67]{agent:v1}On my enemies who wouldn't wish who I was
+<On:38.671:38.912|my:38.912:39.087|enemies:39.087:39.683|who:39.683:39.881|wouldn't:39.881:40.26|wish:40.26:40.677|who:40.677:41.007|I:41.007:41.26|was:41.26:41.901>
+[00:42.01]{agent:v1}But it's fun to fantasize
+<But:42.014:42.235|it's:42.235:42.389|fun:42.389:42.888|to:42.888:43.103|fantasize:43.103:44.384>
+[00:44.68]{agent:v1}Oh-oh-oh, oh-oh-oh
+<Oh-oh-oh,:44.678:46.245|oh-oh-oh:46.245:47.396>
+[00:47.53]{agent:v1}I'm fallin', so I'm takin' my time on my ride
+<I'm:47.526:47.927|fallin',:47.927:48.732|so:48.732:49.144|I'm:49.144:49.54|takin':49.54:50.017|my:50.017:50.319|time:50.319:50.615|on:50.615:50.839|my:50.839:51.117|ride:51.117:52.662>
+[00:52.66]{agent:v1}Oh-oh-oh
+<Oh-oh-oh:52.662:53.835>
+[00:53.91]{agent:v1}I'm fallin', so I'm takin' my time on my ride
+<I'm:53.913:54.36|fallin',:54.36:55.073|so:55.073:55.52|I'm:55.52:55.9|takin':55.9:56.37|my:56.37:56.685|time:56.685:57.023|on:57.023:57.241|my:57.241:57.543|ride:57.543:62.053>
+[01:02.22]{agent:v1}Takin' my time on my ride
+<Takin':62.22:62.793|my:62.793:63.066|time:63.066:63.44|on:63.44:63.677|my:63.677:63.955|ride:63.955:67.762>
+[01:07.76]{agent:v1}
+[01:10.12]{agent:v1}"I'd die for you," that's easy to say
+<"I'd:70.119:70.315|die:70.315:70.56|for:70.56:70.739|you,":70.739:71.012|that's:71.012:71.171|easy:71.171:71.354|to:71.354:71.459|say:71.459:71.729>
+[01:11.75]{agent:v1}We have a list of people that we would take
+<We:71.749:71.846|have:71.846:72.055|a:72.055:72.195|list:72.195:72.35|of:72.35:72.458|people:72.458:72.743|that:72.743:72.88|we:72.88:73.011|would:73.011:73.148|take:73.148:73.362>
+[01:13.36]{agent:v1}A bullet for them, a bullet for you
+<A:73.362:73.531|bullet:73.531:73.741|for:73.741:73.926|them,:73.926:74.193|a:74.193:74.34|bullet:74.34:74.598|for:74.598:74.697|you:74.697:74.949>
+[01:14.95]{agent:v1}A bullet for everybody in this room
+<A:74.949:75.137|bullet:75.137:75.408|for:75.408:75.544|everybody:75.544:76.001|in:76.001:76.124|this:76.124:76.309|room:76.309:76.416>
+[01:16.45]{agent:v1}But I don't seem to see many bullets comin' through
+<But:76.454:76.598|I:76.598:76.738|don't:76.738:76.901|seem:76.901:76.991|to:76.991:77.091|see:77.091:77.251|many:77.251:77.554|bullets:77.554:77.779|comin':77.779:78.003|through:78.003:78.311>
+[01:18.64]{agent:v1}See many bullets comin' through
+<See:78.643:78.785|many:78.785:79.071|bullets:79.071:79.336|comin':79.336:79.623|through:79.623:79.847>
+[01:19.85]{agent:v1}Metaphorically, I'm the man
+<Metaphorically,:79.847:80.721|I'm:80.721:80.884|the:80.884:81.084|man:81.084:81.287>
+[01:21.40]{agent:v1}But literally, I don't know what I'd do
+<But:81.404:81.537|literally,:81.537:82.041|I:82.041:82.16|don't:82.16:82.296|know:82.296:82.448|what:82.448:82.563|I'd:82.563:82.703|do:82.703:82.801>
+[01:22.92]{agent:v1}"I'd live for you," and that's hard to do
+<"I'd:82.919:83.088|live:83.088:83.352|for:83.352:83.511|you,":83.511:83.71|and:83.71:83.823|that's:83.823:83.957|hard:83.957:84.179|to:84.179:84.267|do:84.267:84.456>
+[01:24.46]{agent:v1}Even harder to say when you know it's not true
+<Even:84.458:84.706|harder:84.706:84.968|to:84.968:85.096|say:85.096:85.303|when:85.303:85.416|you:85.416:85.546|know:85.546:85.634|it's:85.634:85.819|not:85.819:85.932|true:85.932:86.071>
+[01:26.07]{agent:v1}Even harder to write when you know that tonight
+<Even:86.071:86.34|harder:86.34:86.584|to:86.584:86.644|write:86.644:86.866|when:86.866:86.98|you:86.98:87.133|know:87.133:87.282|that:87.282:87.37|tonight:87.37:87.759>
+[01:27.76]{agent:v1}There were people back home who tried talking to you
+<There:87.759:87.819|were:87.819:87.919|people:87.919:88.146|back:88.146:88.369|home:88.369:88.468|who:88.468:88.592|tried:88.592:88.748|talking:88.748:88.937|to:88.937:89.077|you:89.077:89.229>
+[01:29.23]{agent:v1}But then you ignore them still
+<But:89.231:89.36|then:89.36:89.519|you:89.519:89.697|ignore:89.697:90.108|them:90.108:90.303|still:90.303:90.692>
+[01:30.69]{agent:v1}All these questions, they're for real
+<All:90.692:90.971|these:90.971:91.135|questions,:91.135:91.491|they're:91.491:91.712|for:91.712:91.919|real:91.919:92.102>
+[01:32.10]{agent:v1}Like, who would you live for? Who would you die for?
+<Like,:92.101:92.379|who:92.379:92.519|would:92.519:92.677|you:92.677:92.765|live:92.765:92.947|for?:92.947:93.149|Who:93.149:93.317|would:93.317:93.421|you:93.421:93.547|die:93.547:93.737|for?:93.737:93.906>
+[01:33.90]{agent:v1}And would you ever kill?
+<And:93.903:94.338|would:94.338:94.512|you:94.512:94.707|ever:94.707:95.11|kill?:95.11:95.507>
+[01:35.81]{agent:v1}Oh-oh-oh, oh-oh-oh
+<Oh-oh-oh,:95.809:97.458|oh-oh-oh:97.458:98.565>
+[01:38.68]{agent:v1}I'm fallin', so I'm takin' my time on my ride
+<I'm:98.678:99.092|fallin',:99.092:99.938|so:99.938:100.281|I'm:100.281:100.708|takin':100.708:101.237|my:101.237:101.473|time:101.473:101.786|on:101.786:102.064|my:102.064:102.282|ride:102.282:103.738>
+[01:43.86]{agent:v1}Oh-oh-oh
+<Oh-oh-oh:103.859:104.926>
+[01:45.03]{agent:v1}I'm fallin', so I'm takin' my time on my ride
+<I'm:105.027:105.523|fallin',:105.523:106.312|so:106.312:106.673|I'm:106.673:107.168|takin':107.168:107.616|my:107.616:107.895|time:107.895:108.205|on:108.205:108.465|my:108.465:108.708|ride:108.708:113.207>
+[01:53.51]{agent:v1}Takin' my time on my ride
+<Takin':113.51:114.054|my:114.054:114.35|time:114.35:114.657|on:114.657:114.892|my:114.892:115.15|ride:115.15:118.954>
+[01:58.95]{agent:v1}
+[02:01.78]{agent:v1}I've been thinkin' too much
+<I've:121.777:122.101|been:122.101:122.422|thinkin':122.422:122.911|too:122.911:123.147|much:123.147:123.841>
+[02:05.05]{agent:v1}I've been thinkin' too much
+<I've:125.05:125.341|been:125.341:125.615|thinkin':125.615:126.074|too:126.074:126.39|much:126.39:127.154>
+[02:08.24]{agent:v1}I've been thinkin' too much
+<I've:128.243:128.503|been:128.503:128.753|thinkin':128.753:129.27800000000002|too:129.27800000000002:129.514|much:129.514:130.288>
+[02:11.54]{agent:v1}I've been thinkin' too much
+<I've:131.536:131.746|been:131.746:132.034|thinkin':132.034:132.502|too:132.502:132.797|much:132.797:133.356>
+[02:13.52]{agent:v1}Help me
+<Help:133.52:134.2|me:134.2:134.898>
+[02:14.66]{agent:v1}I've been thinkin' too much
+<I've:134.656:134.831|been:134.831:135.189|thinkin':135.189:135.704|too:135.704:135.983|much:135.983:136.623>
+[02:17.88]{agent:v1}I've been thinkin' too much
+<I've:137.878:138.099|been:138.099:138.357|thinkin':138.357:138.888|too:138.888:139.187|much:139.187:139.906>
+[02:21.03]{agent:v1}I've been thinkin' too much
+<I've:141.028:141.268|been:141.268:141.546|thinkin':141.546:142.1|too:142.1:142.378|much:142.378:143.032>
+[02:24.27]{agent:v1}I've been thinkin' too much
+<I've:144.274:144.477|been:144.477:144.834|thinkin':144.834:145.273|too:145.273:145.489|much:145.489:146.244>
+[02:27.08]{agent:v1}Oh-oh-oh, oh-oh-oh
+<Oh-oh-oh,:147.082:148.696|oh-oh-oh:148.696:149.907>
+[02:29.91]{agent:v1}I'm fallin', so I'm takin' my time on my ride
+<I'm:149.907:150.294|fallin',:150.294:151.061|so:151.061:151.472|I'm:151.472:151.874|takin':151.874:152.43|my:152.43:152.669|time:152.669:153.013|on:153.013:153.23|my:153.23:153.455|ride:153.455:154.967>
+[02:35.05]{agent:v1}Oh-oh-oh
+<Oh-oh-oh:155.047:156.13>
+[02:36.25]{agent:v1}I'm fallin', so I'm takin' my time
+<I'm:156.245:156.74|fallin',:156.74:157.463|so:157.463:157.837|I'm:157.837:158.254|takin':158.254:158.79|my:158.79:159.069|time:159.069:164.517>
+[02:44.70]{agent:v1}Takin' my time on my ride
+<Takin':164.701:165.228|my:165.228:165.501|time:165.501:165.853|on:165.853:166.131|my:166.131:166.329|ride:166.329:167.505>
+[02:48.58]{agent:v1}Whoa-oh-oh
+<Whoa-oh-oh:168.581:170.217>
+[02:50.22]{agent:v1}
+[02:52.59]{agent:v1}Oh-oh-oh, oh-oh-oh
+<Oh-oh-oh,:172.592:174.29|oh-oh-oh:174.29:175.43>
+[02:55.49]{agent:v1}I'm fallin', so I'm takin' my time on my ride
+<I'm:175.488:175.905|fallin',:175.905:176.709|so:176.709:177.07|I'm:177.07:177.516|takin':177.516:178.045|my:178.045:178.286|time:178.286:178.615|on:178.615:178.874|my:178.874:179.063|ride:179.063:180.528>
+[03:00.69]{agent:v1}Oh-oh-oh
+<Oh-oh-oh:180.685:181.787>
+[03:01.84]{agent:v1}I'm fallin', so I'm takin' my time on my—
+<I'm:181.845:182.361|fallin',:182.361:183.1|so:183.1:183.52|I'm:183.52:183.883|takin':183.883:184.345|my:184.345:184.646|time:184.646:184.988|on:184.988:185.29|my—:185.29:185.535>
+[03:05.53]{agent:v1}
+[03:07.39]{agent:v1}I've been thinkin' too much
+<I've:187.389:187.689|been:187.689:187.906|thinkin':187.906:188.384|too:188.384:188.662|much:188.662:189.609>
+[03:11.06]{agent:v1}Help me
+<Help:191.056:191.908|me:191.908:192.524>
+[03:13.86]{agent:v1}I've been thinkin' too much
+<I've:193.864:194.097|been:194.097:194.372|thinkin':194.372:194.868|too:194.868:195.126|much:195.126:196.004>
+[03:17.38]{agent:v1}Help me
+<Help:197.375:198.221|me:198.221:198.757>
+[03:18.76]{agent:v1}
+[03:20.29]{agent:v1}I've been thinkin' too much
+<I've:200.29:200.567|been:200.567:200.796|thinkin':200.796:201.254|too:201.254:201.529|much:201.529:202.3>
+[03:22.30]{agent:v1}
+[03:23.89]{agent:v1}Help me
+<Help:203.892:204.717|me:204.717:205.309>
+[03:26.58]{agent:v1}I've been thinkin' too much
+<I've:206.579:206.861|been:206.861:207.182|thinkin':207.182:207.65|too:207.65:207.892|much:207.892:208.651>
+[03:28.65]{agent:v1}
+[03:30.26]{agent:v1}Help me
+<Help:210.259:211.133|me:211.133:211.859>
