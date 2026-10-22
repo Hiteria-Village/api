@@ -2581,7 +2581,7 @@
     "rank": true,
     "previewUrl": "/api/assets/audio/octavetutorial.mp3",
     "shop": false,
-    "keys": "false",
+    "keys": "true",
     "sid": "sid_70",
     "modalShadowColors": {
       "default": {
@@ -2827,6 +2827,7 @@
     "previewUrl": "/api/assets/audio/nineteenninetynine.mp3",
     "shop": false,
     "sid": "sid_43",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -2875,6 +2876,7 @@
     "previewUrl": "/api/assets/audio/goodolddays.mp3",
     "shop": false,
     "sid": "sid_35",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -2923,6 +2925,7 @@
     "rank": true,
     "previewUrl": "/api/assets/audio/wasted.mp3",
     "shop": false,
+    "keys": "true",
     "sid": "sid_64",
     "modalShadowColors": {
       "default": {
@@ -3070,6 +3073,7 @@
     "rank": true,
     "previewUrl": "/api/assets/audio/virtualinsanity.mp3",
     "shop": false,
+    "keys": "true",
     "sid": "sid_61",
     "modalShadowColors": {
       "default": {
@@ -3218,6 +3222,7 @@
     "previewUrl": "/api/assets/audio/skydrive.mp3",
     "shop": false,
     "sid": "sid_72",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -3463,6 +3468,7 @@
     "previewUrl": "/api/assets/audio/slowdancinginthedark.mp3",
     "shop": false,
     "sid": "sid_80",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -3512,6 +3518,7 @@
     "previewUrl": "/api/assets/audio/two.mp3",
     "shop": false,
     "sid": "sid_77",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -3561,6 +3568,7 @@
     "previewUrl": "/api/assets/audio/streetparty.mp3",
     "shop": false,
     "sid": "sid_81",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -3609,6 +3617,7 @@
     "rank": true,
     "previewUrl": "/api/assets/audio/hate.mp3",
     "shop": false,
+    "keys": "true",
     "sid": "sid_83",
     "modalShadowColors": {
       "default": {
@@ -3855,6 +3864,7 @@
     "previewUrl": "/api/assets/audio/cheerleader.mp3",
     "shop": false,
     "sid": "sid_88",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -3904,6 +3914,7 @@
     "previewUrl": "/api/assets/audio/lightspeed.mp3",
     "shop": false,
     "sid": "sid_90",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -3953,6 +3964,7 @@
     "previewUrl": "/api/assets/audio/threesixty.mp3",
     "shop": false,
     "sid": "sid_95",
+    "keys": "true", 
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -4100,6 +4112,7 @@
     "previewUrl": "/api/assets/audio/supertrouper.mp3",
     "shop": false,
     "sid": "sid_92",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -4247,6 +4260,7 @@
     "previewUrl": "/api/assets/audio/yomax.mp3",
     "shop": false,
     "sid": "sid_97",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -4296,6 +4310,7 @@
     "previewUrl": "/api/assets/audio/shootingstars.mp3",
     "shop": false,
     "sid": "sid_98",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -4439,6 +4454,7 @@
     "previewUrl": "/api/assets/audio/nerdvsgeek.mp3",
     "shop": false,
     "sid": "sid_99",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -4537,6 +4553,7 @@
     "previewUrl": "/api/assets/audio/beautifulgirls.mp3",
     "shop": false,
     "sid": "sid_102",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -4635,6 +4652,7 @@
     "previewUrl": "/api/assets/audio/believeinme.mp3",
     "shop": false,
     "sid": "sid_101",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -4684,6 +4702,7 @@
     "previewUrl": "/api/assets/audio/hello.mp3",
     "shop": false,
     "sid": "sid_103",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -4782,6 +4801,7 @@
     "previewUrl": "/api/assets/audio/loonboon.mp3",
     "shop": false,
     "sid": "sid_111",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -4831,6 +4851,7 @@
     "previewUrl": "/api/assets/audio/zombiesonyourlawn.mp3",
     "shop": false,
     "sid": "sid_110",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -4878,6 +4899,7 @@
     "previewUrl": "/api/assets/audio/wabbywabbo.mp3",
     "shop": false,
     "sid": "sid_112",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -5074,6 +5096,7 @@
     "previewUrl": "/api/assets/audio/shadowsofourpast.mp3",
     "shop": false,
     "sid": "sid_118",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -5123,6 +5146,7 @@
     "previewUrl": "/api/assets/audio/grannyfunk.mp3",
     "shop": false,
     "sid": "sid_121",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -5172,6 +5196,7 @@
     "previewUrl": "/api/assets/audio/astraltravelling.mp3",
     "shop": false,
     "sid": "sid_105",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -5221,6 +5246,7 @@
     "previewUrl": "/api/assets/audio/triggersequence.mp3",
     "shop": false,
     "sid": "sid_106",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -5270,6 +5296,7 @@
     "previewUrl": "/api/assets/audio/turbofire.mp3",
     "shop": false,
     "sid": "sid_109",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -5319,6 +5346,7 @@
     "previewUrl": "/api/assets/audio/pipedown.mp3",
     "shop": false,
     "sid": "sid_107",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -5417,6 +5445,7 @@
     "previewUrl": "/api/assets/audio/pumpit.mp3",
     "shop": false,
     "sid": "sid_113",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -5515,6 +5544,7 @@
     "previewUrl": "/api/assets/audio/uandme.mp3",
     "shop": false,
     "sid": "sid_122",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -5564,6 +5594,7 @@
     "previewUrl": "/api/assets/audio/chefpeepee.mp3",
     "shop": false,
     "sid": "sid_67",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -5711,6 +5742,7 @@
     "previewUrl": "/api/assets/audio/feelsoclose.mp3",
     "shop": false,
     "sid": "sid_116",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -5809,6 +5841,7 @@
     "previewUrl": "/api/assets/audio/itsmeitsverity.mp3",
     "shop": false,
     "sid": "sid_133",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -5858,6 +5891,7 @@
     "previewUrl": "/api/assets/audio/mentema.mp3",
     "shop": false,
     "sid": "sid_123",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -5907,6 +5941,7 @@
     "previewUrl": "/api/assets/audio/jackiesbox.mp3",
     "shop": false,
     "sid": "sid_126",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -5956,6 +5991,7 @@
     "previewUrl": "/api/assets/audio/skibidi.mp3",
     "shop": false,
     "sid": "sid_135",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -6054,6 +6090,7 @@
     "previewUrl": "/api/assets/audio/acoldplay.mp3",
     "shop": false,
     "sid": "sid_140",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -6103,6 +6140,7 @@
     "previewUrl": "/api/assets/audio/eraseyoursocial.mp3",
     "shop": false,
     "sid": "sid_137",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -6152,6 +6190,7 @@
     "previewUrl": "/api/assets/audio/hellabars2.mp3",
     "shop": false,
     "sid": "sid_127",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -6201,6 +6240,7 @@
     "previewUrl": "/api/assets/audio/mockingbird.mp3",
     "shop": false,
     "sid": "sid_128",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -6348,6 +6388,7 @@
     "previewUrl": "/api/assets/audio/djadja.mp3",
     "shop": false,
     "sid": "sid_142",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -6446,6 +6487,7 @@
     "previewUrl": "/api/assets/audio/youmakemefeel.mp3",
     "shop": false,
     "sid": "sid_141",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -6593,6 +6635,7 @@
     "previewUrl": "/api/assets/audio/itsgoingdownnow.mp3",
     "shop": false,
     "sid": "sid_144",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -6691,6 +6734,7 @@
     "previewUrl": "/api/assets/audio/whereuare.mp3",
     "shop": false,
     "sid": "sid_147",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -6740,6 +6784,7 @@
     "previewUrl": "/api/assets/audio/robotrock.mp3",
     "shop": false,
     "sid": "sid_148",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -6789,6 +6834,7 @@
     "previewUrl": "/api/assets/audio/fungiwhisp.mp3",
     "shop": false,
     "sid": "sid_2145",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -6838,6 +6884,7 @@
     "previewUrl": "/api/assets/audio/forthedamagedcoda.mp3",
     "shop": false,
     "sid": "sid_146",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -6887,6 +6934,7 @@
     "previewUrl": "/api/assets/audio/oshamascramble.mp3",
     "shop": false,
     "sid": "sid_134",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -6936,6 +6984,7 @@
     "previewUrl": "/api/assets/audio/ordirehv.mp3",
     "shop": false,
     "sid": "sid_131",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -7132,6 +7181,7 @@
     "previewUrl": "/api/assets/audio/octavegroove.mp3",
     "shop": false,
     "sid": "sid_160",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -7230,6 +7280,7 @@
     "previewUrl": "/api/assets/audio/murderonmymind.mp3",
     "shop": false,
     "sid": "sid_156",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -7328,6 +7379,7 @@
     "previewUrl": "/api/assets/audio/thetimeisnow.mp3",
     "shop": false,
     "sid": "sid_157",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -7524,6 +7576,7 @@
     "previewUrl": "/api/assets/audio/rotforclout.mp3",
     "shop": false,
     "sid": "sid_158",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -7622,6 +7675,7 @@
     "previewUrl": "/api/assets/audio/localforecast.mp3",
     "shop": false,
     "sid": "sid_169",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -7720,6 +7774,7 @@
     "previewUrl": "/api/assets/audio/comealive.mp3",
     "shop": false,
     "sid": "sid_155",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -7769,6 +7824,7 @@
     "previewUrl": "/api/assets/audio/midnightsun.mp3",
     "shop": false,
     "sid": "sid_165",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -7965,6 +8021,7 @@
     "previewUrl": "/api/assets/audio/airbornerobots.mp3",
     "shop": false,
     "sid": "sid_124",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -8014,6 +8071,7 @@
     "previewUrl": "/api/assets/audio/goodtek.mp3",
     "shop": false,
     "sid": "sid_138",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -8063,6 +8121,7 @@
     "previewUrl": "/api/assets/audio/crystallized.mp3",
     "shop": false,
     "sid": "sid_167",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -8112,6 +8171,7 @@
     "previewUrl": "/api/assets/audio/denkohsekka.mp3",
     "shop": false,
     "sid": "sid_42",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
@@ -8210,6 +8270,7 @@
     "previewUrl": "/api/assets/audio/errorfouronthefloor.mp3",
     "shop": false,
     "sid": "sid_168",
+    "keys": "true",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",
