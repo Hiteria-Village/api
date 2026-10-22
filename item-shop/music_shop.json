@@ -1,5 +1,17 @@
 [
    {
+    "itemRef": "sid_170",
+    "cost": 500,
+    "layout": "SMALL",
+    "isNew": true
+   },
+   {
+    "itemRef": "sid_168",
+    "cost": 500,
+    "layout": "SMALL",
+    "isNew": true
+   },
+   {
     "itemRef": "sid_167",
     "cost": 500,
     "layout": "SMALL",

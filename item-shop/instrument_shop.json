@@ -1,5 +1,10 @@
 [
   {
+    "type": "BUNDLE",
+    "bundleId": "music_bundle_40",
+    "layout": "TALL_RECTANGLE"  
+  },
+  {
     "itemId": "mid_05",
     "count": 1,
     "name": "Friend Drums",
@@ -94,6 +99,60 @@
     "count": 1,
     "name": "Verity Mic",
     "description": "Master of humanity!",
+    "cost": 1000,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS"
+  },
+  {
+    "itemId": "mid_27",
+    "count": 1,
+    "name": "Trick-or-Treat Mic",
+    "description": "Singing with delight... or dread",
+    "cost": 1000,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS",
+    "isNew": true
+  },
+  {
+    "itemId": "mid_25",
+    "count": 1,
+    "name": "Executioner Guitar",
+    "description": "Struggling to get that FC? The charters will never expect this one!",
+    "cost": 1000,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS",
+    "isNew": true
+  },
+  {
+    "itemId": "mid_28",
+    "count": 1,
+    "name": "The Organist's Keytar",
+    "description": "This is all he wants to hear",
+    "cost": 1000,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS",
+    "isNew": true
+  },
+  {
+    "itemId": "mid_26",
+    "count": 1,
+    "name": "Jack-O-Bass",
+    "description": "Awhhhh cute lil pumpkin!!!",
+    "cost": 1000,
+    "type": "instrument",
+    "layout": "NORMAL",
+    "buyType": "GEMS",
+    "isNew": true
+  },
+  {
+    "itemId": "mid_31",
+    "count": 1,
+    "name": "The Manor Masher",
+    "description": "Let's all do the Manor Mash!",
     "cost": 1000,
     "type": "instrument",
     "layout": "NORMAL",
