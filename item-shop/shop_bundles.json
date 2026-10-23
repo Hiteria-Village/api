@@ -403,7 +403,7 @@
       "name": "Week 37 | Music Pack",
       "description": "",
       "basePrice": 2000,
-      "items": ["sid_42", "sid_150", "sid_168", "sid_170"],
+      "items": ["sid_42", "sid_50", "sid_168", "sid_170"],
       "discount": 30,
       "ifOwned1": 40,
       "ifOwned2": 60,
