@@ -8337,5 +8337,299 @@
       "drums": ""
     },
     "charter": "Equinox"
+  },
+  "verbatim": {
+    "title": "Verbatim",
+    "artist": "Mother Mother",
+    "releaseYear": 2007,
+    "cover": "verbatim.png",
+    "bpm": 156,
+    "key": "C Minor",
+    "duration": "2m 51s",
+    "album": "Touch Up",
+    "genre": "Indie/Alternative",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 2,
+      "bass": 1,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-10-30T00:00:00.000Z",
+    "lastFeatured": "2026-10-30T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "4IA6pgGRmqfxWGAfyZ8cgR",
+    "videoUrl": "verbatim.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_164.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/verbatim.mp3",
+    "shop": false,
+    "sid": "sid_164",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "itdoesntmatter": {
+    "title": "It Doesn't Matter",
+    "artist": "The Living Tombstone",
+    "releaseYear": 2026,
+    "cover": "itdoesntmatter.png",
+    "bpm": 192,
+    "key": "F# Minor",
+    "duration": "3m 45s",
+    "album": "It Doesn't Matter (Single)",
+    "genre": "Rock/Metal",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 6,
+      "bass": 4,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-10-30T00:00:00.000Z",
+    "lastFeatured": "2026-10-30T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7vrt73jBik03F8fmxxoTOA",
+    "videoUrl": "itdoesntmatter.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_175.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/itdoesntmatter.mp3",
+    "shop": false,
+    "sid": "sid_175",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "adarkzone": {
+    "title": "A DARK ZONE",
+    "artist": "Toby Fox",
+    "releaseYear": 2025,
+    "cover": "blackknife.png",
+    "bpm": 150,
+    "key": "G Minor",
+    "duration": "2m 21s",
+    "album": "DELTARUNE Chapters 3+4 (Original Game Soundtrack)",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 0,
+      "lead": 3,
+      "bass": 4,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-10-30T00:00:00.000Z",
+    "lastFeatured": "2026-10-30T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "4emNHWZTHbiivbJVkrQ8VR",
+    "videoUrl": "adarkzone.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_185.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/adarkzone.mp3",
+    "shop": false,
+    "sid": "sid_185",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Mechaclank, Equinox"
+  },
+  "deathofme": {
+    "title": "Death Of Me",
+    "artist": "Skye Riley, Naomi Scott",
+    "releaseYear": 2024,
+    "cover": "deathofme.png",
+    "bpm": 120,
+    "key": "C# Minor",
+    "duration": "2m 50s",
+    "album": "Smile 2: The Skye Riley EP",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 2,
+      "bass": 0,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-10-30T00:00:00.000Z",
+    "lastFeatured": "2026-10-30T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6AZKGzo7w2FPZ3Y8T4XjfQ",
+    "videoUrl": "deathofme.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_187.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/deathofme.mp3",
+    "shop": false,
+    "sid": "sid_187",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "sweetwitchgirl": {
+    "title": "Sweet* Witch* Girl* (Game Size)",
+    "artist": "Morimori Atsushi vs. uma",
+    "releaseYear": 2016,
+    "cover": "sweetwitchgirl.png",
+    "bpm": 180,
+    "key": "C Minor",
+    "duration": "2m 13s",
+    "album": "",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "lead": 5,
+      "bass": 4,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-10-30T00:00:00.000Z",
+    "lastFeatured": "2026-10-30T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "2jEp0H9NqU3m8Qg0mmvZba",
+    "videoUrl": "sweetwitchgirl.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_177.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/sweetwitchgirl.mp3",
+    "shop": false,
+    "sid": "sid_177",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Mechaclank"
+  },
+  "aghostspumpkinsoupforpumpkinhill": {
+    "title": "A Ghost's Pumpkin Soup ...for Pumpkin Hill",
+    "artist": "Tomoya Ohtani, SEGA",
+    "releaseYear": 2001,
+    "cover": "aghostspumpkinsoupforpumpkinhill.png",
+    "bpm": 90,
+    "key": "A Minor",
+    "duration": "3m 28s",
+    "album": "SONIC ADVENTURE 2 Original Soundtrack (vol.1)",
+    "genre": "Rap/Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 1,
+      "bass": 0,
+      "drums": 1,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-10-30T00:00:00.000Z",
+    "lastFeatured": "2026-10-30T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "37IoOUOcCkYs6xkB9Fbk7p",
+    "videoUrl": "aghostspumpkinsoupforpumpkinhill.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_181.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/aghostspumpkinsoupforpumpkinhill.mp3",
+    "shop": false,
+    "sid": "sid_181",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Mechaclank"
   }
 }

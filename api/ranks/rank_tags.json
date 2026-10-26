@@ -406,6 +406,13 @@
     "preview": "oct_S2Mastery.png"
   },
   {
+    "id": "rank_115",
+    "name": "Owner5",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "owner5.png"
+  },
+  {
     "id": "rank_1001",
     "name": "Professional Griefers",
     "displayName": "",
@@ -1573,5 +1580,47 @@
     "displayName": "",
     "color": "#FFFFFF",
     "preview": "oct_sid_170.png"
+  },
+  {
+    "id": "rank_1164",
+    "name": "Verbatim",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_164.png"
+  },
+  {
+    "id": "rank_1175",
+    "name": "It Doesn't Matter",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_175.png"
+  },
+  {
+    "id": "rank_1177",
+    "name": "Sweet* Witch* Girl* (Game Size)",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_177.png"
+  },
+  {
+    "id": "rank_1181",
+    "name": "A Ghost's Pumpkin Soup ...for Pumpkin Hill",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_181.png"
+  },
+  {
+    "id": "rank_1185",
+    "name": "A DARK ZONE",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_185.png"
+  },
+  {
+    "id": "rank_1187",
+    "name": "Death Of Me",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_187.png"
   }
 ]

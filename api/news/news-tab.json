@@ -1,15 +1,15 @@
 {
   "items": [
     {
-      "title": "New Tracks | Out Now!",
-      "description": "Check out this weeks new tracks!.\n\nDrop 1: Error 4 On The Floor & Kalifornia - Wednesday!\nDrop 2: Denkoh Sekka & Girl Hell 1999 - Friday!",
-      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_37.png",
+      "title": "New Tracks | Coming This Week!",
+      "description": "Check out this weeks new tracks!.\n\nDrop 1: Verbatim, A Ghost's Pumpkin Soup ...for Pumpkin Hill & Sweet* Witch* Girl* (Game Size) - Wednesday!\nDrop 2: A DARK ZONE, Death Of Me & It Doesn't Matter - Friday!",
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_38.png",
       "tabActiveTime": 	1792418400
     },
     {
-      "title": "Week 36 Tracks | Out Now!",
+      "title": "Week 37 Tracks | Out Now!",
       "description": "Check out last weeks releases!",
-      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_36.png",
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_37.png",
       "tabActiveTime": 	1792418400
     }
   ]
