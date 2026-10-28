@@ -8546,10 +8546,10 @@
     "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
-      "vocals": 1,
-      "lead": 5,
-      "bass": 4,
-      "drums": 5,
+      "vocals": 3,
+      "lead": 4,
+      "bass": 3,
+      "drums": 4,
       "plastic-bass": -1,
       "plastic-drums": -1,
       "plastic-guitar": -1
@@ -8595,10 +8595,10 @@
     "genre": "Rap/Hip-Hop",
     "rating": "Everyone",
     "difficulties": {
-      "vocals": 2,
-      "lead": 1,
-      "bass": 0,
-      "drums": 1,
+      "vocals": 3,
+      "lead": 2,
+      "bass": 1,
+      "drums": 2,
       "plastic-bass": -1,
       "plastic-drums": -1,
       "plastic-guitar": -1
