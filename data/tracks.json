@@ -8631,54 +8631,5 @@
       "drums": ""
     },
     "charter": "Mechaclank"
-  },
-  "sean2": {
-    "title": "Sean Hyperpop Remix",
-    "artist": "Trophy Eyes",
-    "releaseYear": 2029,
-    "cover": "sean.png",
-    "bpm": 80,
-    "key": "F# Major",
-    "duration": "9m 78s",
-    "album": "Happinness and Rainbows",
-    "genre": "Rock/Metal",
-    "rating": "Everyone",
-    "difficulties": {
-      "lead": 6,
-      "bass": 6,
-      "drums": 6,
-      "vocals": 6,
-      "plastic-bass": -1,
-      "plastic-drums": -1,
-      "plastic-guitar": -1
-    },
-    "createdAt": "2026-10-29T00:00:00.000Z",
-    "lastFeatured": "2026-10-29T00:00:00.000Z",
-    "complete": "100%",
-    "spotify": "42gGKWZ1KWnR5X6mCUBMgH",
-    "videoUrl": "sean.mp4",
-    "videoPosition": 50,
-    "loading_phrase": "oct_sid_550.png",
-    "rank": true,
-    "previewUrl": "/api/assets/audio/sean.mp3",
-    "shop": false,
-    "sid": "sid_550",
-    "modalShadowColors": {
-      "default": {
-        "color1": "#8a2be2",
-        "color2": "#4b0082"
-      },
-      "hover": {
-        "color1": "#4b0082",
-        "color2": "#8a2be2"
-      }
-    },
-    "youtubeLinks": {
-      "vocals": "",
-      "lead": "",
-      "bass": "",
-      "drums": ""
-    },
-    "charter": "Equalibroalitobriobrium"
   }
 }
