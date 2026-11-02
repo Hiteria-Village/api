@@ -1,0 +1,100 @@
+[00:11.53]{agent:v1}Dead men tell no tales
+<Dead:11.532:11.8496|men:11.8496:12.4848|tell:12.1672:13.12|no:12.4848:13.7552|tales:12.8024:13.12>
+[00:13.13]{agent:v1}But their graves still carry weight
+<But:13.13:13.416167|their:13.416167:13.9885|graves:13.702333:14.560833|still:13.9885:15.133167|carry:14.274667:15.7055|weight:14.560833:14.847>
+[00:15.20]{agent:v1}There's a war coming fought by those who spit on fate
+<There's:15.196:15.503091|a:15.503091:16.117273|war:15.810182:16.731455|coming:16.117273:17.345636|fought:16.424364:17.959818|by:16.731455:18.574|those:17.038545:19.188182|who:17.345636:19.802364|spit:17.652727:20.416545|on:17.959818:21.030727|fate:18.266909:18.574>
+[00:18.88]{agent:v1}Tired hungry masses
+<Tired:18.875:19.401333|hungry:19.401333:20.454|masses:19.927667:20.454>
+[00:20.47]{agent:v1}Sick of empty dinner plates
+<Sick:20.472:20.8516|of:20.8516:21.6108|empty:21.2312:22.37|dinner:21.6108:23.1292|plates:21.9904:22.37>
+[00:22.65]{agent:v1}There's a war coming fought by those with a bitter taste
+<There's:22.649:22.958455|a:22.958455:23.577364|war:23.267909:24.196273|coming:23.577364:24.815182|fought:23.886818:25.434091|by:24.196273:26.053|those:24.505727:26.671909|with:24.815182:27.290818|a:25.124636:27.909727|bitter:25.434091:28.528636|taste:25.743545:26.053>
+[00:26.05]{agent:v1}
+[00:28.20]{agent:v1}Yeah, yeah
+<Yeah,:28.198:28.902|yeah:28.902:29.606>
+[00:29.61]{agent:v1}
+[00:42.16]{agent:v1}No more, "Fall in line"
+<No:42.162:42.5496|more,:42.5496:43.3248|"Fall:42.9372:44.1|in:43.3248:44.8752|line":43.7124:44.1>
+[00:44.27]{agent:v1}No more, "Know your place"
+<No:44.27:44.6894|more,:44.6894:45.5282|"Know:45.1088:46.367|your:45.5282:47.2058|place":45.9476:46.367>
+[00:46.42]{agent:v1}Growing to see
+<Growing:46.42:46.927333|to:46.927333:47.942|see:47.434667:47.942>
+[00:48.51]{agent:v1}A world that's ripe to take
+<A:48.507:48.853167|world:48.853167:49.5455|that's:49.199333:50.237833|ripe:49.5455:50.930167|to:49.891667:51.6225|take:50.237833:50.584>
+[00:51.52]{agent:v1}Storm the Bastille
+<Storm:51.518:52.101333|the:52.101333:53.268|Bastille:52.684667:53.268>
+[00:53.49]{agent:v1}Riot the draft
+<Riot:53.492:54.034667|the:54.034667:55.12|draft:54.577333:55.12>
+[00:55.55]{agent:v1}Easter Rebellion
+<Easter:55.547:56.4295|Rebellion:56.4295:57.312>
+[00:57.32]{agent:v1}Taken and never asked
+<Taken:57.322:57.8295|and:57.8295:58.8445|never:58.337:59.8595|asked:58.8445:59.352>
+[00:59.92]{agent:v1}When our eyes are blind
+<When:59.916:60.2212|our:60.2212:60.8316|eyes:60.5264:61.442|are:60.8316:62.0524|blind:61.1368:61.442>
+[01:01.54]{agent:v1}And our noses turned
+<And:61.537:61.95425|our:61.95425:62.78875|noses:62.3715:63.62325|turned:62.78875:63.206>
+[01:03.72]{agent:v1}The displaced rise up to take
+<The:63.723:64.165667|displaced:64.165667:65.051|rise:64.608333:65.936333|up:65.051:66.821667|to:65.493667:67.707|take:65.936333:66.379>
+[01:06.50]{agent:v1}What we never earned
+<What:66.501:67.371|we:67.371:69.111|never:68.241:70.851|earned:69.111:69.981>
+[01:09.98]{agent:v1}
+[01:17.70]{agent:v1}Fearing revolution
+<Fearing:77.701:78.819|revolution:78.819:79.937>
+[01:21.10]{agent:v1}Can you feel your death grip loosen?
+<Can:81.099:81.465714|you:81.465714:82.199143|feel:81.832429:82.932571|your:82.199143:83.666|death:82.565857:84.399429|grip:82.932571:85.132857|loosen?:83.299286:83.666>
+[01:23.67]{agent:v1}
+[01:29.54]{agent:v1}Fearing revolution
+<Fearing:89.537:90.53|revolution:90.53:91.523>
+[01:31.52]{agent:v1}
+[01:33.69]{agent:v1}Your TV's showing all the restlessness
+<Your:93.687:94.135833|TV's:94.135833:95.0335|showing:94.584667:95.931167|all:95.0335:96.828833|the:95.482333:97.7265|restlessness:95.931167:96.38>
+[01:36.39]{agent:v1}Bitterness
+<Bitterness:96.392:97.327>
+[01:37.41]{agent:v1}Catalysts
+<Catalysts:97.414:98.366>
+[01:38.45]{agent:v1}Vehemence
+<Vehemence:98.448:99.548>
+[01:39.55]{agent:v1}
+[01:41.28]{agent:v1}Fearing revolution
+<Fearing:101.283:102.2515|revolution:102.2515:103.22>
+[01:44.47]{agent:v1}They got their trigger fingers moving
+<They:104.467:104.950333|got:104.950333:105.917|their:105.433667:106.883667|trigger:105.917:107.850333|fingers:106.400333:108.817|moving:106.883667:107.367>
+[01:47.37]{agent:v1}
+[01:54.75]{agent:v1}Oppression, oppression
+<Oppression,:114.754:116.0575|oppression:116.0575:117.361>
+[01:57.44]{agent:v1}Oppression's common theme
+<Oppression's:117.436:118.303667|common:118.303667:120.039|theme:119.171333:120.039>
+[02:00.23]{agent:v1}The silent, the silent
+<The:120.226:120.97325|silent,:120.97325:122.46775|the:121.7205:123.96225|silent:122.46775:123.215>
+[02:03.31]{agent:v1}The silent finally scream
+<The:123.309:123.942|silent:123.942:125.208|finally:124.575:126.474|scream:125.208:125.841>
+[02:05.84]{agent:v1}
+[02:16.46]{agent:v1}Oppression, oppression
+<Oppression,:136.463:137.8335|oppression:137.8335:139.204>
+[02:19.26]{agent:v1}Oppression's common theme
+<Oppression's:139.26:140.147|common:140.147:141.921|theme:141.034:141.921>
+[02:22.03]{agent:v1}The silent, the silent
+<The:142.028:142.70725|silent,:142.70725:144.06575|the:143.3865:145.42425|silent:144.06575:144.745>
+[02:24.83]{agent:v1}The silent finally scream
+<The:144.827:145.48225|silent:145.48225:146.79275|finally:146.1375:148.10325|scream:146.79275:147.448>
+[02:27.45]{agent:v1}
+[02:37.45]{agent:v1}The threat of
+<The:157.451:157.848667|threat:157.848667:158.644|of:158.246333:158.644>
+[02:38.73]{agent:v1}The threat of
+<The:158.731:159.170667|threat:159.170667:160.05|of:159.610333:160.05>
+[02:40.12]{agent:v1}The threat of
+<The:160.117:160.568667|threat:160.568667:161.472|of:161.020333:161.472>
+[02:41.47]{agent:v1}
+[02:46.28]{agent:v1}Oncoming war
+<Oncoming:166.285:167.243|war:167.243:168.201>
+[02:48.20]{agent:v1}
+[02:50.75]{agent:v1}(War!)
+<(War!):170.754:174.01>
+[02:53.38]{agent:v1}Oncoming war
+<Oncoming:173.38:174.2375|war:174.2375:175.095>
+[02:55.09]{agent:v1}
+[02:56.86]{agent:v1}(War!)
+<(War!):176.865:179.875>
+[02:59.23]{agent:v1}Oncoming war, fought by those who spit on fate
+<Oncoming:179.228:179.642667|war,:179.642667:180.472|fought:180.057333:181.301333|by:180.472:182.130667|those:180.886667:182.96|who:181.301333:183.789333|spit:181.716:184.618667|on:182.130667:185.448|fate:182.545333:182.96>

@@ -1622,5 +1622,33 @@
     "displayName": "",
     "color": "#FFFFFF",
     "preview": "oct_sid_187.png"
+  },
+  {
+    "id": "rank_1171",
+    "name": "His World",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_171.png"
+  },
+  {
+    "id": "rank_1172",
+    "name": "Rather Be",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_172.png"
+  },
+  {
+    "id": "rank_1176",
+    "name": "Break The BOOM! Meter",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_176.png"
+  },
+  {
+    "id": "rank_1179",
+    "name": "Front Toward Enemy",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_179.png"
   }
 ]
