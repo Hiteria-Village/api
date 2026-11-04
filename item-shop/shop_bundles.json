@@ -411,9 +411,19 @@
     }, 
     "music_bundle_42": {
       "name": "Week 38 | Music Pack",
-      "description": "Mason Doop",
+      "description": "Oooo spoookyyyyyy",
       "basePrice": 2500,
       "items": ["sid_164", "sid_175", "sid_177", "sid_181", "sid_185", "sid_187"],
+      "discount": 30,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "visualOverride": null
+    }, 
+    "music_bundle_43": {
+      "name": "Week 39 | Music Pack",
+      "description": "",
+      "basePrice": 2000,
+      "items": ["sid_171", "sid_172", "sid_176", "sid_179"],
       "discount": 30,
       "ifOwned1": 40,
       "ifOwned2": 60,

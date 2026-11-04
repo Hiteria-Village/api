@@ -32,7 +32,7 @@
       "id": "featured",
       "name": "Featured Items",
       "enabled": false,
-      "resetType": "NEVER",
+      "resetType": "CUSTOM",
       "showTimer": false,
       "order": 3,
       "itemsFile": "featured_shop.json"
