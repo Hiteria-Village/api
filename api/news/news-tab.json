@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "title": "New Tracks | Out Now!",
-      "description": "This week brings two community suggestions and two rock/metal tracks as requested from our recent community poll!\n\nDrop 1: His World & Rather Be - Wednesday!\nDrop 2: Break The BOOM! Meter & Front Toward Enemy - Friday!",
-      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_39.png",
-      "tabActiveTime": 	1793631600
+      "title": "New Tracks and a New Season | Coming Soon!",
+      "description": "This Friday, a brand new season of Octave begins and with it comes 6 new tracks! Check them out when the season beings!",
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_40.png",
+      "tabActiveTime": 	1794232800
     },
     {
-      "title": "Week 38 Tracks | Out Now!",
+      "title": "Week 39 Tracks | Out Now!",
       "description": "Check out last weeks releases!",
-      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_38.png",
-      "tabActiveTime": 	1793631600
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_39.png",
+      "tabActiveTime": 	1794232800
     }
   ]
 }            

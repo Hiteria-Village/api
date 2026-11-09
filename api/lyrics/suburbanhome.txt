@@ -1,0 +1,62 @@
+[00:01.75]{agent:v1}I want to be stereotyped, I want to be classified
+<I:1.745:1.924|want:1.924:2.164|to:2.164:2.329|be:2.329:2.457|stereotyped,:2.457:3.662|I:3.662:3.907|want:3.907:4.193|to:4.193:4.346|be:4.346:4.485|classified:4.485:5.504>
+[00:05.50]{agent:v1}
+[00:10.51]{agent:v1}I wanna be stereotyped
+<I:10.509:10.856|wanna:10.856:11.154|be:11.154:11.316|stereotyped:11.316:12.339>
+[00:12.83]{agent:v1}I wanna be classified
+<I:12.832:13.119|wanna:13.119:13.475|be:13.475:13.742|classified:13.742:14.887>
+[00:14.89]{agent:v1}I wanna be a clone
+<I:14.887:15.531|wanna:15.531:16.964|be:17.489:17.717|a:17.717:17.857|clone:17.857:19.397>
+[00:20.19]{agent:v1}I wanna suburban home
+<I:20.185:20.818|wanna:20.818:22.306|suburban:22.687:23.24|home:23.24:24.391>
+[00:24.39]{agent:v1}Suburban home
+<Suburban:24.391:25.0|home:25.0:26.067>
+[00:26.12]{agent:v1}Suburban home
+<Suburban:26.124:26.59|home:26.59:27.893>
+[00:27.93]{agent:v1}Suburban home
+<Suburban:27.929:28.383|home:28.383:29.846>
+[00:29.85]{agent:v1}
+[00:35.17]{agent:v1}I wanna be masochistic
+<I:35.173:35.476|wanna:35.476:35.777|be:35.777:36.046|masochistic:36.046:37.25>
+[00:37.45]{agent:v1}I wanna be a statistic
+<I:37.454:37.837|wanna:37.837:38.433|be:38.433:38.566|a:38.566:38.706|statistic:38.706:39.76>
+[00:39.76]{agent:v1}I wanna be a clone
+<I:39.76:40.354|wanna:40.354:42.019|be:42.373:42.571|a:42.571:42.631|clone:42.631:44.546>
+[00:45.05]{agent:v1}I wanna suburban home
+<I:45.05:45.666|wanna:45.666:47.214|suburban:47.581:48.059|home:48.059:49.341>
+[00:49.34]{agent:v1}Suburban home
+<Suburban:49.341:49.761|home:49.761:50.539>
+[00:51.01]{agent:v1}Suburban home
+<Suburban:51.009:51.507|home:51.507:52.455>
+[00:52.82]{agent:v1}Suburban home
+<Suburban:52.823:53.298|home:53.298:54.418>
+[00:54.42]{agent:v1}
+[00:57.47]{agent:v1}I don't want no hippie pad
+<I:57.467:57.777|don't:57.777:58.11|want:58.11:58.419|no:58.419:58.729|hippie:58.729:59.34|pad:59.34:60.123>
+[01:00.12]{agent:v1}I want a house just like mom and dad
+<I:60.123:60.302|want:60.302:60.442|a:60.442:60.542|house:60.542:60.884|just:60.884:61.204|like:61.204:61.343|mom:61.343:61.562|and:61.562:61.622|dad:61.622:62.948>
+[01:03.33]{agent:v1}I wanna be stereotyped
+<I:63.327:63.656|wanna:63.656:64.003|be:64.003:64.265|stereotyped:64.265:65.205>
+[01:05.78]{agent:v1}I wanna be classified
+<I:65.784:66.092|wanna:66.092:66.403|be:66.403:66.682|classified:66.682:67.906>
+[01:08.19]{agent:v1}I wanna be masochistic
+<I:68.188:68.462|wanna:68.462:68.832|be:68.832:69.09|masochistic:69.09:70.344>
+[01:10.55]{agent:v1}I wanna be a statistic
+<I:70.555:70.938|wanna:70.938:71.479|be:71.479:71.706|a:71.706:71.806|statistic:71.806:72.736>
+[01:12.74]{agent:v1}I wanna be a clone
+<I:72.736:73.298|wanna:73.298:75.156|be:75.432:75.583|a:75.583:75.798|clone:75.798:77.52>
+[01:18.13]{agent:v1}I wanna suburban home
+<I:78.127:78.792|wanna:78.792:80.445|suburban:80.669:81.223|home:81.223:82.461>
+[01:22.46]{agent:v1}Suburban home
+<Suburban:82.461:82.97|home:82.97:83.579>
+[01:24.29]{agent:v1}Suburban home
+<Suburban:84.29:84.842|home:84.842:85.445>
+[01:26.12]{agent:v1}Suburban home
+<Suburban:86.118:86.625|home:86.625:87.376>
+[01:27.91]{agent:v1}Suburban home
+<Suburban:87.91:88.417|home:88.417:89.194>
+[01:29.78]{agent:v1}Suburban home
+<Suburban:89.778:90.36|home:90.36:90.69>
+[01:30.69]{agent:v1}
+[01:36.48]{agent:v1}I want to be stereotyped, I want to be classified
+<I:96.484:96.74|want:96.74:97.076|to:97.076:97.265|be:97.265:97.411|stereotyped,:97.411:98.668|I:98.668:98.886|want:98.886:99.191|to:99.191:99.328|be:99.328:99.6|classified:99.6:100.774>

@@ -368,7 +368,8 @@
     "name": "Season 1 Mastery",
     "displayName": "",
     "color": "#FFFFFF",
-    "preview": "oct_S1Mastery.png"
+    "preview": "oct_S1Mastery.png",
+    "fade": "oct_S1Mastery_bg.png"
   },
   {
     "id": "rank_110",
@@ -403,7 +404,8 @@
     "name": "Season 2 Mastery",
     "displayName": "",
     "color": "#FFFFFF",
-    "preview": "oct_S2Mastery.png"
+    "preview": "oct_S2Mastery.png",
+    "fade": "oct_S2Mastery_bg.png"
   },
   {
     "id": "rank_115",
@@ -411,6 +413,14 @@
     "displayName": "",
     "color": "#FFFFFF",
     "preview": "owner5.png"
+  },
+  {
+    "id": "rank_116",
+    "name": "Season 3 Mastery",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_S3Mastery.png",
+    "fade": "oct_S3Mastery_bg.png"    
   },
   {
     "id": "rank_1001",
@@ -1650,5 +1660,47 @@
     "displayName": "",
     "color": "#FFFFFF",
     "preview": "oct_sid_179.png"
+  },
+  {
+    "id": "rank_1166",
+    "name": "Cheerleader (Felix Jaehn Remix)",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_166.png"
+  },
+  {
+    "id": "rank_1173",
+    "name": "SOLE",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_173.png"
+  },
+  {
+    "id": "rank_1178",
+    "name": "Bubblegum Trash",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_178.png"
+  },
+  {
+    "id": "rank_1184",
+    "name": "The Funeral",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_184.png"
+  },
+  {
+    "id": "rank_1186",
+    "name": "Lovefool",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_186.png"
+  },
+  {
+    "id": "rank_1192",
+    "name": "Suburban Home",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_192.png"
   }
 ]

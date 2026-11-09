@@ -1,0 +1,62 @@
+[00:24.73]{agent:v1}I'm coming up only to hold you under
+<I'm:24.727:25.01|coming:25.01:25.351|up:25.351:25.82|only:25.82:27.276|to:27.559:28.159|hold:28.159:29.076|you:29.442:29.708|under:29.708:31.999>
+[00:32.00]{agent:v1}
+[00:34.82]{agent:v1}And coming up only to show you wrong
+<And:34.821:35.034|coming:35.034:35.512|up:35.512:35.994|only:35.994:37.146|to:37.536:38.178|show:38.178:39.32|you:39.594:39.864|wrong:39.864:41.136>
+[00:41.14]{agent:v1}
+[00:45.34]{agent:v1}And to know you is hard, we wonder
+<And:45.337:45.477|to:45.477:45.877|know:45.877:46.394|you:46.394:47.296|is:47.72:48.312|hard,:48.312:49.253|we:49.602:49.885|wonder:49.885:51.966>
+[00:51.97]{agent:v1}
+[00:55.52]{agent:v1}To know you all wrong, we won
+<To:55.525:56.216|know:56.216:56.637|you:56.637:57.437|all:58.048:58.605|wrong,:58.605:59.501|we:59.906:60.117|won:60.117:61.137>
+[01:01.14]{agent:v1}
+[01:11.73]{agent:v1}
+[01:22.10]{agent:v1}
+[01:25.35]{agent:v1}Really too late to call, so we wait for
+<Really:85.351:85.742|too:85.742:86.102|late:86.102:86.686|to:86.686:87.337|call,:87.811:88.403|so:88.403:89.238|we:89.694:89.945|wait:89.945:90.689|for:90.689:92.049>
+[01:32.05]{agent:v1}
+[01:34.83]{agent:v1}Morning to wake you is all we got
+<Morning:94.831:95.406|to:95.406:95.84|wake:95.84:96.424|you:96.424:97.192|is:97.456:98.075|all:98.075:98.942|we:99.286:99.542|got:99.542:100.552>
+[01:40.55]{agent:v1}
+[01:44.84]{agent:v1}But to know me as hardly golden
+<But:104.838:105.118|to:105.118:105.634|know:105.634:106.105|me:106.105:106.633|as:106.945:107.55|hardly:107.55:109.11|golden:109.11:111.408>
+[01:51.41]{agent:v1}
+[01:54.28]{agent:v1}Is to know me all wrong, they won
+<Is:114.278:114.55|to:114.55:114.859|know:114.859:115.366|me:115.366:116.201|all:116.534:117.126|wrong,:117.126:118.083|they:118.345:118.601|won:118.601:119.905>
+[01:59.91]{agent:v1}
+[02:03.37]{agent:v1}At every occasion, I'll be ready for the funeral
+<At:123.366:123.673|every:123.673:124.182|occasion,:124.182:125.425|I'll:125.425:126.147|be:126.147:126.523|ready:126.523:127.449|for:127.702:128.382|the:128.382:128.598|funeral:128.598:130.041>
+[02:10.04]{agent:v1}
+[02:15.31]{agent:v1}At every occasion once more, it's called the funeral
+<At:135.306:135.366|every:135.366:135.877|occasion:135.877:137.162|once:137.162:137.805|more,:137.805:138.941|it's:139.306:139.671|called:139.671:140.077|the:140.077:140.366|funeral:140.366:141.509>
+[02:21.51]{agent:v1}
+[02:26.93]{agent:v1}At every occasion, oh, I'm ready for the funeral
+<At:146.928:147.224|every:147.224:147.552|occasion,:147.552:148.701|oh,:148.701:149.419|I'm:149.419:149.843|ready:149.843:150.888|for:150.888:151.62|the:151.62:151.796|funeral:151.796:152.922>
+[02:32.92]{agent:v1}
+[02:38.41]{agent:v1}At every occasion of one billion day funeral
+<At:158.414:158.681|every:158.681:159.121|occasion:159.121:160.481|of:160.481:161.097|one:161.097:161.531|billion:161.531:162.59|day:162.59:163.323|funeral:163.323:165.071>
+[02:45.07]{agent:v1}
+[02:52.01]{agent:v1}I'm coming up only to show you down for
+<I'm:172.007:172.244|coming:172.244:172.594|up:172.594:173.012|only:173.012:174.319|to:174.669:175.196|show:175.196:176.19|you:176.491:176.804|down:176.804:177.663|for:177.663:179.01>
+[02:59.01]{agent:v1}
+[03:01.53]{agent:v1}And coming up only to show you wrong
+<And:181.526:181.798|coming:181.798:182.158|up:182.158:182.665|only:182.665:183.982|to:184.315:184.915|show:184.915:186.126|you:186.126:186.449|wrong:186.449:187.69>
+[03:07.69]{agent:v1}
+[03:11.88]{agent:v1}To the outside, the dead leaves they own the lawn
+<To:191.879:192.178|the:192.178:192.428|outside,:192.428:193.631|the:194.094:194.314|dead:194.314:194.77|leaves:194.77:195.564|they:196.101:196.372|own:196.372:196.615|the:196.615:196.744|lawn:196.744:197.65>
+[03:17.65]{agent:v1}
+[03:20.93]{agent:v1}'Fore they died and had trees to hang there upon
+<'Fore:200.926:201.518|they:201.518:201.977|died:201.977:203.086|and:203.477:203.673|had:203.673:204.038|trees:204.038:205.12|to:205.12:205.443|hang:205.443:205.752|there:205.752:206.203|upon:206.203:207.903>
+[03:27.90]{agent:v1}
+[03:46.50]{agent:v1}
+[03:49.12]{agent:v1}At every occasion, I'll be ready for the funeral
+<At:229.125:229.416|every:229.416:229.925|occasion,:229.925:231.216|I'll:231.216:231.893|be:231.893:232.242|ready:232.242:233.057|for:233.34:234.084|the:234.084:234.34|funeral:234.34:235.439>
+[03:55.44]{agent:v1}
+[04:00.72]{agent:v1}At every occasion once more, it's called the funeral
+<At:240.721:240.993|every:240.993:241.436|occasion:241.436:242.742|once:242.742:243.476|more,:243.476:244.553|it's:245.102:245.381|called:245.381:245.671|the:245.671:245.845|funeral:245.845:247.259>
+[04:07.26]{agent:v1}
+[04:12.33]{agent:v1}At every occasion, oh, I'm ready for the funeral
+<At:252.334:252.619|every:252.619:252.961|occasion,:252.961:254.169|oh,:254.169:255.038|I'm:255.038:255.366|ready:255.366:256.116|for:256.502:257.187|the:257.187:257.403|funeral:257.403:258.705>
+[04:18.70]{agent:v1}
+[04:23.75]{agent:v1}At every occasion of one billion day funeral
+<At:263.746:264.079|every:264.079:264.597|occasion:264.597:265.837|of:265.837:266.538|one:266.538:266.898|billion:266.898:268.005|day:268.005:268.679|funeral:268.679:270.396>

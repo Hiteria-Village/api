@@ -1,0 +1,57 @@
+[00:43.11]{agent:v1}Tapped out and tearing at the seams
+<Tapped:43.112:43.443|out:43.443:43.767|and:43.767:43.981|tearing:43.981:44.369|at:44.369:44.632|the:44.632:44.813|seams:44.813:45.828>
+[00:46.36]{agent:v1}Dragged on the feelings in between
+<Dragged:46.363:46.898|on:46.898:47.178|the:47.178:47.334|feelings:47.334:47.787|in:47.787:47.959|between:47.959:48.84>
+[00:49.70]{agent:v1}Pulling on the people that you know
+<Pulling:49.696:50.08|on:50.08:50.448|the:50.448:50.624|people:50.624:51.011|that:51.011:51.221|you:51.221:51.477|know:51.477:52.88>
+[00:52.94]{agent:v1}A lesson to be learned in letting go
+<A:52.941:53.066|lesson:53.066:53.481|to:53.481:53.737|be:53.737:53.911|learned:53.911:54.195|in:54.195:54.385|letting:54.385:54.779|go:54.779:56.191>
+[00:56.19]{agent:v1}Sole
+<Sole:56.191:59.141>
+[00:59.66]{agent:v1}Sole
+<Sole:59.664:62.499>
+[01:02.86]{agent:v1}Sole
+<Sole:62.859:65.749>
+[01:06.18]{agent:v1}Steady as you float
+<Steady:66.183:67.158|as:67.158:67.542|you:67.542:67.886|float:67.886:68.559>
+[01:08.56]{agent:v1}You're better off alone
+<You're:68.559:68.785|better:68.785:69.259|off:69.259:69.485|alone:69.485:70.427>
+[01:10.43]{agent:v1}
+[01:22.85]{agent:v1}Bright lights are never what they seem
+<Bright:82.853:83.202|lights:83.202:83.549|are:83.549:83.765|never:83.765:84.162|what:84.162:84.338|they:84.338:84.538|seem:84.538:85.178>
+[01:26.02]{agent:v1}So high, there's nowhere left to lean
+<So:86.021:86.397|high,:86.397:86.838|there's:86.838:87.052|nowhere:87.052:87.462|left:87.462:87.693|to:87.693:87.925|lean:87.925:88.448>
+[01:29.34]{agent:v1}When everything is out of your control
+<When:89.338:89.641|everything:89.641:90.083|is:90.083:90.342|out:90.342:90.518|of:90.518:90.79|your:90.79:91.025|control:91.025:92.538>
+[01:32.64]{agent:v1}A lesson to be learned in letting go
+<A:92.637:92.827|lesson:92.827:93.168|to:93.168:93.418|be:93.418:93.672|learned:93.672:93.886|in:93.886:94.095|letting:94.095:94.523|go:94.523:95.881>
+[01:35.91]{agent:v1}Sole
+<Sole:95.914:98.898>
+[01:39.30]{agent:v1}Sole
+<Sole:99.301:102.24>
+[01:42.52]{agent:v1}Sole
+<Sole:102.522:105.474>
+[01:45.87]{agent:v1}Steady as you float
+<Steady:105.868:106.771|as:106.771:107.096|you:107.096:107.539|float:107.539:108.235>
+[01:48.32]{agent:v1}You're better off alone
+<You're:108.321:108.53|better:108.53:108.976|off:108.976:109.145|alone:109.145:112.274>
+[01:52.51]{agent:v1}Sole
+<Sole:112.51:115.462>
+[01:55.82]{agent:v1}Sole
+<Sole:115.822:118.673>
+[01:59.13]{agent:v1}Steady as you float
+<Steady:119.129:120.162|as:120.162:120.48|you:120.48:120.845|float:120.845:121.478>
+[02:01.58]{agent:v1}You're better off alone
+<You're:121.58:121.825|better:121.825:122.183|off:122.183:122.449|alone:122.449:123.273>
+[02:03.27]{agent:v1}
+[02:08.12]{agent:v1}You're better off alone
+<You're:128.123:128.438|better:128.438:128.739|off:128.739:129.078|alone:129.078:129.923>
+[02:09.92]{agent:v1}
+[03:14.35]{agent:v1}You're better off alone
+<You're:194.351:194.69|better:194.69:194.975|off:194.975:195.167|alone:195.167:196.203>
+[03:16.20]{agent:v1}
+[03:17.83]{agent:v1}Better off alone
+<Better:197.829:198.25|off:198.25:198.538|alone:198.538:199.419>
+[03:19.42]{agent:v1}
+[03:21.22]{agent:v1}Better off
+<Better:201.219:201.696|off:201.696:202.567>

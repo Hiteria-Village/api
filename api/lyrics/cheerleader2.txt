@@ -1,0 +1,89 @@
+[00:19.76]{agent:v1}When I need motivation
+<When:19.758:19.985|I:19.985:20.252|need:20.252:20.791|motivation:20.791:22.05>
+[00:22.52]{agent:v1}My one solution is my queen
+<My:22.52:22.77|one:22.77:23.042|solution:23.042:23.826|is:23.826:24.053|my:24.053:24.36|queen:24.36:24.813>
+[00:24.87]{agent:v1}'Cause she stays strong
+<'Cause:24.872:25.129|she:25.129:25.339|stays:25.339:25.628|strong:25.628:26.072>
+[00:26.59]{agent:v1}Yeah, yeah
+<Yeah,:26.589:27.128|yeah:27.128:27.53>
+[00:27.94]{agent:v1}She is always in my corner
+<She:27.939:28.174|is:28.174:28.424|always:28.424:28.941|in:28.941:29.168|my:29.168:29.4|corner:29.4:29.832>
+[00:29.92]{agent:v1}Right there when I want her
+<Right:29.919:30.475|there:30.475:30.92|when:30.92:31.187|I:31.187:31.437|want:31.437:31.672|her:31.672:31.89>
+[00:31.98]{agent:v1}All these other girls are tempting
+<All:31.98:32.197|these:32.197:32.487|other:32.487:32.972|girls:32.972:33.199|are:33.199:33.448|tempting:33.448:33.974>
+[00:34.03]{agent:v1}But I'm empty when you're gone
+<But:34.035:34.27|I'm:34.27:34.519|empty:34.519:34.993|when:34.993:35.286|you're:35.286:35.495|gone:35.495:35.802>
+[00:35.79]{agent:v1}And they say do you need me?
+<And:35.792:36.032|they:36.032:36.307|say:36.307:36.783|do:37.034:37.283|you:37.283:37.573|need:37.573:37.822|me?:37.822:38.274>
+[00:38.59]{agent:v1}Do you think I'm pretty?
+<Do:38.591:38.859|you:38.859:39.108|think:39.108:39.358|I'm:39.358:39.607|pretty?:39.607:40.077>
+[00:40.12]{agent:v1}Do I make you feel like cheating?
+<Do:40.124:40.324|I:40.324:40.512|make:40.512:40.881|you:40.881:41.09|feel:41.09:41.397|like:41.397:41.647|cheating?:41.647:42.134>
+[00:42.14]{agent:v1}I'm like no, not really
+<I'm:42.139:42.358|like:42.358:42.665|no,:42.665:43.163|not:43.163:43.702|really:43.702:44.136>
+[00:44.22]{agent:v1}'Cause oh, I think that I found myself a cheerleader
+<'Cause:44.224:44.691|oh,:44.691:45.208|I:45.208:45.725|think:45.725:45.934|that:45.934:46.224|I:46.224:46.474|found:46.474:46.973|myself:46.973:47.418|a:47.418:47.693|cheerleader:47.693:49.029>
+[00:49.29]{agent:v1}She is always right there when I need her
+<She:49.29:49.468|is:49.468:49.772|always:49.772:50.269|right:50.269:50.516|there:50.516:51.04|when:51.04:51.285|I:51.285:51.499|need:51.499:52.002|her:52.002:52.533>
+[00:52.81]{agent:v1}Oh, I think that I found myself a cheerleader
+<Oh,:52.815:53.337|I:53.337:53.871|think:53.871:54.103|that:54.103:54.355|I:54.355:54.548|found:54.548:55.064|myself:55.064:55.638|a:55.638:55.853|cheerleader:55.853:57.029>
+[00:57.33]{agent:v1}She is always right there when I need her
+<She:57.334:57.641|is:57.641:57.905|always:57.905:58.431|right:58.431:58.706|there:58.706:59.173|when:59.173:59.458|I:59.458:59.722|need:59.722:60.207|her:60.207:60.893>
+[01:00.44]{agent:v1}She walks like a model
+<She:60.44:60.925|walks:60.925:61.476|like:61.476:61.723|a:61.723:61.935|model:61.935:62.819>
+[01:03.20]{agent:v1}She grants my wishes
+<She:63.204:63.511|grants:63.511:63.72|my:63.72:64.01|wishes:64.01:64.409>
+[01:04.42]{agent:v1}Like a genie in a bottle
+<Like:64.422:64.744|a:64.744:64.971|genie:64.971:65.496|in:65.496:65.705|a:65.705:66.012|bottle:66.012:66.856>
+[01:07.36]{agent:v1}Yeah, yeah
+<Yeah,:67.364:67.817|yeah:67.817:68.228>
+[01:08.39]{agent:v1}'Cause I'm the wizard of love
+<'Cause:68.385:68.577|I'm:68.577:68.812|the:68.812:69.102|wizard:69.102:69.561|of:69.561:70.086|love:70.086:70.603>
+[01:10.55]{agent:v1}And I got the magic wand
+<And:70.547:70.824|I:70.824:71.059|got:71.059:71.366|the:71.366:71.575|magic:71.575:72.11|wand:72.11:72.633>
+[01:12.65]{agent:v1}All these other girls are tempting
+<All:72.65:72.859|these:72.859:73.126|other:73.126:73.643|girls:73.643:73.933|are:73.933:74.142|tempting:74.142:74.561>
+[01:14.68]{agent:v1}But I'm empty when you're gone
+<But:74.682:74.932|I'm:74.932:75.159|empty:75.159:75.676|when:75.676:75.951|you're:75.951:76.192|gone:76.192:76.452>
+[01:16.45]{agent:v1}And they say do you need me?
+<And:76.449:76.695|they:76.695:76.947|say:76.947:77.3|do:77.714:77.923|you:77.923:78.19|need:78.19:78.497|me?:78.497:79.083>
+[01:19.25]{agent:v1}Do you think I'm pretty?
+<Do:79.25:79.464|you:79.464:79.717|think:79.717:80.021|I'm:80.021:80.256|pretty?:80.256:80.737>
+[01:20.80]{agent:v1}Do I make you feel like cheating?
+<Do:80.799:81.057|I:81.057:81.19|make:81.19:81.524|you:81.524:81.751|feel:81.751:82.055|like:82.055:82.308|cheating?:82.308:82.682>
+[01:22.80]{agent:v1}I'm like no, not really
+<I'm:82.803:83.035|like:83.035:83.325|no,:83.325:83.827|not:83.827:84.318|really:84.318:84.778>
+[01:24.81]{agent:v1}'Cause oh, I think that I found myself a cheerleader
+<'Cause:84.813:85.324|oh,:85.324:85.863|I:85.863:86.323|think:86.323:86.607|that:86.607:86.897|I:86.897:87.146|found:87.146:87.623|myself:87.623:88.108|a:88.108:88.343|cheerleader:88.343:89.507>
+[01:29.91]{agent:v1}She is always right there when I need her
+<She:89.914:90.181|is:90.181:90.448|always:90.448:90.96|right:90.96:91.232|there:91.232:91.731|when:91.731:91.998|I:91.998:92.248|need:92.248:92.715|her:92.715:93.217>
+[01:33.46]{agent:v1}Oh, I think that I found myself a cheerleader
+<Oh,:93.46:94.002|I:94.002:94.518|think:94.518:94.768|that:94.768:94.96|I:94.96:95.253|found:95.253:95.769|myself:95.769:96.246|a:96.246:96.536|cheerleader:96.536:97.678>
+[01:38.00]{agent:v1}She is always right there when I need her
+<She:97.996:98.228|is:98.228:98.553|always:98.553:99.047|right:99.047:99.297|there:99.297:99.836|when:99.836:100.103|I:100.103:100.355|need:100.355:100.837|her:100.837:101.565>
+[01:41.56]{agent:v1}
+[02:12.93]{agent:v1}Mmm, she gives me love and affection
+<Mmm,:132.929:133.431|she:133.431:133.659|gives:133.659:133.891|me:133.891:134.158|love:134.158:134.697|and:134.697:134.947|affection:134.947:135.946>
+[02:16.17]{agent:v1}Baby, did I mention?
+<Baby,:136.174:136.674|did:136.674:136.981|I:136.981:137.233|mention?:137.233:138.006>
+[02:18.22]{agent:v1}You're the only girl for me
+<You're:138.215:138.45|the:138.45:138.757|only:138.757:139.217|girl:139.217:139.506|for:139.506:139.719|me:139.719:139.953>
+[02:20.03]{agent:v1}No, I don't need a next one
+<No,:140.025:140.31|I:140.31:140.519|don't:140.519:140.823|need:140.823:141.059|a:141.059:141.286|next:141.286:141.86|one:141.86:142.171>
+[02:22.33]{agent:v1}Mama loves you too
+<Mama:142.331:142.791|loves:142.791:143.04|you:143.04:143.315|too:143.315:143.507>
+[02:23.59]{agent:v1}She thinks I made the right selection
+<She:143.589:143.8|thinks:143.8:144.09|I:144.09:144.339|made:144.339:144.589|the:144.589:144.816|right:144.816:145.066|selection:145.066:146.128>
+[02:26.10]{agent:v1}Now all that's left to do is just for me
+<Now:146.102:146.329|all:146.329:146.613|that's:146.613:146.845|left:146.845:147.095|to:147.095:147.362|do:147.362:147.634|is:147.634:147.861|just:147.861:148.111|for:148.111:148.421|me:148.421:148.637>
+[02:28.67]{agent:v1}To pop the question
+<To:148.67:148.938|pop:148.938:149.148|the:149.148:149.452|question:149.452:150.372>
+[02:30.40]{agent:v1}Oh, I think that I found myself a cheerleader
+<Oh,:150.404:150.952|I:150.952:151.453|think:151.453:151.699|that:151.699:151.948|I:151.948:152.238|found:152.238:152.68|myself:152.68:153.196|a:153.196:153.463|cheerleader:153.463:154.659>
+[02:35.04]{agent:v1}She is always right there when I need her
+<She:155.042:155.277|is:155.277:155.544|always:155.544:156.061|right:156.061:156.296|there:156.296:156.77|when:156.77:157.022|I:157.022:157.312|need:157.312:157.829|her:157.829:158.369>
+[02:38.60]{agent:v1}Oh, I think that I found myself a cheerleader
+<Oh,:158.597:159.1|I:159.1:159.558|think:159.558:159.805|that:159.805:160.112|I:160.112:160.307|found:160.307:160.824|myself:160.824:161.381|a:161.381:161.63|cheerleader:161.63:162.812>
+[02:43.12]{agent:v1}She is always right there when I need her
+<She:163.118:163.402|is:163.402:163.666|always:163.666:164.16|right:164.16:164.378|there:164.378:164.952|when:164.952:165.179|I:165.179:165.411|need:165.411:165.953|her:165.953:166.717>

@@ -8827,5 +8827,299 @@
       "drums": ""
     },
     "charter": "Equinox"
+  },
+  "cheerleader2": {
+    "title": "Cheerleader (Felix Jaehn Remix)",
+    "artist": "OMI",
+    "releaseYear": 2015,
+    "cover": "cheerleader2.png",
+    "bpm": 118,
+    "key": "E major",
+    "duration": "3m 05s",
+    "album": "Me 4 U",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 2,
+      "bass": 0,
+      "drums": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-11-13T00:00:00.000Z",
+    "lastFeatured": "2026-11-13T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7vFoFDWqTX0mHzLfrF1Cfy",
+    "videoUrl": "cheerleader2.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_166.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/cheerleader2.mp3",
+    "shop": false,
+    "sid": "sid_166",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "sole": {
+    "title": "SOLE",
+    "artist": "Turnstile",
+    "releaseYear": 2025,
+    "cover": "sunshower.png",
+    "bpm": 145,
+    "key": "C♯ Major",
+    "duration": "3m 28s",
+    "album": "NEVER ENOUGH",
+    "genre": "Punk/Ska/Hardcore",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 5,
+      "bass": 4,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-11-13T00:00:00.000Z",
+    "lastFeatured": "2026-11-13T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "6PaSOin7Y9GnXRZ5U5sMsv",
+    "videoUrl": "sole.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_173.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/sole.mp3",
+    "shop": false,
+    "sid": "sid_173",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "bubblegumtrash": {
+    "title": "Bubblegum Trash",
+    "artist": "Starjunk 95",
+    "releaseYear": 2026,
+    "cover": "errorfouronthefloor.png",
+    "bpm": 185,
+    "key": "B major",
+    "duration": "2m 44s",
+    "album": "Industrial Sunset Memories",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 3,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-11-13T00:00:00.000Z",
+    "lastFeatured": "2026-11-13T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0Nb6fwPbTyAsWt3ghT92Us",
+    "videoUrl": "errorfouronthefloor.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_178.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/bubblegumtrash.mp3",
+    "shop": false,
+    "sid": "sid_178",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+  "thefuneral": {
+    "title": "The Funeral",
+    "artist": "Band of Horses",
+    "releaseYear": 2006,
+    "cover": "thefuneral.png",
+    "bpm": 125,
+    "key": "C Minor",
+    "duration": "5m 22s",
+    "album": "Everything All The Time",
+    "genre": "Indie/Alternative",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 3,
+      "bass": 2,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-11-13T00:00:00.000Z",
+    "lastFeatured": "2026-11-13T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "5lRzWDEe7UuedU2QPsFg0K",
+    "videoUrl": "thefuneral.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_184.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/thefuneral.mp3",
+    "shop": false,
+    "sid": "sid_184",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "lovefool": {
+    "title": "Lovefool",
+    "artist": "The Cardigans",
+    "releaseYear": 1996,
+    "cover": "lovefool.png",
+    "bpm": 112,
+    "key": "A Major",
+    "duration": "3m 20s",
+    "album": "First Band On The Moon (Remastered)",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 4,
+      "bass": 3,
+      "drums": 4,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-11-13T00:00:00.000Z",
+    "lastFeatured": "2026-11-13T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7aQjPecQdIuNd1sz3KCDhD",
+    "videoUrl": "lovefool.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_186.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/lovefool.mp3",
+    "shop": false,
+    "sid": "sid_186",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "suburbanhome": {
+    "title": "Suburban Home",
+    "artist": "Descendents",
+    "releaseYear": 1982,
+    "cover": "suburbanhome.png",
+    "bpm": 208,
+    "key": "D major",
+    "duration": "1m 43s",
+    "album": "Milo Goes to College",
+    "genre": "Punk/Ska/Hardcore",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 4,
+      "bass": 4,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-11-13T00:00:00.000Z",
+    "lastFeatured": "2026-11-13T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "/35PI5Hsq17h723EbyyDFsi",
+    "videoUrl": "suburbanhome.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_192.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/suburbanhome.mp3",
+    "shop": false,
+    "sid": "sid_192",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }
