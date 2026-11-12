@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="theme-color" content="#000000">
+    <meta name="description" content="Octave | 06/26/26  Patch Notes">
+    <meta property="og:title" content="Octave | 06/26/26 - Hiteria Village">
+    <meta property="og:description" content="Octave Season 1 Update">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://hiteriavillage.github.io/assets/images/logo.png">
+    <meta property="og:url" content="https://hiteriavillage.github.io/patches/octave_week_20.html">
+    <meta property="og:site_name" content="Hiteria Village">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Octave | 06/26/26 - Hiteria Village">
+    <meta name="twitter:description" content="Octave Season 1 Update">
+    <meta name="twitter:image" content="https://hiteriavillage.github.io/assets/images/logo.png">
+    <title>Octave | 06/26/26 - Hiteria Village</title>
+    <link rel="icon" type="image/x-icon" href="../../favicon.ico">
+    <link rel="icon" type="image/png" href="../../assets/images/logo.png">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #4a5568 0%, #2d3748 25%, #1a202c 50%, #2b6cb0 75%, #3182ce 100%);
+            background-size: 400% 400%;
+            animation: waveGradient 8s ease-in-out infinite;
+            min-height: 100vh;
+            color: white;
+            padding: 20px;
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        body::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(circle at 20% 80%, rgba(59, 130, 246, 0.3) 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, rgba(107, 114, 128, 0.3) 0%, transparent 50%),
+                radial-gradient(circle at 40% 40%, rgba(75, 85, 99, 0.2) 0%, transparent 50%);
+            z-index: -1;
+        }
+
+        @keyframes waveGradient {
+            0%, 100% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            animation: fadeIn 0.8s ease-in;
+        }
+
+        .header img {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 20px;
+            filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.3));
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            font-weight: 700;
+            text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .back-button {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border: 2px solid rgba(255, 255, 255, 0.2);
+            border-radius: 50px;
+            padding: 12px 20px;
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .back-button:hover {
+            background: rgba(255, 255, 255, 0.15);
+            border-color: rgba(255, 255, 255, 0.4);
+            transform: translateY(-2px);
+        }
+
+        .content-container {
+            max-width: 900px;
+            margin: 0 auto;
+            animation: fadeInUp 1s ease-in;
+        }
+
+        .patch-container {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 30px;
+            border: 2px solid rgba(255, 255, 255, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .patch-container:hover {
+            background: rgba(255, 255, 255, 0.15);
+            border-color: rgba(255, 255, 255, 0.4);
+        }
+
+        .patch-date {
+            font-size: 0.9em;
+            opacity: 0.7;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .patch-section {
+            margin-bottom: 50px;
+        }
+
+        .patch-section h3 {
+            font-size: 2.2em;
+            font-weight: 700;
+            margin-bottom: 25px;
+            color: #fff;
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+            border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+            padding-bottom: 10px;
+        }
+
+        .patch-subsection {
+            margin-bottom: 30px;
+        }
+
+        .patch-subsection h4 {
+            font-size: 1.4em;
+            font-weight: 600;
+            margin-bottom: 15px;
+            color: #e0e0e0;
+            text-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        .patch-section ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .patch-section li {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 6px;
+            padding: 12px 16px;
+            margin-bottom: 8px;
+            border-left: 3px solid rgba(255, 255, 255, 0.3);
+            transition: all 0.2s ease;
+            font-size: 0.95em;
+            line-height: 1.6;
+        }
+
+        .patch-section li:hover {
+            background: rgba(255, 255, 255, 0.08);
+            border-left-color: rgba(255, 255, 255, 0.5);
+        }
+
+        .patch-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 12px;
+            margin: 25px 0;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+            border: 2px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .patch-image-caption {
+            text-align: center;
+            font-size: 0.9em;
+            opacity: 0.7;
+            margin-top: -15px;
+            margin-bottom: 25px;
+            font-style: italic;
+        }
+
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+            margin: 25px 0;
+            border-radius: 12px;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+            border: 2px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 12px;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2em;
+            }
+
+            .header img {
+                width: 60px;
+                height: 60px;
+            }
+
+            .patch-container {
+                padding: 25px;
+            }
+
+            .patch-section h3 {
+                font-size: 1.8em;
+            }
+
+            .patch-subsection h4 {
+                font-size: 1.2em;
+            }
+
+            .back-button {
+                position: relative;
+                top: 0;
+                left: 0;
+                margin-bottom: 20px;
+                align-self: flex-start;
+            }
+        }
+    </style>
+</head>
+<body>
+    <a href="/patch-notes" class="back-button">
+        <span>←</span>
+        Back to Patch Notes
+    </a>
+
+    <div class="header">
+        <img src="../../assets/images/logo.png" alt="Hiteria Village Logo">
+        <h1>Octave Season 3 | 11/13/26</h1>
+        <p>Patch Notes</p>
+    </div>
+
+    <div class="content-container">
+        <div class="patch-container">
+            <div class="patch-date">A New Season of Octave is Here and We Have Some Exciting New Content for You!</div>
+                        <div class="patch-section">
+                <h3>Octave | Season 3</h3>
+                
+                <div class="patch-subsection">
+                    <h4>New and Updated Systems</h4>
+                                        <ul>
+                        <li>Setlists
+                    </li>
+                    Setlists are now available! You can create your own setlists to play through your favorite songs in a row! You can also share these setlists with your friends and other players! Up to 4 tracks can be placed onto a setlist and once a track ends you can begin the other one when you are ready! 
+                    <ul>
+                 <img src="../../assets/images/setlists.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">A look at the setlist creation menu</div>                                            
+                        <li>Emotes
+                    </li>
+                    Emotes are now available for use in the game! You can purchase these from the shop or get them through the season rewards track! During breaks in gameplay, you can press [C] to emote! You can also press the same bind during normal Minecraft gameplay to use emotes too! There are icons displayed on these emotes that show which are traversal and which are synced. Traversal emotes allow you to move around while they play and synced emotes allow other players to join in with the fun!
+                    <ul>
+                 <img src="../../assets/images/emotes.gif" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">A look at the emotes during gameplay</div>
+                                        <li>Global Leaderboards
+                    </li>
+                    A new global leaderboard system has been added. It displayes multiple statistics such as each players current rank/level, total tracks played, total score and total #1 placements they have achieved. You can easily switch through each instrument at the top of the screen to display the statistics for that specific instrument! You can also change the way the leaderboard is sorted by clicking on each subject.
+                 <img src="../../assets/images/global-leaderboards.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">A look at the global leaderboard screen</div>
+                        <li>In-Gameplay Leaderboards
+                    </li>
+                    During gameplay, you can enable the leaderboard to track your performance compared to other players. Scores will automatically update and you can see your current score climb the ranks! This can be toggled in your settings menu.
+                 <img src="../../assets/images/gameplay-leaderboards.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">A look at the leaderboard during gameplay</div>
+                        <li>Spectating
+                    </li>
+                    When nearby an active Octave performance, you can now spectate the player! Spectating will lock you into the players perspective, showing you exactly what they see and letting you hear what they hear while they play!
+                 <img src="../../assets/images/spectating.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">A look at spectating during gameplay</div>                
+                        <li>Archive Button
+                    </li>
+                    Do you DESPISE a track in Octave? Well now you can archive it! This will hide the track from your selection menu and also hide it in your cosmetics menu! You can also archive any cosmetic type! Archived cosmetics can be found in their own section in the cosmetics menu.
+                 <img src="../../assets/images/archive.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">The Archive Tab</div>
+                        <li>Instrument Decoration Blocks
+                    </li>
+                    You can now place down your instruments in the world as decoration! After crafting an instrument, you can place it anywhere you'd like! Right clicking the instrument will allow you to switch the displayed skin, as long as you own it. 
+                 <img src="../../assets/images/placeable-instruments.png" alt="New Interface" class="patch-image">                
+                <div class="patch-image-caption">A look at the instrument skins in the world</div>                                                                                   
+            <div class="patch-section">                
+                <h3>QoL Changes</h3>
+                
+                <div class="patch-subsection">
+                    <ul>
+                                        <li>Practice Mode Overhaul
+                    </li>
+                    Practice mode has received a significant overhaul! Now, you can select multiple sections at once, allowing you to practice the trickiest parts of a track without having to choose them all separately. The end screen of practice mode gameplay has also been overhauled, giving more in-depth statistics to help you better track your gameplay. As well, you can enable the visibility of your character during practice mode gameplay in the settings, allowing you to watch your character perform while you play.
+                    <ul>
+                 <img src="../../assets/images/practice-revamp.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Practice Mode End Screen Revamp</div>
+                                        <li>Leaderboard Menu Overhaul
+                    </li>
+                    The leaderboard menu has received some significant touch-ups! You can now switch between instruments within the leaderboard screen instead of backing out and switching each time. Much more information is displayed on this screen now too, such as the amount of stars they got, the date and time that score was submitted and a lot more! You can also switch between the seasons leaderboards at the bottom left of the screen!
+                    <ul>
+                 <img src="../../assets/images/leaderboard-revamp.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Leaderboard Menu Overhaul</div>                
+                                        <li>Profile Menu Overhaul
+                    </li>
+                    The profile menu has received a significant overhaul! The menu now displays a ton more statistics about your gameplay, such as your join date, the amount of tracks you've played, the amount of #1 placements you have, your playtime, your equipped rank tags and much more! You can also customise certain elements of your profile, such as choosing your favorite track to be displayed for everyone to see!
+                    <ul>
+                 <img src="../../assets/images/profile-revamp.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">The Overhauled Profile Menu</div>
+                                        <li>Full Highway Resizing + Size To Screen
+                    </li>
+                    Ever feel like your highway is too thin? Maybe too long or too short? Well now you can fully resize your highway exactly to your liking! Replacing the highway size options are two new sliders that allow you to change your highways width and height freely. Another new option is "Size to Screen." This setting, when toggled on, will size to highway to fit with your screen size and prevent it from being smaller on larger scale monitors, such as 4k monitors.
+                    <ul>
+                 <img src="../../assets/images/highway-resize.png" alt="New Interface" class="patch-image">
+                 <div class="patch-image-caption">Some fun stuff you can do with highway resizing</div>                                
+                                        <li>Performance Marker UI Upgrades
+                    </li>
+                    When you shift + right click a stage block, the performance marker ui will display. This has been upgraded to load much faster and perform a lot better with less stutters and a clearer system to avoid any confusion. You can also hold and drag left click to select your stage area instead of manually clicking each tile!
+                    <ul>
+                 <img src="../../assets/images/performance-marker-ui-update.png" alt="New Interface" class="patch-image">
+                 <div class="patch-image-caption">Performance Marker UI Upgrades</div>
+                                        <li>Strum Mode Overhaul
+                    </li>
+            The strum mode has been overhauled to make guitar gampeplay smoother and to also give lead/bass charts more of a "pro" variant. An auto-hopo system has been put in place for when playing on strum mode, limits at 130ms, and should make the gameplay experience a lot better for guitar players! 
+                <div class="patch-image-caption"></div>                 
+                                        <li>Camera System Overhaul
+                    </li>
+            The camera system has been completely revamped to provide smoother and more responsive angles throughout gameplay. The new system also features a ton of new camera angles that make the gameplay experience feel more dynamic and immersive at points. This overhaul also prevents the camera from rapidly changing and will also prevent the camera from clipping through blocks as much as it used to. 
+                <div class="patch-image-caption"></div>
+                                                                         <li>New Animations + Touch-Ups
+                    </li>
+            New animations have been added during gameplay to make your character's movements feel more lively. Some old vocal animations have also received touch-ups to make them look less janky. More animations will be added overtime for every instrument! The microphone now also correctly tracks and stays in the players hand during vocal gameplay.
+                <div class="patch-image-caption"></div>
+                                        <li>New Sort Options
+                    </li>
+            When searching for tracks in the menu, you can now sort by BPM and Recently added. The way tracks on rotation and new tracks display in the menu has also been slightly modified. 
+                <div class="patch-image-caption"></div>                 
+
+                 <h3>New Tracks</h3>
+                
+                    As per usual, we have a line up of tracks for this week + some extra tracks tied to the progression system. The tracks tied to the progression system will rotate into the shop once the season ends. 
+
+                <img src="../../assets/images/octave_week_40.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Shop Tracks</div>
+                <img src="../../assets/images/octave_season3_tracks.png" alt="New Interface" class="patch-image">
+                <div class="patch-image-caption">Progression System Tracks</div>
+
+            <div class="patch-section">
+                <h3>Technical Updates</h3>
+                
+                <div class="patch-subsection">
+                    <h4>Bug Fixes</h4>
+                    <ul>
+                        <li>Animations no longer display incorrectly for other players</li>
+                        <li>Custom colored overdrive notes no longer overlap with other color profiles</li>
+                        <li>Controller input system has been improved upon and will correctly detect all inputs</li>
+                        <li>Microphone now correctly tracks the players hand during vocal animations</li>
+                        <li>Audio will now correctly load everywhere</li>                        
+                    </ul>
+                                        <h4>Graphics / Visual</h4>
+                    <ul>
+                        <li>The stage block now centers correctly instead of just being 2 blocks</li>
+                        <li>Solo markers now correctly count and display notes hit</li>
+                        <li>Fixed the positioning of certain highway HUD elements</li>
+                        <li>The multiplayer sync system has been greatly improved upon, having little to no visual desync on bandmates highways</li>
+                        <li>Your overdrive bar will now correctly match the color of your custom overdrive color</li>
+                        <li>You can now preview your rank tags in the cosmetic menu</li>                                                                                                
+                    </ul>                        
+                                        <h4>Performance</h4>
+                    <ul>
+                        <li>Faster Bootup</li>
+                        <li>Greatly increased framerate during gameplay</li>
+                        <li>Made connection to the server much stronger preventing most disconnects</li>
+                    </ul>                        
+                                        <h4>Jiggle</h4>
+                    <ul>
+                        <li>Added a Jiggle button.</li>
+                        <li>Added jiggle physics</li> 
+            <div class="patch-section">
+                <h3>Soon To Come...</h3>
+                
+                <div class="patch-subsection">
+                    <h4>We have some exciting features coming soon, hopefully you all enjoy what this season of Octave has to offer!</h4>
+                <img src="../../assets/images/fusion.png" alt="New Interface" class="patch-image">                                                                                          
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
