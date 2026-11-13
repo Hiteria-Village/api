@@ -93,6 +93,15 @@
       "showTimer": false,
       "order": 9,
       "itemsFile": "instrument_shop.json"
+    },
+    {
+      "id": "emote_shop",
+      "name": "Emote Shop",
+      "enabled": true,
+      "resetType": "CUSTOM",
+      "showTimer": false,
+      "order": 10,
+      "itemsFile": "emote_shop.json"
     }
   ]
 }

@@ -1,0 +1,26 @@
+[
+  {
+  "itemRef": "eid_09",
+  "layout": "SMALL",
+  "cost": 300,
+  "isNew": true
+  },
+  {
+  "itemRef": "eid_03",
+  "layout": "SMALL",
+  "cost": 200,  
+  "isNew": true
+  },
+  {
+  "itemRef": "eid_06",
+  "layout": "SMALL",
+  "cost": 200,  
+  "isNew": true
+  },
+  {
+  "itemRef": "eid_05",
+  "layout": "SMALL",
+  "cost": 200,  
+  "isNew": true     
+  }
+]
