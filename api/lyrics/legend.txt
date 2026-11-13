@@ -1,0 +1,133 @@
+[00:14.91]{agent:v1}I will thrive
+<I:14.91:15.813333|will:15.813333:17.62|thrive:16.716667:17.62>
+[00:17.62]{agent:v1}In the toughest of restraints
+<In:17.62:18.278|the:18.278:19.594|toughest:18.936:20.91|of:19.594:22.226|restraints:20.252:20.91>
+[00:20.91]{agent:v1}There's no pride
+<There's:20.91:21.806667|no:21.806667:23.6|pride:22.703333:23.6>
+[00:23.60]{agent:v1}When you're constantly under
+<When:23.6:24.215|you're:24.215:25.445|constantly:24.83:26.675|under:25.445:26.06>
+[00:26.06]{agent:v1}Cold and crystalline
+<Cold:26.06:27.053333|and:27.053333:29.04|crystalline:28.046667:29.04>
+[00:29.04]{agent:v1}My bones have been through worse
+<My:29.04:29.575|bones:29.575:30.645|have:30.11:31.715|been:30.645:32.785|through:31.18:33.855|worse:31.715:32.25>
+[00:32.25]{agent:v1}Shattered endlessly... love the pain
+<Shattered:32.25:33.44|endlessly...:33.44:35.82|love:34.63:38.2|the:35.82:40.58|pain:37.01:38.2>
+[00:38.20]{agent:v1}Huffing gasoline
+<Huffing:38.2:39.635|gasoline:39.635:41.07>
+[00:41.07]{agent:v1}Has been my favorite mistake
+<Has:41.07:41.674|been:41.674:42.882|my:42.278:44.09|favorite:42.882:45.298|mistake:43.486:44.09>
+[00:44.09]{agent:v1}And I've been wondering
+<And:44.09:45.0525|I've:45.0525:46.9775|been:46.015:48.9025|wondering:46.9775:47.94>
+[00:47.94]{agent:v1}When veins will break
+<When:47.94:48.8875|veins:48.8875:50.7825|will:49.835:52.6775|break:50.7825:51.73>
+[00:51.73]{agent:v1}Your eyes are soulless
+<Your:51.73:53.145|eyes:53.145:55.975|are:54.56:58.805|soulless:55.975:57.39>
+[00:57.39]{agent:v1}Our skies have blackened
+<Our:57.39:58.8775|skies:58.8775:61.8525|have:60.365:64.8275|blackened:61.8525:63.34>
+[01:03.34]{agent:v1}Comfort in my own hands feeding
+<Comfort:63.34:64.378333|in:64.378333:66.455|my:65.416667:68.531667|own:66.455:70.608333|hands:67.493333:72.685|feeding:68.531667:69.57>
+[01:09.57]{agent:v1}This endless nightmare
+<This:69.57:71.84|endless:71.84:76.38|nightmare:74.11:76.38>
+[01:16.38]{agent:v1}Feel his gaze, my
+<Feel:76.38:77.22|his:77.22:78.9|gaze,:78.06:80.58|my:78.9:79.74>
+[01:19.74]{agent:v1}Fear has no ending
+<Fear:79.74:80.4725|has:80.4725:81.9375|no:81.205:83.4025|ending:81.9375:82.67>
+[01:22.67]{agent:v1}Until we die
+<Until:82.67:83.653333|we:83.653333:85.62|die:84.636667:85.62>
+[01:25.62]{agent:v1}Look in the mirror
+<Look:85.62:86.0275|in:86.0275:86.8425|the:86.435:87.6575|mirror:86.8425:87.25>
+[01:27.25]{agent:v1}I'm what you fear
+<I'm:87.25:87.6875|what:87.6875:88.5625|you:88.125:89.4375|fear:88.5625:89.0>
+[01:29.00]{agent:v1}I'm crying out, but my
+<I'm:89.0:89.604|crying:89.604:90.812|out,:90.208:92.02|but:90.812:93.228|my:91.416:92.02>
+[01:32.02]{agent:v1}My inner demons ache
+<My:92.02:92.96|inner:92.96:94.84|demons:93.9:96.72|ache:94.84:95.78>
+[01:35.78]{agent:v1}To find
+<To:95.78:97.005|find:97.005:98.23>
+[01:38.23]{agent:v1}No one survives alone
+<No:98.23:102.9425|one:102.9425:112.3675|survives:107.655:121.7925|alone:112.3675:117.08>
+[01:57.08]{agent:v1}I didn't read the fine print
+<I:117.08:117.64|didn't:117.64:118.76|read:118.2:119.88|the:118.76:121.0|fine:119.32:122.12|print:119.88:120.44>
+[02:00.44]{agent:v1}Of this poison ingested
+<Of:120.44:120.98|this:120.98:122.06|poison:121.52:123.14|ingested:122.06:122.6>
+[02:02.60]{agent:v1}Oh, God, I've regressed
+<Oh,:122.6:123.0125|God,:123.0125:123.8375|I've:123.425:124.6625|regressed:123.8375:124.25>
+[02:04.25]{agent:v1}Cold and crystalline
+<Cold:124.25:125.293333|and:125.293333:127.38|crystalline:126.336667:127.38>
+[02:07.38]{agent:v1}My bones have been through worse
+<My:127.38:127.826667|bones:127.826667:128.72|have:128.273333:129.613333|been:128.72:130.506667|through:129.166667:131.4|worse:129.613333:130.06>
+[02:10.06]{agent:v1}Shattered endlessly
+<Shattered:130.06:131.575|endlessly:131.575:133.09>
+[02:13.09]{agent:v1}This dizziness feels, oh, so soothing
+<This:133.09:133.685|dizziness:133.685:134.875|feels,:134.28:136.065|oh,:134.875:137.255|so:135.47:138.445|soothing:136.065:136.66>
+[02:16.66]{agent:v1}Suffocate this blight on my brain
+<Suffocate:136.66:137.153333|this:137.153333:138.14|blight:137.646667:139.126667|on:138.14:140.113333|my:138.633333:141.1|brain:139.126667:139.62>
+[02:19.62]{agent:v1}Your cries are calling out to empty air
+<Your:139.62:139.97875|cries:139.97875:140.69625|are:140.3375:141.41375|calling:140.69625:142.13125|out:141.055:142.84875|to:141.41375:143.56625|empty:141.7725:144.28375|air:142.13125:142.49>
+[02:22.49]{agent:v1}(I take addictions with grace) Make ghosts aware
+<(I:142.49:142.9025|take:142.9025:143.7275|addictions:143.315:144.5525|with:143.7275:145.3775|grace):144.14:146.2025|Make:144.5525:147.0275|ghosts:144.965:147.8525|aware:145.3775:145.79>
+[02:25.79]{agent:v1}(Fall into empty unmarked graves)
+<(Fall:145.79:146.426|into:146.426:147.698|empty:147.062:148.97|unmarked:147.698:150.242|graves):148.334:148.97>
+[02:28.97]{agent:v1}Feel his gaze, but my
+<Feel:148.97:149.63|his:149.63:150.95|gaze,:150.29:152.27|but:150.95:153.59|my:151.61:152.27>
+[02:32.27]{agent:v1}Fear has no ending
+<Fear:152.27:152.9875|has:152.9875:154.4225|no:153.705:155.8575|ending:154.4225:155.14>
+[02:35.14]{agent:v1}Until we die
+<Until:155.14:156.08|we:156.08:157.96|die:157.02:157.96>
+[02:37.96]{agent:v1}Look in the mirror
+<Look:157.96:158.4|in:158.4:159.28|the:158.84:160.16|mirror:159.28:159.72>
+[02:39.72]{agent:v1}I'm what you fear
+<I'm:159.72:160.14|what:160.14:160.98|you:160.56:161.82|fear:160.98:161.4>
+[02:41.40]{agent:v1}I'm crying out, but my
+<I'm:161.4:162.05|crying:162.05:163.35|out,:162.7:164.65|but:163.35:165.95|my:164.0:164.65>
+[02:44.65]{agent:v1}My inner demons ache
+<My:164.65:165.61|inner:165.61:167.53|demons:166.57:169.45|ache:167.53:168.49>
+[02:48.49]{agent:v1}To find
+<To:168.49:169.665|find:169.665:170.84>
+[02:50.84]{agent:v1}All that keeps me whole
+<All:170.84:180.41|that:180.41:199.55|keeps:189.98:218.69|me:199.55:237.83|whole:209.12:218.69>
+[03:38.69]{agent:v1}Limb from Limb
+<Limb:218.69:219.953333|from:219.953333:222.48|Limb:221.216667:222.48>
+[03:42.48]{agent:v1}Take souls
+<Take:222.48:223.935|souls:223.935:225.39>
+[03:45.39]{agent:v1}Tear it all out myself
+<Tear:225.39:226.566|it:226.566:228.918|all:227.742:231.27|out:228.918:233.622|myself:230.094:231.27>
+[03:51.27]{agent:v1}Your eyes are soulless
+<Your:231.27:232.745|eyes:232.745:235.695|are:234.22:238.645|soulless:235.695:237.17>
+[03:57.17]{agent:v1}Leave me to descend
+<Leave:237.17:237.7875|me:237.7875:239.0225|to:238.405:240.2575|descend:239.0225:239.64>
+[03:59.64]{agent:v1}Out of the light
+<Out:239.64:247.5875|of:247.5875:263.4825|the:255.535:279.3775|light:263.4825:271.43>
+[04:31.43]{agent:v1}Bleeding me dry
+<Bleeding:271.43:272.736667|me:272.736667:275.35|dry:274.043333:275.35>
+[04:35.35]{agent:v1}Entertain
+<Entertain:275.35:278.51>
+[04:38.51]{agent:v1}Ones much too foolish to leave here
+<Ones:278.51:279.325714|much:279.325714:280.957143|too:280.141429:282.588571|foolish:280.957143:284.22|to:281.772857:285.851429|leave:282.588571:287.482857|here:283.404286:284.22>
+[04:44.22]{agent:v1}Pleading cries
+<Pleading:284.22:285.945|cries:285.945:287.67>
+[04:47.67]{agent:v1}Will burn away
+<Will:287.67:289.063333|burn:289.063333:291.85|away:290.456667:291.85>
+[04:51.85]{agent:v1}We are the ones forgotten
+<We:291.85:292.702|are:292.702:294.406|the:293.554:296.11|ones:294.406:297.814|forgotten:295.258:296.11>
+[04:56.11]{agent:v1}Feel his gaze, but my
+<Feel:296.11:296.804|his:296.804:298.192|gaze,:297.498:299.58|but:298.192:300.968|my:298.886:299.58>
+[04:59.58]{agent:v1}Fear has no ending
+<Fear:299.58:300.3875|has:300.3875:302.0025|no:301.195:303.6175|ending:302.0025:302.81>
+[05:02.81]{agent:v1}Until we die
+<Until:302.81:303.71|we:303.71:305.51|die:304.61:305.51>
+[05:05.51]{agent:v1}I'm crying out (Look in the mirror, I'm what you fear)
+<I'm:305.51:305.753636|crying:305.753636:306.240909|out:305.997273:306.728182|(Look:306.240909:307.215455|in:306.484545:307.702727|the:306.728182:308.19|mirror,:306.971818:308.677273|I'm:307.215455:309.164545|what:307.459091:309.651818|you:307.702727:310.139091|fear):307.946364:308.19>
+[05:08.19]{agent:v1}Oh, I tried to erase the shame
+<Oh,:308.19:308.768571|I:308.768571:309.925714|tried:309.347143:311.082857|to:309.925714:312.24|erase:310.504286:313.397143|the:311.082857:314.554286|shame:311.661429:312.24>
+[05:12.24]{agent:v1}My temptations left me crazed
+<My:312.24:312.944|temptations:312.944:314.352|left:313.648:315.76|me:314.352:317.168|crazed:315.056:315.76>
+[05:15.76]{agent:v1}Denied
+<Denied:315.76:318.21>
+[05:18.21]{agent:v1}Remember, I'm in your ear
+<Remember,:318.21:318.7|I'm:318.7:319.68|in:319.19:320.66|your:319.68:321.64|ear:320.17:320.66>
+[05:20.66]{agent:v1}No need to fear
+<No:320.66:321.47|need:321.47:323.09|to:322.28:324.71|fear:323.09:323.9>
+[05:23.90]{agent:v1}This was meant for you
+<This:323.9:331.758|was:331.758:347.474|meant:339.616:363.19|for:347.474:378.906|you:355.332:363.19>
+[05:25.32]{agev1nt:}

@@ -1,32 +1,53 @@
 [
   {
     "type": "BUNDLE",
-    "bundleId": "music_bundle_39",
+    "bundleId": "music_bundle_46",
     "layout": "TALL_RECTANGLE"
   },
   {    
     "type": "BUNDLE",
-    "bundleId": "music_bundle_43",
-    "layout": "TALL_RECTANGLE"  
+    "bundleId": "music_bundle_45",
+    "layout": "TALL_RECTANGLE"
   },
-  {
-    "itemRef": "sid_179",
+  {    
+    "type": "BUNDLE",
+    "bundleId": "music_bundle_46",
+    "layout": "TALL_RECTANGLE"
+   },
+   {    
+    "itemRef": "sid_192",
     "cost": 500,
-    "layout": "SMALL"
+    "layout": "SMALL",
+    "isNew": true
    },
    {
-    "itemRef": "sid_176",
+    "itemRef": "sid_186",
     "cost": 500,
-    "layout": "SMALL"
+    "layout": "SMALL",
+    "isNew": true
    },
    {
-    "itemRef": "sid_171",
+    "itemRef": "sid_184",
     "cost": 500,
-    "layout": "SMALL"
+    "layout": "SMALL",
+    "isNew": true
    },
    {
-    "itemRef": "sid_172",
+    "itemRef": "sid_178",
     "cost": 500,
-    "layout": "SMALL"
+    "layout": "SMALL",
+    "isNew": true
+   },
+   {
+    "itemRef": "sid_173",
+    "cost": 500,
+    "layout": "SMALL",
+    "isNew": true
+   },
+   {
+    "itemRef": "sid_166",
+    "cost": 500,
+    "layout": "SMALL",
+    "isNew": true          
   }
 ]

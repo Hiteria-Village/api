@@ -428,6 +428,36 @@
       "ifOwned1": 40,
       "ifOwned2": 60,
       "visualOverride": null
+    }, 
+    "music_bundle_44": {
+      "name": "Season 2 | Music Pack",
+      "description": "",
+      "basePrice": 2000,
+      "items": ["sid_125", "sid_131", "sid_134", "sid_146"],
+      "discount": 30,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "visualOverride": null  
+    }, 
+    "music_bundle_45": {
+      "name": "Week 40 | Music Pack",
+      "description": "",
+      "basePrice": 3000,
+      "items": ["sid_166", "sid_173", "sid_178", "sid_184", "sid_186", "sid_192"],
+      "discount": 20,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "ifOwned3": 80,
+      "visualOverride": null      
+    },
+    "music_bundle_46": {
+      "name": "The Funeral | Cosmetic Pack",
+      "description": "At every occasion... you'll be ready for some octave!",
+      "basePrice": 1000,
+      "items": ["sid_184", "mid_30"],
+      "discount": 25,
+      "ifOwned1": 60,
+      "visualOverride": null
     }
   }
-}      
+}

@@ -1,16 +1,22 @@
 {
   "items": [
     {
-      "title": "New Tracks and a New Season | Coming Soon!",
-      "description": "This Friday, a brand new season of Octave begins and with it comes 6 new tracks! Check them out when the season beings!",
-      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_40.png",
-      "tabActiveTime": 	1794232800
+      "title": "New Season | Out Now!",
+      "description": "A new season of Octave has begun and it brings a whole ton of new content for you to explore! Check out the tracks to go along with the progression system!",
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_season3_tracks.png",
+      "tabActiveTime": 	1794578400
     },
     {
-      "title": "Week 39 Tracks | Out Now!",
+      "title": "New Tracks | Out Now!",
+      "description": "Check out the week 40 tracks in the shop and rotation now!",
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_40.png",
+      "tabActiveTime": 	1794578400
+    },
+    {
+      "title": "Last Week's Tracks | Out Now!",
       "description": "Check out last weeks releases!",
       "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_39.png",
-      "tabActiveTime": 	1794232800
+      "tabActiveTime": 	1794578400
     }
   ]
 }            

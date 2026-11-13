@@ -9096,7 +9096,7 @@
     "createdAt": "2026-11-13T00:00:00.000Z",
     "lastFeatured": "2026-11-13T00:00:00.000Z",
     "complete": "100%",
-    "spotify": "/35PI5Hsq17h723EbyyDFsi",
+    "spotify": "35PI5Hsq17h723EbyyDFsi",
     "videoUrl": "suburbanhome.mp4",
     "videoPosition": 50,
     "loading_phrase": "oct_sid_192.png",
@@ -9104,6 +9104,202 @@
     "previewUrl": "/api/assets/audio/suburbanhome.mp3",
     "shop": false,
     "sid": "sid_192",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "endofbeginning": {
+    "title": "End of Beginning",
+    "artist": "Djo",
+    "releaseYear": 2022,
+    "cover": "endofbeginning.png",
+    "bpm": 80,
+    "key": "D Major",
+    "duration": "2m 45s",
+    "album": "DECIDE",
+    "genre": "Pop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 2,
+      "lead": 1,
+      "bass": 1,
+      "drums": 1,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-11-13T00:00:00.000Z",
+    "lastFeatured": "2026-11-13T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "3qhlB30KknSejmIvZZLjOD",
+    "videoUrl": "endofbeginning.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_129.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/endofbeginning.mp3",
+    "shop": false,
+    "sid": "sid_129",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Luna"
+  },
+  "hitthejackpothakaridance": {
+    "title": "HIT THE JACKPOT! (Hakari Dance)",
+    "artist": "GameboyJones",
+    "releaseYear": 2026,
+    "cover": "hitthejackpothakaridance.png",
+    "bpm": 130,
+    "key": "C♯ major",
+    "duration": "2m 15s",
+    "album": "DECIDE",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 3,
+      "bass": 1,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-11-13T00:00:00.000Z",
+    "lastFeatured": "2026-11-13T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0J0GjG84jtHKTdAfguKget",
+    "videoUrl": "hitthejackpothakaridance.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_191.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/hitthejackpothakaridance.mp3",
+    "shop": false,
+    "sid": "sid_191",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
+  },
+  "rollingontheduck": {
+    "title": "Rolling on the Duck",
+    "artist": "NieN",
+    "releaseYear": 2007,
+    "cover": "rollingontheduck.png",
+    "bpm": 180,
+    "key": "C major",
+    "duration": "2m 23s",
+    "album": "DJMAX RESPECT V - PORTABLE 2",
+    "genre": "Rock/Metal",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 1,
+      "lead": 5,
+      "bass": 3,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-11-13T00:00:00.000Z",
+    "lastFeatured": "2026-11-13T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "",
+    "videoUrl": "rollingontheduck.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_182.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/rollingontheduck.mp3",
+    "shop": false,
+    "sid": "sid_182",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+  "legend": {
+    "title": "Legend",
+    "artist": "Aviations",
+    "releaseYear": 2023,
+    "cover": "legend.png",
+    "bpm": 155,
+    "key": "B Minor",
+    "duration": "6m 05s",
+    "album": "Luminaria",
+    "genre": "Rock/Metal",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 6,
+      "bass": 5,
+      "drums": 6,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-11-13T00:00:00.000Z",
+    "lastFeatured": "2026-11-13T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "2w7XdnQRT2NY0EqLUq7MH6",
+    "videoUrl": "legend.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_194.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/legend.mp3",
+    "shop": false,
+    "sid": "sid_194",
     "modalShadowColors": {
       "default": {
         "color1": "#8a2be2",

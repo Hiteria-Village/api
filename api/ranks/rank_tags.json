@@ -1702,5 +1702,33 @@
     "displayName": "",
     "color": "#FFFFFF",
     "preview": "oct_sid_192.png"
+  },
+  {
+    "id": "rank_1129",
+    "name": "End of Beginning",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_129.png"
+  },
+  {
+    "id": "rank_1191",
+    "name": "HIT THE JACKPOT! (Hakari Dance)",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_191.png"
+  },
+  {
+    "id": "rank_1182",
+    "name": "Rolling On the Duck",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_182.png"
+  },
+  {
+    "id": "rank_1194",
+    "name": "Legend",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_194.png"
   }
 ]

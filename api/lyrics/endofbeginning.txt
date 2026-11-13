@@ -1,0 +1,75 @@
+[00:07.05]{agent:v1}Just one more tear to cry
+<Just:7.048:7.595|one:7.595:7.946|more:7.946:8.314|tear:8.314:8.741|to:8.741:9.106|cry:9.106:9.692>
+[00:10.09]{agent:v1}One teardrop from my eye
+<One:10.094:10.507|teardrop:10.507:11.201|from:11.201:11.585|my:11.585:12.025|eye:12.025:12.977>
+[00:12.98]{agent:v1}
+[00:15.28]{agent:v1}You better save it for
+<You:15.277:15.743|better:15.743:16.363|save:16.363:16.826|it:16.826:17.242|for:17.242:18.469>
+[00:19.05]{agent:v1}The middle of the night
+<The:19.05:19.453|middle:19.453:20.242|of:20.242:20.535|the:20.535:20.935|night:20.935:21.841>
+[00:22.08]{agent:v1}When things aren't black and white
+<When:22.082:22.508|things:22.508:22.86|aren't:22.86:23.276|black:23.276:23.66|and:23.66:24.068|white:24.793:25.567>
+[00:25.57]{agent:v1}
+[00:27.68]{agent:v1}Enter, Troubadour
+<Enter,:27.677:28.515|Troubadour:28.515:29.985>
+[00:29.98]{agent:v1}
+[00:31.83]{agent:v1}"Remember 24?"
+<"Remember:31.831:33.022|24?":33.022:35.039>
+[00:35.04]{agent:v1}
+[00:40.83]{agent:v1}And when I'm back in Chicago, I feel it
+<And:40.827:41.227|when:41.227:41.579|I'm:41.579:41.96|back:41.96:42.328|in:42.328:42.686|Chicago,:42.686:44.254|I:44.254:44.568|feel:44.568:44.952|it:44.952:46.407>
+[00:46.83]{agent:v1}Another version of me, I was in it
+<Another:46.825:48.047|version:48.047:48.745|of:48.745:49.097|me,:49.097:49.602|I:49.868:50.228|was:50.228:50.636|in:50.636:51.028|it:51.028:52.417>
+[00:52.87]{agent:v1}I wave goodbye to the end of beginning
+<I:52.874:53.207|wave:53.207:53.607|goodbye:53.607:54.329|to:54.329:54.753|the:54.753:55.153|end:55.153:55.937|of:55.937:56.246|beginning:56.246:59.52>
+[00:59.52]{agent:v1}
+[01:04.13]{agent:v1}This song has started now
+<This:64.134:64.522|song:64.522:64.88|has:64.88:65.28|started:65.28:66.029|now:66.029:66.733>
+[01:07.06]{agent:v1}And you're just finding out
+<And:67.065:67.506|you're:67.506:67.845|just:67.845:68.205|finding:68.205:69.074|out:69.812:70.605>
+[01:10.61]{agent:v1}
+[01:12.33]{agent:v1}Now, isn't that a laugh?
+<Now,:72.33:72.767|isn't:72.767:73.476|that:73.476:73.857|a:73.857:74.257|laugh?:74.257:74.973>
+[01:16.10]{agent:v1}A major sacrifice, but clueless at the time
+<A:76.098:76.475|major:76.475:77.209|sacrifice,:77.209:78.801|but:79.059:79.483|clueless:79.483:80.227|at:80.227:80.617|the:80.617:80.993|time:80.993:82.109>
+[01:22.11]{agent:v1}
+[01:24.67]{agent:v1}Enter, Caroline
+<Enter,:84.671:85.541|Caroline:85.541:86.708>
+[01:26.71]{agent:v1}
+[01:28.88]{agent:v1}"Just trust me, you'll be fine"
+<"Just:88.88:89.28|trust:89.28:89.653|me,:89.653:89.979|you'll:89.979:90.387|be:90.387:90.643|fine":90.643:91.493>
+[01:31.49]{agent:v1}
+[01:33.30]{agent:v1}And when I'm back in Chicago, I feel it
+<And:93.297:93.767|when:93.767:94.212|I'm:94.212:94.557|back:94.557:94.939|in:94.939:95.171|Chicago,:95.171:96.766|I:96.766:97.121|feel:97.121:97.662|it:97.662:98.62>
+[01:39.37]{agent:v1}Another version of me, I was in it
+<Another:99.367:100.449|version:100.449:101.187|of:101.187:101.499|me,:101.499:102.23|I:102.23:102.63|was:102.63:103.038|in:103.038:103.47|it:103.47:105.133>
+[01:45.38]{agent:v1}I wave goodbye to the end of beginning
+<I:105.382:105.77|wave:105.77:106.088|goodbye:106.088:106.837|to:106.837:107.181|the:107.181:107.621|end:107.621:108.365|of:108.365:108.714|beginning:108.714:111.128>
+[01:49.80]{agent:v1}Goodbye
+<Goodbye:109.803:110.795>
+[01:51.34]{agent:v1}Goodbye
+<Goodbye:111.339:112.287>
+[01:52.79]{agent:v1}Goodbye
+<Goodbye:112.787:113.773>
+[01:54.34]{agent:v1}Goodbye
+<Goodbye:114.338:115.69>
+[01:55.83]{agent:v1}You take the man out of the city, not the city out the man
+<You:115.828:116.265|take:116.265:116.649|the:116.649:116.975|man:116.975:117.343|out:117.343:117.748|of:117.748:118.092|the:118.092:118.375|city,:118.375:119.224|not:119.224:119.576|the:119.576:119.873|city:119.873:120.782|out:120.782:121.131|the:121.131:121.459|man:121.459:121.845>
+[02:01.87]{agent:v1}You take the man out of the city, not the city out the man
+<You:121.872:122.408|take:122.408:122.694|the:122.694:123.11|man:123.11:123.459|out:123.459:123.843|of:123.843:124.248|the:124.248:124.632|city,:124.632:125.328|not:125.328:125.68|the:125.68:126.078|city:126.078:126.846|out:126.846:127.195|the:127.195:127.563|man:127.563:127.784>
+[02:07.81]{agent:v1}You take the man out of the city, not the city out the man
+<You:127.814:128.225|take:128.225:128.553|the:128.553:128.974|man:128.974:129.358|out:129.358:129.726|of:129.726:130.072|the:130.072:130.323|city,:130.323:131.119|not:131.119:131.535|the:131.535:131.81|city:131.81:132.743|out:132.743:133.087|the:133.087:133.402|man:133.402:133.854>
+[02:13.82]{agent:v1}You take the man out of the—
+<You:133.822:134.235|take:134.235:134.601|the:134.601:134.929|man:134.929:135.419|out:135.419:135.753|of:135.753:136.121|the—:136.121:136.673>
+[02:16.67]{agent:v1}
+[02:18.34]{agent:v1}And when I'm back in Chicago, I feel it
+<And:138.341:138.736|when:138.736:139.136|I'm:139.136:139.504|back:139.504:139.869|in:139.869:140.242|Chicago,:140.242:141.738|I:141.738:142.104|feel:142.104:142.578|it:142.578:144.061>
+[02:24.35]{agent:v1}Another version of me, I was in it
+<Another:144.346:145.468|version:145.468:146.166|of:146.166:146.478|me,:146.478:147.023|I:147.249:147.649|was:147.649:147.977|in:147.977:148.449|it:148.449:149.865>
+[02:29.73]{agent:v1}Oh, I wave goodbye to the end of beginning
+<Oh,:149.726:150.44|I:150.44:150.884|wave:150.884:151.202|goodbye:151.202:151.951|to:151.951:152.335|the:152.335:152.735|end:152.735:153.421|of:153.421:153.738|beginning:153.738:156.215>
+[02:34.85]{agent:v1}Goodbye
+<Goodbye:154.846:156.099>
+[02:36.32]{agev1nt:}Goodbye
+<Goodbye:156.317:157.616>
+[02:38.32]{agev1nt:}
