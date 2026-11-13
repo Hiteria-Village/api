@@ -43,5 +43,9 @@
   {
     "type": "music_track",
     "id": "sid_160"
+  },
+  {
+    "type": "cosmetic",
+    "id": "eid_01"
   }
 ]
