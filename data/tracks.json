@@ -1377,7 +1377,7 @@
     "difficulties": {
       "vocals": 2,
       "lead": 2,
-      "bass": 1,
+      "bass": 0,
       "drums": 2,
       "plastic-bass": -1,
       "plastic-drums": -1,
@@ -7411,7 +7411,7 @@
     "rating": "Everyone",
     "difficulties": {
       "vocals": 2,
-      "lead": 0,
+      "lead": 1,
       "bass": 4,
       "drums": 3,
       "plastic-bass": -1,
