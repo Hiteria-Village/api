@@ -781,9 +781,9 @@
     "genre": "Dance/Electronic",
     "rating": "Everyone",
     "difficulties": {
-      "vocals": 5,
+      "vocals": 4,
       "lead": 6,
-      "bass": 6,
+      "bass": 5,
       "drums": 6,
       "plastic-bass": -1,
       "plastic-drums": -1,
@@ -9088,7 +9088,7 @@
       "vocals": 4,
       "lead": 4,
       "bass": 4,
-      "drums": 5,
+      "drums": 6,
       "plastic-bass": -1,
       "plastic-drums": -1,
       "plastic-guitar": -1
