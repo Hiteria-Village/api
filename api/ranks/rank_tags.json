@@ -1730,5 +1730,19 @@
     "displayName": "",
     "color": "#FFFFFF",
     "preview": "oct_sid_194.png"
+  },
+  {
+    "id": "rank_1198",
+    "name": "Burnout",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_198.png"
+  },
+  {
+    "id": "rank_1225",
+    "name": "PRETTY4U",
+    "displayName": "",
+    "color": "#FFFFFF",
+    "preview": "oct_sid_225.png"
   }
 ]

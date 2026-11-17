@@ -1,0 +1,54 @@
+[00:02.34]{agent:v1}I declare I don't care no more
+<I:2.34:2.697|declare:2.697:3.415|I:3.415:3.53|don't:3.53:3.885|care:3.885:4.196|no:4.196:4.547|more:4.547:5.039>
+[00:05.45]{agent:v1}I'm burning up and out and growing bored
+<I'm:5.445:5.784|burning:5.784:6.101|up:6.101:6.462|and:6.462:6.635|out:6.635:6.974|and:6.974:7.289|growing:7.289:7.985|bored:7.985:8.407>
+[00:08.64]{agent:v1}In my smoked out boring room
+<In:8.645:8.978|my:8.978:9.162|smoked:9.162:9.445|out:9.445:9.869|boring:9.869:10.91|room:10.91:11.713>
+[00:12.67]{agent:v1}My hair is shagging in my eyes
+<My:12.673:13.106|hair:13.106:13.613|is:13.613:13.784|shagging:13.784:14.468|in:14.468:14.766|my:14.766:14.974|eyes:14.974:15.673>
+[00:15.91]{agent:v1}Dragging my feet to hit the street tonight
+<Dragging:15.907:16.383|my:16.383:16.637|feet:16.637:16.871|to:16.871:17.06|hit:17.06:17.388|the:17.388:17.537|street:17.537:17.944|tonight:17.944:18.739>
+[00:18.74]{agent:v1}To drive along these shit town lights
+<To:18.739:19.237|drive:19.237:19.588|along:19.588:19.963|these:19.963:20.147|shit:20.147:20.6|town:20.6:21.474|lights:21.474:22.14>
+[00:22.14]{agent:v1}
+[00:23.97]{agent:v1}I'm not growing up, I'm just burning out
+<I'm:23.972:24.292|not:24.292:24.448|growing:24.448:25.001|up,:25.001:25.626|I'm:25.626:25.775|just:25.775:26.356|burning:26.356:27.742|out:27.742:28.313>
+[00:28.51]{agent:v1}And I stepped in line to walk amongst the dead
+<And:28.513:28.757|I:28.757:28.935|stepped:28.935:29.298|in:29.298:29.59|line:29.59:29.917|to:29.917:30.234|walk:30.234:30.625|amongst:30.625:31.47|the:31.47:32.031|dead:32.031:32.812>
+[00:33.81]{agent:v1}Apathy has rained on me
+<Apathy:33.812:35.21|has:35.21:35.389|rained:35.389:35.734|on:35.734:36.055|me:36.055:36.607>
+[00:37.04]{agent:v1}And now I'm feeling like a soggy dream
+<And:37.04:37.218|now:37.218:37.318|I'm:37.318:37.592|feeling:37.592:38.091|like:38.091:38.438|a:38.438:38.68|soggy:38.68:39.43|dream:39.43:39.713>
+[00:39.77]{agent:v1}So close to drowning but I don't mind
+<So:39.772:40.26|close:40.26:40.609|to:40.609:40.77|drowning:40.77:41.265|but:41.265:41.558|I:41.558:41.793|don't:41.793:42.385|mind:42.385:43.239>
+[00:44.05]{agent:v1}I've lived inside this mental cave
+<I've:44.045:44.783|lived:44.783:45.128|inside:45.128:45.729|this:45.729:45.937|mental:45.937:46.557|cave:46.557:47.073>
+[00:47.52]{agent:v1}Throw my emotions in the grave
+<Throw:47.524:48.055|my:48.055:48.434|emotions:48.434:49.293|in:49.293:49.535|the:49.535:49.739|grave:49.739:50.222>
+[00:50.35]{agent:v1}Hell, who needs them anyway
+<Hell,:50.349:50.74|who:50.74:50.93|needs:50.93:51.39|them:51.39:51.735|anyway:51.735:53.724>
+[00:53.72]{agent:v1}
+[00:55.41]{agent:v1}I'm not growing up, I'm just burning out
+<I'm:55.412:55.715|not:55.715:55.912|growing:55.912:56.475|up,:56.475:56.852|I'm:57.119:57.417|just:57.417:57.918|burning:57.918:59.011|out:59.011:59.711>
+[00:59.88]{agent:v1}And I stepped in line to walk amongst the dead
+<And:59.877:60.073|I:60.073:60.264|stepped:60.264:60.679|in:60.679:60.9|line:60.9:61.233|to:61.233:61.59|walk:61.59:61.987|amongst:61.987:62.85|the:62.85:63.475|dead:63.475:64.185>
+[01:04.19]{agent:v1}
+[01:05.96]{agent:v1}I'm not growing up, I'm just burning out
+<I'm:65.956:66.111|not:66.111:66.347|growing:66.347:66.866|up,:66.866:67.316|I'm:67.584:67.836|just:67.836:68.394|burning:68.394:69.708|out:69.708:70.361>
+[01:10.53]{agent:v1}And I stepped in line to walk amongst the dead
+<And:70.528:70.802|I:70.802:70.94|stepped:70.94:71.355|in:71.355:71.577|line:71.577:71.926|to:71.926:72.243|walk:72.243:72.606|amongst:72.606:73.481|the:73.481:73.931|dead:73.931:74.729>
+[01:16.23]{agent:v1}Dead
+<Dead:76.228:77.289>
+[01:17.29]{agent:v1}
+[01:35.32]{agent:v1}I'm not growing up, I'm just burning out
+<I'm:95.318:95.508|not:95.508:95.717|growing:95.717:96.264|up,:96.264:96.566|I'm:96.932:97.275|just:97.275:97.823|burning:97.823:98.939|out:98.939:99.551>
+[01:39.84]{agent:v1}And I stepped in line to walk amongst the dead
+<And:99.844:99.987|I:99.987:100.205|stepped:100.205:100.574|in:100.574:100.802|line:100.802:101.181|to:101.181:101.498|walk:101.498:101.901|amongst:101.901:102.585|the:102.585:103.292|dead:103.292:103.879>
+[01:43.88]{agent:v1}
+[01:45.81]{agent:v1}I'm not growing up, I'm just burning out
+<I'm:105.811:106.067|not:106.067:106.262|growing:106.262:106.803|up,:106.803:107.475|I'm:107.475:107.779|just:107.779:108.29|burning:108.29:109.574|out:109.574:110.252>
+[01:50.34]{agent:v1}And I stepped in line to walk amongst the dead
+<And:110.344:110.636|I:110.636:110.802|stepped:110.802:111.177|in:111.177:111.473|line:111.473:111.788|to:111.788:111.848|walk:111.848:112.508|amongst:112.508:113.353|the:113.353:113.983|dead:113.983:114.511>
+[01:54.51]{agent:v1}
+[01:56.01]{agent:v1}Dead
+<Dead:116.012:116.966>

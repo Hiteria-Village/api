@@ -14,6 +14,24 @@
     "bundleId": "music_bundle_44",
     "layout": "TALL_RECTANGLE"
    },
+   {
+   "itemRef": "eid_07",
+   "layout": "SMALL",
+   "cost": 200,  
+   "isNew": true     
+   },
+   {
+    "itemRef": "sid_225",
+    "cost": 500,
+    "layout": "SMALL",
+    "isNew": true
+   },
+   {
+    "itemRef": "sid_198",
+    "cost": 500,
+    "layout": "SMALL",
+    "isNew": true    
+   },
    {    
     "itemRef": "sid_192",
     "cost": 500,

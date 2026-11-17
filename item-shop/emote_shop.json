@@ -21,6 +21,12 @@
   "itemRef": "eid_05",
   "layout": "SMALL",
   "cost": 200,  
-  "isNew": true     
+  "isNew": true
+  },
+  {
+  "itemRef": "eid_07",
+  "layout": "SMALL",
+  "cost": 200,  
+  "isNew": true       
   }
 ]

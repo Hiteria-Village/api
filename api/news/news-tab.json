@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "title": "New Cosmetics | Out Now!",
+      "description": "Burnout & PRETTY4U make their way into the game today! Check out 2 new tracks + a new emote in the store right now!",
+      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_shockdrop.png"
+    },
+    {
       "title": "New Season | Out Now!",
       "description": "A new season of Octave has begun and it brings a whole ton of new content for you to explore! Check out the tracks to go along with the progression system!",
       "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_season3_tracks.png",
@@ -10,12 +15,6 @@
       "title": "New Tracks | Out Now!",
       "description": "Check out the week 40 tracks in the shop and rotation now!",
       "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_40.png",
-      "tabActiveTime": 	1794578400
-    },
-    {
-      "title": "Last Week's Tracks | Out Now!",
-      "description": "Check out last weeks releases!",
-      "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_39.png",
       "tabActiveTime": 	1794578400
     }
   ]

@@ -9317,5 +9317,103 @@
       "drums": ""
     },
     "charter": "Equinox, ImPhanty"
+  },
+  "prettyfouru": {
+    "title": "PRETTY4U",
+    "artist": "Tiffany Day",
+    "releaseYear": 2025,
+    "cover": "prettyfouru.png",
+    "bpm": 142,
+    "key": "A# Major",
+    "duration": "2m 28s",
+    "album": "HALO",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 5,
+      "bass": 2,
+      "drums": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-11-17T00:00:00.000Z",
+    "lastFeatured": "2026-11-17T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "3vt2JsfvpAvlxfIcFO7lZe",
+    "videoUrl": "prettyfouru.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_225.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/prettyfouru.mp3",
+    "shop": false,
+    "sid": "sid_225",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Mechaclank"
+  },
+  "burnout": {
+    "title": "Burnout",
+    "artist": "Green Day",
+    "releaseYear": 1994,
+    "cover": "burnout.png",
+    "bpm": 182,
+    "key": "F# Major",
+    "duration": "1m 59s",
+    "album": "Dookie",
+    "genre": "Punk/Ska/Hardcore",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 4,
+      "bass": 4,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-11-17T00:00:00.000Z",
+    "lastFeatured": "2026-11-17T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7dVDWf0wud70V4PgYfKnaG",
+    "videoUrl": "burnout.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_198.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/burnout.mp3",
+    "shop": false,
+    "sid": "sid_198",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"
   }
 }
