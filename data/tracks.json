@@ -9415,5 +9415,201 @@
       "drums": ""
     },
     "charter": "Equinox"
+  },
+  "driverstest": {
+    "title": "Driver's Test",
+    "artist": "Masaya Matsuura ft. Saundra Williams, Dred Foxx, Ryu Watabe",
+    "releaseYear": 1996,
+    "cover": "driverstest.png",
+    "bpm": 107,
+    "key": "G Major",
+    "duration": "2m 06s",
+    "album": "PaRappa The Rapper (Original Game Soundtrack)",
+    "genre": "Rap/Hip-Hop",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 3,
+      "bass": 0,
+      "drums": 2,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-11-27T00:00:00.000Z",
+    "lastFeatured": "2026-11-27T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "0TS54zRNLPwlxnaAtO5UCU",
+    "videoUrl": "driverstest.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_200.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/driverstest.mp3",
+    "shop": false,
+    "sid": "sid_200",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Mechaclank"
+  },
+  "bloonsrockparty": {
+    "title": "Bloons Rock Party",
+    "artist": "Tim Haywood",
+    "releaseYear": 2010,
+    "cover": "bloonsrockparty.png",
+    "bpm": 166,
+    "key": "G Major",
+    "duration": "1m 59s",
+    "album": "Bloons Tower Defense 5",
+    "genre": "Rock/Metal",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 3,
+      "bass": 3,
+      "drums": 3,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-11-27T00:00:00.000Z",
+    "lastFeatured": "2026-11-27T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "7IXQVqIh2Bx3lqlGKBW7xG",
+    "videoUrl": "bloonsrockparty.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_201.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/bloonsrockparty.mp3",
+    "shop": false,
+    "sid": "sid_201",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Equinox"        
+  },
+  "conceptofgrime": {
+    "title": "Concept Of Grime",
+    "artist": "Starjunk 95",
+    "releaseYear": 2026,
+    "cover": "conceptofgrime.png",
+    "bpm": 170,
+    "key": "B minor",
+    "duration": "4m 08s",
+    "album": "Industrial Sunset Memories",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 4,
+      "lead": 2,
+      "bass": 2,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-11-27T00:00:00.000Z",
+    "lastFeatured": "2026-11-27T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "4Ez0uBYDWXeDWc12LY0sqH",
+    "videoUrl": "conceptofgrime.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_190.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/conceptofgrime.mp3",
+    "shop": false,
+    "sid": "sid_190",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Eezku"
+  },
+  "powerattack": {
+    "title": "Power Attack",
+    "artist": "EBIMAYO",
+    "releaseYear": 2018,
+    "cover": "powerattack.png",
+    "bpm": 180,
+    "key": "G# Minor",
+    "duration": "2m 12s",
+    "album": "Power Attack (Single)",
+    "genre": "Dance/Electronic",
+    "rating": "Everyone",
+    "difficulties": {
+      "vocals": 3,
+      "lead": 6,
+      "bass": 2,
+      "drums": 5,
+      "plastic-bass": -1,
+      "plastic-drums": -1,
+      "plastic-guitar": -1
+    },
+    "createdAt": "2026-11-27T00:00:00.000Z",
+    "lastFeatured": "2026-11-27T00:00:00.000Z",
+    "complete": "100%",
+    "spotify": "43fh8NtEi9hZO03txPhXvb",
+    "videoUrl": "powerattack.mp4",
+    "videoPosition": 50,
+    "loading_phrase": "oct_sid_195.png",
+    "rank": true,
+    "previewUrl": "/api/assets/audio/powerattack.mp3",
+    "shop": false,
+    "sid": "sid_195",
+    "modalShadowColors": {
+      "default": {
+        "color1": "#8a2be2",
+        "color2": "#4b0082"
+      },
+      "hover": {
+        "color1": "#4b0082",
+        "color2": "#8a2be2"
+      }
+    },
+    "youtubeLinks": {
+      "vocals": "",
+      "lead": "",
+      "bass": "",
+      "drums": ""
+    },
+    "charter": "Mechaclank"
   }
 }

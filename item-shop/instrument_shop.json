@@ -162,7 +162,6 @@
     "cost": 1000,
     "type": "instrument",
     "layout": "NORMAL",
-    "buyType": "GEMS",
-    "isNew": true
+    "buyType": "GEMS"
   }
 ]

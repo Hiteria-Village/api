@@ -458,6 +458,16 @@
       "discount": 25,
       "ifOwned1": 60,
       "visualOverride": null
+    }, 
+    "music_bundle_47": {
+      "name": "Week 42 | Music Pack",
+      "description": "",
+      "basePrice": 2000,
+      "items": ["sid_190", "sid_195", "sid_200", "sid_201"],
+      "discount": 30,
+      "ifOwned1": 40,
+      "ifOwned2": 60,
+      "visualOverride": null
     }
   }
 }

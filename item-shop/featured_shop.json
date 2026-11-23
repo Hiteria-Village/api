@@ -17,55 +17,46 @@
    {
    "itemRef": "eid_07",
    "layout": "SMALL",
-   "cost": 200,  
-   "isNew": true     
+   "cost": 200    
    },
    {
     "itemRef": "sid_225",
     "cost": 500,
-    "layout": "SMALL",
-    "isNew": true
+    "layout": "SMALL"
    },
    {
     "itemRef": "sid_198",
     "cost": 500,
-    "layout": "SMALL",
-    "isNew": true    
+    "layout": "SMALL"   
    },
    {    
     "itemRef": "sid_192",
     "cost": 500,
-    "layout": "SMALL",
-    "isNew": true
+    "layout": "SMALL"
    },
    {
     "itemRef": "sid_186",
     "cost": 500,
-    "layout": "SMALL",
-    "isNew": true
+    "layout": "SMALL"
    },
    {
     "itemRef": "sid_184",
     "cost": 500,
-    "layout": "SMALL",
-    "isNew": true
+    "layout": "SMALL"
    },
    {
     "itemRef": "sid_178",
     "cost": 500,
-    "layout": "SMALL",
-    "isNew": true
+    "layout": "SMALL"
    },
    {
     "itemRef": "sid_173",
     "cost": 500,
-    "layout": "SMALL",
-    "isNew": true
+    "layout": "SMALL"
    },
    {
     "itemRef": "sid_166",
     "cost": 500,
-    "layout": "SMALL",
-    "isNew": true          
+    "layout": "SMALL"         
   }
 ]
