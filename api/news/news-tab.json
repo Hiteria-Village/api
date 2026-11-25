@@ -1,14 +1,14 @@
 {
   "items": [
     {
-      "title": "New Tracks | Releasing Soon!",
+      "title": "New Tracks | Drop 1 - Out Now!",
       "description": "Check out this weeks new tracks!.\n\nDrop 1: Driver's Test & Bloons Rock Party - Wednesday!\nDrop 2: Concept Of Grime & Power Attack - Friday!",
       "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_week_42.png",
       "tabActiveTime": 	1794578400      
     },
     {
       "title": "Last Weeks Tracks | Out Now!",
-      "description": "Check out last weeks releases! Out now!",
+      "description": "Check out last weeks releases!",
       "imageUrl": "https://raw.githubusercontent.com/Hiteria-Village/api/main/api/news/octave_shockdrop1.png",
       "tabActiveTime": 	1794578400
     }
