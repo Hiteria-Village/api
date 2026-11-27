@@ -1,5 +1,20 @@
 [
   {
+    "type": "BUNDLE",
+    "bundleId": "music_bundle_47",
+    "layout": "TALL_RECTANGLE"  
+  },
+  {    
+    "itemRef": "sid_195",
+    "cost": 500,
+    "layout": "SMALL"
+   },
+   {    
+    "itemRef": "sid_190",
+    "cost": 500,
+    "layout": "SMALL"
+   },
+   {    
     "itemRef": "sid_200",
     "cost": 500,
     "layout": "SMALL"
